@@ -1,0 +1,9 @@
+[main]
+host = https://www.transifex.com
+
+[wxwidgets-core.locale]
+file_filter = locale/<lang>.po
+source_file = locale/wxstd.pot
+source_lang = en_GB
+type = PO
+

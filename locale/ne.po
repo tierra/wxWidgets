@@ -1,27 +1,27 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets 3.0\n"
+"Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-23 22:46+0400\n"
-"PO-Revision-Date: 2015-05-09 20:03+0545\n"
-"Last-Translator: drishtibachak@gmail.com\n"
-"Language-Team: Him Prasad Gautam <himjee@yahoo.com>\n"
-"Language: ne\n"
+"PO-Revision-Date: 2015-08-17 13:28+0000\n"
+"Last-Translator: Bryan Petty <bryan@ibaku.net>\n"
+"Language-Team: Nepali (http://www.transifex.com/wxwidgets/wxwidgets-core/language/ne/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Country: Nepal\n"
-"plural-forms: nplurals=2; plural=n > 1\n"
-"X-Generator: Poedit 1.7.5\n"
+"Language: ne\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: ../src/common/debugrpt.cpp:591
 msgid ""
 "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
-" कृपया यो प्रतिवेदन कार्यक्रम सम्भार कर्ता लाई पेश गर्नु होला । धन्यवाद!\n"
+msgstr "\n कृपया यो प्रतिवेदन कार्यक्रम सम्भार कर्ता लाई पेश गर्नु होला । धन्यवाद!\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
 #: ../src/richtext/richtextstyledlg.cpp:222
@@ -68,9 +68,8 @@ msgid " light"
 msgstr "हलुको"
 
 #: ../src/common/fontcmn.cpp:805
-#, fuzzy
 msgid " strikethrough"
-msgstr "strikethrough"
+msgstr ""
 
 #: ../src/common/paper.cpp:118
 msgid "#10 Envelope, 4 1/8 x 9 1/2 in"
@@ -750,9 +749,8 @@ msgid "&Vertical alignment:"
 msgstr "&ठाडो पङ्‌क्तिबद्धता:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:236
-#, fuzzy
 msgid "&Vertical offset:"
-msgstr "&ठाडो पङ्‌क्तिबद्धता:"
+msgstr ""
 
 #: ../src/generic/dbgrptg.cpp:340
 msgid "&View..."
@@ -1784,7 +1782,8 @@ msgid "Cancel"
 msgstr "रद्द गर"
 
 #: ../src/osx/carbon/dataview.cpp:893
-msgid "Cannot create new column's ID. Probably max. number of columns reached."
+msgid ""
+"Cannot create new column's ID. Probably max. number of columns reached."
 msgstr " नया महलको ID सिर्जना गर्न सकिँदैन । सम्भवतः अधिकतम महलको सङ्ख्या पुगेर होला ।"
 
 #: ../src/common/filefn.cpp:1280
@@ -1996,13 +1995,12 @@ msgstr "शैलीको परिवर्तन"
 #: ../src/common/fileconf.cpp:364
 #, c-format
 msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
-msgstr ""
-"भइरहेको फाइल \"%s\" मा नया कुरा लेख्न नमिल्ने भएकोले परिवर्तनलाई बचत गर्न सकिँदैन ।"
+msgstr "भइरहेको फाइल \"%s\" मा नया कुरा लेख्न नमिल्ने भएकोले परिवर्तनलाई बचत गर्न सकिँदैन ।"
 
 #: ../src/gtk/filedlg.cpp:87 ../src/gtk/filepicker.cpp:190
-#, fuzzy, c-format
+#, c-format
 msgid "Changing current directory to \"%s\" failed"
-msgstr "घर्रा \"%s\" सिर्जना गर्न सकिएन ।"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1718
@@ -2317,9 +2315,7 @@ msgstr "गल्ती कोड %0lx ले गर्दा साझा प�
 msgid ""
 "Compositing not supported by this system, please enable it in your Window "
 "Manager."
-msgstr ""
-"यो प्रणालीले क्षतिपूर्ति लाइ समर्थन गर्दैन । कृपया तपाइको विन्डो व्यवस्थापकमा यसलाई सक्षम "
-"बनाउनु होस् "
+msgstr "यो प्रणालीले क्षतिपूर्ति लाइ समर्थन गर्दैन । कृपया तपाइको विन्डो व्यवस्थापकमा यसलाई सक्षम बनाउनु होस् "
 
 #: ../src/html/helpwnd.cpp:1551
 msgid "Compressed HTML Help file (*.chm)|*.chm|"
@@ -2591,9 +2587,9 @@ msgid "Create new directory"
 msgstr "नया घर्राको सिर्जना गर्नु होस्"
 
 #: ../src/xrc/xmlres.cpp:2441
-#, fuzzy, c-format
+#, c-format
 msgid "Creating %s \"%s\" failed."
-msgstr "'%s' लाई '%s' मा खिच्ने काम असफल भयो ।"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1719
@@ -2795,11 +2791,9 @@ msgstr "विकास कर्मी"
 
 #: ../src/msw/dialup.cpp:384
 msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"यो कम्प्युटरमा दूर पहुँच सेवा (RAS) स्थापना नघरैकोले डायल सेवा उपलब्ध हुन सकेन । कृपया "
-"यसलाई स्थापना गर्नु होला ।"
+"Dial up functions are unavailable because the remote access service (RAS) is"
+" not installed on this machine. Please install it."
+msgstr "यो कम्प्युटरमा दूर पहुँच सेवा (RAS) स्थापना नघरैकोले डायल सेवा उपलब्ध हुन सकेन । कृपया यसलाई स्थापना गर्नु होला ।"
 
 #: ../src/generic/tipdlg.cpp:225
 msgid "Did you know..."
@@ -2840,9 +2834,7 @@ msgstr "के परिवर्तन लाई त्यागेर अन�
 msgid ""
 "Display all index items that contain given substring. Search is case "
 "insensitive."
-msgstr ""
-"प्रदान गरिएको शब्द भएका सबै अनुसूची लाई देखाउ । खोज तलासले ठूलो वा सानो वर्णको वास्ता "
-"गर्दैन । "
+msgstr "प्रदान गरिएको शब्द भएका सबै अनुसूची लाई देखाउ । खोज तलासले ठूलो वा सानो वर्णको वास्ता गर्दैन । "
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2859,19 +2851,12 @@ msgstr "विभाजन"
 
 #: ../src/msw/mimetype.cpp:725
 msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+"Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"के तपाई \"%2$s\"विस्तार भएका %१$s फाइलहरूलाई दिइएको आदेश मेटाएर फेरी लेख्न चाहनु "
-"हुन्छ? \n"
-"हालको मान \n"
-"%s, \n"
-"नयाँ मान \n"
-"%s %1"
+msgstr "के तपाई \"%2$s\"विस्तार भएका %१$s फाइलहरूलाई दिइएको आदेश मेटाएर फेरी लेख्न चाहनु हुन्छ? \nहालको मान \n%s, \nनयाँ मान \n%s %1"
 
 #: ../src/common/docview.cpp:537
 #, c-format
@@ -2988,33 +2973,28 @@ msgstr "पृष्ठभूमि रङ्ग लाई योग्य ब�
 
 #: ../src/richtext/richtextbackgroundpage.cpp:197
 #: ../src/richtext/richtextbackgroundpage.cpp:199
-#, fuzzy
 msgid "Enables a shadow."
-msgstr "पृष्ठभूमि रङ्ग लाई योग्य बनाउ"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:301
 #: ../src/richtext/richtextbackgroundpage.cpp:303
-#, fuzzy
 msgid "Enables the blur distance."
-msgstr "छोडाइ मान लाई योग्य बनाउ"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:261
 #: ../src/richtext/richtextbackgroundpage.cpp:263
-#, fuzzy
 msgid "Enables the shadow colour."
-msgstr "पृष्ठभूमि रङ्ग लाई योग्य बनाउ"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:328
 #: ../src/richtext/richtextbackgroundpage.cpp:330
-#, fuzzy
 msgid "Enables the shadow opacity."
-msgstr "छोडाइ मान लाई योग्य बनाउ"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:274
 #: ../src/richtext/richtextbackgroundpage.cpp:276
-#, fuzzy
 msgid "Enables the shadow spread."
-msgstr "छोडाइ मान लाई योग्य बनाउ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:64
@@ -3299,9 +3279,7 @@ msgstr "घर्रा \"%s\" सिर्जना गर्न सकिए�
 msgid ""
 "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"घर्रा '%s' सिर्जना गर्न सकिएन । \n"
-"(केतपाइ सित आवश्यक स्वीकृती छ?)"
+msgstr "घर्रा '%s' सिर्जना गर्न सकिएन । \n(केतपाइ सित आवश्यक स्वीकृती छ?)"
 
 #: ../src/unix/epolldispatcher.cpp:84
 msgid "Failed to create epoll descriptor"
@@ -3416,8 +3394,8 @@ msgstr "सङ्केत चालक स्थापित गर्न स�
 
 #: ../src/unix/threadpsx.cpp:1167
 msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
+"Failed to join a thread, potential memory leak detected - please restart the"
+" program"
 msgstr "Thread जोड्न सकिएन, भण्डार चुहावट प्रबल छ- कृपया कार्यक्रम फेरी सुरु गर्नु होला"
 
 #: ../src/msw/utils.cpp:679
@@ -3779,8 +3757,7 @@ msgstr "फाइल \"%s\" लेख्नका लागि खोल्न �
 #: ../src/generic/filedlgg.cpp:354 ../src/gtk/filedlg.cpp:57
 #, c-format
 msgid "File '%s' already exists, do you really want to overwrite it?"
-msgstr ""
-"फाइल '%s' पहिले देखि नै छ, के तपाइ वास्तवमा नै यसलाई मेटाएर नया राख्न चाहनु हुन्छ?"
+msgstr "फाइल '%s' पहिले देखि नै छ, के तपाइ वास्तवमा नै यसलाई मेटाएर नया राख्न चाहनु हुन्छ?"
 
 #: ../src/common/filefn.cpp:1160
 #, c-format
@@ -3933,9 +3910,7 @@ msgstr "GIF: अज्ञात गल्ती!!!"
 msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
-msgstr ""
-"यो कम्प्युटरमा स्थापित GTK+ धेरै पुरानो रहेछ पर्दाको पूर्तिको लागि GTK+ 2.12 अथवा यो "
-"भन्दा नयाँ संस्करण स्थापित गर्नु होला ।"
+msgstr "यो कम्प्युटरमा स्थापित GTK+ धेरै पुरानो रहेछ पर्दाको पूर्तिको लागि GTK+ 2.12 अथवा यो भन्दा नयाँ संस्करण स्थापित गर्नु होला ।"
 
 #: ../src/univ/themes/gtk.cpp:525
 msgid "GTK+ theme"
@@ -4187,21 +4162,14 @@ msgstr "छाप्ने सामाग्री लाइ खाँद्न
 msgid ""
 "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
-"यदि तपाइसित यो उडुस सित सम्बन्धित कुनै थप जानकारी छ भने \n"
-"खबर दिनुहोस्, कृपया यसलाई यहाँ प्रविष्टी गरेमा यहाँ जोडिने छ:"
+msgstr "यदि तपाइसित यो उडुस सित सम्बन्धित कुनै थप जानकारी छ भने \nखबर दिनुहोस्, कृपया यसलाई यहाँ प्रविष्टी गरेमा यहाँ जोडिने छ:"
 
 #: ../src/generic/dbgrptg.cpp:324
 msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+"If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
-"यदि तपाई यो खान तलासी प्रतिवेदनलाई पूरै दबाउन चाहनु हुन्छ भने \"रद्द गर\" भन्ने टाँकलाई "
-"दबाउनु होला \n"
-"तर ख्याल राख्नु होस्, यसले कार्यक्रमको स्तरलाई प्रभावित पनि पार्न सक्छ । \n"
-"सम्भव भएसम्म प्रतिवेदन उत्पादन गर्नु उचित हुन्छ ।\n"
+msgstr "यदि तपाई यो खान तलासी प्रतिवेदनलाई पूरै दबाउन चाहनु हुन्छ भने \"रद्द गर\" भन्ने टाँकलाई दबाउनु होला \nतर ख्याल राख्नु होस्, यसले कार्यक्रमको स्तरलाई प्रभावित पनि पार्न सक्छ । \nसम्भव भएसम्म प्रतिवेदन उत्पादन गर्नु उचित हुन्छ ।\n"
 
 #: ../src/msw/registry.cpp:1403
 #, c-format
@@ -4244,11 +4212,9 @@ msgstr "तस्विर %s किसिमको छैन ।"
 
 #: ../src/msw/textctrl.cpp:488
 msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"सामान्य पाठ नियन्त्रकको प्रयोग गरी rich edit control सिर्जना गर्न सम्भव छैन, कृपया "
-"riched32.dll लाई फेरी स्थापित गर्नु होला ।"
+"Impossible to create a rich edit control, using simple text control instead."
+" Please reinstall riched32.dll"
+msgstr "सामान्य पाठ नियन्त्रकको प्रयोग गरी rich edit control सिर्जना गर्न सम्भव छैन, कृपया riched32.dll लाई फेरी स्थापित गर्नु होला ।"
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4639,11 +4605,11 @@ msgid "Last page"
 msgstr "अन्तिम पृष्ट"
 
 #: ../src/common/log.cpp:309
-#, fuzzy, c-format
+#, c-format
 msgid "Last repeated message (\"%s\", %u time) wasn't output"
 msgid_plural "Last repeated message (\"%s\", %u times) wasn't output"
-msgstr[0] "दोहोरिएको अन्तिम सन्देश (\"%s\", %lu पटक) प्रतिफल थिएन"
-msgstr[1] "दोहोरिएको अन्तिम सन्देश (\"%s\", %lu पटकमात्र) प्रतिफल थिएन"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../src/common/paper.cpp:104
 msgid "Ledger, 17 x 11 in"
@@ -4802,9 +4768,7 @@ msgstr "MDI शिशु"
 msgid ""
 "MS HTML Help functions are unavailable because the MS HTML Help library is "
 "not installed on this machine. Please install it."
-msgstr ""
-"यो कम्प्युटरमा MS HTML सहयोग पुस्तकालय स्थापित नभएकोले MS HTML सहयोग उपलब्ध भएन । "
-"कृपया यसलाई स्थापना गर्नु होला ।"
+msgstr "यो कम्प्युटरमा MS HTML सहयोग पुस्तकालय स्थापित नभएकोले MS HTML सहयोग उपलब्ध भएन । कृपया यसलाई स्थापना गर्नु होला ।"
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
@@ -5204,12 +5168,8 @@ msgstr "कुनै प्रविष्टि पाइ एन"
 msgid ""
 "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"encoding '%s' मा पाठहरूलाई देखाउन कुनै पनि वर्णाकृति पाइएन । \n"
-"तर वैकल्पिक अनुसंहिता '%s' भने उपलब्ध छ । \n"
-"के तपाइ यो अनुसंहिता लाई प्रयोग गर्न चाहनु हुन्छ (अन्यथा तपाइले अर्कै छान्नु पर्छ)?"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "encoding '%s' मा पाठहरूलाई देखाउन कुनै पनि वर्णाकृति पाइएन । \nतर वैकल्पिक अनुसंहिता '%s' भने उपलब्ध छ । \nके तपाइ यो अनुसंहिता लाई प्रयोग गर्न चाहनु हुन्छ (अन्यथा तपाइले अर्कै छान्नु पर्छ)?"
 
 #: ../src/common/fontmap.cpp:426
 #, c-format
@@ -5217,10 +5177,7 @@ msgid ""
 "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"अनुसंहिता '%s' मा पाठहरू देखाउन कुनै पनि वर्णाकृति पाईएन ।\n"
-"के तपाई यो अनुसंहितामा धेखाउनका लागि कुनै वर्णाकृति चयन गर्नु हुन्छ? \n"
-"(अन्यथा यो अनुसंहितामा कुनै पनि पाठ शुद्ध रूपमा देखाउन सकिदैन)?"
+msgstr "अनुसंहिता '%s' मा पाठहरू देखाउन कुनै पनि वर्णाकृति पाईएन ।\nके तपाई यो अनुसंहितामा धेखाउनका लागि कुनै वर्णाकृति चयन गर्नु हुन्छ? \n(अन्यथा यो अनुसंहितामा कुनै पनि पाठ शुद्ध रूपमा देखाउन सकिदैन)?"
 
 #: ../src/generic/animateg.cpp:142
 msgid "No handler found for animation type."
@@ -5818,10 +5775,7 @@ msgid ""
 "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"कृपया comctl32.dll को नयाँ संस्करण भित्रयाउनु होला \n"
-"(कम्तिमा संस्करण ४.७० आवश्यक देखिन्छ तर तपाई सित त %d %02d मात्रै रहेछ)\n"
-"अन्यथा यो कार्यक्रमले राम्ररी काम गर्ने छैन ।"
+msgstr "कृपया comctl32.dll को नयाँ संस्करण भित्रयाउनु होला \n(कम्तिमा संस्करण ४.७० आवश्यक देखिन्छ तर तपाई सित त %d %02d मात्रै रहेछ)\nअन्यथा यो कार्यक्रमले राम्ररी काम गर्ने छैन ।"
 
 #: ../src/common/headerctrlcmn.cpp:59
 msgid "Please select the columns to show and define their order:"
@@ -5991,9 +5945,9 @@ msgid "Printing Error"
 msgstr "छपाइमा गल्ती"
 
 #: ../src/common/prntbase.cpp:565
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d"
-msgstr "पृष्ट %d.. छापिँदै छ ।"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:570
 #, c-format
@@ -6016,8 +5970,7 @@ msgstr "छापिएका पानाहरू"
 
 #: ../src/common/debugrpt.cpp:565
 #, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
 msgstr "\"%s\" घर्रामा फाइल राख्दै खान तलासी प्रतिवेदनको प्रशोधन असफल भयो ।"
 
 #: ../src/osx/carbon/dataview.cpp:2470
@@ -6116,9 +6069,7 @@ msgid ""
 "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"सामान्य रूपमा यस प्रणालीलेकाम गर्नका लागि Registry कुञ्जी '%s' चाहिन्छ ।\n"
-"यसलाई मेट्नु भयो भने यो प्रणाली निकम्मा हुने छ ।सञ्चालन त तुहियो!"
+msgstr "सामान्य रूपमा यस प्रणालीलेकाम गर्नका लागि Registry कुञ्जी '%s' चाहिन्छ ।\nयसलाई मेट्नु भयो भने यो प्रणाली निकम्मा हुने छ ।सञ्चालन त तुहियो!"
 
 #: ../src/msw/registry.cpp:513
 #, c-format
@@ -6432,14 +6383,12 @@ msgid "Sh&adow spread:"
 msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:180
-#, fuzzy
 msgid "Shadow"
-msgstr "विम्वटाँक"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:259
-#, fuzzy
 msgid "Shadow c&olour:"
-msgstr "रङ्ग छान्नु होस्"
+msgstr ""
 
 #: ../src/common/accelcmn.cpp:325
 msgid "Shift+"
@@ -6859,10 +6808,7 @@ msgid ""
 "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"वर्णसेट '%s' चिन्न सकिएन । \n"
-" तपाइले यसको सट्टामा अर्को वर्णसेट छान्न सक्नु हुन्छ।\n"
-" अथवा अर्को साट्न सकिदैन भने [Cancel] गर्नु होस् । "
+msgstr "वर्णसेट '%s' चिन्न सकिएन । \n तपाइले यसको सट्टामा अर्को वर्णसेट छान्न सक्नु हुन्छ।\n अथवा अर्को साट्न सकिदैन भने [Cancel] गर्नु होस् । "
 
 #: ../src/msw/ole/dataobj.cpp:389
 #, c-format
@@ -6879,31 +6825,22 @@ msgstr "अघिल्लो अनुच्छेदका लागि नि
 msgid ""
 "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"घर्रा '%s' भेट्टिएन ।\n"
-"नयाँ सिर्जना गर्ने हो?"
+msgstr "घर्रा '%s' भेट्टिएन ।\nनयाँ सिर्जना गर्ने हो?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
 msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
+"The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n"
 "\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
-"\"%s\" कागजातका सबै सामाग्री पृष्टको तेर्सो तर्फ आँटेन, यदि छाप्ने कार्य गरियो भने केही अंश "
-"काटिने छ । \n"
-"\n"
-"के तपाई जस्तो सुकै भए पनि छाप्न चाहनु हुन्छ?"
+msgstr "\"%s\" कागजातका सबै सामाग्री पृष्टको तेर्सो तर्फ आँटेन, यदि छाप्ने कार्य गरियो भने केही अंश काटिने छ । \n\nके तपाई जस्तो सुकै भए पनि छाप्न चाहनु हुन्छ?"
 
 #: ../src/common/docview.cpp:1205
 #, c-format
 msgid ""
 "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr ""
-"फाइल '%s' नभेटिएकोले खोल्न सकिएन ।\n"
-"यसलाई हालै प्रयोग गरेका फाइलहरूको सूचीबाट हटाइयो ।"
+msgstr "फाइल '%s' नभेटिएकोले खोल्न सकिएन ।\nयसलाई हालै प्रयोग गरेका फाइलहरूको सूचीबाट हटाइयो ।"
 
 #: ../src/richtext/richtextindentspage.cpp:208
 #: ../src/richtext/richtextindentspage.cpp:210
@@ -6958,9 +6895,8 @@ msgstr "फाइल '%s' को बनोट पता लगाउन सक�
 
 #: ../src/richtext/richtextbackgroundpage.cpp:220
 #: ../src/richtext/richtextbackgroundpage.cpp:222
-#, fuzzy
 msgid "The horizontal offset."
-msgstr "&तेर्सो पारेर राख"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:199
 #: ../src/richtext/richtextindentspage.cpp:201
@@ -7038,11 +6974,11 @@ msgid "The outline level."
 msgstr "बाहिरी तह"
 
 #: ../src/common/log.cpp:281
-#, fuzzy, c-format
+#, c-format
 msgid "The previous message repeated %u time."
 msgid_plural "The previous message repeated %u times."
-msgstr[0] "अघिल्लो सन्देश %lu पटक दोहोरियो ।"
-msgstr[1] "अघिल्लो सन्देश %lu पटक दोहोरियो ।"
+msgstr[0] ""
+msgstr[1] ""
 
 #: ../src/common/log.cpp:274
 msgid "The previous message repeated once."
@@ -7055,12 +6991,9 @@ msgstr "देखाउने तह"
 
 #: ../src/generic/dbgrptg.cpp:322
 msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+"The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
-"निम्न लिखित फाइलहरू प्रतिवेदनमा समाबेस छन् ।. यदि यी फाइलहरुमा निजी सूचना छ भने\n"
-"कृपया टिक नगर्नु होला । यसो गरेमा यीनिहरूलाई प्रतिवेदनबाट हटाइने छ । \n"
+msgstr "निम्न लिखित फाइलहरू प्रतिवेदनमा समाबेस छन् ।. यदि यी फाइलहरुमा निजी सूचना छ भने\nकृपया टिक नगर्नु होला । यसो गरेमा यीनिहरूलाई प्रतिवेदनबाट हटाइने छ । \n"
 
 #: ../src/common/cmdline.cpp:1254
 #, c-format
@@ -7098,9 +7031,8 @@ msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:267
 #: ../src/richtext/richtextbackgroundpage.cpp:269
-#, fuzzy
 msgid "The shadow colour."
-msgstr "वरणाकृतिको रङ्ग"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:337
 #: ../src/richtext/richtextbackgroundpage.cpp:339
@@ -7189,15 +7121,12 @@ msgstr "कोणीय अर्धव्यासको मान "
 msgid ""
 "The version of remote access service (RAS) installed on this machine is too "
 "old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"यो कम्प्युटरमा स्थापित दूर पहुँच सेवा (RAS) निकै पुरानो संस्करण रहेछ, कृपया स्तर वृद्धि गर्नु "
-"होला (आवश्यक पर्ने Function %s यसमा छैन: )"
+msgstr "यो कम्प्युटरमा स्थापित दूर पहुँच सेवा (RAS) निकै पुरानो संस्करण रहेछ, कृपया स्तर वृद्धि गर्नु होला (आवश्यक पर्ने Function %s यसमा छैन: )"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
-#, fuzzy
 msgid "The vertical offset."
-msgstr "ठाडो पङ्क्ति बद्धता लाई योग्य बनाउ"
+msgstr ""
 
 #: ../src/osx/carbon/dataview.cpp:1338
 msgid "There is no column or renderer for the specified column index."
@@ -7205,7 +7134,8 @@ msgstr "महल छैन अथवा तोकिएको महलको �
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
 msgid ""
-"There was a problem during page setup: you may need to set a default printer."
+"There was a problem during page setup: you may need to set a default "
+"printer."
 msgstr "पृष्ट मिलाउँदा समस्या आयो: तपाइले निर्धारित प्रिन्टर नै रोज्नु राम्रो होला ।"
 
 #: ../src/html/htmprint.cpp:255
@@ -7227,16 +7157,13 @@ msgstr "यो platform ले पृष्ठभूमि पारदर्श
 msgid ""
 "This program was compiled with a too old version of GTK+, please rebuild "
 "with GTK+ 2.12 or newer."
-msgstr ""
-"यो कार्यक्रम निकै पुरानो GTK+ संस्करणमा प्रशोधन गरियो । कृपया GTK+ 2.12 अथवा यो भन्दा "
-"नया संस्करण राख्नु होला ।"
+msgstr "यो कार्यक्रम निकै पुरानो GTK+ संस्करणमा प्रशोधन गरियो । कृपया GTK+ 2.12 अथवा यो भन्दा नया संस्करण राख्नु होला ।"
 
 #: ../src/msw/datecontrols.cpp:59
 msgid ""
 "This system doesn't support date controls, please upgrade your version of "
 "comctl32.dll"
-msgstr ""
-"यो प्रणालीले मिति नियन्त्रक लिदैन, कृपया यसलाई comctl32.dll मा स्तर वृद्धि गर्नु होला ।"
+msgstr "यो प्रणालीले मिति नियन्त्रक लिदैन, कृपया यसलाई comctl32.dll मा स्तर वृद्धि गर्नु होला ।"
 
 #: ../src/msw/thread.cpp:1251
 msgid ""
@@ -7361,12 +7288,8 @@ msgstr "Type must have enum - long conversion"
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
-"टङ्कण सञ्चालन \"%s\" असफल भयो: सम् पति तह \"%s\" \"%s\" खालको छ, \"%s\" किसिमको "
-"होइन"
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr "टङ्कण सञ्चालन \"%s\" असफल भयो: सम् पति तह \"%s\" \"%s\" खालको छ, \"%s\" किसिमको होइन"
 
 #: ../src/common/paper.cpp:134
 msgid "US Std Fanfold, 14 7/8 x 11 in"
@@ -7711,9 +7634,8 @@ msgstr "सिरान स्थानकोएकाइ"
 #: ../src/richtext/richtextbackgroundpage.cpp:296
 #: ../src/richtext/richtextbackgroundpage.cpp:321
 #: ../src/richtext/richtextbackgroundpage.cpp:323
-#, fuzzy
 msgid "Units for this value."
-msgstr "देब्रे सिमान्तको एकाइ"
+msgstr ""
 
 #: ../src/generic/progdlgg.cpp:385 ../src/generic/progdlgg.cpp:658
 msgid "Unknown"
@@ -7965,9 +7887,8 @@ msgid "WindowText"
 msgstr "विन्डोपाठ"
 
 #: ../src/msw/utils.cpp:1233
-#, fuzzy
 msgid "Windows 10"
-msgstr "विन्डोज ८.१"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1183
 msgid "Windows 2000"
@@ -8065,9 +7986,8 @@ msgid "Windows NT %lu.%lu"
 msgstr "विन्डोज NT %lu.%lu"
 
 #: ../src/msw/utils.cpp:1232
-#, fuzzy
 msgid "Windows Server 10"
-msgstr "विन्डोज सर्बर 2003"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1192
 msgid "Windows Server 2003"
@@ -8228,15 +8148,10 @@ msgstr "DDEML अनुप्रयोगले लम्बिएको दौ�
 
 #: ../src/msw/dde.cpp:1132
 msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+"a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"पहिले DdeInitialize function लाई आह्वान नगरी DDEML function लाई आह्वान गरियो "
-"। \n"
-"अथवा \n"
-"अवैध परिचायक लाई DDEML function मा पटाइयो ।"
+msgstr "पहिले DdeInitialize function लाई आह्वान नगरी DDEML function लाई आह्वान गरियो । \nअथवा \nअवैध परिचायक लाई DDEML function मा पटाइयो ।"
 
 #: ../src/msw/dde.cpp:1150
 msgid "a client's attempt to establish a conversation has failed."
@@ -8275,10 +8190,7 @@ msgid ""
 "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"सर्बर-फक्षको कारोबारको प्रयास गरेकोले कुराकानिको क्रम ग्राहकले काटि दियो । \n"
-" अथवा \n"
-"सर्बरले नै कारोबार समाप्त हुनु अगावै काटि दियो ।"
+msgstr "सर्बर-फक्षको कारोबारको प्रयास गरेकोले कुराकानिको क्रम ग्राहकले काटि दियो । \n अथवा \nसर्बरले नै कारोबार समाप्त हुनु अगावै काटि दियो ।"
 
 #: ../src/msw/dde.cpp:1153
 msgid "a transaction failed."
@@ -8294,16 +8206,11 @@ msgid ""
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"अनुप्रयोगले APPCLASS_MONITOR को रूपमा DDE कारोबारको प्रयास आरम्भ गर्‍यो । \n"
-"अथवा \n"
-" अनुप्रयोगले APPCMD_CLIENTONLY को रूपमा सर्बर कारोबार को प्रयास आरम्भ गरायो।"
+msgstr "अनुप्रयोगले APPCLASS_MONITOR को रूपमा DDE कारोबारको प्रयास आरम्भ गर्‍यो । \nअथवा \n अनुप्रयोगले APPCMD_CLIENTONLY को रूपमा सर्बर कारोबार को प्रयास आरम्भ गरायो।"
 
 #: ../src/msw/dde.cpp:1159
 msgid "an internal call to the PostMessage function has failed. "
-msgstr ""
-"PostMessage function को आन्तरिक बोलावट असफल भयो । an internal call to the has "
-"failed. "
+msgstr "PostMessage function को आन्तरिक बोलावट असफल भयो । an internal call to the has failed. "
 
 #: ../src/msw/dde.cpp:1168
 msgid "an internal error has occurred in the DDEML."
@@ -8314,11 +8221,7 @@ msgid ""
 "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"अवैध कारोबार परिचायकलाई DDEML function मा पठाइयो । \n"
-" एक पटक अनुप्रयोगले XTYP_XACT_COMPLETE लाई \n"
-" फिर्ता पठाइ सके पछि, \n"
-" कारोबार परिचायक लाई फिर्ता बोलाउने कार्य मान्य हुने छैन । "
+msgstr "अवैध कारोबार परिचायकलाई DDEML function मा पठाइयो । \n एक पटक अनुप्रयोगले XTYP_XACT_COMPLETE लाई \n फिर्ता पठाइ सके पछि, \n कारोबार परिचायक लाई फिर्ता बोलाउने कार्य मान्य हुने छैन । "
 
 #: ../src/common/zipstrm.cpp:1272
 msgid "assuming this is a multi-part zip concatenated"

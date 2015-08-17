@@ -1,26 +1,27 @@
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets 3.0\n"
+"Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-23 22:46+0400\n"
-"PO-Revision-Date: 2011-03-02 18:30+0900\n"
-"Last-Translator: Suzumizaki-Kimitaka(鈴見咲君高) <suzumizaki@free."
-"japandesign.ne.jp>\n"
-"Language-Team: Japanese <wx-translators@wxwindows.org>\n"
-"Language: ja\n"
+"PO-Revision-Date: 2015-08-17 13:26+0000\n"
+"Last-Translator: Bryan Petty <bryan@ibaku.net>\n"
+"Language-Team: Japanese (http://www.transifex.com/wxwidgets/wxwidgets-core/language/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../src/common/debugrpt.cpp:591
 msgid ""
 "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
-"お手数ですがこのレポートをプログラムの保守担当者に送信ください。\n"
+msgstr "\nお手数ですがこのレポートをプログラムの保守担当者に送信ください。\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
 #: ../src/richtext/richtextstyledlg.cpp:222
@@ -32,9 +33,9 @@ msgid "              Thank you and we're sorry for the inconvenience!\n"
 msgstr "              ご不便をおかけして申し訳ございません。\n"
 
 #: ../src/common/prntbase.cpp:573
-#, fuzzy, c-format
+#, c-format
 msgid " (copy %d of %d)"
-msgstr "%dページ (%dページ中)"
+msgstr ""
 
 #: ../src/common/log.cpp:425
 #, c-format
@@ -101,19 +102,18 @@ msgstr "#9 封筒, 3 7/8 x 8 7/8 インチ"
 #: ../src/richtext/richtextsizepage.cpp:591
 #: ../src/richtext/richtextsizepage.cpp:626
 #: ../src/richtext/richtextsizepage.cpp:661
-#, fuzzy
 msgid "%"
-msgstr "%s"
+msgstr ""
 
 #: ../src/html/helpwnd.cpp:1031
-#, fuzzy, c-format
+#, c-format
 msgid "%d of %lu"
-msgstr "%i / %i"
+msgstr ""
 
 #: ../src/html/helpwnd.cpp:1678
-#, fuzzy, c-format
+#, c-format
 msgid "%i of %u"
-msgstr "%i / %i"
+msgstr ""
 
 #: ../src/generic/filectrlg.cpp:315
 #, c-format
@@ -122,9 +122,9 @@ msgid_plural "%ld bytes"
 msgstr[0] "%ld バイト"
 
 #: ../src/html/helpwnd.cpp:1033
-#, fuzzy, c-format
+#, c-format
 msgid "%lu of %lu"
-msgstr "%i / %i"
+msgstr ""
 
 #: ../src/common/cmdline.cpp:1221
 #, c-format
@@ -142,9 +142,9 @@ msgid "%s Information"
 msgstr "%s 情報"
 
 #: ../src/generic/preferencesg.cpp:115
-#, fuzzy, c-format
+#, c-format
 msgid "%s Preferences"
-msgstr "設定 (&P)"
+msgstr ""
 
 #: ../src/generic/logg.cpp:233
 #, c-format
@@ -162,9 +162,9 @@ msgid "%s files (%s)|%s"
 msgstr "%s 形式 (%s)|%s"
 
 #: ../src/html/helpwnd.cpp:1716
-#, fuzzy, c-format
+#, c-format
 msgid "%u of %u"
-msgstr "%i / %i"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:139 ../src/html/helpfrm.cpp:142
 #: ../src/html/helpfrm.cpp:144
@@ -234,14 +234,12 @@ msgstr "下端 (&B)"
 #: ../src/richtext/richtextmarginspage.cpp:373
 #: ../src/richtext/richtextsizepage.cpp:637
 #: ../src/richtext/richtextsizepage.cpp:644
-#, fuzzy
 msgid "&Bottom:"
-msgstr "下端 (&B)"
+msgstr ""
 
 #: ../include/wx/richtext/richtextbuffer.h:3860
-#, fuzzy
 msgid "&Box"
-msgstr "太字 (&B)"
+msgstr ""
 
 #: ../src/richtext/richtextbulletspage.cpp:146
 #: ../src/richtext/richtextliststylepage.cpp:210
@@ -263,9 +261,8 @@ msgid "&Cascade"
 msgstr "重ねて表示 (&C)"
 
 #: ../include/wx/richtext/richtextbuffer.h:5954
-#, fuzzy
 msgid "&Cell"
-msgstr "キャンセル (&C)"
+msgstr ""
 
 #: ../src/richtext/richtextsymboldlg.cpp:439
 msgid "&Character code:"
@@ -399,9 +396,8 @@ msgstr "ハードディスク (&H)"
 
 #: ../src/richtext/richtextsizepage.cpp:351
 #: ../src/richtext/richtextsizepage.cpp:358
-#, fuzzy
 msgid "&Height:"
-msgstr "ウエイト (&W):"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:163 ../src/generic/wizard.cpp:436
 #: ../src/html/helpfrm.cpp:147 ../src/osx/menu_osx.cpp:768
@@ -411,9 +407,8 @@ msgid "&Help"
 msgstr "ヘルプ (&H)"
 
 #: ../include/wx/richmsgdlg.h:30
-#, fuzzy
 msgid "&Hide details"
-msgstr "詳細 (&D)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:164
 msgid "&Home"
@@ -508,9 +503,8 @@ msgid "&Next >"
 msgstr "次へ (&N) >"
 
 #: ../src/richtext/richtextsizepage.cpp:681
-#, fuzzy
 msgid "&Next Paragraph"
-msgstr "段落の後 (&A):"
+msgstr ""
 
 #: ../src/generic/tipdlg.cpp:256
 msgid "&Next Tip"
@@ -568,9 +562,8 @@ msgid "&Position (tenths of a mm):"
 msgstr "位置(1/10ミリ単位) (&P)"
 
 #: ../src/richtext/richtextsizepage.cpp:514
-#, fuzzy
 msgid "&Position mode:"
-msgstr "印刷"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:181
 msgid "&Preferences"
@@ -582,9 +575,8 @@ msgid "&Previous"
 msgstr "前 (&P)"
 
 #: ../src/richtext/richtextsizepage.cpp:675
-#, fuzzy
 msgid "&Previous Paragraph"
-msgstr "前のページ"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:183
 msgid "&Print..."
@@ -646,14 +638,12 @@ msgid "&Save"
 msgstr "保存 (&S)"
 
 #: ../src/common/stockitem.cpp:191
-#, fuzzy
 msgid "&Save as"
-msgstr "Save As"
+msgstr ""
 
 #: ../include/wx/richmsgdlg.h:29
-#, fuzzy
 msgid "&See details"
-msgstr "詳細 (&D)"
+msgstr ""
 
 #: ../src/generic/tipdlg.cpp:250
 msgid "&Show tips at startup"
@@ -711,9 +701,8 @@ msgid "&Synchronize values"
 msgstr ""
 
 #: ../include/wx/richtext/richtextbuffer.h:6063
-#, fuzzy
 msgid "&Table"
-msgstr "タブ"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:200
 msgid "&Top"
@@ -725,9 +714,8 @@ msgstr "上端 (&T)"
 #: ../src/richtext/richtextmarginspage.cpp:348
 #: ../src/richtext/richtextsizepage.cpp:567
 #: ../src/richtext/richtextsizepage.cpp:574
-#, fuzzy
 msgid "&Top:"
-msgstr "上端 (&T)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:202 ../src/generic/fontdlgg.cpp:444
 msgid "&Underline"
@@ -756,14 +744,12 @@ msgid "&Up"
 msgstr "上 (&U)"
 
 #: ../src/richtext/richtextsizepage.cpp:278
-#, fuzzy
 msgid "&Vertical alignment:"
-msgstr "行頭文字の位置(&A):"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:236
-#, fuzzy
 msgid "&Vertical offset:"
-msgstr "行頭文字の位置(&A):"
+msgstr ""
 
 #: ../src/generic/dbgrptg.cpp:340
 msgid "&View..."
@@ -775,9 +761,8 @@ msgstr "ウエイト (&W):"
 
 #: ../src/richtext/richtextsizepage.cpp:317
 #: ../src/richtext/richtextsizepage.cpp:324
-#, fuzzy
 msgid "&Width:"
-msgstr "ウエイト (&W):"
+msgstr ""
 
 #: ../src/aui/tabmdi.cpp:311 ../src/aui/tabmdi.cpp:327
 #: ../src/aui/tabmdi.cpp:329 ../src/generic/mdig.cpp:294
@@ -791,14 +776,14 @@ msgid "&Yes"
 msgstr "はい (&Y)"
 
 #: ../src/common/valtext.cpp:256
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' contains illegal characters"
-msgstr "'%s' はアルファベット以外を受け付けません。"
+msgstr ""
 
 #: ../src/common/valtext.cpp:254
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' doesn't consist only of valid characters"
-msgstr "'%s' はアルファベット以外を受け付けません。"
+msgstr ""
 
 #: ../src/common/config.cpp:523 ../src/msw/regconf.cpp:258
 #, c-format
@@ -816,14 +801,14 @@ msgid "'%s' is not a valid message catalog."
 msgstr "'%s' は正しいメッセージカタログではありません。"
 
 #: ../src/common/valtext.cpp:165
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' is not one of the valid strings"
-msgstr "'%s' は正しいメッセージカタログではありません。"
+msgstr ""
 
 #: ../src/common/valtext.cpp:167
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' is one of the invalid strings"
-msgstr "'%s' は不正です"
+msgstr ""
 
 #: ../src/common/textbuf.cpp:237
 #, c-format
@@ -1191,9 +1176,8 @@ msgid "ASCII"
 msgstr "ASCII"
 
 #: ../src/common/stockitem.cpp:139
-#, fuzzy
 msgid "About"
-msgstr "詳細 (&A)"
+msgstr ""
 
 #: ../src/generic/aboutdlgg.cpp:140 ../src/msw/aboutdlg.cpp:64
 #: ../src/osx/menu_osx.cpp:595
@@ -1202,9 +1186,8 @@ msgid "About %s"
 msgstr "%s について"
 
 #: ../src/osx/menu_osx.cpp:597
-#, fuzzy
 msgid "About..."
-msgstr "詳細 (&A)"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:520
 msgid "Absolute"
@@ -1212,9 +1195,8 @@ msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:859
-#, fuzzy
 msgid "ActiveBorder"
-msgstr "Modern"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:860
@@ -1222,9 +1204,8 @@ msgid "ActiveCaption"
 msgstr ""
 
 #: ../src/common/stockitem.cpp:207
-#, fuzzy
 msgid "Actual Size"
-msgstr "原寸 (&A)"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:79 ../src/common/stockitem.cpp:140
@@ -1285,9 +1266,8 @@ msgid "Align Right"
 msgstr "右寄せ"
 
 #: ../src/richtext/richtextsizepage.cpp:266
-#, fuzzy
 msgid "Alignment"
-msgstr "整列 (&A)"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:215
 msgid "All"
@@ -1348,19 +1328,15 @@ msgstr ""
 #: ../src/generic/logg.cpp:1034
 #, c-format
 msgid "Append log to file '%s' (choosing [No] will overwrite it)?"
-msgstr ""
-"ログをファイル '%s' に追加しますか? [いいえ]を選択すると再作成で上書きしま"
-"す。"
+msgstr "ログをファイル '%s' に追加しますか? [いいえ]を選択すると再作成で上書きします。"
 
 #: ../src/osx/menu_osx.cpp:615 ../src/osx/menu_osx.cpp:623
-#, fuzzy
 msgid "Application"
-msgstr "選択"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:141
-#, fuzzy
 msgid "Apply"
-msgstr "適用 (&A)"
+msgstr ""
 
 #: ../src/propgrid/advprops.cpp:1570
 msgid "Aqua"
@@ -1376,24 +1352,22 @@ msgid "Arabic (ISO-8859-6)"
 msgstr "アラビア語 (ISO-8859-6)"
 
 #: ../src/msw/ole/automtn.cpp:678
-#, fuzzy, c-format
+#, c-format
 msgid "Argument %u not found."
-msgstr "列の索引が見つかりません。"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1714
-#, fuzzy
 msgid "Arrow"
-msgstr "明日"
+msgstr ""
 
 #: ../src/generic/aboutdlgg.cpp:184
 msgid "Artists"
 msgstr "デザイン"
 
 #: ../src/common/stockitem.cpp:195
-#, fuzzy
 msgid "Ascending"
-msgstr "昇順 (&A)"
+msgstr ""
 
 #: ../src/generic/filectrlg.cpp:468
 msgid "Attributes"
@@ -1484,20 +1458,17 @@ msgstr "BMP: wxImage は自身の wxPalette を保有していません。"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:50 ../src/common/stockitem.cpp:142
-#, fuzzy
 msgid "Back"
-msgstr "戻る (&B)"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:149
 #: ../src/richtext/richtextformatdlg.cpp:391
-#, fuzzy
 msgid "Background"
-msgstr "背景色"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:161
-#, fuzzy
 msgid "Background &colour:"
-msgstr "背景色"
+msgstr ""
 
 #: ../src/osx/carbon/fontdlg.cpp:390
 msgid "Background colour"
@@ -1505,9 +1476,8 @@ msgstr "背景色"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:50
-#, fuzzy
 msgid "Backspace"
-msgstr "戻る (&B)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:160
 msgid "Baltic (ISO-8859-13)"
@@ -1550,38 +1520,32 @@ msgstr "太字"
 
 #: ../src/richtext/richtextborderspage.cpp:232
 #: ../src/richtext/richtextborderspage.cpp:390
-#, fuzzy
 msgid "Border"
-msgstr "Modern"
+msgstr ""
 
 #: ../src/richtext/richtextformatdlg.cpp:385
-#, fuzzy
 msgid "Borders"
-msgstr "Modern"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:144 ../src/richtext/richtextsizepage.cpp:288
-#, fuzzy
 msgid "Bottom"
-msgstr "下端 (&B)"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:893
 msgid "Bottom margin (mm):"
 msgstr "余白-地 (mm):"
 
 #: ../src/richtext/richtextbuffer.cpp:9376
-#, fuzzy
 msgid "Box Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../src/richtext/richtextstyles.cpp:1065
-#, fuzzy
 msgid "Box styles"
-msgstr "すべてのスタイル"
+msgstr ""
 
 #: ../src/propgrid/advprops.cpp:1563
-#, fuzzy
 msgid "Brown"
-msgstr "ファイルの選択"
+msgstr ""
 
 #: ../src/common/filepickercmn.cpp:43 ../src/common/filepickercmn.cpp:44
 msgid "Browse"
@@ -1602,9 +1566,8 @@ msgstr "行頭文字"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1717
-#, fuzzy
 msgid "Bullseye"
-msgstr "行頭文字のスタイル"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:861
@@ -1659,9 +1622,8 @@ msgid "C65 Envelope, 114 x 229 mm"
 msgstr "C65 封筒, 114×229mm"
 
 #: ../src/common/stockitem.cpp:146
-#, fuzzy
 msgid "CD-Rom"
-msgstr "CD-ROM (&C)"
+msgstr ""
 
 #: ../src/html/chm.cpp:815 ../src/html/chm.cpp:874
 msgid "CHM handler currently supports only local files!"
@@ -1752,9 +1714,9 @@ msgid "Can't initialize zlib inflate stream."
 msgstr "zlib の inflate ストリームを初期化できません。"
 
 #: ../src/msw/fswatcher.cpp:476
-#, fuzzy, c-format
+#, c-format
 msgid "Can't monitor non-existent directory \"%s\" for changes."
-msgstr "監視対象のディレクトリー \"%s\" を開くことができませんでした。"
+msgstr ""
 
 #: ../src/msw/registry.cpp:445
 #, c-format
@@ -1768,9 +1730,7 @@ msgstr "inflateストリームから読み取ることができません: %s"
 
 #: ../src/common/zstream.cpp:244
 msgid "Can't read inflate stream: unexpected EOF in underlying stream."
-msgstr ""
-"inflate ストリームを読み取ることができません: 想定外の条件でEOFが元のストリー"
-"ムから検出されました。"
+msgstr "inflate ストリームを読み取ることができません: 想定外の条件でEOFが元のストリームから検出されました。"
 
 #: ../src/msw/registry.cpp:1056
 #, c-format
@@ -1803,9 +1763,8 @@ msgid "Can't set value of '%s'"
 msgstr "'%s' の値を設定できません"
 
 #: ../src/unix/utilsunx.cpp:347
-#, fuzzy
 msgid "Can't write to child process's stdin"
-msgstr "プロセス %d の kill に失敗しました"
+msgstr ""
 
 #: ../src/common/zstream.cpp:427
 #, c-format
@@ -1822,9 +1781,9 @@ msgid "Cancel"
 msgstr "キャンセル"
 
 #: ../src/osx/carbon/dataview.cpp:893
-msgid "Cannot create new column's ID. Probably max. number of columns reached."
-msgstr ""
-"新しい列への識別子を作成できません。作成数が上限に達した可能性があります。"
+msgid ""
+"Cannot create new column's ID. Probably max. number of columns reached."
+msgstr "新しい列への識別子を作成できません。作成数が上限に達した可能性があります。"
 
 #: ../src/common/filefn.cpp:1280
 #, c-format
@@ -1846,9 +1805,9 @@ msgid "Cannot find the location of address book file"
 msgstr "住所録の位置を特定できません"
 
 #: ../src/msw/ole/automtn.cpp:568
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot get an active instance of \"%s\""
-msgstr "使用中のダイヤルアップ接続が見つかりません: %s"
+msgstr ""
 
 #: ../src/unix/threadpsx.cpp:1035
 #, c-format
@@ -1915,9 +1874,9 @@ msgid "Cannot open index file: %s"
 msgstr "索引ファイルを開くことができません: %s"
 
 #: ../src/xrc/xmlres.cpp:727
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot open resources file '%s'."
-msgstr "ファイル '%s' からリソースを読み取れません。"
+msgstr ""
 
 #: ../src/html/helpwnd.cpp:1534
 msgid "Cannot print empty page."
@@ -1929,9 +1888,9 @@ msgid "Cannot read typename from '%s'!"
 msgstr "'%s' の型名を読み出すことができません。"
 
 #: ../src/msw/thread.cpp:895
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot resume thread %lx"
-msgstr "スレッド %x のリジュームができません"
+msgstr ""
 
 #: ../src/unix/threadpsx.cpp:1016
 msgid "Cannot retrieve thread scheduling policy."
@@ -1947,9 +1906,9 @@ msgid "Cannot start thread: error writing TLS."
 msgstr "スレッドを開始できませんでした: TLS への書き込みに失敗しています。"
 
 #: ../src/msw/thread.cpp:879
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot suspend thread %lx"
-msgstr "スレッド %x のサスペンドができません"
+msgstr ""
 
 #: ../src/msw/thread.cpp:802
 msgid "Cannot wait for thread termination"
@@ -1957,9 +1916,8 @@ msgstr "スレッドの終了を待つことはできません"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:73
-#, fuzzy
 msgid "Capital"
-msgstr "大文字化 (&P)"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:865
@@ -1975,9 +1933,8 @@ msgid "Categorized Mode"
 msgstr "種類順"
 
 #: ../src/richtext/richtextbuffer.cpp:9958
-#, fuzzy
 msgid "Cell Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:161
 msgid "Celtic (ISO-8859-14)"
@@ -2009,9 +1966,8 @@ msgid "Centre text."
 msgstr "テキストを中央寄せにします。"
 
 #: ../src/richtext/richtextsizepage.cpp:287
-#, fuzzy
 msgid "Centred"
-msgstr "中央寄せ (&T)"
+msgstr ""
 
 #: ../src/richtext/richtextbulletspage.cpp:219
 #: ../src/richtext/richtextliststylepage.cpp:280
@@ -2023,15 +1979,13 @@ msgid "Change List Style"
 msgstr "リストスタイルを変更します"
 
 #: ../src/richtext/richtextbuffer.cpp:3703
-#, fuzzy
 msgid "Change Object Style"
-msgstr "リストスタイルを変更します"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:3976
 #: ../src/richtext/richtextbuffer.cpp:8122
-#, fuzzy
 msgid "Change Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:3520
 msgid "Change Style"
@@ -2043,15 +1997,14 @@ msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
 msgstr "ファイル \"%s\" への上書きが拒否されたため変更内容は保存されていません"
 
 #: ../src/gtk/filedlg.cpp:87 ../src/gtk/filepicker.cpp:190
-#, fuzzy, c-format
+#, c-format
 msgid "Changing current directory to \"%s\" failed"
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1718
-#, fuzzy
 msgid "Character"
-msgstr "文字コード (&C):"
+msgstr ""
 
 #: ../src/richtext/richtextstyles.cpp:1063
 msgid "Character styles"
@@ -2087,9 +2040,8 @@ msgstr "行頭文字を丸括弧でくくる場合にチェックしてくださ
 
 #: ../src/richtext/richtextfontpage.cpp:315
 #: ../src/richtext/richtextfontpage.cpp:317
-#, fuzzy
 msgid "Check to indicate right-to-left text layout."
-msgstr "クリックで文字色を変更します。"
+msgstr ""
 
 #: ../src/osx/carbon/fontdlg.cpp:526 ../src/osx/carbon/fontdlg.cpp:528
 msgid "Check to make the font bold."
@@ -2120,9 +2072,8 @@ msgstr "テキストを大文字にする場合にチェックしてください
 
 #: ../src/richtext/richtextfontpage.cpp:291
 #: ../src/richtext/richtextfontpage.cpp:293
-#, fuzzy
 msgid "Check to show the text in small capitals."
-msgstr "テキストを大文字にする場合にチェックしてください。"
+msgstr ""
 
 #: ../src/richtext/richtextfontpage.cpp:305
 #: ../src/richtext/richtextfontpage.cpp:307
@@ -2170,15 +2121,13 @@ msgid "Cl&ose"
 msgstr "閉じる(&O)"
 
 #: ../src/msw/ole/automtn.cpp:690
-#, fuzzy
 msgid "Class not registered."
-msgstr "スレッドを作成できません"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:70 ../src/common/stockitem.cpp:147
-#, fuzzy
 msgid "Clear"
-msgstr "消去 (&C)"
+msgstr ""
 
 #: ../src/generic/logg.cpp:520
 msgid "Clear the log contents"
@@ -2239,9 +2188,8 @@ msgstr "クリックでフォントの選択を確定します。"
 
 #: ../src/richtext/richtextstyledlg.cpp:244
 #: ../src/richtext/richtextstyledlg.cpp:246
-#, fuzzy
 msgid "Click to create a new box style."
-msgstr "クリックで新しいリストスタイルを作成できます。"
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:226
 #: ../src/richtext/richtextstyledlg.cpp:228
@@ -2309,9 +2257,8 @@ msgid "Close this window"
 msgstr "このウィンドウを閉じます"
 
 #: ../src/common/stockitem.cpp:193
-#, fuzzy
 msgid "Color"
-msgstr "色 (&C)"
+msgstr ""
 
 #: ../src/richtext/richtextformatdlg.cpp:786
 msgid "Colour"
@@ -2414,9 +2361,8 @@ msgid "Conversion to charset '%s' doesn't work."
 msgstr "文字集合 '%s' への変換が機能していません。"
 
 #: ../src/common/stockitem.cpp:149
-#, fuzzy
 msgid "Convert"
-msgstr "変換 (&C)"
+msgstr ""
 
 #: ../src/html/htmlwin.cpp:1074
 #, c-format
@@ -2518,9 +2464,8 @@ msgid "Could not set column width."
 msgstr "列の幅を設定できませんでした。"
 
 #: ../src/common/filefn.cpp:1468
-#, fuzzy
 msgid "Could not set current working directory"
-msgstr "作業ディレクトリーを取得できませんでした。"
+msgstr ""
 
 #: ../src/osx/carbon/dataview.cpp:2773
 msgid "Could not set header description."
@@ -2570,9 +2515,8 @@ msgid "Couldn't create the overlay window"
 msgstr "オーバーレイウィンドウを作成できませんでした"
 
 #: ../src/common/translation.cpp:2024
-#, fuzzy
 msgid "Couldn't enumerate translations"
-msgstr "スレッドを終了できませんでした"
+msgstr ""
 
 #: ../src/common/dynlib.cpp:120
 #, c-format
@@ -2588,9 +2532,8 @@ msgid "Couldn't init the context on the overlay window"
 msgstr "オーバーレイウィンドウの内容を初期化できませんでした。"
 
 #: ../src/common/imaggif.cpp:263
-#, fuzzy
 msgid "Couldn't initialize GIF hash table."
-msgstr "zlib の deflate ストリームを初期化できません。"
+msgstr ""
 
 #: ../src/common/imagpng.cpp:649
 msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
@@ -2602,9 +2545,8 @@ msgid "Couldn't load sound data from '%s'."
 msgstr "音声データを '%s' から取得できませんでした。"
 
 #: ../src/msw/dirdlg.cpp:455
-#, fuzzy
 msgid "Couldn't obtain folder name"
-msgstr "タイマーを作成できませんでした"
+msgstr ""
 
 #: ../src/unix/sound_sdl.cpp:229
 #, c-format
@@ -2631,9 +2573,9 @@ msgid "Couldn't terminate thread"
 msgstr "スレッドを終了できませんでした"
 
 #: ../src/common/xtistrm.cpp:170
-#, fuzzy, c-format
+#, c-format
 msgid "Create Parameter %s not found in declared RTTI Parameters"
-msgstr "宣言された RTTI 変数の中には Create で指定されたものがありません"
+msgstr ""
 
 #: ../src/generic/dirdlgg.cpp:317
 msgid "Create directory"
@@ -2644,9 +2586,9 @@ msgid "Create new directory"
 msgstr "新しいディレクトリーを作成します"
 
 #: ../src/xrc/xmlres.cpp:2441
-#, fuzzy, c-format
+#, c-format
 msgid "Creating %s \"%s\" failed."
-msgstr "'%s' を '%s' に展開できませんでした。"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1719
@@ -2669,9 +2611,8 @@ msgstr "カレントディレクトリー:"
 #. TRANSLATORS: Custom colour choice entry
 #: ../src/propgrid/advprops.cpp:882 ../src/propgrid/advprops.cpp:1535
 #: ../src/propgrid/advprops.cpp:1573
-#, fuzzy
 msgid "Custom"
-msgstr "任意の寸法指定"
+msgstr ""
 
 #: ../src/gtk/print.cpp:217
 msgid "Custom size"
@@ -2761,9 +2702,8 @@ msgstr "Decorative"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1713
-#, fuzzy
 msgid "Default"
-msgstr "規定"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:796
 msgid "Default encoding"
@@ -2779,9 +2719,8 @@ msgstr "既定のプリンター"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:49
-#, fuzzy
 msgid "Del"
-msgstr "削除"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:48 ../src/common/stockitem.cpp:152
@@ -2794,14 +2733,12 @@ msgid "Delete A&ll"
 msgstr "すべて削除(&L)"
 
 #: ../src/richtext/richtextbuffer.cpp:11332
-#, fuzzy
 msgid "Delete Column"
-msgstr "選択範囲の削除"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:11282
-#, fuzzy
 msgid "Delete Row"
-msgstr "削除"
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:782
 msgid "Delete Style"
@@ -2835,9 +2772,8 @@ msgid "Dependency \"%s\" of module \"%s\" doesn't exist."
 msgstr "依存先の \"%s\" (モジュール \"%s\" 内) は存在しません。"
 
 #: ../src/common/stockitem.cpp:196
-#, fuzzy
 msgid "Descending"
-msgstr "降順 (&D)"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/generic/dirctrlg.cpp:547 ../src/propgrid/advprops.cpp:868
@@ -2854,20 +2790,18 @@ msgstr "開発者"
 
 #: ../src/msw/dialup.cpp:384
 msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"リモートアクセスサービス(RAS)がインストールされていないため、ダイヤルアップは"
-"機能しません。RASをインストールしてください。"
+"Dial up functions are unavailable because the remote access service (RAS) is"
+" not installed on this machine. Please install it."
+msgstr "リモートアクセスサービス(RAS)がインストールされていないため、ダイヤルアップは機能しません。RASをインストールしてください。"
 
 #: ../src/generic/tipdlg.cpp:225
 msgid "Did you know..."
 msgstr "ご存じですか?"
 
 #: ../src/dfb/wrapdfb.cpp:63
-#, fuzzy, c-format
+#, c-format
 msgid "DirectFB error %d occurred."
-msgstr "DirectFB エラー %d が発生しました。"
+msgstr ""
 
 #: ../src/motif/filedlg.cpp:219
 msgid "Directories"
@@ -2899,8 +2833,7 @@ msgstr "変更を破棄して最後に保存したものを読み直しますか
 msgid ""
 "Display all index items that contain given substring. Search is case "
 "insensitive."
-msgstr ""
-"与えられた文字列を含む索引項目を表示します。大文字小文字は区別しません。"
+msgstr "与えられた文字列を含む索引項目を表示します。大文字小文字は区別しません。"
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2917,18 +2850,12 @@ msgstr ""
 
 #: ../src/msw/mimetype.cpp:725
 msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+"Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"%s コマンドを拡張子 \"%s\" に適用するときの値を上書きしますか?\n"
-"現在の値 :\n"
-"%s, \n"
-"新しい値 :\n"
-"%s %1"
+msgstr "%s コマンドを拡張子 \"%s\" に適用するときの値を上書きしますか?\n現在の値 :\n%s, \n新しい値 :\n%s %1"
 
 #: ../src/common/docview.cpp:537
 #, c-format
@@ -2936,9 +2863,8 @@ msgid "Do you want to save changes to %s?"
 msgstr "変更結果を %s へ保存しますか?"
 
 #: ../src/common/prntbase.cpp:542
-#, fuzzy
 msgid "Document:"
-msgstr "説明書 : "
+msgstr ""
 
 #: ../src/generic/aboutdlgg.cpp:73
 msgid "Documentation by "
@@ -2961,14 +2887,12 @@ msgid "Done."
 msgstr "完了しました。"
 
 #: ../src/richtext/richtextborderspage.cpp:615
-#, fuzzy
 msgid "Dotted"
-msgstr "完了"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:617
-#, fuzzy
 msgid "Double"
-msgstr "double値"
+msgstr ""
 
 #: ../src/common/paper.cpp:177
 msgid "Double Japanese Postcard Rotated 148 x 200 mm"
@@ -2998,9 +2922,8 @@ msgid "EOF while reading from inotify descriptor"
 msgstr "inotify 記述子 %d の読み取り中にEOFを検出しました"
 
 #: ../src/common/stockitem.cpp:154
-#, fuzzy
 msgid "Edit"
-msgstr "編集(&E)"
+msgstr ""
 
 #: ../src/generic/editlbox.cpp:272
 msgid "Edit item"
@@ -3019,9 +2942,8 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:438
 #: ../src/richtext/richtextsizepage.cpp:440
-#, fuzzy
 msgid "Enable the maximum width value."
-msgstr "最大幅を設定できませんでした。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:411
 #: ../src/richtext/richtextsizepage.cpp:413
@@ -3030,9 +2952,8 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:384
 #: ../src/richtext/richtextsizepage.cpp:386
-#, fuzzy
 msgid "Enable the minimum width value."
-msgstr "最小幅を設定できませんでした。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:319
 #: ../src/richtext/richtextsizepage.cpp:321
@@ -3041,33 +2962,28 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:280
 #: ../src/richtext/richtextsizepage.cpp:282
-#, fuzzy
 msgid "Enable vertical alignment."
-msgstr "整列方法を設定できませんでした。"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:163
 #: ../src/richtext/richtextbackgroundpage.cpp:165
-#, fuzzy
 msgid "Enables a background colour."
-msgstr "背景色"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:197
 #: ../src/richtext/richtextbackgroundpage.cpp:199
-#, fuzzy
 msgid "Enables a shadow."
-msgstr "背景色"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:301
 #: ../src/richtext/richtextbackgroundpage.cpp:303
-#, fuzzy
 msgid "Enables the blur distance."
-msgstr "最大幅を設定できませんでした。"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:261
 #: ../src/richtext/richtextbackgroundpage.cpp:263
-#, fuzzy
 msgid "Enables the shadow colour."
-msgstr "背景色"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:328
 #: ../src/richtext/richtextbackgroundpage.cpp:330
@@ -3086,14 +3002,12 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:53
-#, fuzzy
 msgid "Enter"
-msgstr "プリンター"
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:934
-#, fuzzy
 msgid "Enter a box style name"
-msgstr "新しいスタイル名を入力してください。"
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:606
 msgid "Enter a character style name"
@@ -3128,8 +3042,7 @@ msgstr "封筒 Invite 220 x 220 mm"
 #, c-format
 msgid ""
 "Environment variables expansion failed: missing '%c' at position %u in '%s'."
-msgstr ""
-"環境変数拡張に失敗しました: '%c' が %u 文字目 ('%s' 内) に欠けています。"
+msgstr "環境変数拡張に失敗しました: '%c' が %u 文字目 ('%s' 内) に欠けています。"
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/dirctrlg.cpp:609
 #: ../src/generic/dirctrlg.cpp:620 ../src/generic/dirdlgg.cpp:352
@@ -3185,9 +3098,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:68
-#, fuzzy
 msgid "Escape"
-msgstr "横置き"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:150
 msgid "Esperanto (ISO-8859-3)"
@@ -3198,15 +3110,13 @@ msgid "Estimated time:"
 msgstr "予定時間:"
 
 #: ../src/generic/dbgrptg.cpp:234
-#, fuzzy
 msgid "Executable files (*.exe)|*.exe|"
-msgstr "実行ファイル (*.exe)|*.exe|すべてのファイル (*.*)|*.*||"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:76 ../src/common/stockitem.cpp:155
-#, fuzzy
 msgid "Execute"
-msgstr "実行 (&E)"
+msgstr ""
 
 #: ../src/msw/utilsexc.cpp:892
 #, c-format
@@ -3221,9 +3131,7 @@ msgstr "エグゼキュティブ, 7 1/4 x 10 1/2インチ"
 #, c-format
 msgid ""
 "Exporting registry key: file \"%s\" already exists and won't be overwritten."
-msgstr ""
-"レジストリーのエクスポート: ファイル \"%s\" はすでに存在します。上書きも行い"
-"ません。"
+msgstr "レジストリーのエクスポート: ファイル \"%s\" はすでに存在します。上書きも行いません。"
 
 #: ../src/common/fmapbase.cpp:195
 msgid "Extended Unix Codepage for Japanese (EUC-JP)"
@@ -3266,9 +3174,9 @@ msgid "Failed to change video mode"
 msgstr "画面モード変更に失敗しました。"
 
 #: ../src/common/image.cpp:3143
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to check format of image file \"%s\"."
-msgstr "ファイル \"%s\" にビットマップイメージを保存できませんでした。"
+msgstr ""
 
 #: ../src/common/debugrpt.cpp:244
 #, c-format
@@ -3347,9 +3255,9 @@ msgid "Failed to create an anonymous pipe"
 msgstr "匿名パイプを作成できませんでした。"
 
 #: ../src/msw/ole/automtn.cpp:528
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to create an instance of \"%s\""
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr ""
 
 #: ../src/msw/dde.cpp:442
 #, c-format
@@ -3370,9 +3278,7 @@ msgstr "ディレクトリー \"%s\" を作成できませんでした。"
 msgid ""
 "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"'%s' を作成できませんでした。\n"
-"処理に必要なパーミッションをお持ちですか?"
+msgstr "'%s' を作成できませんでした。\n処理に必要なパーミッションをお持ちですか?"
 
 #: ../src/unix/epolldispatcher.cpp:84
 msgid "Failed to create epoll descriptor"
@@ -3424,9 +3330,9 @@ msgid "Failed to execute curl, please install it in PATH."
 msgstr "curl を実行できません。PATHの参照先にインストールしてください。"
 
 #: ../src/msw/ole/automtn.cpp:511
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to find CLSID of \"%s\""
-msgstr "リソース \"%s\" を読み取れませんでした。"
+msgstr ""
 
 #: ../src/common/regex.cpp:431 ../src/common/regex.cpp:479
 #, c-format
@@ -3439,9 +3345,9 @@ msgid "Failed to get ISP names: %s"
 msgstr "ISP名を取得できませんでした: %s"
 
 #: ../src/msw/ole/automtn.cpp:580
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to get OLE automation interface for \"%s\""
-msgstr "ディレクトリー \"%s\" を作成できませんでした。"
+msgstr ""
 
 #: ../src/msw/clipbrd.cpp:745
 msgid "Failed to get data from the clipboard"
@@ -3487,11 +3393,9 @@ msgstr "シグナルハンドラーのインストールに失敗しました。
 
 #: ../src/unix/threadpsx.cpp:1167
 msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
-msgstr ""
-"スレッド接合に失敗しました。メモリリーク発生の可能性があります。プログラムを"
-"再起動してください。"
+"Failed to join a thread, potential memory leak detected - please restart the"
+" program"
+msgstr "スレッド接合に失敗しました。メモリリーク発生の可能性があります。プログラムを再起動してください。"
 
 #: ../src/msw/utils.cpp:679
 #, c-format
@@ -3499,14 +3403,14 @@ msgid "Failed to kill process %d"
 msgstr "プロセス %d の kill に失敗しました"
 
 #: ../src/common/image.cpp:2367
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load bitmap \"%s\" from resources."
-msgstr "画像 %d をストリームから読み取れませんでした。"
+msgstr ""
 
 #: ../src/common/image.cpp:2376
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load icon \"%s\" from resources."
-msgstr "画像 %d をストリームから読み取れませんでした。"
+msgstr ""
 
 #: ../src/common/iconbndl.cpp:182
 #, c-format
@@ -3519,9 +3423,9 @@ msgid "Failed to load image %d from stream."
 msgstr "画像 %d をストリームから読み取れませんでした。"
 
 #: ../src/common/image.cpp:2454 ../src/common/image.cpp:2473
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load image from file \"%s\"."
-msgstr "ファイル \"%s\" からメタファイルを読み取れませんでした。"
+msgstr ""
 
 #: ../src/msw/enhmeta.cpp:97
 #, c-format
@@ -3543,9 +3447,9 @@ msgid "Failed to load shared library '%s'"
 msgstr "共有ライブラリ '%s' を読み取れませんでした。"
 
 #: ../src/osx/core/sound.cpp:118
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load sound from \"%s\" (error %d)."
-msgstr "リソース \"%s\" を読み取れませんでした。"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1022
 #, c-format
@@ -3615,9 +3519,9 @@ msgid "Failed to parse Plural-Forms: '%s'"
 msgstr "複数形を解析できません: '%s'"
 
 #: ../src/unix/mediactrl.cpp:1266
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to prepare playing \"%s\"."
-msgstr "ディスプレイ \"%s\" を開くことができませんでした。"
+msgstr ""
 
 #: ../src/msw/clipbrd.cpp:645
 msgid "Failed to put data on the clipboard"
@@ -3687,9 +3591,7 @@ msgstr "レジストリーの値を '%s' から '%s' に改名できませんで
 msgid ""
 "Failed to rename the file '%s' to '%s' because the destination file already "
 "exists."
-msgstr ""
-"ファイル '%s' を '%s' に改名できませんでした。改名先のファイルがすでに存在し"
-"ています。"
+msgstr "ファイル '%s' を '%s' に改名できませんでした。改名先のファイルがすでに存在しています。"
 
 #: ../src/msw/registry.cpp:626
 #, c-format
@@ -3742,9 +3644,8 @@ msgid "Failed to set permissions on lock file '%s'"
 msgstr "ロックファイル '%s' のパーミッションを設定できませんでした。"
 
 #: ../src/unix/utilsunx.cpp:664
-#, fuzzy
 msgid "Failed to set process priority"
-msgstr "スレッド優先度を %d に設定できませんでした。"
+msgstr ""
 
 #: ../src/common/file.cpp:581
 msgid "Failed to set temporary file permissions"
@@ -3755,9 +3656,9 @@ msgid "Failed to set text in the text control."
 msgstr "そのテキストコントロールにテキストを設定できませんでした。"
 
 #: ../src/unix/threadpsx.cpp:1298
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to set thread concurrency level to %lu"
-msgstr "スレッド優先度を %d に設定できませんでした。"
+msgstr ""
 
 #: ../src/unix/threadpsx.cpp:1424
 #, c-format
@@ -3775,8 +3676,7 @@ msgstr "メモリーVFS にイメージ '%s' を格納できませんでした�
 
 #: ../src/dfb/evtloop.cpp:170
 msgid "Failed to switch DirectFB pipe to non-blocking mode"
-msgstr ""
-"DirectFB パイプを non-blocking モードに切り替えることができませんでした"
+msgstr "DirectFB パイプを non-blocking モードに切り替えることができませんでした"
 
 #: ../src/unix/wakeuppipe.cpp:59
 msgid "Failed to switch wake up pipe to non-blocking mode"
@@ -3859,14 +3759,14 @@ msgid "File '%s' already exists, do you really want to overwrite it?"
 msgstr "ファイル %s はすでに存在します。上書きしてよろしいですか?"
 
 #: ../src/common/filefn.cpp:1160
-#, fuzzy, c-format
+#, c-format
 msgid "File '%s' couldn't be removed"
-msgstr "ファイル '%s' を開くことができません。"
+msgstr ""
 
 #: ../src/common/filefn.cpp:1143
-#, fuzzy, c-format
+#, c-format
 msgid "File '%s' couldn't be renamed '%s'"
-msgstr "ファイル '%s' を開くことができません。"
+msgstr ""
 
 #: ../src/common/textcmn.cpp:953 ../src/richtext/richtextctrl.cpp:3056
 msgid "File couldn't be loaded."
@@ -3903,19 +3803,16 @@ msgid "Find"
 msgstr "検索"
 
 #: ../src/common/stockitem.cpp:159
-#, fuzzy
 msgid "First"
-msgstr "最初 (&F)"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:1548
-#, fuzzy
 msgid "First page"
-msgstr "次のページ"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:521
-#, fuzzy
 msgid "Fixed"
-msgstr "固定幅フォント:"
+msgstr ""
 
 #: ../src/html/helpwnd.cpp:1206
 msgid "Fixed font:"
@@ -3930,9 +3827,8 @@ msgid "Floating"
 msgstr ""
 
 #: ../src/common/stockitem.cpp:160
-#, fuzzy
 msgid "Floppy"
-msgstr "フロッピーディスク (&F)"
+msgstr ""
 
 #: ../src/common/paper.cpp:112
 msgid "Folio, 8 1/2 x 13 in"
@@ -3969,9 +3865,8 @@ msgid "Fork failed"
 msgstr "フォークに失敗しました"
 
 #: ../src/common/stockitem.cpp:161
-#, fuzzy
 msgid "Forward"
-msgstr "進行 (&F)"
+msgstr ""
 
 #: ../src/common/xtixml.cpp:235
 msgid "Forward hrefs are not supported"
@@ -4046,8 +3941,7 @@ msgstr "汎用アクセサーに対して GetPropertyCollection が呼び出さ�
 
 #: ../include/wx/xtiprop.h:202
 msgid "GetPropertyCollection called w/o valid collection getter"
-msgstr ""
-"適切なコレクション getter なしに GetPropertyCollection が呼び出されました。"
+msgstr "適切なコレクション getter なしに GetPropertyCollection が呼び出されました。"
 
 #: ../src/html/helpwnd.cpp:660
 msgid "Go back"
@@ -4087,9 +3981,8 @@ msgid "Greek (ISO-8859-7)"
 msgstr "ギリシャ語 (ISO-8859-7)"
 
 #: ../src/propgrid/advprops.cpp:1561
-#, fuzzy
 msgid "Green"
-msgstr "MacGreek"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:618
 msgid "Groove"
@@ -4118,9 +4011,8 @@ msgid "Hand"
 msgstr ""
 
 #: ../src/common/stockitem.cpp:162
-#, fuzzy
 msgid "Harddisk"
-msgstr "ハードディスク (&H)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:155
 msgid "Hebrew (ISO-8859-8)"
@@ -4169,9 +4061,9 @@ msgid "Help: %s"
 msgstr "ヘルプ: %s"
 
 #: ../src/osx/menu_osx.cpp:615
-#, fuzzy, c-format
+#, c-format
 msgid "Hide %s"
-msgstr "ヘルプ: %s"
+msgstr ""
 
 #: ../src/osx/menu_osx.cpp:617
 msgid "Hide Others"
@@ -4183,15 +4075,13 @@ msgstr "この通知メッセージを隠します。"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:870
-#, fuzzy
 msgid "Highlight"
-msgstr "軽量"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:871
-#, fuzzy
 msgid "HighlightText"
-msgstr "右寄せにします。"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:63 ../src/common/stockitem.cpp:164
@@ -4271,21 +4161,14 @@ msgstr "出力結果がより狭い範囲に収まるように印刷設定値を
 msgid ""
 "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
-"このバグレポートに関連する追加情報をお持ちの場合は\n"
-"ここに記入頂くことでバグレポートに追加されます:"
+msgstr "このバグレポートに関連する追加情報をお持ちの場合は\nここに記入頂くことでバグレポートに追加されます:"
 
 #: ../src/generic/dbgrptg.cpp:324
 msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+"If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
-"以後のデバッグレポート表示を完全に抑制したい場合は\"キャンセル\"ボタンを使っ"
-"てください。\n"
-"ただし、その抑制指示はプログラムの修正を遠ざけることになりますので\n"
-"できる限りレポート生成を続けるようにしてください。\n"
+msgstr "以後のデバッグレポート表示を完全に抑制したい場合は\"キャンセル\"ボタンを使ってください。\nただし、その抑制指示はプログラムの修正を遠ざけることになりますので\nできる限りレポート生成を続けるようにしてください。\n"
 
 #: ../src/msw/registry.cpp:1403
 #, c-format
@@ -4317,22 +4200,20 @@ msgid "Image and mask have different sizes."
 msgstr "画像とマスクが異なる大きさになっています。"
 
 #: ../src/common/image.cpp:2613
-#, fuzzy, c-format
+#, c-format
 msgid "Image file is not of type %d."
-msgstr "画像ファイルは %ld 形式ではないようです。"
+msgstr ""
 
 #: ../src/common/image.cpp:2743
-#, fuzzy, c-format
+#, c-format
 msgid "Image is not of type %s."
-msgstr "画像ファイルは %s 形式ではないようです。"
+msgstr ""
 
 #: ../src/msw/textctrl.cpp:488
 msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"リッチエディットコントロールを作成できませんでした。代わりに簡素なテキストコ"
-"ントロールを使います。 riched32.dllを再インストールしてください。"
+"Impossible to create a rich edit control, using simple text control instead."
+" Please reinstall riched32.dll"
+msgstr "リッチエディットコントロールを作成できませんでした。代わりに簡素なテキストコントロールを使います。 riched32.dllを再インストールしてください。"
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4355,9 +4236,8 @@ msgstr "ファイル '%s' へのパーミッションは設定不可能です"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:872
-#, fuzzy
 msgid "InactiveBorder"
-msgstr "Modern"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:873
@@ -4395,9 +4275,8 @@ msgid "Indian (ISO-8859-12)"
 msgstr "ISO-8859-12 (ケルト語→14/デーヴァナーガリー→破棄)"
 
 #: ../src/common/stockitem.cpp:167
-#, fuzzy
 msgid "Info"
-msgstr "情報 (&I)"
+msgstr ""
 
 #: ../src/common/init.cpp:287
 msgid "Initialization failed in post init, aborting."
@@ -4405,9 +4284,8 @@ msgstr "PostInit の初期化に失敗しました。中断します。"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:52
-#, fuzzy
 msgid "Ins"
-msgstr "挿入"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:51 ../src/richtext/richtextsymboldlg.cpp:472
@@ -4415,9 +4293,8 @@ msgid "Insert"
 msgstr "挿入"
 
 #: ../src/richtext/richtextbuffer.cpp:8060
-#, fuzzy
 msgid "Insert Field"
-msgstr "テキストの挿入"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:7971
 #: ../src/richtext/richtextbuffer.cpp:8929
@@ -4425,9 +4302,8 @@ msgid "Insert Image"
 msgstr "画像の挿入"
 
 #: ../src/richtext/richtextbuffer.cpp:8018
-#, fuzzy
 msgid "Insert Object"
-msgstr "テキストの挿入"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:7815
 #: ../src/richtext/richtextbuffer.cpp:7845
@@ -4438,21 +4314,17 @@ msgstr "テキストの挿入"
 
 #: ../src/richtext/richtextindentspage.cpp:295
 #: ../src/richtext/richtextindentspage.cpp:297
-#, fuzzy
 msgid "Inserts a page break before the paragraph."
-msgstr "段落の前の空間を指定します。"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:620
-#, fuzzy
 msgid "Inset"
-msgstr "挿入"
+msgstr ""
 
 #: ../src/gtk/app.cpp:413
 #, c-format
 msgid "Invalid GTK+ command line option, use \"%s --help\""
-msgstr ""
-"不適切な GTK+ コマンドラインオプションです。\"%s --help\" で確認してくださ"
-"い。"
+msgstr "不適切な GTK+ コマンドラインオプションです。\"%s --help\" で確認してください。"
 
 #: ../src/common/imagtiff.cpp:311
 msgid "Invalid TIFF image index."
@@ -4488,13 +4360,11 @@ msgstr "正しいメッセージカタログではありません。"
 
 #: ../src/common/xtistrm.cpp:409 ../src/common/xtistrm.cpp:424
 msgid "Invalid or Null Object ID passed to GetObjectClassInfo"
-msgstr ""
-"Null または不正なオブジェクト識別子が GetObjectClassInfo に渡されました。"
+msgstr "Null または不正なオブジェクト識別子が GetObjectClassInfo に渡されました。"
 
 #: ../src/common/xtistrm.cpp:439
 msgid "Invalid or Null Object ID passed to HasObjectClassInfo"
-msgstr ""
-"Null または不正なオブジェクト識別子が HasObjectClassInfo に渡されました。"
+msgstr "Null または不正なオブジェクト識別子が HasObjectClassInfo に渡されました。"
 
 #: ../src/common/regex.cpp:310
 #, c-format
@@ -4576,9 +4446,8 @@ msgid "Japanese Postcard Rotated 148 x 100 mm"
 msgstr "はがき横置き 148×100mm"
 
 #: ../src/common/stockitem.cpp:169
-#, fuzzy
 msgid "Jump to"
-msgstr "移動 (&J)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:171
 msgid "Justified"
@@ -4605,9 +4474,8 @@ msgstr "Num"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:104
-#, fuzzy
 msgid "KP_Add"
-msgstr "Num+"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:99
@@ -4621,9 +4489,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:101
-#, fuzzy
 msgid "KP_Delete"
-msgstr "削除"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:108
@@ -4632,21 +4499,18 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:93
-#, fuzzy
 msgid "KP_Down"
-msgstr "下へ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:98
-#, fuzzy
 msgid "KP_End"
-msgstr "NumEnd"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:88
-#, fuzzy
 msgid "KP_Enter"
-msgstr "プリンター"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:102
@@ -4655,21 +4519,18 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:89
-#, fuzzy
 msgid "KP_Home"
-msgstr "ホーム"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:100
-#, fuzzy
 msgid "KP_Insert"
-msgstr "挿入"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:90
-#, fuzzy
 msgid "KP_Left"
-msgstr "左"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:103
@@ -4678,9 +4539,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:97
-#, fuzzy
 msgid "KP_Next"
-msgstr "次"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:95
@@ -4699,9 +4559,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:92
-#, fuzzy
 msgid "KP_Right"
-msgstr "右"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:105
@@ -4720,15 +4579,13 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:87
-#, fuzzy
 msgid "KP_Tab"
-msgstr "KP_TAB"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:91
-#, fuzzy
 msgid "KP_Up"
-msgstr "Num↑"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:270
 msgid "L&ine spacing:"
@@ -4739,14 +4596,12 @@ msgid "Landscape"
 msgstr "横置き"
 
 #: ../src/common/stockitem.cpp:174
-#, fuzzy
 msgid "Last"
-msgstr "最後 (&L)"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:1572
-#, fuzzy
 msgid "Last page"
-msgstr "次のページ"
+msgstr ""
 
 #: ../src/common/log.cpp:309
 #, c-format
@@ -4841,8 +4696,7 @@ msgstr ""
 #: ../src/generic/helpext.cpp:294
 #, c-format
 msgid "Line %lu of map file \"%s\" has invalid syntax, skipped."
-msgstr ""
-"%lu 行目 (マップファイル \"%s\" ) に文法不適合がありました。無視します。"
+msgstr "%lu 行目 (マップファイル \"%s\" ) に文法不適合がありました。無視します。"
 
 #: ../src/richtext/richtextliststylepage.cpp:444
 msgid "Line spacing:"
@@ -4912,9 +4766,7 @@ msgstr "MDI子ウィンドウ"
 msgid ""
 "MS HTML Help functions are unavailable because the MS HTML Help library is "
 "not installed on this machine. Please install it."
-msgstr ""
-"Microsoft Help ライブラリーがインストールされていないので Microsoft HTML "
-"Help 機能が使えません。そのライブラリーをインストールしてください。"
+msgstr "Microsoft Help ライブラリーがインストールされていないので Microsoft HTML Help 機能が使えません。そのライブラリーをインストールしてください。"
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
@@ -5091,9 +4943,8 @@ msgstr "選択してください:"
 
 #: ../src/richtext/richtextformatdlg.cpp:379
 #: ../src/richtext/richtextmarginspage.cpp:171
-#, fuzzy
 msgid "Margins"
-msgstr "MacGeorgian"
+msgstr ""
 
 #: ../src/propgrid/advprops.cpp:1556
 msgid "Maroon"
@@ -5104,14 +4955,12 @@ msgid "Match case"
 msgstr "大文字小文字を区別"
 
 #: ../src/richtext/richtextsizepage.cpp:463
-#, fuzzy
 msgid "Max height:"
-msgstr "ウエイト (&W):"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:436
-#, fuzzy
 msgid "Max width:"
-msgstr "置換先:"
+msgstr ""
 
 #: ../src/unix/mediactrl.cpp:1004
 #, c-format
@@ -5131,9 +4980,8 @@ msgid "Menu"
 msgstr "メニュー"
 
 #: ../src/common/msgout.cpp:124
-#, fuzzy
 msgid "Message"
-msgstr "%s からの通知"
+msgstr ""
 
 #: ../src/univ/themes/metal.cpp:168
 msgid "Metal theme"
@@ -5153,9 +5001,8 @@ msgid "Middle Button"
 msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:409
-#, fuzzy
 msgid "Min height:"
-msgstr "フォントのウエイト(&W):"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:382
 msgid "Min width:"
@@ -5196,15 +5043,13 @@ msgstr "上に移動"
 
 #: ../src/richtext/richtextsizepage.cpp:682
 #: ../src/richtext/richtextsizepage.cpp:684
-#, fuzzy
 msgid "Moves the object to the next paragraph."
-msgstr "次の段落に適用されるスタイルを指定します。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:676
 #: ../src/richtext/richtextsizepage.cpp:678
-#, fuzzy
 msgid "Moves the object to the previous paragraph."
-msgstr "前のHTMLページに戻る"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:9956
 msgid "Multiple Cell Properties"
@@ -5219,19 +5064,16 @@ msgid "Navy"
 msgstr ""
 
 #: ../src/common/stockitem.cpp:175
-#, fuzzy
 msgid "Network"
-msgstr "ネットワーク (&N)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:176
-#, fuzzy
 msgid "New"
-msgstr "新規作成 (&N)"
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:243
-#, fuzzy
 msgid "New &Box Style..."
-msgstr "新規リストスタイル (&L) ..."
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:225
 msgid "New &Character Style..."
@@ -5324,12 +5166,8 @@ msgstr "項目が見つかりません。"
 msgid ""
 "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"エンコーディング '%s' のテキストを表示するフォントはありません\n"
-"他のエンコーディング '%s' でありば利用可能です。\n"
-"このエンコーディングを使いますか(そうでなければ別のものを選びます)?"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "エンコーディング '%s' のテキストを表示するフォントはありません\n他のエンコーディング '%s' でありば利用可能です。\nこのエンコーディングを使いますか(そうでなければ別のものを選びます)?"
 
 #: ../src/common/fontmap.cpp:426
 #, c-format
@@ -5337,10 +5175,7 @@ msgid ""
 "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"エンコーディング '%s' のテキストを表示するフォントはありません\n"
-"このエンコーディングに使うフォントを選択しますか\n"
-"(そうでなければこのエンコーディングのテキストは正しく表示されません)?"
+msgstr "エンコーディング '%s' のテキストを表示するフォントはありません\nこのエンコーディングに使うフォントを選択しますか\n(そうでなければこのエンコーディングのテキストは正しく表示されません)?"
 
 #: ../src/generic/animateg.cpp:142
 msgid "No handler found for animation type."
@@ -5367,8 +5202,7 @@ msgstr "一致するページがまだありません。"
 
 #: ../src/osx/carbon/dataview.cpp:1674 ../src/osx/carbon/dataview.cpp:1784
 msgid "No renderer or invalid renderer type specified for custom data column."
-msgstr ""
-"カスタムデータ列に不適切なレンダラーまたは不適切なその型が与えられました。"
+msgstr "カスタムデータ列に不適切なレンダラーまたは不適切なその型が与えられました。"
 
 #: ../src/osx/carbon/dataview.cpp:1422
 msgid "No renderer specified for column."
@@ -5394,9 +5228,8 @@ msgstr "ファイル \"%s\" には適切なマップが含まれていません�
 #: ../src/richtext/richtextborderspage.cpp:613
 #: ../src/richtext/richtextsizepage.cpp:248
 #: ../src/richtext/richtextsizepage.cpp:252
-#, fuzzy
 msgid "None"
-msgstr "(なし)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:157
 msgid "Nordic (ISO-8859-10)"
@@ -5477,15 +5310,13 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:101
-#, fuzzy
 msgid "Num Delete"
-msgstr "削除"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:93
-#, fuzzy
 msgid "Num Down"
-msgstr "下へ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:98
@@ -5499,15 +5330,13 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:89
-#, fuzzy
 msgid "Num Home"
-msgstr "ホーム"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:100
-#, fuzzy
 msgid "Num Insert"
-msgstr "挿入"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:84
@@ -5526,9 +5355,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:92
-#, fuzzy
 msgid "Num Right"
-msgstr "右"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:86
@@ -5577,9 +5405,8 @@ msgid "OLE Automation error in %s: %s"
 msgstr ""
 
 #: ../include/wx/richtext/richtextimagedlg.h:37
-#, fuzzy
 msgid "Object Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../src/msw/ole/automtn.cpp:666
 msgid "Object implementation does not support named arguments."
@@ -5611,9 +5438,8 @@ msgid "Open file \"%s\""
 msgstr "ファイル \"%s\" を開く"
 
 #: ../src/common/stockitem.cpp:179
-#, fuzzy
 msgid "Open..."
-msgstr "開く (&O) ..."
+msgstr ""
 
 #: ../src/osx/carbon/glcanvas.cpp:48
 #, c-format
@@ -5626,9 +5452,9 @@ msgid "Operation not permitted."
 msgstr "処理が許可されていません。"
 
 #: ../src/common/cmdline.cpp:900
-#, fuzzy, c-format
+#, c-format
 msgid "Option '%s' can't be negated"
-msgstr "ディレクトリー '%s' を作成できませんでした"
+msgstr ""
 
 #: ../src/common/cmdline.cpp:1064
 #, c-format
@@ -5654,15 +5480,12 @@ msgstr "向き"
 
 #: ../src/common/windowid.cpp:259
 msgid "Out of window IDs.  Recommend shutting down application."
-msgstr ""
-"ウィンドウIDが制限範囲を超えました。アプリケーションの再起動をおすすめしま"
-"す。"
+msgstr "ウィンドウIDが制限範囲を超えました。アプリケーションの再起動をおすすめします。"
 
 #: ../src/richtext/richtextborderspage.cpp:401
 #: ../src/richtext/richtextborderspage.cpp:559
-#, fuzzy
 msgid "Outline"
-msgstr "アウトラインレベル (&O):"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:621
 msgid "Outset"
@@ -5814,9 +5637,8 @@ msgid "PRC Envelope #9 Rotated 324 x 229 mm"
 msgstr "中国封筒 #9 横置き 324 x 229 mm"
 
 #: ../src/richtext/richtextmarginspage.cpp:285
-#, fuzzy
 msgid "Padding"
-msgstr "読み取り"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:2074
 #, c-format
@@ -5830,9 +5652,8 @@ msgstr "%dページ (%dページ中)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:56
-#, fuzzy
 msgid "Page Down"
-msgstr "%dページ"
+msgstr ""
 
 #: ../src/gtk/print.cpp:810
 msgid "Page Setup"
@@ -5840,9 +5661,8 @@ msgstr "ページの設定"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:55
-#, fuzzy
 msgid "Page Up"
-msgstr "%dページ"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:484 ../src/generic/prntdlgg.cpp:828
 msgid "Page setup"
@@ -5850,15 +5670,13 @@ msgstr "ページの設定"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:56
-#, fuzzy
 msgid "PageDown"
-msgstr "下へ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:55
-#, fuzzy
 msgid "PageUp"
-msgstr "指定"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:216
 msgid "Pages"
@@ -5926,9 +5744,8 @@ msgid "PgUp"
 msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:12815
-#, fuzzy
 msgid "Picture Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../include/wx/unix/pipe.h:47
 msgid "Pipe creation failed"
@@ -5956,31 +5773,25 @@ msgid ""
 "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"comctl32.dll の新しい版をインストールしてください。\n"
-"4.70 以上の版が必要ですが現在インストールされているのは %d.%02d です｡\n"
-"適切な版がないと正しく動作いたしません。"
+msgstr "comctl32.dll の新しい版をインストールしてください。\n4.70 以上の版が必要ですが現在インストールされているのは %d.%02d です｡\n適切な版がないと正しく動作いたしません。"
 
 #: ../src/common/headerctrlcmn.cpp:59
 msgid "Please select the columns to show and define their order:"
 msgstr "表示する列とその順番を選んでください:"
 
 #: ../src/common/prntbase.cpp:538
-#, fuzzy
 msgid "Please wait while printing..."
-msgstr "印刷が終わるまでお待ちください\n"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1728
-#, fuzzy
 msgid "Point Left"
-msgstr "大きさ(ポイント):"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1729
-#, fuzzy
 msgid "Point Right"
-msgstr "右寄せ"
+msgstr ""
 
 #. TRANSLATORS: Label of font point size
 #: ../src/propgrid/advprops.cpp:648
@@ -6009,23 +5820,20 @@ msgid "Portrait"
 msgstr "縦置き"
 
 #: ../src/richtext/richtextsizepage.cpp:496
-#, fuzzy
 msgid "Position"
-msgstr "印刷"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:298
 msgid "PostScript file"
 msgstr "PostScript ファイル"
 
 #: ../src/common/stockitem.cpp:181
-#, fuzzy
 msgid "Preferences"
-msgstr "設定 (&P)"
+msgstr ""
 
 #: ../src/osx/menu_osx.cpp:606
-#, fuzzy
 msgid "Preferences..."
-msgstr "設定 (&P)"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:546
 msgid "Preparing"
@@ -6070,18 +5878,16 @@ msgid "Print in colour"
 msgstr "カラー印刷"
 
 #: ../src/common/stockitem.cpp:182
-#, fuzzy
 msgid "Print previe&w..."
-msgstr "印刷プレビュー(&W)"
+msgstr ""
 
 #: ../src/common/docview.cpp:1265
 msgid "Print preview creation failed."
 msgstr "印刷プレビューを作成できませんでした。"
 
 #: ../src/common/stockitem.cpp:182
-#, fuzzy
 msgid "Print preview..."
-msgstr "印刷プレビュー"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:630
 msgid "Print spooling"
@@ -6096,9 +5902,8 @@ msgid "Print to File"
 msgstr "ファイルへ印刷"
 
 #: ../src/common/stockitem.cpp:183
-#, fuzzy
 msgid "Print..."
-msgstr "印刷 (&P) ..."
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:493
 msgid "Printer"
@@ -6138,14 +5943,14 @@ msgid "Printing Error"
 msgstr "印刷エラー"
 
 #: ../src/common/prntbase.cpp:565
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d"
-msgstr "%d ページを印刷中 ..."
+msgstr ""
 
 #: ../src/common/prntbase.cpp:570
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d of %d"
-msgstr "%d ページを印刷中 ..."
+msgstr ""
 
 #: ../src/generic/printps.cpp:201
 #, c-format
@@ -6163,11 +5968,8 @@ msgstr "印刷出力"
 
 #: ../src/common/debugrpt.cpp:565
 #, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
-msgstr ""
-"デバッグレポートの処理に失敗しました。ディレクトリー \"%s\" にファイルを残し"
-"ます。"
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr "デバッグレポートの処理に失敗しました。ディレクトリー \"%s\" にファイルを残します。"
 
 #: ../src/osx/carbon/dataview.cpp:2470
 msgid "Progress renderer cannot render value type; value type: "
@@ -6178,9 +5980,8 @@ msgid "Progress:"
 msgstr ""
 
 #: ../src/common/stockitem.cpp:184
-#, fuzzy
 msgid "Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../src/propgrid/manager.cpp:237
 msgid "Property"
@@ -6188,9 +5989,8 @@ msgstr "プロパティー"
 
 #. TRANSLATORS: Caption of message box displaying any property error
 #: ../src/propgrid/propgrid.cpp:3181 ../src/propgrid/propgrid.cpp:3314
-#, fuzzy
 msgid "Property Error"
-msgstr "プロパティー"
+msgstr ""
 
 #: ../src/propgrid/advprops.cpp:1558
 msgid "Purple"
@@ -6206,28 +6006,25 @@ msgstr "お尋ねします"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1730
-#, fuzzy
 msgid "Question Arrow"
-msgstr "お尋ねします"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:156
-#, fuzzy
 msgid "Quit"
-msgstr "終了 (&Q)"
+msgstr ""
 
 #: ../src/osx/menu_osx.cpp:623
-#, fuzzy, c-format
+#, c-format
 msgid "Quit %s"
-msgstr "終了 (&Q)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:263
 msgid "Quit this program"
 msgstr "このプログラムを終了します"
 
 #: ../src/common/accelcmn.cpp:328
-#, fuzzy
 msgid "RawCtrl+"
-msgstr "Ctrl+"
+msgstr ""
 
 #: ../src/common/ffile.cpp:109 ../src/common/ffile.cpp:133
 #, c-format
@@ -6239,9 +6036,8 @@ msgid "Ready"
 msgstr "準備完了"
 
 #: ../src/propgrid/advprops.cpp:1566
-#, fuzzy
 msgid "Red"
-msgstr "再実行"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:185 ../src/stc/stc_i18n.cpp:16
 msgid "Redo"
@@ -6271,10 +6067,7 @@ msgid ""
 "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"レジストリーキー '%s' は通常のシステム動作に必要です。\n"
-"これを削除するとシステムを不安定にします:\n"
-"処理を中断しました。"
+msgstr "レジストリーキー '%s' は通常のシステム動作に必要です。\nこれを削除するとシステムを不安定にします:\n処理を中断しました。"
 
 #: ../src/msw/registry.cpp:513
 #, c-format
@@ -6287,9 +6080,8 @@ msgid "Regular"
 msgstr "通常"
 
 #: ../src/richtext/richtextsizepage.cpp:519
-#, fuzzy
 msgid "Relative"
-msgstr "Decorative"
+msgstr ""
 
 #: ../src/generic/helpext.cpp:458
 msgid "Relevant entries:"
@@ -6304,9 +6096,8 @@ msgid "Remove"
 msgstr "削除"
 
 #: ../src/richtext/richtextctrl.cpp:1539
-#, fuzzy
 msgid "Remove Bullet"
-msgstr "削除"
+msgstr ""
 
 #: ../src/html/helpwnd.cpp:433
 msgid "Remove current page from bookmarks"
@@ -6315,9 +6106,7 @@ msgstr "ブックマークから現在のページを削除します"
 #: ../src/common/rendcmn.cpp:194
 #, c-format
 msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
-msgstr ""
-"レンダラー \"%s\" は非互換バージョン %d.%d で実装されているため読み取ることが"
-"できません。"
+msgstr "レンダラー \"%s\" は非互換バージョン %d.%d で実装されているため読み取ることができません。"
 
 #: ../src/osx/carbon/dataview.cpp:1428
 msgid "Rendering failed."
@@ -6366,9 +6155,8 @@ msgid "Revert to Saved"
 msgstr "保存した状態まで戻します"
 
 #: ../src/richtext/richtextborderspage.cpp:619
-#, fuzzy
 msgid "Ridge"
-msgstr "右"
+msgstr ""
 
 #: ../src/richtext/richtextfontpage.cpp:313
 msgid "Rig&ht-to-left"
@@ -6383,9 +6171,8 @@ msgstr "右"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1715
-#, fuzzy
 msgid "Right Arrow"
-msgstr "右"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1731
@@ -6434,9 +6221,8 @@ msgid "Save As"
 msgstr "Save As"
 
 #: ../src/common/stockitem.cpp:191
-#, fuzzy
 msgid "Save as"
-msgstr "Save As"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:267
 msgid "Save current document"
@@ -6512,9 +6298,8 @@ msgstr "ファイル '%s' のシークエラー(stdioでは大きなファイル
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:74
-#, fuzzy
 msgid "Select"
-msgstr "選択"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:192 ../src/msw/textctrl.cpp:2450
 #: ../src/osx/textctrl_osx.cpp:587 ../src/richtext/richtextctrl.cpp:337
@@ -6572,9 +6357,8 @@ msgid "Services"
 msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:11208
-#, fuzzy
 msgid "Set Cell Style"
-msgstr "スタイルの削除"
+msgstr ""
 
 #: ../include/wx/xtiprop.h:175
 msgid "SetProperty called w/o valid setter"
@@ -6601,9 +6385,8 @@ msgid "Shadow"
 msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:259
-#, fuzzy
 msgid "Shadow c&olour:"
-msgstr "色を選んでください"
+msgstr ""
 
 #: ../src/common/accelcmn.cpp:325
 msgid "Shift+"
@@ -6618,9 +6401,8 @@ msgid "Show &hidden files"
 msgstr "隠しファイルを表示する(&H)"
 
 #: ../src/osx/menu_osx.cpp:618
-#, fuzzy
 msgid "Show All"
-msgstr "すべて表示"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:257
 msgid "Show about dialog"
@@ -6729,9 +6511,8 @@ msgid "Slant"
 msgstr "斜体"
 
 #: ../src/richtext/richtextfontpage.cpp:289
-#, fuzzy
 msgid "Small C&apitals"
-msgstr "大文字化 (&P)"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:77
@@ -6739,9 +6520,8 @@ msgid "Snapshot"
 msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:614
-#, fuzzy
 msgid "Solid"
-msgstr "太字"
+msgstr ""
 
 #: ../src/common/docview.cpp:1794
 msgid "Sorry, could not open this file."
@@ -6774,18 +6554,16 @@ msgstr "'%s' は未対応の様式が使われている音声ファイルです�
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:65
-#, fuzzy
 msgid "Space"
-msgstr "間隔"
+msgstr ""
 
 #: ../src/richtext/richtextliststylepage.cpp:467
 msgid "Spacing"
 msgstr "間隔"
 
 #: ../src/common/stockitem.cpp:197
-#, fuzzy
 msgid "Spell Check"
-msgstr "スペルチェック (&S)"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1737
@@ -6803,23 +6581,20 @@ msgstr "ステートメント(計算書), 5 1/2 x 8 1/2インチ"
 
 #: ../src/richtext/richtextsizepage.cpp:518
 #: ../src/richtext/richtextsizepage.cpp:523
-#, fuzzy
 msgid "Static"
-msgstr "状態:"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:204
 msgid "Status:"
 msgstr "状態:"
 
 #: ../src/common/stockitem.cpp:198
-#, fuzzy
 msgid "Stop"
-msgstr "停止 (&S)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:199
-#, fuzzy
 msgid "Strikethrough"
-msgstr "打ち消し線 (&S)"
+msgstr ""
 
 #: ../src/common/colourcmn.cpp:45
 #, c-format
@@ -6909,14 +6684,12 @@ msgstr "TIFF: 画像の大きさが極端に大きいようです。"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:66
-#, fuzzy
 msgid "Tab"
-msgstr "タブ"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:11489
-#, fuzzy
 msgid "Table Properties"
-msgstr "プロパティー (&P)"
+msgstr ""
 
 #: ../src/common/paper.cpp:146
 msgid "Tabloid Extra 11.69 x 18 in"
@@ -6972,9 +6745,8 @@ msgstr "使用できるスタイルです。"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:169
 #: ../src/richtext/richtextbackgroundpage.cpp:171
-#, fuzzy
 msgid "The background colour."
-msgstr "背景色"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:269
 #: ../src/richtext/richtextborderspage.cpp:271
@@ -6992,29 +6764,25 @@ msgstr "背景色"
 #: ../src/richtext/richtextborderspage.cpp:508
 #: ../src/richtext/richtextborderspage.cpp:540
 #: ../src/richtext/richtextborderspage.cpp:542
-#, fuzzy
 msgid "The border line style."
-msgstr "フォントのスタイルを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextmarginspage.cpp:267
 #: ../src/richtext/richtextmarginspage.cpp:269
-#, fuzzy
 msgid "The bottom margin size."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/richtext/richtextmarginspage.cpp:381
 #: ../src/richtext/richtextmarginspage.cpp:383
-#, fuzzy
 msgid "The bottom padding size."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:639
 #: ../src/richtext/richtextsizepage.cpp:641
 #: ../src/richtext/richtextsizepage.cpp:653
 #: ../src/richtext/richtextsizepage.cpp:655
-#, fuzzy
 msgid "The bottom position."
-msgstr "タブ位置です。"
+msgstr ""
 
 #: ../src/richtext/richtextbulletspage.cpp:191
 #: ../src/richtext/richtextbulletspage.cpp:193
@@ -7038,10 +6806,7 @@ msgid ""
 "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"文字集合 '%s' は未対応です。\n"
-"他の文字集合で置き換えるかそれができないときは\n"
-"キャンセルしてください"
+msgstr "文字集合 '%s' は未対応です。\n他の文字集合で置き換えるかそれができないときは\nキャンセルしてください"
 
 #: ../src/msw/ole/dataobj.cpp:389
 #, c-format
@@ -7058,29 +6823,22 @@ msgstr "次の段落に適用されるスタイルを指定します。"
 msgid ""
 "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"ディレクトリー '%s' は存在しません\n"
-"作成しますか?"
+msgstr "ディレクトリー '%s' は存在しません\n作成しますか?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
 msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
+"The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n"
 "\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
-"文書 \"%s\" はページの水平方向にあわせることができません。印刷すると切り詰め"
-"られます。\n"
-"\n"
-"ご承知の上で印刷処理を進めますか?"
+msgstr "文書 \"%s\" はページの水平方向にあわせることができません。印刷すると切り詰められます。\n\nご承知の上で印刷処理を進めますか?"
 
 #: ../src/common/docview.cpp:1205
-#, fuzzy, c-format
+#, c-format
 msgid ""
 "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr "最近使ったファイルのリストから削除されています。"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:208
 #: ../src/richtext/richtextindentspage.cpp:210
@@ -7117,9 +6875,8 @@ msgstr "フォントの大きさをポイントで記します。"
 
 #: ../src/richtext/richtextfontpage.cpp:181
 #: ../src/richtext/richtextfontpage.cpp:183
-#, fuzzy
 msgid "The font size units, points or pixels."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/generic/fontdlgg.cpp:386 ../src/generic/fontdlgg.cpp:388
 msgid "The font style."
@@ -7136,9 +6893,8 @@ msgstr "ファイル '%s' の様式を決定できませんでした。"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:220
 #: ../src/richtext/richtextbackgroundpage.cpp:222
-#, fuzzy
 msgid "The horizontal offset."
-msgstr "横に並べる(&H)"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:199
 #: ../src/richtext/richtextindentspage.cpp:201
@@ -7149,23 +6905,20 @@ msgstr "左側の字下げを指定できます。"
 
 #: ../src/richtext/richtextmarginspage.cpp:194
 #: ../src/richtext/richtextmarginspage.cpp:196
-#, fuzzy
 msgid "The left margin size."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/richtext/richtextmarginspage.cpp:308
 #: ../src/richtext/richtextmarginspage.cpp:310
-#, fuzzy
 msgid "The left padding size."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:534
 #: ../src/richtext/richtextsizepage.cpp:536
 #: ../src/richtext/richtextsizepage.cpp:548
 #: ../src/richtext/richtextsizepage.cpp:550
-#, fuzzy
 msgid "The left position."
-msgstr "タブ位置です。"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:288
 #: ../src/richtext/richtextindentspage.cpp:290
@@ -7185,39 +6938,33 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:366
 #: ../src/richtext/richtextsizepage.cpp:368
-#, fuzzy
 msgid "The object height."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:474
 #: ../src/richtext/richtextsizepage.cpp:476
-#, fuzzy
 msgid "The object maximum height."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:447
 #: ../src/richtext/richtextsizepage.cpp:449
-#, fuzzy
 msgid "The object maximum width."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:420
 #: ../src/richtext/richtextsizepage.cpp:422
-#, fuzzy
 msgid "The object minimum height."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:393
 #: ../src/richtext/richtextsizepage.cpp:395
-#, fuzzy
 msgid "The object minimum width."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:332
 #: ../src/richtext/richtextsizepage.cpp:334
-#, fuzzy
 msgid "The object width."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:227
 #: ../src/richtext/richtextindentspage.cpp:229
@@ -7225,15 +6972,14 @@ msgid "The outline level."
 msgstr "アウトラインレベルを指定できます。"
 
 #: ../src/common/log.cpp:281
-#, fuzzy, c-format
+#, c-format
 msgid "The previous message repeated %u time."
 msgid_plural "The previous message repeated %u times."
-msgstr[0] "直前のメッセージは %lu 回繰り返されました。"
+msgstr[0] ""
 
 #: ../src/common/log.cpp:274
-#, fuzzy
 msgid "The previous message repeated once."
-msgstr "直前のメッセージは %lu 回繰り返されました。"
+msgstr ""
 
 #: ../src/richtext/richtextsymboldlg.cpp:462
 #: ../src/richtext/richtextsymboldlg.cpp:464
@@ -7242,13 +6988,9 @@ msgstr "表示する範囲を指定できます。"
 
 #: ../src/generic/dbgrptg.cpp:322
 msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+"The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
-"レポートに含まれるファイルは下記の通りです。公開すべきでないファイルが含まれ"
-"ている場合は\n"
-"そのファイルのチェックを外せばレポートから取り除かれます。\n"
+msgstr "レポートに含まれるファイルは下記の通りです。公開すべきでないファイルが含まれている場合は\nそのファイルのチェックを外せばレポートから取り除かれます。\n"
 
 #: ../src/common/cmdline.cpp:1254
 #, c-format
@@ -7264,23 +7006,20 @@ msgstr "右側の字下げです。"
 
 #: ../src/richtext/richtextmarginspage.cpp:219
 #: ../src/richtext/richtextmarginspage.cpp:221
-#, fuzzy
 msgid "The right margin size."
-msgstr "右側の字下げです。"
+msgstr ""
 
 #: ../src/richtext/richtextmarginspage.cpp:333
 #: ../src/richtext/richtextmarginspage.cpp:335
-#, fuzzy
 msgid "The right padding size."
-msgstr "右側の字下げです。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:604
 #: ../src/richtext/richtextsizepage.cpp:606
 #: ../src/richtext/richtextsizepage.cpp:618
 #: ../src/richtext/richtextsizepage.cpp:620
-#, fuzzy
 msgid "The right position."
-msgstr "タブ位置です。"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:310
 #: ../src/richtext/richtextbackgroundpage.cpp:312
@@ -7289,9 +7028,8 @@ msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:267
 #: ../src/richtext/richtextbackgroundpage.cpp:269
-#, fuzzy
 msgid "The shadow colour."
-msgstr "フォントの色を指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:337
 #: ../src/richtext/richtextbackgroundpage.cpp:339
@@ -7350,23 +7088,20 @@ msgstr "テキストが保存できませんでした。"
 
 #: ../src/richtext/richtextmarginspage.cpp:242
 #: ../src/richtext/richtextmarginspage.cpp:244
-#, fuzzy
 msgid "The top margin size."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/richtext/richtextmarginspage.cpp:356
 #: ../src/richtext/richtextmarginspage.cpp:358
-#, fuzzy
 msgid "The top padding size."
-msgstr "フォントの大きさをポイントで記します。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:569
 #: ../src/richtext/richtextsizepage.cpp:571
 #: ../src/richtext/richtextsizepage.cpp:583
 #: ../src/richtext/richtextsizepage.cpp:585
-#, fuzzy
 msgid "The top position."
-msgstr "タブ位置です。"
+msgstr ""
 
 #: ../src/common/cmdline.cpp:1232
 #, c-format
@@ -7383,15 +7118,12 @@ msgstr ""
 msgid ""
 "The version of remote access service (RAS) installed on this machine is too "
 "old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"このコンピューターにインストールされているリモートアクセスサービス(RAS)は古す"
-"ぎるようです。新しいものを用意してください(機能 %s が必要です)。"
+msgstr "このコンピューターにインストールされているリモートアクセスサービス(RAS)は古すぎるようです。新しいものを用意してください(機能 %s が必要です)。"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
-#, fuzzy
 msgid "The vertical offset."
-msgstr "整列方法を設定できませんでした。"
+msgstr ""
 
 #: ../src/osx/carbon/dataview.cpp:1338
 msgid "There is no column or renderer for the specified column index."
@@ -7399,23 +7131,20 @@ msgstr "指定された列のレンダラーまたは列そのものが存在し
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
 msgid ""
-"There was a problem during page setup: you may need to set a default printer."
-msgstr ""
-"ページの準備中に問題が検出されました: 既定のプリンターが未指定なら指定してく"
-"ださい。"
+"There was a problem during page setup: you may need to set a default "
+"printer."
+msgstr "ページの準備中に問題が検出されました: 既定のプリンターが未指定なら指定してください。"
 
 #: ../src/html/htmprint.cpp:255
 msgid ""
 "This document doesn't fit on the page horizontally and will be truncated "
 "when it is printed."
-msgstr ""
-"この文書はページの水平方向にあわせることができません。印刷すると切り詰められ"
-"ます。"
+msgstr "この文書はページの水平方向にあわせることができません。印刷すると切り詰められます。"
 
 #: ../src/common/image.cpp:2720
-#, fuzzy, c-format
+#, c-format
 msgid "This is not a %s."
-msgstr "PCX: PCXファイルではないようです。"
+msgstr ""
 
 #: ../src/common/wincmn.cpp:1670
 msgid "This platform does not support background transparency."
@@ -7431,16 +7160,13 @@ msgstr ""
 msgid ""
 "This system doesn't support date controls, please upgrade your version of "
 "comctl32.dll"
-msgstr ""
-"このシステムは、date コントロールに未対応です。comctl32.dllを更新してください"
+msgstr "このシステムは、date コントロールに未対応です。comctl32.dllを更新してください"
 
 #: ../src/msw/thread.cpp:1251
 msgid ""
 "Thread module initialization failed: cannot store value in thread local "
 "storage"
-msgstr ""
-"スレッドモジュールの初期化に失敗: スレッドローカルストレージに値を保存できま"
-"せんでした"
+msgstr "スレッドモジュールの初期化に失敗: スレッドローカルストレージに値を保存できませんでした"
 
 #: ../src/unix/threadpsx.cpp:1794
 msgid "Thread module initialization failed: failed to create thread key"
@@ -7450,9 +7176,7 @@ msgstr "スレッドモジュールの初期化に失敗: スレッドキーを�
 msgid ""
 "Thread module initialization failed: impossible to allocate index in thread "
 "local storage"
-msgstr ""
-"スレッドモジュールの初期化に失敗: スレッドローカルストレージに索引を割り当て"
-"られませんでした"
+msgstr "スレッドモジュールの初期化に失敗: スレッドローカルストレージに索引を割り当てられませんでした"
 
 #: ../src/unix/threadpsx.cpp:1043
 msgid "Thread priority setting is ignored."
@@ -7468,9 +7192,7 @@ msgstr "縦に並べる(&V)"
 
 #: ../src/common/ftp.cpp:202
 msgid "Timeout while waiting for FTP server to connect, try passive mode."
-msgstr ""
-"FTPサーバーとの接続を待機中に時間切れになりました。PASSIVEモードで試してみて"
-"ください。"
+msgstr "FTPサーバーとの接続を待機中に時間切れになりました。PASSIVEモードで試してみてください。"
 
 #: ../src/generic/tipdlg.cpp:215
 msgid "Tip of the Day"
@@ -7508,9 +7230,8 @@ msgstr ""
 
 #: ../src/common/stockitem.cpp:200 ../src/richtext/richtextsizepage.cpp:286
 #: ../src/richtext/richtextsizepage.cpp:290
-#, fuzzy
 msgid "Top"
-msgstr "上端 (&T)"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:881
 msgid "Top margin (mm):"
@@ -7564,12 +7285,8 @@ msgstr "型は列挙からlongへの変換が可能でなくてはなりませ�
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
-"型の処理 \"%s\" に失敗:  \"%s\" とラベルされたプロパティーは \"%s\" 型で"
-"す。\"%s\" ではありません。"
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr "型の処理 \"%s\" に失敗:  \"%s\" とラベルされたプロパティーは \"%s\" 型です。\"%s\" ではありません。"
 
 #: ../src/common/paper.cpp:134
 msgid "US Std Fanfold, 14 7/8 x 11 in"
@@ -7689,9 +7406,8 @@ msgid "Undelete"
 msgstr "削除の取り消し"
 
 #: ../src/common/stockitem.cpp:202
-#, fuzzy
 msgid "Underline"
-msgstr "下線 (&U)"
+msgstr ""
 
 #. TRANSLATORS: Label of underlined font
 #: ../src/osx/carbon/fontdlg.cpp:540 ../src/propgrid/advprops.cpp:676
@@ -7769,9 +7485,8 @@ msgid "Unicode 8 bit (UTF-8)"
 msgstr "ユニコード 8 ビット (UTF-8)"
 
 #: ../src/common/stockitem.cpp:204
-#, fuzzy
 msgid "Unindent"
-msgstr "字下げ解除 (&U)"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:362
 #: ../src/richtext/richtextborderspage.cpp:364
@@ -7795,15 +7510,13 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:664
 #: ../src/richtext/richtextsizepage.cpp:666
-#, fuzzy
 msgid "Units for the bottom position."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:599
 #: ../src/richtext/richtextborderspage.cpp:601
-#, fuzzy
 msgid "Units for the corner radius."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:260
 #: ../src/richtext/richtextborderspage.cpp:262
@@ -7827,33 +7540,28 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:559
 #: ../src/richtext/richtextsizepage.cpp:561
-#, fuzzy
 msgid "Units for the left position."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:485
 #: ../src/richtext/richtextsizepage.cpp:487
-#, fuzzy
 msgid "Units for the maximum object height."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:458
 #: ../src/richtext/richtextsizepage.cpp:460
-#, fuzzy
 msgid "Units for the maximum object width."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:431
 #: ../src/richtext/richtextsizepage.cpp:433
-#, fuzzy
 msgid "Units for the minimum object height."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:404
 #: ../src/richtext/richtextsizepage.cpp:406
-#, fuzzy
 msgid "Units for the minimum object width."
-msgstr "フォントのウエイトを指定できます。"
+msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:377
 #: ../src/richtext/richtextsizepage.cpp:379
@@ -7887,9 +7595,8 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:629
 #: ../src/richtext/richtextsizepage.cpp:631
-#, fuzzy
 msgid "Units for the right position."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:328
 #: ../src/richtext/richtextborderspage.cpp:330
@@ -7898,9 +7605,8 @@ msgstr ""
 
 #: ../src/richtext/richtextmarginspage.cpp:252
 #: ../src/richtext/richtextmarginspage.cpp:254
-#, fuzzy
 msgid "Units for the top margin."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:497
 #: ../src/richtext/richtextborderspage.cpp:499
@@ -7914,9 +7620,8 @@ msgstr ""
 
 #: ../src/richtext/richtextsizepage.cpp:594
 #: ../src/richtext/richtextsizepage.cpp:596
-#, fuzzy
 msgid "Units for the top position."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:231
 #: ../src/richtext/richtextbackgroundpage.cpp:233
@@ -7926,9 +7631,8 @@ msgstr "スレッドの終了待ちに失敗しました。"
 #: ../src/richtext/richtextbackgroundpage.cpp:296
 #: ../src/richtext/richtextbackgroundpage.cpp:321
 #: ../src/richtext/richtextbackgroundpage.cpp:323
-#, fuzzy
 msgid "Units for this value."
-msgstr "スレッドの終了待ちに失敗しました。"
+msgstr ""
 
 #: ../src/generic/progdlgg.cpp:385 ../src/generic/progdlgg.cpp:658
 msgid "Unknown"
@@ -7944,9 +7648,9 @@ msgid "Unknown Object passed to GetObjectClassInfo"
 msgstr "未知のオブジェクトが GetObjectClassInfo に渡されました"
 
 #: ../src/common/imagpng.cpp:606
-#, fuzzy, c-format
+#, c-format
 msgid "Unknown PNG resolution unit %d"
-msgstr "未知の解像度単位 %d を無視しました"
+msgstr ""
 
 #: ../src/common/xtixml.cpp:327
 #, c-format
@@ -7972,19 +7676,17 @@ msgid "Unknown encoding (%d)"
 msgstr "未知のエンコーディング (%d)"
 
 #: ../src/msw/ole/automtn.cpp:694
-#, fuzzy, c-format
+#, c-format
 msgid "Unknown error %08x"
-msgstr "想定外のDDE エラー 0x%08x"
+msgstr ""
 
 #: ../src/msw/ole/automtn.cpp:653
-#, fuzzy
 msgid "Unknown exception"
-msgstr "未定義の簡易オプション名 '%s'"
+msgstr ""
 
 #: ../src/common/image.cpp:2705
-#, fuzzy
 msgid "Unknown image data format."
-msgstr "未知のデータ様式です"
+msgstr ""
 
 #: ../src/common/cmdline.cpp:914
 #, c-format
@@ -7992,9 +7694,8 @@ msgid "Unknown long option '%s'"
 msgstr "未定義の詳細オプション名 '%s'"
 
 #: ../src/msw/ole/automtn.cpp:637
-#, fuzzy
 msgid "Unknown name or named argument."
-msgstr "未知のデータ様式です"
+msgstr ""
 
 #: ../src/common/cmdline.cpp:929 ../src/common/cmdline.cpp:951
 #, c-format
@@ -8070,20 +7771,20 @@ msgid "Value"
 msgstr "値"
 
 #: ../src/propgrid/props.cpp:385 ../src/propgrid/props.cpp:492
-#, fuzzy, c-format
+#, c-format
 msgid "Value must be %s or higher."
-msgstr "%f 以上の値にしてください"
+msgstr ""
 
 #: ../src/propgrid/props.cpp:412 ../src/propgrid/props.cpp:519
-#, fuzzy, c-format
+#, c-format
 msgid "Value must be %s or less."
-msgstr "%f 以下の値にしてください"
+msgstr ""
 
 #: ../src/propgrid/props.cpp:389 ../src/propgrid/props.cpp:416
 #: ../src/propgrid/props.cpp:496 ../src/propgrid/props.cpp:523
-#, fuzzy, c-format
+#, c-format
 msgid "Value must be between %s and %s."
-msgstr "%f 以下の値にしてください"
+msgstr ""
 
 #: ../src/generic/aboutdlgg.cpp:128
 msgid "Version "
@@ -8091,9 +7792,8 @@ msgstr "バージョン "
 
 #: ../src/richtext/richtextsizepage.cpp:291
 #: ../src/richtext/richtextsizepage.cpp:293
-#, fuzzy
 msgid "Vertical alignment."
-msgstr "整列方法を設定できませんでした。"
+msgstr ""
 
 #: ../src/generic/filedlgg.cpp:208
 msgid "View files as a detailed view"
@@ -8170,46 +7870,38 @@ msgstr "Windows 3.1 上の Win32s"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:879
-#, fuzzy
 msgid "Window"
-msgstr "ウィンドウ (&W)"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:880
-#, fuzzy
 msgid "WindowFrame"
-msgstr "ウィンドウ (&W)"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:881
-#, fuzzy
 msgid "WindowText"
-msgstr "ウィンドウ (&W)"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1233
-#, fuzzy
 msgid "Windows 10"
-msgstr "Windows 98"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1183
-#, fuzzy
 msgid "Windows 2000"
-msgstr "Windows 95"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1215
-#, fuzzy
 msgid "Windows 7"
-msgstr "Windows 95"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1221
-#, fuzzy
 msgid "Windows 8"
-msgstr "Windows 98"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1227
-#, fuzzy
 msgid "Windows 8.1"
-msgstr "Windows 98"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1147
 msgid "Windows 95"
@@ -8250,14 +7942,12 @@ msgid "Windows Central European (CP 1250)"
 msgstr "Windows 中央ヨーロッパ言語 (CP 1250)"
 
 #: ../src/common/fmapbase.cpp:168
-#, fuzzy
 msgid "Windows Chinese Simplified (CP 936) or GB-2312"
-msgstr "Windows 簡体字中国語 (CP 936)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:170
-#, fuzzy
 msgid "Windows Chinese Traditional (CP 950) or Big-5"
-msgstr "Windows 繁体字中国語 (CP 950)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:172
 msgid "Windows Cyrillic (CP 1251)"
@@ -8272,14 +7962,12 @@ msgid "Windows Hebrew (CP 1255)"
 msgstr "Windows ヘブライ語 (CP 1255)"
 
 #: ../src/common/fmapbase.cpp:167
-#, fuzzy
 msgid "Windows Japanese (CP 932) or Shift-JIS"
-msgstr "Windows 日本語/Windows シフトJIS (CP 932)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:180
-#, fuzzy
 msgid "Windows Johab (CP 1361)"
-msgstr "Windows アラビア語 (CP 1256)"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:169
 msgid "Windows Korean (CP 949)"
@@ -8290,39 +7978,33 @@ msgid "Windows ME"
 msgstr "Windows ME"
 
 #: ../src/msw/utils.cpp:1241
-#, fuzzy, c-format
+#, c-format
 msgid "Windows NT %lu.%lu"
-msgstr "Windows NT %lu.%lu (ビルド %lu"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1232
-#, fuzzy
 msgid "Windows Server 10"
-msgstr "Windows Server 2003 (ビルド %lu"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1192
-#, fuzzy
 msgid "Windows Server 2003"
-msgstr "Windows Server 2003 (ビルド %lu"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1208
-#, fuzzy
 msgid "Windows Server 2008"
-msgstr "Windows Server 2003 (ビルド %lu"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1214
-#, fuzzy
 msgid "Windows Server 2008 R2"
-msgstr "Windows Server 2003 (ビルド %lu"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1220
-#, fuzzy
 msgid "Windows Server 2012"
-msgstr "Windows Server 2003 (ビルド %lu"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1226
-#, fuzzy
 msgid "Windows Server 2012 R2"
-msgstr "Windows Server 2003 (ビルド %lu"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:166
 msgid "Windows Thai (CP 874)"
@@ -8333,50 +8015,43 @@ msgid "Windows Turkish (CP 1254)"
 msgstr "Windows トルコ語 (CP 1254)"
 
 #: ../src/common/fmapbase.cpp:179
-#, fuzzy
 msgid "Windows Vietnamese (CP 1258)"
-msgstr "Windows ギリシャ語 (CP 1253)"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1209
-#, fuzzy
 msgid "Windows Vista"
-msgstr "Windows Vista (ビルド %lu"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:173
 msgid "Windows Western European (CP 1252)"
 msgstr "Windows 西ヨーロッパ言語 (CP 1252)"
 
 #: ../src/msw/utils.cpp:1198
-#, fuzzy
 msgid "Windows XP"
-msgstr "Windows 95"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:181
 msgid "Windows/DOS OEM (CP 437)"
 msgstr "Windows/DOS OEM (CP 437)"
 
 #: ../src/common/fmapbase.cpp:165
-#, fuzzy
 msgid "Windows/DOS OEM Cyrillic (CP 866)"
-msgstr "Windows キリル言語 (CP 1251)"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:109
-#, fuzzy
 msgid "Windows_Left"
-msgstr "Windows 95"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:111
-#, fuzzy
 msgid "Windows_Menu"
-msgstr "Windows ME"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:110
-#, fuzzy
 msgid "Windows_Right"
-msgstr "Windows Vista (ビルド %lu"
+msgstr ""
 
 #: ../src/common/ffile.cpp:150
 #, c-format
@@ -8449,23 +8124,20 @@ msgid "Zoom &Out"
 msgstr "縮小(&O)"
 
 #: ../src/common/prntbase.cpp:1594 ../src/common/stockitem.cpp:209
-#, fuzzy
 msgid "Zoom In"
-msgstr "拡大(&I)"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:1580 ../src/common/stockitem.cpp:210
-#, fuzzy
 msgid "Zoom Out"
-msgstr "縮小(&O)"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:208
 msgid "Zoom to &Fit"
 msgstr "画面に合わせる(&F)"
 
 #: ../src/common/stockitem.cpp:208
-#, fuzzy
 msgid "Zoom to Fit"
-msgstr "画面に合わせる(&F)"
+msgstr ""
 
 #: ../src/msw/dde.cpp:1144
 msgid "a DDEML application has created a prolonged race condition."
@@ -8473,14 +8145,10 @@ msgstr "DDEML アプリケーションが競合状態の延長として作成さ
 
 #: ../src/msw/dde.cpp:1132
 msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+"a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"DdeInitalize 関数より先に別の DDEML 関数が呼び出されたか、\n"
-"無効な実体識別子が DDEML 関数に渡されました。\n"
-"　"
+msgstr "DdeInitalize 関数より先に別の DDEML 関数が呼び出されたか、\n無効な実体識別子が DDEML 関数に渡されました。\n　"
 
 #: ../src/msw/dde.cpp:1150
 msgid "a client's attempt to establish a conversation has failed."
@@ -8519,10 +8187,7 @@ msgid ""
 "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"サーバーサイドトランザクションが通信対話の確立を試みましたが\n"
-"クライアントによって終了されたかトランザクション成立前に\n"
-"終了してしまいました。"
+msgstr "サーバーサイドトランザクションが通信対話の確立を試みましたが\nクライアントによって終了されたかトランザクション成立前に\n終了してしまいました。"
 
 #: ../src/msw/dde.cpp:1153
 msgid "a transaction failed."
@@ -8538,11 +8203,7 @@ msgid ""
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"APPCLASS_MONITOR として初期化されたアプリケーションが\n"
-"DDEトランザクションの実現を試みたか、\n"
-"APPCMD_CLIENTONLY で初期化されたものが\n"
-"サーバートランザクションの実現を試みようとしました。"
+msgstr "APPCLASS_MONITOR として初期化されたアプリケーションが\nDDEトランザクションの実現を試みたか、\nAPPCMD_CLIENTONLY で初期化されたものが\nサーバートランザクションの実現を試みようとしました。"
 
 #: ../src/msw/dde.cpp:1159
 msgid "an internal call to the PostMessage function has failed. "
@@ -8557,10 +8218,7 @@ msgid ""
 "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"不正なトランザクション識別子が DDEML 関数に渡されました。\n"
-"XTYP_XACT_COMPLETE コールバックで識別子を使った後復帰した\n"
-"アプリケーションはその識別子を以後の呼び出しで使うことができません。"
+msgstr "不正なトランザクション識別子が DDEML 関数に渡されました。\nXTYP_XACT_COMPLETE コールバックで識別子を使った後復帰した\nアプリケーションはその識別子を以後の呼び出しで使うことができません。"
 
 #: ../src/common/zipstrm.cpp:1272
 msgid "assuming this is a multi-part zip concatenated"
@@ -8592,9 +8250,9 @@ msgid "bold"
 msgstr "太字"
 
 #: ../src/msw/utils.cpp:1247
-#, fuzzy, c-format
+#, c-format
 msgid "build %lu"
-msgstr "Windows XP (ビルド %lu"
+msgstr ""
 
 #: ../src/common/ffile.cpp:75
 #, c-format
@@ -9109,9 +8767,8 @@ msgid "px"
 msgstr ""
 
 #: ../src/common/accelcmn.cpp:189
-#, fuzzy
 msgid "rawctrl"
-msgstr "Ctrl"
+msgstr ""
 
 #: ../src/html/chm.cpp:333
 msgid "read error"
@@ -9176,9 +8833,8 @@ msgid "standard/circle"
 msgstr "標準/丸"
 
 #: ../src/richtext/richtextbuffer.cpp:9334
-#, fuzzy
 msgid "standard/circle-outline"
-msgstr "標準/丸"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:9336
 msgid "standard/diamond"
@@ -9201,9 +8857,8 @@ msgid "str"
 msgstr "文字列"
 
 #: ../src/common/fontcmn.cpp:980
-#, fuzzy
 msgid "strikethrough"
-msgstr "打ち消し線 (&S)"
+msgstr ""
 
 #: ../src/common/tarstrm.cpp:1003 ../src/common/tarstrm.cpp:1025
 #: ../src/common/tarstrm.cpp:1507 ../src/common/tarstrm.cpp:1529
@@ -9329,8 +8984,7 @@ msgstr "wxWidgetsのコントロールが初期化されていません。"
 #: ../src/motif/app.cpp:245
 #, c-format
 msgid "wxWidgets could not open display for '%s': exiting."
-msgstr ""
-"wxWidgets はディスプレイ '%s' を開くことができませんでした: 終了します。"
+msgstr "wxWidgets はディスプレイ '%s' を開くことができませんでした: 終了します。"
 
 #: ../src/x11/app.cpp:170
 msgid "wxWidgets could not open display. Exiting."
@@ -9353,821 +9007,3 @@ msgstr "zlib エラー %d"
 #: ../src/richtext/richtextliststylepage.cpp:496
 msgid "~"
 msgstr "~"
-
-#~ msgid "ADD"
-#~ msgstr "ADD"
-
-#~ msgid "BACK"
-#~ msgstr "BS"
-
-#~ msgid "CANCEL"
-#~ msgstr "CANCEL"
-
-#~ msgid "CAPITAL"
-#~ msgstr "CapsLock"
-
-#~ msgid "CLEAR"
-#~ msgstr "CLEAR"
-
-#~ msgid "COMMAND"
-#~ msgstr "COMMAND"
-
-#~ msgid "Cannot create mutex."
-#~ msgstr "Mutex を作成できません。"
-
-#~ msgid "Cannot resume thread %lu"
-#~ msgstr "スレッド %lu のリジュームができません"
-
-#~ msgid "Cannot suspend thread %lu"
-#~ msgstr "スレッド %lu のサスペンドができません"
-
-#~ msgid "Couldn't acquire a mutex lock"
-#~ msgstr "Mutexロックを取得できませんでした｡"
-
-#~ msgid "Couldn't get hatch style from wxBrush."
-#~ msgstr "wxBrush からハッチスタイルを取得できませんでした。"
-
-#~ msgid "Couldn't release a mutex"
-#~ msgstr "Mutexを解放できませんでした"
-
-#~ msgid "DECIMAL"
-#~ msgstr "DECIMAL"
-
-#~ msgid "DEL"
-#~ msgstr "DEL"
-
-#~ msgid "DELETE"
-#~ msgstr "DELETE"
-
-#~ msgid "DIVIDE"
-#~ msgstr "DIVIDE"
-
-#~ msgid "DOWN"
-#~ msgstr "↓"
-
-#~ msgid "END"
-#~ msgstr "END"
-
-#~ msgid "ENTER"
-#~ msgstr "ENTER"
-
-#~ msgid "ESC"
-#~ msgstr "ESC"
-
-#~ msgid "ESCAPE"
-#~ msgstr "ESCAPE"
-
-#~ msgid "EXECUTE"
-#~ msgstr "EXECUTE"
-
-#~ msgid "Execution of command '%s' failed with error: %ul"
-#~ msgstr "コマンド '%s' を実行できませんでした。エラーコード: %ul"
-
-#~ msgid ""
-#~ "File '%s' already exists.\n"
-#~ "Do you want to replace it?"
-#~ msgstr ""
-#~ "ファイル '%s' はすでに存在します。\n"
-#~ "置き換えますか?"
-
-#~ msgid "HELP"
-#~ msgstr "HELP"
-
-#~ msgid "HOME"
-#~ msgstr "HOME"
-
-#~ msgid "INS"
-#~ msgstr "INS"
-
-#~ msgid "INSERT"
-#~ msgstr "INSERT"
-
-#~ msgid "KP_BEGIN"
-#~ msgstr "KP_BEGIN"
-
-#~ msgid "KP_DECIMAL"
-#~ msgstr "KP_DECIMAL"
-
-#~ msgid "KP_DELETE"
-#~ msgstr "KP_DELETE"
-
-#~ msgid "KP_DIVIDE"
-#~ msgstr "Num/"
-
-#~ msgid "KP_DOWN"
-#~ msgstr "Num↓"
-
-#~ msgid "KP_ENTER"
-#~ msgstr "NumEnter"
-
-#~ msgid "KP_EQUAL"
-#~ msgstr "Num="
-
-#~ msgid "KP_HOME"
-#~ msgstr "NumHome"
-
-#~ msgid "KP_INSERT"
-#~ msgstr "NumInsert"
-
-#~ msgid "KP_LEFT"
-#~ msgstr "Num←"
-
-#~ msgid "KP_MULTIPLY"
-#~ msgstr "Num*"
-
-#~ msgid "KP_NEXT"
-#~ msgstr "KP_NEXT"
-
-#~ msgid "KP_PAGEDOWN"
-#~ msgstr "NumPageDown"
-
-#~ msgid "KP_PAGEUP"
-#~ msgstr "NumPageUp"
-
-#~ msgid "KP_PRIOR"
-#~ msgstr "KP_PRIOR"
-
-#~ msgid "KP_RIGHT"
-#~ msgstr "Num→"
-
-#~ msgid "KP_SEPARATOR"
-#~ msgstr "KP_SEPARATOR"
-
-#~ msgid "KP_SPACE"
-#~ msgstr "KP_SPACE"
-
-#~ msgid "KP_SUBTRACT"
-#~ msgstr "Num-"
-
-#~ msgid "LEFT"
-#~ msgstr "←"
-
-#~ msgid "MENU"
-#~ msgstr "MENU"
-
-#~ msgid "NUM_LOCK"
-#~ msgstr "NumLock"
-
-#~ msgid "PAGEDOWN"
-#~ msgstr "PAGEDOWN"
-
-#~ msgid "PAGEUP"
-#~ msgstr "PAGEUP"
-
-#~ msgid "PAUSE"
-#~ msgstr "PAUSE"
-
-#~ msgid "PGDN"
-#~ msgstr "PGDN"
-
-#~ msgid "PGUP"
-#~ msgstr "PGUP"
-
-#~ msgid "PRINT"
-#~ msgstr "PrintScreen"
-
-#~ msgid "RETURN"
-#~ msgstr "RETURN"
-
-#~ msgid "RIGHT"
-#~ msgstr "→"
-
-#~ msgid "SCROLL_LOCK"
-#~ msgstr "ScrollLock"
-
-#~ msgid "SELECT"
-#~ msgstr "SELECT"
-
-#~ msgid "SEPARATOR"
-#~ msgstr "SEPARATOR"
-
-#~ msgid "SNAPSHOT"
-#~ msgstr "SNAPSHOT"
-
-#~ msgid "SPACE"
-#~ msgstr "SPACE"
-
-#~ msgid "SUBTRACT"
-#~ msgstr "SUBTRACT"
-
-#~ msgid "TAB"
-#~ msgstr "TAB"
-
-#~ msgid "The print dialog returned an error."
-#~ msgstr "印刷ダイアログがエラーを返しました。"
-
-#~ msgid "The wxGtkPrinterDC cannot be used."
-#~ msgstr "wxGtkPrinterDC が利用できません。"
-
-#~ msgid "Timer creation failed."
-#~ msgstr "タイマーの作成に失敗しました。"
-
-#~ msgid "UP"
-#~ msgstr "↑"
-
-#~ msgid "WINDOWS_LEFT"
-#~ msgstr "左Windows"
-
-#~ msgid "WINDOWS_MENU"
-#~ msgstr "Application"
-
-#~ msgid "WINDOWS_RIGHT"
-#~ msgstr "右Windows"
-
-#~ msgid "buffer is too small for Windows directory."
-#~ msgstr "バッファーが小さいので Windows ディレクトリーを格納できません。"
-
-#~ msgid "not implemented"
-#~ msgstr "実装されていません"
-
-#~ msgid "wxPrintout::GetPageInfo gives a null maxPage."
-#~ msgstr "wxPrintout::GetPageInfo が maxPage に 0 を返しました。"
-
-#~ msgid "Event queue overflowed"
-#~ msgstr "イベントキューが溢れました"
-
-#~ msgid "Print preview"
-#~ msgstr "印刷プレビュー"
-
-#~ msgid "'"
-#~ msgstr "'"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#, fuzzy
-#~ msgid "10"
-#~ msgstr "1"
-
-#~ msgid "3"
-#~ msgstr "3"
-
-#~ msgid "4"
-#~ msgstr "4"
-
-#~ msgid "5"
-#~ msgstr "5"
-
-#~ msgid "6"
-#~ msgstr "6"
-
-#~ msgid "7"
-#~ msgstr "7"
-
-#~ msgid "8"
-#~ msgstr "8"
-
-#~ msgid "9"
-#~ msgstr "9"
-
-#~ msgid "File system containing watched object was unmounted"
-#~ msgstr "監視中のオブジェクトを持つファイルシステムがアンマウントされました"
-
-#, fuzzy
-#~ msgid "&Preview..."
-#~ msgstr " プレビュー"
-
-#~ msgid "Passing an unkown object to GetObject"
-#~ msgstr "GetObject に未知のオブジェクトが渡されました"
-
-#, fuzzy
-#~ msgid "Preview..."
-#~ msgstr " プレビュー"
-
-#, fuzzy
-#~ msgid "The vertical offset relative to the paragraph."
-#~ msgstr "次の段落に適用されるスタイルを指定します。"
-
-#~ msgid "&Save..."
-#~ msgstr "保存 (&S) ..."
-
-#~ msgid "About "
-#~ msgstr "詳細"
-
-#~ msgid "All files (*.*)|*"
-#~ msgstr "すべてのファイル (*.*)|*"
-
-#~ msgid "Cannot initialize SciTech MGL!"
-#~ msgstr "SciTech MGL を初期化できません。"
-
-#~ msgid "Cannot initialize display."
-#~ msgstr "ディスプレイを初期化できません。"
-
-#~ msgid "Cannot start thread: error writing TLS"
-#~ msgstr "スレッドを開始できません: TLSへの書き込みに失敗しています。"
-
-#~ msgid "Close\tAlt-F4"
-#~ msgstr "閉じる\tAlt-F4"
-
-#~ msgid "Couldn't create cursor."
-#~ msgstr "カーソルを作成できませんでした"
-
-#~ msgid "Directory '%s' doesn't exist!"
-#~ msgstr "ディレクトリー '%s' は存在しません。"
-
-#~ msgid "File %s does not exist."
-#~ msgstr "ファイル %s は存在しません。"
-
-#~ msgid "Mode %ix%i-%i not available."
-#~ msgstr "モード %ix%i-%i は使えません。"
-
-#~ msgid "Paper Size"
-#~ msgstr "用紙サイズ"
-
-#~ msgid "&Goto..."
-#~ msgstr "移動 (&G)..."
-
-#~ msgid "<<"
-#~ msgstr "<<"
-
-#~ msgid ">>"
-#~ msgstr ">>"
-
-#~ msgid ">>|"
-#~ msgstr ">>|"
-
-#~ msgid "Added item is invalid."
-#~ msgstr "追加された項目は正しくないようです。"
-
-#~ msgid "BIG5"
-#~ msgstr "BIG5"
-
-#~ msgid "Can't check image format of file '%s': file does not exist."
-#~ msgstr "ファイル '%s' が存在しないため画像形式の調査はできません。"
-
-#~ msgid "Can't load image from file '%s': file does not exist."
-#~ msgstr "ファイル '%s' は存在しないため画像の読み取りができません。"
-
-#~ msgid "Cannot open file '%s'."
-#~ msgstr "ファイル '%s' を開くことができません。"
-
-#~ msgid "Changed item is invalid."
-#~ msgstr "変更された項目が不正のようです。"
-
-#~ msgid "Click to cancel this window."
-#~ msgstr "クリックでこのウィンドウをキャンセルします。"
-
-#~ msgid "Click to confirm your selection."
-#~ msgstr "クリックで選択を確定します。"
-
-#~ msgid "Column could not be added to native control."
-#~ msgstr "列をネイティブコントロールに追加できませんでした。"
-
-#~ msgid "Column does not have a renderer."
-#~ msgstr "列のレンダラーがありません。"
-
-#~ msgid "Column pointer must not be NULL."
-#~ msgstr "列のポインタは NULL にはできません。"
-
-#~ msgid "Column's model column has no equivalent in the associated model."
-#~ msgstr "関連づけられたモデルの中には列のモデルに適合するものがありません。"
-
-#~ msgid "Could not add column to internal structures."
-#~ msgstr "内部構造に列を追加できませんでした。"
-
-#~ msgid "Enter a page number between %d and %d:"
-#~ msgstr "%d から %d までの値でページを指定してください:"
-
-#~ msgid "Failed to create a status bar."
-#~ msgstr "ステータスバーを作成できませんでした。"
-
-#~ msgid "GB-2312"
-#~ msgstr "GB-2312"
-
-#~ msgid "Goto Page"
-#~ msgstr "ページ番号指定"
-
-#~ msgid ""
-#~ "HTML pagination algorithm generated more than the allowed maximum number "
-#~ "of pages and it can't continue any longer!"
-#~ msgstr ""
-#~ "HTMLのページ化アルゴリズムが出力可能数より多くのページを生成しました。生成"
-#~ "を中断します。"
-
-#~ msgid "I64"
-#~ msgstr "I64"
-
-#~ msgid "Internal error, illegal wxCustomTypeInfo"
-#~ msgstr "内部エラーです。不正な wxCustomTypeInfo を検出しました"
-
-#~ msgid "Model pointer not initialized."
-#~ msgstr "モデルポインターは初期化されていません。"
-
-#~ msgid "No image handler for type %ld defined."
-#~ msgstr "%ld 型のイメージハンドラーが定義されていません。"
-
-#~ msgid "No model associated with control."
-#~ msgstr "コントロールにモデルが関連づけられていません。"
-
-#~ msgid "Owner not initialized."
-#~ msgstr "Ownerは初期化されていません。"
-
-#~ msgid "Passed item is invalid."
-#~ msgstr "与えられた項目は無効です。"
-
-#~ msgid "Passing a already registered object to SetObjectName"
-#~ msgstr "SetObjectName に登録済みのオブジェクトが渡されました"
-
-#~ msgid "Pointer to dataview control must not be NULL"
-#~ msgstr "データビューコントロールへのポインタには NULL を指定できません"
-
-#~ msgid "Pointer to native control must not be NULL."
-#~ msgstr "ネイティブコントロールへのポインタには NULL を指定できません。"
-
-#~ msgid "SHIFT-JIS"
-#~ msgstr "SHIFT-JIS"
-
-#~ msgid ""
-#~ "Streaming delegates for not already streamed objects not yet supported"
-#~ msgstr ""
-#~ "ストリーム化されていないオブジェクトへのストリーム委譲は実装されていませ"
-#~ "ん。"
-
-#~ msgid ""
-#~ "The data format for the GET-direction of the to be added data object "
-#~ "already exists"
-#~ msgstr ""
-#~ "追加しようとしているデータオブジェクトのGET方向に関するデータ様式はすでに"
-#~ "存在します。"
-
-#~ msgid ""
-#~ "The data format for the SET-direction of the to be added data object "
-#~ "already exists"
-#~ msgstr ""
-#~ "追加しようとしているデータオブジェクトのSET方向に関するデータ様式はすでに"
-#~ "存在します。"
-
-#~ msgid "The file '%s' doesn't exist and couldn't be opened."
-#~ msgstr "ファイル '%s' を開こうとしましたが存在しませんでした。"
-
-#~ msgid "The path '%s' contains too many \"..\"!"
-#~ msgstr "パス '%s' に含まれる \"..\" が多すぎます。"
-
-#~ msgid "To be deleted item is invalid."
-#~ msgstr "削除しようとしている項目の指定が正しくないようです。"
-
-#~ msgid "Update"
-#~ msgstr "更新"
-
-#~ msgid "Value must be %lld or higher"
-#~ msgstr "%lld 以上の値にしてください"
-
-#~ msgid "Value must be %llu or higher"
-#~ msgstr "%llu 以上の値にしてください"
-
-#~ msgid "Value must be %llu or less"
-#~ msgstr "%llu 以下の値にしてください"
-
-#~ msgid "Warning"
-#~ msgstr "警告"
-
-#~ msgid "Windows 2000 (build %lu"
-#~ msgstr "Windows 2000 (ビルド %lu"
-
-#~ msgid "delegate has no type info"
-#~ msgstr "委譲の型情報がありません"
-
-#~ msgid "wxSearchEngine::LookFor must be called before scanning!"
-#~ msgstr "検索に先立って wxSearchEngine::LookFor を呼び出す必要があります。"
-
-#~ msgid "|<<"
-#~ msgstr "|<<"
-
-#~ msgid "\t%s: %s\n"
-#~ msgstr "\t%s: %s\n"
-
-#~ msgid " Couldn't create the UnicodeConverter"
-#~ msgstr " UnicodeConverterを作成できません"
-
-#~ msgid "#define %s must be an integer."
-#~ msgstr "#define %s は整数でなくてはなりません。"
-
-#~ msgid "%.*f GB"
-#~ msgstr "%.*f GiB"
-
-#~ msgid "%.*f MB"
-#~ msgstr "%.*f MiB"
-
-#~ msgid "%.*f TB"
-#~ msgstr "%.*f TiB"
-
-#~ msgid "%.*f kB"
-#~ msgstr "%.*f KiB"
-
-#~ msgid "%s not a bitmap resource specification."
-#~ msgstr "%s をビットマップリソースとして認識できません。"
-
-#~ msgid "%s not an icon resource specification."
-#~ msgstr "%s をアイコンリソースとして認識できません。"
-
-#~ msgid "%s: ill-formed resource file syntax."
-#~ msgstr "%s: リソース文法が満たされていないようです。"
-
-#~ msgid "&Open"
-#~ msgstr "開く (&O)"
-
-#~ msgid "&Print"
-#~ msgstr "印刷 (&P)"
-
-#~ msgid ""
-#~ ", expected static, #include or #define\n"
-#~ "while parsing resource."
-#~ msgstr ""
-#~ "を見つけましたが static, #include, #defineの\n"
-#~ "どれでもありません｡"
-
-#~ msgid "Archive doesnt contain #SYSTEM file"
-#~ msgstr "書庫は #SYSTEM ファイルを含んでいません"
-
-#~ msgid "Bitmap resource specification %s not found."
-#~ msgstr "ビットマップリソース仕様 %s は未対応です。"
-
-#~ msgid "Cannot convert dialog units: dialog unknown."
-#~ msgstr "ダイアログ単位に変換できません: ダイアログが未知です。"
-
-#~ msgid "Cannot convert from the charset '%s'!"
-#~ msgstr "文字集合 '%s' から変換できません。"
-
-#~ msgid "Cannot find container for unknown control '%s'."
-#~ msgstr "未知のコントロール '%s' に対するコンテナを見つけられません。"
-
-#~ msgid "Cannot find font node '%s'."
-#~ msgstr "フォントノード '%s' が見つかりません。"
-
-#~ msgid "Cannot parse coordinates from '%s'."
-#~ msgstr "寸法を '%s' から取得できません。"
-
-#~ msgid "Cannot parse dimension from '%s'."
-#~ msgstr "'%s' から大きさの値を解析できません。"
-
-#~ msgid "Cant create the thread event queue"
-#~ msgstr "スレッドイベントキューを作成できませんでした"
-
-#~ msgid "Closes the dialog without inserting a symbol."
-#~ msgstr "記号を挿入せずにダイアログを閉じます。"
-
-#~ msgid "Control is wrongly initialized."
-#~ msgstr "コントロールが正しく初期化されていません。"
-
-#~ msgid "Could not find resource include file %s."
-#~ msgstr "リソースインクルードファイル %s が見つかりません。"
-
-#~ msgid ""
-#~ "Could not resolve control class or id '%s'. Use (non-zero) integer "
-#~ "instead\n"
-#~ " or provide #define (see manual for caveats)"
-#~ msgstr ""
-#~ "制御クラスまたは識別子 '%s' を解決できません。\n"
-#~ "0以外の整数を使うか #defineを用いてください (説明書の注意参照) 。"
-
-#~ msgid ""
-#~ "Could not resolve menu id '%s'. Use (non-zero) integer instead\n"
-#~ "or provide #define (see manual for caveats)"
-#~ msgstr ""
-#~ "識別子 '%s' を解決できません。\n"
-#~ "0以外の整数を使うか #define を用いてください (説明書の注意参照) 。"
-
-#~ msgid "Could not unlock mutex"
-#~ msgstr "Mutexのアンロックができませんでした"
-
-#~ msgid "Couldn't end the context on the overlay window"
-#~ msgstr "オーバーレイウィンドウの内容末尾にたどり着けませんでした。"
-
-#~ msgid "Data view control is not correctly initialized"
-#~ msgstr "データビューコントロールが正しく初期化されていません。"
-
-#~ msgid "Error while waiting on semaphore"
-#~ msgstr "セマフォー待ちの中途でエラーを検出しました"
-
-#~ msgid "Expected '*' while parsing resource."
-#~ msgstr "リソース解析中、必要な '*' がない場所を検出しました。"
-
-#~ msgid "Expected '=' while parsing resource."
-#~ msgstr "リソース解析中、必要な '=' がない場所を検出しました。"
-
-#~ msgid "Expected 'char' while parsing resource."
-#~ msgstr "リソース解析中、必要な 'char' がない場所を検出しました。"
-
-#~ msgid "Failed to %s dialup connection: %s"
-#~ msgstr "%s ダイヤルアップ接続に失敗しました: %s"
-
-#~ msgid "Failed to connect to session manager: %s"
-#~ msgstr "セッションマネージャへの接続に失敗しました: %s"
-
-#~ msgid ""
-#~ "Failed to find XBM resource %s.\n"
-#~ "Forgot to use wxResourceLoadBitmapData?"
-#~ msgstr ""
-#~ "XBM リソース %s が見つかりません。\n"
-#~ "wxResourceLoadBitmapData を使うのを忘れていませんか?"
-
-#~ msgid ""
-#~ "Failed to find XBM resource %s.\n"
-#~ "Forgot to use wxResourceLoadIconData?"
-#~ msgstr ""
-#~ "XBM リソース %s が見つかりません。\n"
-#~ "wxResourceLoadIconData を使うのを忘れていませんか?"
-
-#~ msgid ""
-#~ "Failed to find XPM resource %s.\n"
-#~ "Forgot to use wxResourceLoadBitmapData?"
-#~ msgstr ""
-#~ "XPM リソース %s が見つかりません。\n"
-#~ "wxResourceLoadBitmapData を使うのを忘れていませんか?"
-
-#~ msgid "Failed to get clipboard data."
-#~ msgstr "クリップボードのデータを取得できませんでした。"
-
-#~ msgid "Failed to load shared library '%s' Error '%s'"
-#~ msgstr "共有ライブラリ '%s' はエラー '%s' により読み取れませんでした。"
-
-#~ msgid "Failed to open '%s' for %s"
-#~ msgstr "'%s' を開くことができませんでした(%s)"
-
-#~ msgid "Failed to register OpenGL window class."
-#~ msgstr "OpenGL ウィンドウクラスを登録できませんでした。"
-
-#~ msgid "Fatal error"
-#~ msgstr "重大なエラー"
-
-#~ msgid "Fatal error: "
-#~ msgstr "重大なエラー:"
-
-#~ msgid "Found "
-#~ msgstr "リソース解析中に"
-
-#~ msgid "Go forward to the next HTML page"
-#~ msgstr "次のHTMLページに進む"
-
-#~ msgid "Help : %s"
-#~ msgstr "ヘルプ: %s"
-
-#~ msgid "Icon resource specification %s not found."
-#~ msgstr "アイコンリソース %s が見つかりません。"
-
-#~ msgid "Ill-formed resource file syntax."
-#~ msgstr "リソースファイルの書式に不整合があります。"
-
-#~ msgid "Inserts the chosen symbol."
-#~ msgstr "選択した記号を挿入します"
-
-#~ msgid "Invalid XRC resource '%s': doesn't have root node 'resource'."
-#~ msgstr "不正な XRC リソース '%s': ルートノードが 'resource' ではありません｡"
-
-#~ msgid "Long Conversions not supported"
-#~ msgstr "Long 型への変換には対応していません"
-
-#~ msgid "No XPM icon facility available!"
-#~ msgstr "XPM アイコン機能は利用できません。"
-
-#~ msgid "No fonts found in %s."
-#~ msgstr "%s にフォントがありません。"
-
-#~ msgid "No handler found for XML node '%s', class '%s'!"
-#~ msgstr "XMLノード '%s' 、class='%s'に対するハンドラーがありません。"
-
-#~ msgid "Option '%s' requires a value, '=' expected."
-#~ msgstr "オプション '%s' は '=' を挟んで値の指定が必要です。"
-
-#~ msgid "Preparing help window..."
-#~ msgstr "ヘルプウィンドウ準備中..."
-
-#~ msgid "Program aborted."
-#~ msgstr "プログラムを中断しました。"
-
-#~ msgid "Referenced object node with ref=\"%s\" not found!"
-#~ msgstr "ref=\"%s\" で参照されているノードが見つかりません。"
-
-#~ msgid "Resource files must have same version number!"
-#~ msgstr "リソースファイルは同じバージョン番号でなくてはなりません。"
-
-#~ msgid "Search!"
-#~ msgstr "検索"
-
-#~ msgid "Select a file"
-#~ msgstr "ファイルを選んでください"
-
-#~ msgid "Select all"
-#~ msgstr "すべて選択"
-
-#~ msgid "Sorry, could not open this file for saving."
-#~ msgstr "保存のためにこのファイルを開くことができませんでした｡"
-
-#~ msgid "Sorry, could not save this file."
-#~ msgstr "ファイルを保存することができませんでした。"
-
-#~ msgid ""
-#~ "Sorry, docking is not supported for ports other than wxMSW, wxMac and "
-#~ "wxGTK"
-#~ msgstr "ドッキングに対応しているのは wxMSW, wxMac, wxGTK だけです"
-
-#~ msgid "Sorry, print preview needs a printer to be installed."
-#~ msgstr "プレビューにはプリンターのインストールが必要です。"
-
-#~ msgid "Status: "
-#~ msgstr "状態:"
-
-#~ msgid "String conversions not supported"
-#~ msgstr "文字列変換は未対応です"
-
-#~ msgid "Subclass '%s' not found for resource '%s', not subclassing!"
-#~ msgstr ""
-#~ "サブクラスの元　'%s' がありませんでした。リソース '%s' はサブクラスにしま"
-#~ "せん。"
-
-#~ msgid "TIFF library error."
-#~ msgstr "TIFFライブラリーエラー。"
-
-#~ msgid "TIFF library warning."
-#~ msgstr "TIFFライブラリーの警告。"
-
-#~ msgid ""
-#~ "This system doesn't support date picker control, please upgrade your "
-#~ "version of comctl32.dll"
-#~ msgstr ""
-#~ "お使いのシステムは date picker コントロールに未対応です。comctl32.dll を新"
-#~ "しいものに更新してください"
-
-#~ msgid "Trying to solve a NULL hostname: giving up"
-#~ msgstr "NULLホスト名の解決を試行: 試行を中止しました"
-
-#~ msgid "Unexpected end of file while parsing resource."
-#~ msgstr "リソース解析中に想定外のEOFが検出されました。"
-
-#~ msgid "Unknown style flag "
-#~ msgstr "未知のスタイルフラグ"
-
-#~ msgid "Unkown Property %s"
-#~ msgstr "未定義の特性 %s"
-
-#~ msgid "Unrecognized style %s while parsing resource."
-#~ msgstr "リソース解析中に想定外のスタイル %s を検出しました。"
-
-#~ msgid "Version %s"
-#~ msgstr "version %s"
-
-#~ msgid "Video Output"
-#~ msgstr "映像出力"
-
-#~ msgid "Warning: attempt to remove HTML tag handler from empty stack."
-#~ msgstr "警告: 空のスタックからHTMLタグハンドラーを除去しようとしました。"
-
-#~ msgid "XRC resource '%s' (class '%s') not found!"
-#~ msgstr "XRC リソース '%s' (クラス '%s') が見つかりません。"
-
-#~ msgid "XRC resource: Cannot create animation from '%s'."
-#~ msgstr "XRC リソース: '%s' からアニメーションを作成できません。"
-
-#~ msgid "XRC resource: Cannot create bitmap from '%s'."
-#~ msgstr "XRC リソース: '%s' からビットマップを作成できません。"
-
-#~ msgid "XRC resource: Incorrect colour specification '%s' for property '%s'."
-#~ msgstr "XRC リソース: 色の設定値 '%s' は不正です(特性 '%s')"
-
-#~ msgid "[EMPTY]"
-#~ msgstr "[空]"
-
-#~ msgid "catalog file for domain '%s' not found."
-#~ msgstr "地域 '%s' に対するカタログファイルが見つかりません。"
-
-#~ msgid "encoding %i"
-#~ msgstr "エンコーディング %i"
-
-#~ msgid "establish"
-#~ msgstr "同期確立"
-
-#~ msgid "initiate"
-#~ msgstr "非同期確立"
-
-#~ msgid "invalid eof() return value."
-#~ msgstr "eof() の戻り値は不正なものになります。"
-
-#~ msgid "looking for catalog '%s' in path '%s'."
-#~ msgstr "カタログ '%s' をパス '%s' から探します。"
-
-#~ msgid "m_peer is not or incorrectly initialized"
-#~ msgstr "m_peer が正しく初期化されていません"
-
-#~ msgid "unknown line terminator"
-#~ msgstr "未対応の改行子です"
-
-#~ msgid "writing"
-#~ msgstr "書き出し"
-
-#~ msgid "wxRichTextBulletsPage"
-#~ msgstr "wxRichTextBulletsPage"
-
-#~ msgid "wxRichTextFontPage"
-#~ msgstr "wxRichTextFontPage"
-
-#~ msgid "wxRichTextListStylePage"
-#~ msgstr "wxRichTextListStylePage"
-
-#~ msgid "wxRichTextStylePage"
-#~ msgstr "wxRichTextStylePage"
-
-#~ msgid "wxSocket: invalid signature in ReadMsg."
-#~ msgstr "wxSocket: ReadMsgに不正なシグネチャーがありました。"
-
-#~ msgid "wxSocket: unknown event!."
-#~ msgstr "wxSocket: 未対応のイベントです。"

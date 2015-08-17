@@ -1,30 +1,27 @@
-# wxWidgets translation for Vietnamese.
-# This file is distributed under the same license as the wxWidgets package.
-# First translator Trần Ngọc Quân <vnwildman@gmail.com>, 2008-2014.
-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: wxstd 3.0\n"
+"Project-Id-Version: wxWidgets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-23 22:46+0400\n"
-"PO-Revision-Date: 2014-03-30 09:14+0700\n"
-"Last-Translator: Trần Ngọc Quân <vnwildman@gmail.com>\n"
-"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
-"Language: vi\n"
+"PO-Revision-Date: 2015-08-17 13:23+0000\n"
+"Last-Translator: Bryan Petty <bryan@ibaku.net>\n"
+"Language-Team: Vietnamese (http://www.transifex.com/wxwidgets/wxwidgets-core/language/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-SourceCharset: UTF-8\n"
+"Language: vi\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.5.5\n"
 
 #: ../src/common/debugrpt.cpp:591
 msgid ""
 "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
-"Xin hãy gửi bản báo cáo này tới người bảo trì chương trình, xin cảm ơn!\n"
+msgstr "\nXin hãy gửi bản báo cáo này tới người bảo trì chương trình, xin cảm ơn!\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
 #: ../src/richtext/richtextstyledlg.cpp:222
@@ -33,8 +30,7 @@ msgstr " "
 
 #: ../src/generic/dbgrptg.cpp:326
 msgid "              Thank you and we're sorry for the inconvenience!\n"
-msgstr ""
-"              Xin cảm ơn và chúng tôi lấy làm tiếc về sự bất tiện này!\n"
+msgstr "              Xin cảm ơn và chúng tôi lấy làm tiếc về sự bất tiện này!\n"
 
 #: ../src/common/prntbase.cpp:573
 #, c-format
@@ -115,9 +111,9 @@ msgid "%d of %lu"
 msgstr "%d của %lu"
 
 #: ../src/html/helpwnd.cpp:1678
-#, fuzzy, c-format
+#, c-format
 msgid "%i of %u"
-msgstr "%i của %i"
+msgstr ""
 
 #: ../src/generic/filectrlg.cpp:315
 #, c-format
@@ -166,9 +162,9 @@ msgid "%s files (%s)|%s"
 msgstr "%s tập tin (%s)|%s"
 
 #: ../src/html/helpwnd.cpp:1716
-#, fuzzy, c-format
+#, c-format
 msgid "%u of %u"
-msgstr "%lu của %lu"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:139 ../src/html/helpfrm.cpp:142
 #: ../src/html/helpfrm.cpp:144
@@ -419,9 +415,8 @@ msgid "&Home"
 msgstr "&Home"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:213
-#, fuzzy
 msgid "&Horizontal offset:"
-msgstr "&Vị trí tương đối theo chiều dọc:"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:184
 #: ../src/richtext/richtextliststylepage.cpp:372
@@ -753,9 +748,8 @@ msgid "&Vertical alignment:"
 msgstr "&Căn chiều ngang:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:236
-#, fuzzy
 msgid "&Vertical offset:"
-msgstr "&Vị trí tương đối theo chiều dọc:"
+msgstr ""
 
 #: ../src/generic/dbgrptg.cpp:340
 msgid "&View..."
@@ -1201,9 +1195,8 @@ msgstr "Tuyệt đối"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:859
-#, fuzzy
 msgid "ActiveBorder"
-msgstr "Viền"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:860
@@ -1365,9 +1358,8 @@ msgstr "Tham số %u không tìm thấy."
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1714
-#, fuzzy
 msgid "Arrow"
-msgstr "ngày mai"
+msgstr ""
 
 #: ../src/generic/aboutdlgg.cpp:184
 msgid "Artists"
@@ -1484,9 +1476,8 @@ msgstr "Màu nền"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:50
-#, fuzzy
 msgid "Backspace"
-msgstr "Quay lại"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:160
 msgid "Baltic (ISO-8859-13)"
@@ -1553,9 +1544,8 @@ msgid "Box styles"
 msgstr "Kiểu dáng Hộp"
 
 #: ../src/propgrid/advprops.cpp:1563
-#, fuzzy
 msgid "Brown"
-msgstr "Tìm duyệt"
+msgstr ""
 
 #: ../src/common/filepickercmn.cpp:43 ../src/common/filepickercmn.cpp:44
 msgid "Browse"
@@ -1576,9 +1566,8 @@ msgstr "Bullets"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1717
-#, fuzzy
 msgid "Bullseye"
-msgstr "Kiểu dáng bullet"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:861
@@ -1650,9 +1639,7 @@ msgstr "Không thể &Undo"
 
 #: ../src/common/image.cpp:2690
 msgid "Can't automatically determine the image format for non-seekable input."
-msgstr ""
-"Không thể tự động dò tìm định dạng ảnh cho đầu vào không-di-chuyển-vị-trí-"
-"đọc-được."
+msgstr "Không thể tự động dò tìm định dạng ảnh cho đầu vào không-di-chuyển-vị-trí-đọc-được."
 
 #: ../src/msw/registry.cpp:498
 #, c-format
@@ -1729,8 +1716,7 @@ msgstr "Không thể khởi tạo zlib inflate stream."
 #: ../src/msw/fswatcher.cpp:476
 #, c-format
 msgid "Can't monitor non-existent directory \"%s\" for changes."
-msgstr ""
-"Không thể theo dõi thư mục không-hiện-có \"%s\" để thấy được các thay đổi."
+msgstr "Không thể theo dõi thư mục không-hiện-có \"%s\" để thấy được các thay đổi."
 
 #: ../src/msw/registry.cpp:445
 #, c-format
@@ -1744,9 +1730,7 @@ msgstr "Không thể đọc từ inflate stream: %s"
 
 #: ../src/common/zstream.cpp:244
 msgid "Can't read inflate stream: unexpected EOF in underlying stream."
-msgstr ""
-"Không thể đọc inflate stream: không mong chờ kết thúc tập tin EOF nằm ở dưới "
-"dòng dữ liệu."
+msgstr "Không thể đọc inflate stream: không mong chờ kết thúc tập tin EOF nằm ở dưới dòng dữ liệu."
 
 #: ../src/msw/registry.cpp:1056
 #, c-format
@@ -1797,10 +1781,9 @@ msgid "Cancel"
 msgstr "Hủy bỏ"
 
 #: ../src/osx/carbon/dataview.cpp:893
-msgid "Cannot create new column's ID. Probably max. number of columns reached."
-msgstr ""
-"Không thể tạo mới chỉ số ID của cột. Hầu như chắc chắn trị số lớn nhất của "
-"cột đã được dùng."
+msgid ""
+"Cannot create new column's ID. Probably max. number of columns reached."
+msgstr "Không thể tạo mới chỉ số ID của cột. Hầu như chắc chắn trị số lớn nhất của cột đã được dùng."
 
 #: ../src/common/filefn.cpp:1280
 #, c-format
@@ -1933,9 +1916,8 @@ msgstr "Không thể chờ tuyến trình thiết bị cuối"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:73
-#, fuzzy
 msgid "Capital"
-msgstr "Chữ viết &hoa"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:865
@@ -2012,19 +1994,17 @@ msgstr "Thay đổi Kiểu Dáng"
 #: ../src/common/fileconf.cpp:364
 #, c-format
 msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
-msgstr ""
-"Các thay đổi không thể ghi lại mà không ghi đè lên tập tin đã tồn tại \"%s\""
+msgstr "Các thay đổi không thể ghi lại mà không ghi đè lên tập tin đã tồn tại \"%s\""
 
 #: ../src/gtk/filedlg.cpp:87 ../src/gtk/filepicker.cpp:190
-#, fuzzy, c-format
+#, c-format
 msgid "Changing current directory to \"%s\" failed"
-msgstr "Tạo thư mục \"%s\" gặp lỗi"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1718
-#, fuzzy
 msgid "Character"
-msgstr "&Mã ký tự:"
+msgstr ""
 
 #: ../src/richtext/richtextstyles.cpp:1063
 msgid "Character styles"
@@ -2323,8 +2303,7 @@ msgstr ""
 msgid ""
 "Command line argument %d couldn't be converted to Unicode and will be "
 "ignored."
-msgstr ""
-"Tham số dòng lệnh %d không thể chuyển đổi sang Unicode và sẽ bị bỏ qua."
+msgstr "Tham số dòng lệnh %d không thể chuyển đổi sang Unicode và sẽ bị bỏ qua."
 
 #: ../src/msw/fontdlg.cpp:119
 #, c-format
@@ -2335,9 +2314,7 @@ msgstr "Hộp thoại dùng chung gặp lỗi %0lx."
 msgid ""
 "Compositing not supported by this system, please enable it in your Window "
 "Manager."
-msgstr ""
-"Sự kết hợp không được hỗ trợ bởi hệ thống này, xin hãy bật nó lên trong "
-"Window Manager."
+msgstr "Sự kết hợp không được hỗ trợ bởi hệ thống này, xin hãy bật nó lên trong Window Manager."
 
 #: ../src/html/helpwnd.cpp:1551
 msgid "Compressed HTML Help file (*.chm)|*.chm|"
@@ -2609,9 +2586,9 @@ msgid "Create new directory"
 msgstr "Tạo thư mục mới"
 
 #: ../src/xrc/xmlres.cpp:2441
-#, fuzzy, c-format
+#, c-format
 msgid "Creating %s \"%s\" failed."
-msgstr "Rút trích '%s' vào '%s' gặp lỗi."
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1719
@@ -2634,9 +2611,8 @@ msgstr "Thư mục hiện thời:"
 #. TRANSLATORS: Custom colour choice entry
 #: ../src/propgrid/advprops.cpp:882 ../src/propgrid/advprops.cpp:1535
 #: ../src/propgrid/advprops.cpp:1573
-#, fuzzy
 msgid "Custom"
-msgstr "Cỡ riêng"
+msgstr ""
 
 #: ../src/gtk/print.cpp:217
 msgid "Custom size"
@@ -2726,9 +2702,8 @@ msgstr "Trang trí"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1713
-#, fuzzy
 msgid "Default"
-msgstr "mặc định"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:796
 msgid "Default encoding"
@@ -2744,9 +2719,8 @@ msgstr "Máy in mặc định"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:49
-#, fuzzy
 msgid "Del"
-msgstr "Xóa bỏ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:48 ../src/common/stockitem.cpp:152
@@ -2816,11 +2790,9 @@ msgstr "Những người phát triển"
 
 #: ../src/msw/dialup.cpp:384
 msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"Hàm quay số không sẵn sàng bởi vì dịch vụ truy cập từ xa (RAS) chưa được cài "
-"trong máy này. Xin hãy cài nó vào."
+"Dial up functions are unavailable because the remote access service (RAS) is"
+" not installed on this machine. Please install it."
+msgstr "Hàm quay số không sẵn sàng bởi vì dịch vụ truy cập từ xa (RAS) chưa được cài trong máy này. Xin hãy cài nó vào."
 
 #: ../src/generic/tipdlg.cpp:225
 msgid "Did you know..."
@@ -2861,9 +2833,7 @@ msgstr "Không dùng những thay đổi này và tải lại dữ liệu đã l
 msgid ""
 "Display all index items that contain given substring. Search is case "
 "insensitive."
-msgstr ""
-"Hiện tất cả chỉ số mục tin mà có chứa chuỗi con định sẵn. Tìm kiếm phân biệt "
-"Hoa/thường."
+msgstr "Hiện tất cả chỉ số mục tin mà có chứa chuỗi con định sẵn. Tìm kiếm phân biệt Hoa/thường."
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2880,19 +2850,12 @@ msgstr ""
 
 #: ../src/msw/mimetype.cpp:725
 msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+"Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"Bạn có muốn ghi đè lệnh thường dùng với tập tin %s với phần mở rộng \"%s"
-"\" ?\n"
-"Giá trị hiện hành là \n"
-"%s, \n"
-"Giá trị mới là \n"
-"%s %1"
+msgstr "Bạn có muốn ghi đè lệnh thường dùng với tập tin %s với phần mở rộng \"%s\" ?\nGiá trị hiện hành là \n%s, \nGiá trị mới là \n%s %1"
 
 #: ../src/common/docview.cpp:537
 #, c-format
@@ -3009,33 +2972,28 @@ msgstr "Cho phép màu nền."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:197
 #: ../src/richtext/richtextbackgroundpage.cpp:199
-#, fuzzy
 msgid "Enables a shadow."
-msgstr "Cho phép màu nền."
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:301
 #: ../src/richtext/richtextbackgroundpage.cpp:303
-#, fuzzy
 msgid "Enables the blur distance."
-msgstr "Cho phép giá trị độ rộng."
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:261
 #: ../src/richtext/richtextbackgroundpage.cpp:263
-#, fuzzy
 msgid "Enables the shadow colour."
-msgstr "Cho phép màu nền."
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:328
 #: ../src/richtext/richtextbackgroundpage.cpp:330
-#, fuzzy
 msgid "Enables the shadow opacity."
-msgstr "Cho phép giá trị độ rộng."
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:274
 #: ../src/richtext/richtextbackgroundpage.cpp:276
-#, fuzzy
 msgid "Enables the shadow spread."
-msgstr "Cho phép giá trị độ rộng."
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:64
@@ -3044,9 +3002,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:53
-#, fuzzy
 msgid "Enter"
-msgstr "Máy in"
+msgstr ""
 
 #: ../src/richtext/richtextstyledlg.cpp:934
 msgid "Enter a box style name"
@@ -3085,8 +3042,7 @@ msgstr "Envelope Invite 220 x 220 mm"
 #, c-format
 msgid ""
 "Environment variables expansion failed: missing '%c' at position %u in '%s'."
-msgstr ""
-"Sự mở rộng các biến môi trường gặp lỗi: mất '%c' tại vị trí %u trong '%s'."
+msgstr "Sự mở rộng các biến môi trường gặp lỗi: mất '%c' tại vị trí %u trong '%s'."
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/dirctrlg.cpp:609
 #: ../src/generic/dirctrlg.cpp:620 ../src/generic/dirdlgg.cpp:352
@@ -3142,9 +3098,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:68
-#, fuzzy
 msgid "Escape"
-msgstr "Nằm ngang"
+msgstr ""
 
 #: ../src/common/fmapbase.cpp:150
 msgid "Esperanto (ISO-8859-3)"
@@ -3176,8 +3131,7 @@ msgstr "Executive, 7 1/4 x 10 1/2 in"
 #, c-format
 msgid ""
 "Exporting registry key: file \"%s\" already exists and won't be overwritten."
-msgstr ""
-"Sự xuất khóa đăng ký: tập tin \"%s\" đã tồn tại và không thể ghi đè lên."
+msgstr "Sự xuất khóa đăng ký: tập tin \"%s\" đã tồn tại và không thể ghi đè lên."
 
 #: ../src/common/fmapbase.cpp:195
 msgid "Extended Unix Codepage for Japanese (EUC-JP)"
@@ -3324,9 +3278,7 @@ msgstr "Tạo thư mục \"%s\" gặp lỗi"
 msgid ""
 "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"Tạo thư mục '%s' gặp lỗi\n"
-"(bạn có quyền yêu cầu không?)"
+msgstr "Tạo thư mục '%s' gặp lỗi\n(bạn có quyền yêu cầu không?)"
 
 #: ../src/unix/epolldispatcher.cpp:84
 msgid "Failed to create epoll descriptor"
@@ -3411,8 +3363,7 @@ msgstr "Lấy thư mục đang làm việc gặp lỗi"
 
 #: ../src/univ/theme.cpp:114
 msgid "Failed to initialize GUI: no built-in themes found."
-msgstr ""
-"Khởi tạo GUI gặp lỗi: không có built-in giao diện hiển thị nào được tìm thấy."
+msgstr "Khởi tạo GUI gặp lỗi: không có built-in giao diện hiển thị nào được tìm thấy."
 
 #: ../src/msw/helpchm.cpp:63
 msgid "Failed to initialize MS HTML Help."
@@ -3442,11 +3393,9 @@ msgstr "Cài đặt bộ điều khiển tín hiệu gặp lỗi"
 
 #: ../src/unix/threadpsx.cpp:1167
 msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
-msgstr ""
-"Gia nhập tuyến trình gặp lỗi, đã phát hiện lỗ thủng bộ nhớ tiềm tàng - xin "
-"hãy khởi động lại chương trình"
+"Failed to join a thread, potential memory leak detected - please restart the"
+" program"
+msgstr "Gia nhập tuyến trình gặp lỗi, đã phát hiện lỗ thủng bộ nhớ tiềm tàng - xin hãy khởi động lại chương trình"
 
 #: ../src/msw/utils.cpp:679
 #, c-format
@@ -3498,9 +3447,9 @@ msgid "Failed to load shared library '%s'"
 msgstr "Tải thư viện chia sẻ %s gặp lỗi"
 
 #: ../src/osx/core/sound.cpp:118
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load sound from \"%s\" (error %d)."
-msgstr "Lỗi khi tải tài nguyên \"%s\"."
+msgstr ""
 
 #: ../src/msw/utils.cpp:1022
 #, c-format
@@ -3642,8 +3591,7 @@ msgstr "Đổi tên giá trị đăng ký '%s' thành '%s' gặp lỗi."
 msgid ""
 "Failed to rename the file '%s' to '%s' because the destination file already "
 "exists."
-msgstr ""
-"Đổi tên tập tin '%s' thành '%s' gặp lỗi bởi vì tập tin đích đã tồn tại rồi."
+msgstr "Đổi tên tập tin '%s' thành '%s' gặp lỗi bởi vì tập tin đích đã tồn tại rồi."
 
 #: ../src/msw/registry.cpp:626
 #, c-format
@@ -3719,9 +3667,7 @@ msgstr "Đặt mức ưu tiên tuyến trình %d gặp lỗi."
 
 #: ../src/unix/utilsunx.cpp:779
 msgid "Failed to set up non-blocking pipe, the program might hang."
-msgstr ""
-"Gặp lỗi khi cài đặt đường ống không-khối (non-blocking pipe), chương trình "
-"có lẽ bị treo."
+msgstr "Gặp lỗi khi cài đặt đường ống không-khối (non-blocking pipe), chương trình có lẽ bị treo."
 
 #: ../src/common/fs_mem.cpp:261
 #, c-format
@@ -3730,8 +3676,7 @@ msgstr "Lưu trữ ảnh '%s' vào bộ nhớ VFS gặp lỗi!"
 
 #: ../src/dfb/evtloop.cpp:170
 msgid "Failed to switch DirectFB pipe to non-blocking mode"
-msgstr ""
-"Chuyển sang chế độ từ đường ống DirectFB sang chế độ non-blocking gặp lỗi"
+msgstr "Chuyển sang chế độ từ đường ống DirectFB sang chế độ non-blocking gặp lỗi"
 
 #: ../src/unix/wakeuppipe.cpp:59
 msgid "Failed to switch wake up pipe to non-blocking mode"
@@ -3964,9 +3909,7 @@ msgstr "GIF: lỗi không rõ!!!"
 msgid ""
 "GTK+ installed on this machine is too old to support screen compositing, "
 "please install GTK+ 2.12 or later."
-msgstr ""
-"GTK+ đã cài đặt trên máy này quá cũ để nó có thể hỗ trợ ghép màn hình, hãy "
-"cài GTK+ 2.12 hay mới hơn."
+msgstr "GTK+ đã cài đặt trên máy này quá cũ để nó có thể hỗ trợ ghép màn hình, hãy cài GTK+ 2.12 hay mới hơn."
 
 #: ../src/univ/themes/gtk.cpp:525
 msgid "GTK+ theme"
@@ -4038,9 +3981,8 @@ msgid "Greek (ISO-8859-7)"
 msgstr "Greek (ISO-8859-7)"
 
 #: ../src/propgrid/advprops.cpp:1561
-#, fuzzy
 msgid "Green"
-msgstr "MacGreek"
+msgstr ""
 
 #: ../src/richtext/richtextborderspage.cpp:618
 msgid "Groove"
@@ -4133,15 +4075,13 @@ msgstr "Tắt phần thông báo."
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:870
-#, fuzzy
 msgid "Highlight"
-msgstr "ánh sáng"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:871
-#, fuzzy
 msgid "HighlightText"
-msgstr "Canh lề chữ phải."
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:63 ../src/common/stockitem.cpp:164
@@ -4215,30 +4155,20 @@ msgstr "Bộ đáp ứng Biểu tượng & text không trả về giá trị; gi
 msgid ""
 "If possible, try changing the layout parameters to make the printout more "
 "narrow."
-msgstr ""
-"Nếu có thể, hay thử thay đổi cách bố trí các tham số để mà in ra nhiều mũi "
-"tên hơn."
+msgstr "Nếu có thể, hay thử thay đổi cách bố trí các tham số để mà in ra nhiều mũi tên hơn."
 
 #: ../src/generic/dbgrptg.cpp:358
 msgid ""
 "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
-"Nếu bạn có thêm thông tin liên quan về lỗi báo cáo này,\n"
-"xin hãy nhập chúng vào đây và nó sẽ nối thêm vào nó:"
+msgstr "Nếu bạn có thêm thông tin liên quan về lỗi báo cáo này,\nxin hãy nhập chúng vào đây và nó sẽ nối thêm vào nó:"
 
 #: ../src/generic/dbgrptg.cpp:324
 msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+"If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
-"Nếu bạn mong muốn ngăn cản toàn bộ báo cáo lỗi này, xin hãy bấm vào nút "
-"\"Hủy bỏ\" ,\n"
-"nhưng xin cảnh báo rằng nó có thể gây cản trở việc phát triển chương trình, "
-"do đó\n"
-"nếu có thể xin hãy tiếp tục việc báo cáo với chúng tôi.\n"
+msgstr "Nếu bạn mong muốn ngăn cản toàn bộ báo cáo lỗi này, xin hãy bấm vào nút \"Hủy bỏ\" ,\nnhưng xin cảnh báo rằng nó có thể gây cản trở việc phát triển chương trình, do đó\nnếu có thể xin hãy tiếp tục việc báo cáo với chúng tôi.\n"
 
 #: ../src/msw/registry.cpp:1403
 #, c-format
@@ -4251,9 +4181,7 @@ msgstr "Illegal Object Class (Non-wxEvtHandler) as Event Source"
 
 #: ../src/common/xti.cpp:513
 msgid "Illegal Parameter Count for ConstructObject Method"
-msgstr ""
-"Tham số Số lượng không hợp lệ cho Phương thức ConstructObject (khởi tạo đối "
-"tượng, hay cấu tử)"
+msgstr "Tham số Số lượng không hợp lệ cho Phương thức ConstructObject (khởi tạo đối tượng, hay cấu tử)"
 
 #: ../src/common/xti.cpp:501
 msgid "Illegal Parameter Count for Create Method"
@@ -4283,11 +4211,9 @@ msgstr "Ảnh không thuộc kiểu %s."
 
 #: ../src/msw/textctrl.cpp:488
 msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"Không thể nào khởi tạo điều khiển văn bản (rich edit), đang sử dụng điều "
-"khiển văn bản đơn giản để thay thế. Xin hãy cài lại riched32.dll"
+"Impossible to create a rich edit control, using simple text control instead."
+" Please reinstall riched32.dll"
+msgstr "Không thể nào khởi tạo điều khiển văn bản (rich edit), đang sử dụng điều khiển văn bản đơn giản để thay thế. Xin hãy cài lại riched32.dll"
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4310,9 +4236,8 @@ msgstr "Không thể nào đặt được quyền cho tập tin '%s'"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:872
-#, fuzzy
 msgid "InactiveBorder"
-msgstr "Viền"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:873
@@ -4359,9 +4284,8 @@ msgstr "Khởi tạo lỗi trong việc post init, đang bãi bỏ."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:52
-#, fuzzy
 msgid "Ins"
-msgstr "Chèn"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:51 ../src/richtext/richtextsymboldlg.cpp:472
@@ -4450,9 +4374,7 @@ msgstr "Biểu thức thông thường '%s' không hợp lệ: %s"
 #: ../src/common/config.cpp:226
 #, c-format
 msgid "Invalid value %ld for a boolean key \"%s\" in config file."
-msgstr ""
-"Giá trị %ld không hợp lệ cho một khoá thuộc kiểu lôgíc \"%s\" trong tập tin "
-"dùng cho cấu hình."
+msgstr "Giá trị %ld không hợp lệ cho một khoá thuộc kiểu lôgíc \"%s\" trong tập tin dùng cho cấu hình."
 
 #: ../src/common/stockitem.cpp:168 ../src/generic/fontdlgg.cpp:329
 #: ../src/osx/carbon/fontdlg.cpp:531 ../src/richtext/richtextfontpage.cpp:349
@@ -4552,9 +4474,8 @@ msgstr "KP_"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:104
-#, fuzzy
 msgid "KP_Add"
-msgstr "KP_ADD"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:99
@@ -4568,9 +4489,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:101
-#, fuzzy
 msgid "KP_Delete"
-msgstr "Xóa bỏ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:108
@@ -4579,21 +4499,18 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:93
-#, fuzzy
 msgid "KP_Down"
-msgstr "Xuống"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:98
-#, fuzzy
 msgid "KP_End"
-msgstr "KP_END"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:88
-#, fuzzy
 msgid "KP_Enter"
-msgstr "Máy in"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:102
@@ -4602,21 +4519,18 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:89
-#, fuzzy
 msgid "KP_Home"
-msgstr "Thư mục Home"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:100
-#, fuzzy
 msgid "KP_Insert"
-msgstr "Chèn"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:90
-#, fuzzy
 msgid "KP_Left"
-msgstr "Trái"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:103
@@ -4625,9 +4539,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:97
-#, fuzzy
 msgid "KP_Next"
-msgstr "Tiếp theo"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:95
@@ -4646,9 +4559,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:92
-#, fuzzy
 msgid "KP_Right"
-msgstr "Phải"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:105
@@ -4667,15 +4579,13 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:87
-#, fuzzy
 msgid "KP_Tab"
-msgstr "KP_TAB"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:91
-#, fuzzy
 msgid "KP_Up"
-msgstr "KP_UP"
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:270
 msgid "L&ine spacing:"
@@ -4694,10 +4604,10 @@ msgid "Last page"
 msgstr "Trang cuối"
 
 #: ../src/common/log.cpp:309
-#, fuzzy, c-format
+#, c-format
 msgid "Last repeated message (\"%s\", %u time) wasn't output"
 msgid_plural "Last repeated message (\"%s\", %u times) wasn't output"
-msgstr[0] "Thông điệp lặp cuối cùng (\"%s\", %lu lần) đã không được kết xuất"
+msgstr[0] ""
 
 #: ../src/common/paper.cpp:104
 msgid "Ledger, 17 x 11 in"
@@ -4807,9 +4717,7 @@ msgstr "Kiểu dáng của danh sách"
 #: ../src/richtext/richtextfontpage.cpp:197
 #: ../src/richtext/richtextfontpage.cpp:199
 msgid "Lists font sizes in points."
-msgstr ""
-"Danh sách kích thước phông chữ bằng đơn vị point (72 point xấp xỉ bằng một "
-"inch)."
+msgstr "Danh sách kích thước phông chữ bằng đơn vị point (72 point xấp xỉ bằng một inch)."
 
 #: ../src/richtext/richtextfontpage.cpp:190
 #: ../src/richtext/richtextfontpage.cpp:192
@@ -4858,9 +4766,7 @@ msgstr "cửa sổ MDI con"
 msgid ""
 "MS HTML Help functions are unavailable because the MS HTML Help library is "
 "not installed on this machine. Please install it."
-msgstr ""
-"Hàm MS HTML Help không sẵn sàng bởi vì thư viện MS HTML Help không được cài "
-"đặt trong máy này. Xin hãy cài nó vào."
+msgstr "Hàm MS HTML Help không sẵn sàng bởi vì thư viện MS HTML Help không được cài đặt trong máy này. Xin hãy cài nó vào."
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
@@ -5125,9 +5031,7 @@ msgstr "Monarch Envelope, 3 7/8 x 7 1/2 in"
 
 #: ../src/msw/fswatcher.cpp:143
 msgid "Monitoring individual files for changes is not supported currently."
-msgstr ""
-"Theo dõi các tập tin riêng lẻ để biết nó thay đổi gì hiện tại không được hỗ "
-"trợ."
+msgstr "Theo dõi các tập tin riêng lẻ để biết nó thay đổi gì hiện tại không được hỗ trợ."
 
 #: ../src/generic/editlbox.cpp:276
 msgid "Move down"
@@ -5262,13 +5166,8 @@ msgstr "Không tìm thấy đề mục nào."
 msgid ""
 "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"Không có phông chữ nào hiển thị chữ ở bộ mã '%s' được tìm thấy,\n"
-"nhưng bộ mã thay thế '%s' thì sẵn có.\n"
-"Bạn có muốn sử dụng bộ mã này không (nếu không bạn sẽ phải chọn một cái "
-"khác)?"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "Không có phông chữ nào hiển thị chữ ở bộ mã '%s' được tìm thấy,\nnhưng bộ mã thay thế '%s' thì sẵn có.\nBạn có muốn sử dụng bộ mã này không (nếu không bạn sẽ phải chọn một cái khác)?"
 
 #: ../src/common/fontmap.cpp:426
 #, c-format
@@ -5276,10 +5175,7 @@ msgid ""
 "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"Không có phông chữ nào hiển thị chữ ở bộ mã '%s' được tìm thấy,\n"
-"Bạn có muốn chọn một phông chữ sử dụng cho bộ mã này không\n"
-"(nếu không chữ với bộ mã này sẽ hiện lên không chính xác)?"
+msgstr "Không có phông chữ nào hiển thị chữ ở bộ mã '%s' được tìm thấy,\nBạn có muốn chọn một phông chữ sử dụng cho bộ mã này không\n(nếu không chữ với bộ mã này sẽ hiện lên không chính xác)?"
 
 #: ../src/generic/animateg.cpp:142
 msgid "No handler found for animation type."
@@ -5306,9 +5202,7 @@ msgstr "Không tìm thấy trang phù hợp"
 
 #: ../src/osx/carbon/dataview.cpp:1674 ../src/osx/carbon/dataview.cpp:1784
 msgid "No renderer or invalid renderer type specified for custom data column."
-msgstr ""
-"Không có renderer hoặc kiểu renderer không hợp lệ chỉ định cho kiểu cột dữ "
-"liệu tùy chỉnh."
+msgstr "Không có renderer hoặc kiểu renderer không hợp lệ chỉ định cho kiểu cột dữ liệu tùy chỉnh."
 
 #: ../src/osx/carbon/dataview.cpp:1422
 msgid "No renderer specified for column."
@@ -5416,15 +5310,13 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:101
-#, fuzzy
 msgid "Num Delete"
-msgstr "Xóa bỏ"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:93
-#, fuzzy
 msgid "Num Down"
-msgstr "Xuống"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:98
@@ -5438,15 +5330,13 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:89
-#, fuzzy
 msgid "Num Home"
-msgstr "Thư mục Home"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:100
-#, fuzzy
 msgid "Num Insert"
-msgstr "Chèn"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:84
@@ -5465,9 +5355,8 @@ msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:92
-#, fuzzy
 msgid "Num Right"
-msgstr "Phải"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:86
@@ -5763,9 +5652,8 @@ msgstr "Trang %d của %d"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:56
-#, fuzzy
 msgid "Page Down"
-msgstr "Trang %d"
+msgstr ""
 
 #: ../src/gtk/print.cpp:810
 msgid "Page Setup"
@@ -5773,9 +5661,8 @@ msgstr "Cài đặt giấy"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:55
-#, fuzzy
 msgid "Page Up"
-msgstr "Trang %d"
+msgstr ""
 
 #: ../src/common/prntbase.cpp:484 ../src/generic/prntdlgg.cpp:828
 msgid "Page setup"
@@ -5783,15 +5670,13 @@ msgstr "Cài đặt giấy"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:56
-#, fuzzy
 msgid "PageDown"
-msgstr "Xuống"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:55
-#, fuzzy
 msgid "PageUp"
-msgstr "Giấy"
+msgstr ""
 
 #: ../src/generic/prntdlgg.cpp:216
 msgid "Pages"
@@ -5888,10 +5773,7 @@ msgid ""
 "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"Xin hãy cài đặt phiên bản comctl32.dll mới hơn\n"
-"(ít nhất yêu cầu phiên bản 4.70 nhưng bạn phải có %d.%02d)\n"
-"nếu không chương trình sẽ không làm việc đúng."
+msgstr "Xin hãy cài đặt phiên bản comctl32.dll mới hơn\n(ít nhất yêu cầu phiên bản 4.70 nhưng bạn phải có %d.%02d)\nnếu không chương trình sẽ không làm việc đúng."
 
 #: ../src/common/headerctrlcmn.cpp:59
 msgid "Please select the columns to show and define their order:"
@@ -5903,15 +5785,13 @@ msgstr "Xin hãy đợi khi đang in..."
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1728
-#, fuzzy
 msgid "Point Left"
-msgstr "&Kích thước Phông chữ:"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1729
-#, fuzzy
 msgid "Point Right"
-msgstr "Canh lề Phải"
+msgstr ""
 
 #. TRANSLATORS: Label of font point size
 #: ../src/propgrid/advprops.cpp:648
@@ -5925,8 +5805,7 @@ msgstr "&Kích thước Phông chữ:"
 #: ../src/osx/carbon/dataview.cpp:1819 ../src/osx/carbon/dataview.cpp:1872
 #: ../src/osx/carbon/dataview.cpp:1995
 msgid "Pointer to data view control not set correctly."
-msgstr ""
-"Con trỏ tới điều khiển hiển thị dữ liệu không được đặt một cách chính xác."
+msgstr "Con trỏ tới điều khiển hiển thị dữ liệu không được đặt một cách chính xác."
 
 #: ../src/osx/carbon/dataview.cpp:1277 ../src/osx/carbon/dataview.cpp:1336
 #: ../src/osx/carbon/dataview.cpp:1419 ../src/osx/carbon/dataview.cpp:1476
@@ -6064,9 +5943,9 @@ msgid "Printing Error"
 msgstr "Lỗi In"
 
 #: ../src/common/prntbase.cpp:565
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d"
-msgstr "Đang in trang %d..."
+msgstr ""
 
 #: ../src/common/prntbase.cpp:570
 #, c-format
@@ -6089,8 +5968,7 @@ msgstr "Dữ liệu in"
 
 #: ../src/common/debugrpt.cpp:565
 #, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
 msgstr "Sự tạo báo cáo gỡ lỗi bị lỗi, tập tin xuất ra trong thư mục \"%s\"."
 
 #: ../src/osx/carbon/dataview.cpp:2470
@@ -6128,9 +6006,8 @@ msgstr "Câu hỏi"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1730
-#, fuzzy
 msgid "Question Arrow"
-msgstr "Câu hỏi"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:156
 msgid "Quit"
@@ -6159,9 +6036,8 @@ msgid "Ready"
 msgstr "Sẵn sàng"
 
 #: ../src/propgrid/advprops.cpp:1566
-#, fuzzy
 msgid "Red"
-msgstr "Redo"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:185 ../src/stc/stc_i18n.cpp:16
 msgid "Redo"
@@ -6191,10 +6067,7 @@ msgid ""
 "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"Khóa đăng ký '%s' là cần thiết cho hệ thống hoạt động bình thường,\n"
-"việc xóa nó sẽ làm cho hệ thống của bạn rơi vào trạng thái không ổn định:\n"
-"thao tác đã bị hủy bỏ."
+msgstr "Khóa đăng ký '%s' là cần thiết cho hệ thống hoạt động bình thường,\nviệc xóa nó sẽ làm cho hệ thống của bạn rơi vào trạng thái không ổn định:\nthao tác đã bị hủy bỏ."
 
 #: ../src/msw/registry.cpp:513
 #, c-format
@@ -6233,9 +6106,7 @@ msgstr "Gỡ bỏ trang hiện hành từ dấu trang"
 #: ../src/common/rendcmn.cpp:194
 #, c-format
 msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
-msgstr ""
-"Renderer \"% s\" đã không tương thích với phiên bản% d.% d và không thể được "
-"nạp."
+msgstr "Renderer \"% s\" đã không tương thích với phiên bản% d.% d và không thể được nạp."
 
 #: ../src/osx/carbon/dataview.cpp:1428
 msgid "Rendering failed."
@@ -6300,9 +6171,8 @@ msgstr "Phải"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1715
-#, fuzzy
 msgid "Right Arrow"
-msgstr "Phải"
+msgstr ""
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1731
@@ -6394,9 +6264,7 @@ msgstr "Tìm kiếm"
 msgid ""
 "Search contents of help book(s) for all occurrences of the text you typed "
 "above"
-msgstr ""
-"Tìm kiếm nội dung của cuốn sách trợ giúp cho tất cả các lần xuất hiện của "
-"chữ bạn đã gõ ở trên"
+msgstr "Tìm kiếm nội dung của cuốn sách trợ giúp cho tất cả các lần xuất hiện của chữ bạn đã gõ ở trên"
 
 #: ../src/generic/fdrepdlg.cpp:160
 msgid "Search direction"
@@ -6426,15 +6294,12 @@ msgstr "Lỗi khi di chuyển vị trí đọc trên tập tin '%s'"
 #: ../src/common/ffile.cpp:228
 #, c-format
 msgid "Seek error on file '%s' (large files not supported by stdio)"
-msgstr ""
-"Lỗi khi di chuyển vị trí đọc trên tập tin '%s' (tập tin có kích thước lớn "
-"không được hỗ trợ bởi stdio)"
+msgstr "Lỗi khi di chuyển vị trí đọc trên tập tin '%s' (tập tin có kích thước lớn không được hỗ trợ bởi stdio)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:74
-#, fuzzy
 msgid "Select"
-msgstr "Vùng chọn"
+msgstr ""
 
 #: ../src/common/stockitem.cpp:192 ../src/msw/textctrl.cpp:2450
 #: ../src/osx/textctrl_osx.cpp:587 ../src/richtext/richtextctrl.cpp:337
@@ -6501,9 +6366,7 @@ msgstr "SetProperty được gọi bởi bộ đặt w/o hợp lệ"
 
 #: ../src/common/filename.cpp:2599
 msgid "Setting directory access times is not supported under this OS version"
-msgstr ""
-"Cài đặt về thời gian truy cập thư mục không được hỗ trợ trong phiên bản hệ "
-"điều hành này"
+msgstr "Cài đặt về thời gian truy cập thư mục không được hỗ trợ trong phiên bản hệ điều hành này"
 
 #: ../src/generic/prntdlgg.cpp:188
 msgid "Setup..."
@@ -6511,8 +6374,7 @@ msgstr "Cài đặt..."
 
 #: ../src/msw/dialup.cpp:554
 msgid "Several active dialup connections found, choosing one randomly."
-msgstr ""
-"Tìm thấy nhiều kết nối quay số đang hoạt động, đang chọn một cái ngẫu nhiên."
+msgstr "Tìm thấy nhiều kết nối quay số đang hoạt động, đang chọn một cái ngẫu nhiên."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:272
 msgid "Sh&adow spread:"
@@ -6523,9 +6385,8 @@ msgid "Shadow"
 msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:259
-#, fuzzy
 msgid "Shadow c&olour:"
-msgstr "Chọn màu"
+msgstr ""
 
 #: ../src/common/accelcmn.cpp:325
 msgid "Shift+"
@@ -6693,9 +6554,8 @@ msgstr "Có vẻ như tập tin '%s' không được hỗ trợ định dạng."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:65
-#, fuzzy
 msgid "Space"
-msgstr "Khoảng cách"
+msgstr ""
 
 #: ../src/richtext/richtextliststylepage.cpp:467
 msgid "Spacing"
@@ -6824,9 +6684,8 @@ msgstr "TIFF: Kích cỡ ảnh thường lớn."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:66
-#, fuzzy
 msgid "Tab"
-msgstr "Tabs"
+msgstr ""
 
 #: ../src/richtext/richtextbuffer.cpp:11489
 msgid "Table Properties"
@@ -6947,10 +6806,7 @@ msgid ""
 "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"Bộ ký tự '%s' không rõ. Bạn có thể chọn\n"
-"bộ ký tự khác để thay thế cho nó hay chọn\n"
-"[Hủy] nếu nó không thể thay thế được"
+msgstr "Bộ ký tự '%s' không rõ. Bạn có thể chọn\nbộ ký tự khác để thay thế cho nó hay chọn\n[Hủy] nếu nó không thể thay thế được"
 
 #: ../src/msw/ole/dataobj.cpp:389
 #, c-format
@@ -6967,31 +6823,22 @@ msgstr "Kiểu dáng mặc định cho đoạn tiếp theo."
 msgid ""
 "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"Thư mục '%s' chưa tồn tại\n"
-"Có tạo bây giờ không?"
+msgstr "Thư mục '%s' chưa tồn tại\nCó tạo bây giờ không?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
 msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
+"The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n"
 "\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
-"Tài liệu  \"%s\" không vừa khớp với khổ giấy theo chiều ngang và sẽ bị cắt "
-"cụt đi khi nếu được in.\n"
-"\n"
-"Bạn có thực sự muốn in nó không?"
+msgstr "Tài liệu  \"%s\" không vừa khớp với khổ giấy theo chiều ngang và sẽ bị cắt cụt đi khi nếu được in.\n\nBạn có thực sự muốn in nó không?"
 
 #: ../src/common/docview.cpp:1205
 #, c-format
 msgid ""
 "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr ""
-"Tập tin '%s' không tồn tại và không thể mở được.\n"
-"Nó đã bị gỡ bỏ từ danh sách tập tin mới được dùng gần đây nhất."
+msgstr "Tập tin '%s' không tồn tại và không thể mở được.\nNó đã bị gỡ bỏ từ danh sách tập tin mới được dùng gần đây nhất."
 
 #: ../src/richtext/richtextindentspage.cpp:208
 #: ../src/richtext/richtextindentspage.cpp:210
@@ -7046,9 +6893,8 @@ msgstr "Định dạng của tập tin '%s' không phân tách đúng định d�
 
 #: ../src/richtext/richtextbackgroundpage.cpp:220
 #: ../src/richtext/richtextbackgroundpage.cpp:222
-#, fuzzy
 msgid "The horizontal offset."
-msgstr "Cho phép đoạn bù (offset) theo chiều dọc."
+msgstr ""
 
 #: ../src/richtext/richtextindentspage.cpp:199
 #: ../src/richtext/richtextindentspage.cpp:201
@@ -7126,10 +6972,10 @@ msgid "The outline level."
 msgstr "Mức đường bao."
 
 #: ../src/common/log.cpp:281
-#, fuzzy, c-format
+#, c-format
 msgid "The previous message repeated %u time."
 msgid_plural "The previous message repeated %u times."
-msgstr[0] "Thông điệp kế trước lặp lại %lu lần."
+msgstr[0] ""
 
 #: ../src/common/log.cpp:274
 msgid "The previous message repeated once."
@@ -7142,13 +6988,9 @@ msgstr "Chọn vùng cần hiện."
 
 #: ../src/generic/dbgrptg.cpp:322
 msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+"The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
-"Bản báo cáo này chứa danh sách tập tin bên dưới. Nếu bất kỳ tập tin nào chứa "
-"thông tin cá nhân,\n"
-"xin hãy bỏ dấu kiểm và chúng sẽ được gỡ bỏ khỏi báo cáo.\n"
+msgstr "Bản báo cáo này chứa danh sách tập tin bên dưới. Nếu bất kỳ tập tin nào chứa thông tin cá nhân,\nxin hãy bỏ dấu kiểm và chúng sẽ được gỡ bỏ khỏi báo cáo.\n"
 
 #: ../src/common/cmdline.cpp:1254
 #, c-format
@@ -7186,9 +7028,8 @@ msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:267
 #: ../src/richtext/richtextbackgroundpage.cpp:269
-#, fuzzy
 msgid "The shadow colour."
-msgstr "Màu phông chữ."
+msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:337
 #: ../src/richtext/richtextbackgroundpage.cpp:339
@@ -7277,15 +7118,12 @@ msgstr "Giá trị cho bán kính góc."
 msgid ""
 "The version of remote access service (RAS) installed on this machine is too "
 "old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"Phiên bản của chương trình truy cập dữ liệu từ xa (RAS) được cài đặt trong "
-"máy này đã quá cũ, xin hãy cập nhật (hàm yêu cầu sau đây bị thiếu: %s)."
+msgstr "Phiên bản của chương trình truy cập dữ liệu từ xa (RAS) được cài đặt trong máy này đã quá cũ, xin hãy cập nhật (hàm yêu cầu sau đây bị thiếu: %s)."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
-#, fuzzy
 msgid "The vertical offset."
-msgstr "Cho phép đoạn bù (offset) theo chiều dọc."
+msgstr ""
 
 #: ../src/osx/carbon/dataview.cpp:1338
 msgid "There is no column or renderer for the specified column index."
@@ -7293,18 +7131,15 @@ msgstr "Không có cột hay bộ xử lý nào cho chỉ số cột đã địn
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
 msgid ""
-"There was a problem during page setup: you may need to set a default printer."
-msgstr ""
-"Có trục trặc xảy ra khi cài đặt kiểu giấy: có lẽ bạn cần phải đặt một máy in "
-"mặc định."
+"There was a problem during page setup: you may need to set a default "
+"printer."
+msgstr "Có trục trặc xảy ra khi cài đặt kiểu giấy: có lẽ bạn cần phải đặt một máy in mặc định."
 
 #: ../src/html/htmprint.cpp:255
 msgid ""
 "This document doesn't fit on the page horizontally and will be truncated "
 "when it is printed."
-msgstr ""
-"Tài liệu này không vừa khớp theo chiều ngang của giấy và sẽ bị cắt cụt đi "
-"khi được in."
+msgstr "Tài liệu này không vừa khớp theo chiều ngang của giấy và sẽ bị cắt cụt đi khi được in."
 
 #: ../src/common/image.cpp:2720
 #, c-format
@@ -7319,25 +7154,19 @@ msgstr "Hệ thống này không hỗ trợ làm trong suốt nền"
 msgid ""
 "This program was compiled with a too old version of GTK+, please rebuild "
 "with GTK+ 2.12 or newer."
-msgstr ""
-"Chương trình này được dịch với phiên bản cũ của GTK+, xin hãy dịch lại với "
-"GTK+ 2.12 hay mới hơn."
+msgstr "Chương trình này được dịch với phiên bản cũ của GTK+, xin hãy dịch lại với GTK+ 2.12 hay mới hơn."
 
 #: ../src/msw/datecontrols.cpp:59
 msgid ""
 "This system doesn't support date controls, please upgrade your version of "
 "comctl32.dll"
-msgstr ""
-"Hệ thống không hỗ trợ điều khiển ngày tháng, xin hãy cập nhật phiên bản mới "
-"của comctl32.dll"
+msgstr "Hệ thống không hỗ trợ điều khiển ngày tháng, xin hãy cập nhật phiên bản mới của comctl32.dll"
 
 #: ../src/msw/thread.cpp:1251
 msgid ""
 "Thread module initialization failed: cannot store value in thread local "
 "storage"
-msgstr ""
-"Khởi tạo mô đun tuyến trình gặp lỗi: không thể lưu giá trị trong phần lưu "
-"trữ nội bộ tuyến trình"
+msgstr "Khởi tạo mô đun tuyến trình gặp lỗi: không thể lưu giá trị trong phần lưu trữ nội bộ tuyến trình"
 
 #: ../src/unix/threadpsx.cpp:1794
 msgid "Thread module initialization failed: failed to create thread key"
@@ -7347,9 +7176,7 @@ msgstr "Khởi tạo mô đun tuyến trình gặp lỗi: lỗi tạo khóa tuy�
 msgid ""
 "Thread module initialization failed: impossible to allocate index in thread "
 "local storage"
-msgstr ""
-"Khởi tạo mô đun tuyến trình gặp lỗi: không thể cấp phát chỉ số trong phần "
-"lưu trữ nội bộ tuyến trình"
+msgstr "Khởi tạo mô đun tuyến trình gặp lỗi: không thể cấp phát chỉ số trong phần lưu trữ nội bộ tuyến trình"
 
 #: ../src/unix/threadpsx.cpp:1043
 msgid "Thread priority setting is ignored."
@@ -7365,8 +7192,7 @@ msgstr "Xếp &Kề Nhau Theo Chiều Đứng"
 
 #: ../src/common/ftp.cpp:202
 msgid "Timeout while waiting for FTP server to connect, try passive mode."
-msgstr ""
-"Lỗi quá thời gian khi chờ kết nối với máy chủ FTP, hãy thử chế độ thụ động."
+msgstr "Lỗi quá thời gian khi chờ kết nối với máy chủ FTP, hãy thử chế độ thụ động."
 
 #: ../src/generic/tipdlg.cpp:215
 msgid "Tip of the Day"
@@ -7459,12 +7285,8 @@ msgstr "Kiểu phải ở dạng enum - long chuyển đổi"
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
-"Toán tử kiểu \"%s\" gặp lỗi: Tên thuộc tính \"%s\" là kiểu  \"%s\", KHÔNG "
-"PHẢI \"%s\"."
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr "Toán tử kiểu \"%s\" gặp lỗi: Tên thuộc tính \"%s\" là kiểu  \"%s\", KHÔNG PHẢI \"%s\"."
 
 #: ../src/common/paper.cpp:134
 msgid "US Std Fanfold, 14 7/8 x 11 in"
@@ -7534,8 +7356,7 @@ msgstr "Không thể kéo&thả dữ liệu được"
 
 #: ../src/gtk/app.cpp:423
 msgid "Unable to initialize GTK+, is DISPLAY set properly?"
-msgstr ""
-"Không thể khởi tạo GTK+, BỘ HIỂN THỊ đã cài đặt các thuộc tính hay chưa?"
+msgstr "Không thể khởi tạo GTK+, BỘ HIỂN THỊ đã cài đặt các thuộc tính hay chưa?"
 
 #: ../src/gtk/app.cpp:260
 msgid "Unable to initialize Hildon program"
@@ -7610,9 +7431,7 @@ msgstr "Không cần ký tự đi sau tùy chọn '%s'."
 #: ../src/unix/fswatcher_inotify.cpp:262
 #, c-format
 msgid "Unexpected event for \"%s\": no matching watch descriptor."
-msgstr ""
-"Gặp sự kiện bất ngờ dành cho \"%s\": không có bộ mô tả theo dõi nào tương "
-"ứng với nó."
+msgstr "Gặp sự kiện bất ngờ dành cho \"%s\": không có bộ mô tả theo dõi nào tương ứng với nó."
 
 #: ../src/common/cmdline.cpp:1195
 #, c-format
@@ -7812,9 +7631,8 @@ msgstr "Đơn vị cho vị trí trên."
 #: ../src/richtext/richtextbackgroundpage.cpp:296
 #: ../src/richtext/richtextbackgroundpage.cpp:321
 #: ../src/richtext/richtextbackgroundpage.cpp:323
-#, fuzzy
 msgid "Units for this value."
-msgstr "Đơn vị cho lề trái."
+msgstr ""
 
 #: ../src/generic/progdlgg.cpp:385 ../src/generic/progdlgg.cpp:658
 msgid "Unknown"
@@ -8052,26 +7870,22 @@ msgstr "Win32s trên Windows 3.1"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:879
-#, fuzzy
 msgid "Window"
-msgstr "&Cửa sổ"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:880
-#, fuzzy
 msgid "WindowFrame"
-msgstr "&Cửa sổ"
+msgstr ""
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:881
-#, fuzzy
 msgid "WindowText"
-msgstr "&Cửa sổ"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1233
-#, fuzzy
 msgid "Windows 10"
-msgstr "Windows 8.1"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1183
 msgid "Windows 2000"
@@ -8169,9 +7983,8 @@ msgid "Windows NT %lu.%lu"
 msgstr "Windows NT %lu.%lu"
 
 #: ../src/msw/utils.cpp:1232
-#, fuzzy
 msgid "Windows Server 10"
-msgstr "Windows Server 2003"
+msgstr ""
 
 #: ../src/msw/utils.cpp:1192
 msgid "Windows Server 2003"
@@ -8227,21 +8040,18 @@ msgstr "Windows/DOS OEM Cyrillic (CP 866)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:109
-#, fuzzy
 msgid "Windows_Left"
-msgstr "Windows 7"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:111
-#, fuzzy
 msgid "Windows_Menu"
-msgstr "Windows ME"
+msgstr ""
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:110
-#, fuzzy
 msgid "Windows_Right"
-msgstr "Windows Vista"
+msgstr ""
 
 #: ../src/common/ffile.cpp:150
 #, c-format
@@ -8303,9 +8113,7 @@ msgstr "Bạn không thể thêm một thư mục mới vào section này."
 
 #: ../src/propgrid/propgrid.cpp:3295
 msgid "You have entered invalid value. Press ESC to cancel editing."
-msgstr ""
-"Bạn đã nhập vào giá trị không hợp lệ. Hãy bấm phím ESC để huỷ bỏ việc chỉnh "
-"sửa."
+msgstr "Bạn đã nhập vào giá trị không hợp lệ. Hãy bấm phím ESC để huỷ bỏ việc chỉnh sửa."
 
 #: ../src/common/stockitem.cpp:209
 msgid "Zoom &In"
@@ -8337,14 +8145,10 @@ msgstr "một ứng dụng DDEML đã tạo ra một loại điều kiện nối
 
 #: ../src/msw/dde.cpp:1132
 msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+"a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"hàm DDEML được gọi mà không gọi hàm DdeInitialize trước,\n"
-"hay bộ nhận dạng instance không hợp lệ\n"
-"đã được chuyển qua hàm DDEML."
+msgstr "hàm DDEML được gọi mà không gọi hàm DdeInitialize trước,\nhay bộ nhận dạng instance không hợp lệ\nđã được chuyển qua hàm DDEML."
 
 #: ../src/msw/dde.cpp:1150
 msgid "a client's attempt to establish a conversation has failed."
@@ -8383,10 +8187,7 @@ msgid ""
 "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"chuyển tác phía máy chủ nỗ lực để giao tiếp\n"
-"với chuyển tác đã chấm dứt phía máy khách, hay máy chủ\n"
-"chấm dứt trước khi hoàn tất chuyển tác."
+msgstr "chuyển tác phía máy chủ nỗ lực để giao tiếp\nvới chuyển tác đã chấm dứt phía máy khách, hay máy chủ\nchấm dứt trước khi hoàn tất chuyển tác."
 
 #: ../src/msw/dde.cpp:1153
 msgid "a transaction failed."
@@ -8402,11 +8203,7 @@ msgid ""
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"một ứng dụng khởi tạo như APPCLASS_MONITOR đã\n"
-"cố gắng thi hành một chuyển tác DDE,\n"
-"hay một ứng dụng khởi tạo như APPCMD_CLIENTONLY đã\n"
-"cố gắng thi hành một chuyển tác phía máy chủ."
+msgstr "một ứng dụng khởi tạo như APPCLASS_MONITOR đã\ncố gắng thi hành một chuyển tác DDE,\nhay một ứng dụng khởi tạo như APPCMD_CLIENTONLY đã\ncố gắng thi hành một chuyển tác phía máy chủ."
 
 #: ../src/msw/dde.cpp:1159
 msgid "an internal call to the PostMessage function has failed. "
@@ -8421,10 +8218,7 @@ msgid ""
 "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"một bộ nhận dạng chuyển tác không hợp lệ được chuyển tới hàm DDEML.\n"
-"Một khi ứng dụng trả về từ một XTYP_XACT_COMPLETE callback,\n"
-"bộ nhận dạng chuyển tác cho callback đó sẽ không còn hợp lệ."
+msgstr "một bộ nhận dạng chuyển tác không hợp lệ được chuyển tới hàm DDEML.\nMột khi ứng dụng trả về từ một XTYP_XACT_COMPLETE callback,\nbộ nhận dạng chuyển tác cho callback đó sẽ không còn hợp lệ."
 
 #: ../src/common/zipstrm.cpp:1272
 msgid "assuming this is a multi-part zip concatenated"
@@ -8506,8 +8300,7 @@ msgstr "không thể tìm thấy độ dài của tập tin trên phần mô t�
 
 #: ../src/msw/utils.cpp:369
 msgid "can't find user's HOME, using current directory."
-msgstr ""
-"không thể tìm thấy thư mục HOME của người dùng, sử dụng thư mục hiện hành."
+msgstr "không thể tìm thấy thư mục HOME của người dùng, sử dụng thư mục hiện hành."
 
 #: ../src/common/file.cpp:388
 #, c-format
@@ -9182,8 +8975,7 @@ msgstr "wxGetTimeOfDay bị lỗi."
 
 #: ../src/osx/carbon/dataview.cpp:1301
 msgid "wxWidget control pointer is not a data view pointer"
-msgstr ""
-"Con trỏ điều khiển wxWidget không phải là kiểu con trỏ hiển thị dữ liệu"
+msgstr "Con trỏ điều khiển wxWidget không phải là kiểu con trỏ hiển thị dữ liệu"
 
 #: ../src/osx/carbon/dataview.cpp:905
 msgid "wxWidget's control not initialized."
@@ -9215,641 +9007,3 @@ msgstr "lỗi zlib %d"
 #: ../src/richtext/richtextliststylepage.cpp:496
 msgid "~"
 msgstr "~"
-
-#~ msgid "ADD"
-#~ msgstr "THÊM"
-
-#~ msgid "BACK"
-#~ msgstr "QUAY LẠI"
-
-#~ msgid "CANCEL"
-#~ msgstr "HỦY BỎ"
-
-#~ msgid "CAPITAL"
-#~ msgstr "CHỮ VIẾT HOA"
-
-#~ msgid "CLEAR"
-#~ msgstr "XÓA"
-
-#~ msgid "COMMAND"
-#~ msgstr "LỆNH"
-
-#~ msgid "Cannot create mutex."
-#~ msgstr "không thể tạo mutex"
-
-#~ msgid "Cannot resume thread %lu"
-#~ msgstr "Không thể phục hồi tuyến trình %lu"
-
-#~ msgid "Cannot suspend thread %lu"
-#~ msgstr "Không thể đình chỉ tuyến trình %lu"
-
-#~ msgid "Couldn't acquire a mutex lock"
-#~ msgstr "Không thể có được khóa mutex"
-
-#~ msgid "Couldn't get hatch style from wxBrush."
-#~ msgstr "Không thể lấy kiểu dáng hatch từ wxBrush."
-
-#~ msgid "Couldn't release a mutex"
-#~ msgstr "Không thể giải phóng mutex"
-
-#~ msgid "DECIMAL"
-#~ msgstr "HỆ THẬP PHÂN"
-
-#~ msgid "DEL"
-#~ msgstr "DEL"
-
-#~ msgid "DELETE"
-#~ msgstr "DELETE"
-
-#~ msgid "DIVIDE"
-#~ msgstr "DIVIDE"
-
-#~ msgid "DOWN"
-#~ msgstr "DOWN"
-
-#~ msgid "END"
-#~ msgstr "END"
-
-#~ msgid "ENTER"
-#~ msgstr "ENTER"
-
-#~ msgid "ESC"
-#~ msgstr "ESC"
-
-#~ msgid "ESCAPE"
-#~ msgstr "ESCAPE"
-
-#~ msgid "EXECUTE"
-#~ msgstr "THI HÀNH"
-
-#~ msgid "Execution of command '%s' failed with error: %ul"
-#~ msgstr "Thi hành lệnh '%s' gặp lỗi với lỗi: %ul"
-
-#~ msgid ""
-#~ "File '%s' already exists.\n"
-#~ "Do you want to replace it?"
-#~ msgstr ""
-#~ "Tập tin '%s' đã tồn tại. \n"
-#~ "Bạn có muốn thay thế nó không?"
-
-#~ msgid "HELP"
-#~ msgstr "TRỢ GIÚP"
-
-#~ msgid "HOME"
-#~ msgstr "HOME"
-
-#~ msgid "INS"
-#~ msgstr "INS"
-
-#~ msgid "INSERT"
-#~ msgstr "CHÈN"
-
-#~ msgid "KP_BEGIN"
-#~ msgstr "KP_BEGIN"
-
-#~ msgid "KP_DECIMAL"
-#~ msgstr "KP_DECIMAL"
-
-#~ msgid "KP_DELETE"
-#~ msgstr "KP_DELETE"
-
-#~ msgid "KP_DIVIDE"
-#~ msgstr "KP_DIVIDE"
-
-#~ msgid "KP_DOWN"
-#~ msgstr "KP_DOWN"
-
-#~ msgid "KP_ENTER"
-#~ msgstr "KP_ENTER"
-
-#~ msgid "KP_EQUAL"
-#~ msgstr "KP_EQUAL"
-
-#~ msgid "KP_HOME"
-#~ msgstr "KP_HOME"
-
-#~ msgid "KP_INSERT"
-#~ msgstr "KP_INSERT"
-
-#~ msgid "KP_LEFT"
-#~ msgstr "KP_LEFT"
-
-#~ msgid "KP_MULTIPLY"
-#~ msgstr "KP_MULTIPLY"
-
-#~ msgid "KP_NEXT"
-#~ msgstr "KP_NEXT"
-
-#~ msgid "KP_PAGEDOWN"
-#~ msgstr "KP_PAGEDOWN"
-
-#~ msgid "KP_PAGEUP"
-#~ msgstr "KP_PAGEUP"
-
-#~ msgid "KP_PRIOR"
-#~ msgstr "KP_PRIOR"
-
-#~ msgid "KP_RIGHT"
-#~ msgstr "KP_RIGHT"
-
-#~ msgid "KP_SEPARATOR"
-#~ msgstr "KP_SEPARATOR"
-
-#~ msgid "KP_SPACE"
-#~ msgstr "KP_SPACE"
-
-#~ msgid "KP_SUBTRACT"
-#~ msgstr "KP_SUBTRACT"
-
-#~ msgid "LEFT"
-#~ msgstr "LEFT"
-
-#~ msgid "MENU"
-#~ msgstr "TRÌNH ĐƠN"
-
-#~ msgid "NUM_LOCK"
-#~ msgstr "NUM_LOCK"
-
-#~ msgid "PAGEDOWN"
-#~ msgstr "PAGEDOWN"
-
-#~ msgid "PAGEUP"
-#~ msgstr "PAGEUP"
-
-#~ msgid "PAUSE"
-#~ msgstr "PAUSE"
-
-#~ msgid "PGDN"
-#~ msgstr "PGDN"
-
-#~ msgid "PGUP"
-#~ msgstr "PGUP"
-
-#~ msgid "PRINT"
-#~ msgstr "IN"
-
-#~ msgid "RETURN"
-#~ msgstr "RETURN"
-
-#~ msgid "RIGHT"
-#~ msgstr "RIGHT"
-
-#~ msgid "SCROLL_LOCK"
-#~ msgstr "SCROLL_LOCK"
-
-#~ msgid "SELECT"
-#~ msgstr "SELECT"
-
-#~ msgid "SEPARATOR"
-#~ msgstr "SEPARATOR"
-
-#~ msgid "SNAPSHOT"
-#~ msgstr "SNAPSHOT"
-
-#~ msgid "SPACE"
-#~ msgstr "SPACE"
-
-#~ msgid "SUBTRACT"
-#~ msgstr "SUBTRACT"
-
-#~ msgid "TAB"
-#~ msgstr "TAB"
-
-#~ msgid "The print dialog returned an error."
-#~ msgstr "Hộp thoại in trả về một lỗi."
-
-#~ msgid "The wxGtkPrinterDC cannot be used."
-#~ msgstr "Hàm wxGtkPrinterDC không thể sử dụng."
-
-#~ msgid "Timer creation failed."
-#~ msgstr "Tạo lập bộ định thời Timer gặp lỗi."
-
-#~ msgid "UP"
-#~ msgstr "UP"
-
-#~ msgid "WINDOWS_LEFT"
-#~ msgstr "WINDOWS_LEFT"
-
-#~ msgid "WINDOWS_MENU"
-#~ msgstr "WINDOWS_MENU"
-
-#~ msgid "WINDOWS_RIGHT"
-#~ msgstr "WINDOWS_RIGHT"
-
-#~ msgid "buffer is too small for Windows directory."
-#~ msgstr "bộ đệm quá nhỏ cho thư mục Windows."
-
-#~ msgid "not implemented"
-#~ msgstr "chưa được viết mã thực thi."
-
-#~ msgid "wxPrintout::GetPageInfo gives a null maxPage."
-#~ msgstr "wxPrintout::GetPageInfo trả lại một maxPage rỗng."
-
-#~ msgid "Event queue overflowed"
-#~ msgstr "Hàng đợi sự kiện bị tràn"
-
-#~ msgid "percent"
-#~ msgstr "phần trăm"
-
-#~ msgid "Print preview"
-#~ msgstr "Mô phỏng bản in"
-
-#~ msgid "'"
-#~ msgstr "'"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "3"
-#~ msgstr "3"
-
-#~ msgid "4"
-#~ msgstr "4"
-
-#~ msgid "5"
-#~ msgstr "5"
-
-#~ msgid "6"
-#~ msgstr "6"
-
-#~ msgid "7"
-#~ msgstr "7"
-
-#~ msgid "8"
-#~ msgstr "8"
-
-#~ msgid "9"
-#~ msgstr "9"
-
-#~ msgid "Can't monitor non-existent path \"%s\" for changes."
-#~ msgstr ""
-#~ "Không thể theo dõi đường dẫn không-hiện-có \"%s\" để thấy được các thay "
-#~ "đổi."
-
-#~ msgid "File system containing watched object was unmounted"
-#~ msgstr "Hệ thống tập tin chứa đối tượng theo dõi chưa được gắn vào"
-
-#~ msgid "&Preview..."
-#~ msgstr "&Xem trước..."
-
-#~ msgid "Passing an unkown object to GetObject"
-#~ msgstr "Chuyển qua một đối tượng không rõ để SetObject"
-
-#~ msgid "Preview..."
-#~ msgstr "Xem trước..."
-
-#~ msgid "The vertical offset relative to the paragraph."
-#~ msgstr "Khoảng bù (offset) dọc liên quan đến đoạn."
-
-#~ msgid "Units for the object offset."
-#~ msgstr "Đơn vị cho khoảng bù (offset) đối tượng."
-
-#~ msgid "&Goto..."
-#~ msgstr "Nhả&y tới..."
-
-#~ msgid "&Save..."
-#~ msgstr "&Ghi lại..."
-
-#~ msgid "<<"
-#~ msgstr "<<"
-
-#~ msgid ">>"
-#~ msgstr ">>"
-
-#~ msgid ">>|"
-#~ msgstr ">>|"
-
-#~ msgid "Added item is invalid."
-#~ msgstr "Thêm mục tin là không hợp lệ."
-
-#~ msgid "All files (*.*)|*"
-#~ msgstr "Mọi tập tin (*.*)|*"
-
-#~ msgid "BIG5"
-#~ msgstr "BIG5"
-
-#~ msgid "Can't check image format of file '%s': file does not exist."
-#~ msgstr ""
-#~ "Không thể kiểm tra định dạng tập tin ảnh '%s': tập tin không tồn tại."
-
-#~ msgid "Can't load image from file '%s': file does not exist."
-#~ msgstr "Không thể tải ảnh từ tập tin '%s': tập tin không tồn tại."
-
-#~ msgid "Cannot initialize SciTech MGL!"
-#~ msgstr "Không thể khởi tạo SciTech MGL!"
-
-#~ msgid "Cannot initialize display."
-#~ msgstr "Không thể khỏi tạo bộ hiển thị."
-
-#~ msgid "Cannot open file '%s'."
-#~ msgstr "Không thể mở tập tin %s."
-
-#~ msgid "Cannot start thread: error writing TLS"
-#~ msgstr "Không thể khởi động tuyến trình: lỗi ghi TLS."
-
-#~ msgid "Changed item is invalid."
-#~ msgstr "Thay đổi mục tin không hợp lệ."
-
-#~ msgid "Click to cancel this window."
-#~ msgstr "Bấm vào để hủy cửa sổ này."
-
-#~ msgid "Click to confirm your selection."
-#~ msgstr "Nhấn để xác thực việc chọn."
-
-#~ msgid "Close\tAlt-F4"
-#~ msgstr "Đóng lại\tAlt-F4"
-
-#~ msgid "Column could not be added to native control."
-#~ msgstr "Cột không thể chèn thêm vào một điều khiển cơ bản"
-
-#~ msgid "Column does not have a renderer."
-#~ msgstr "Cột không có bộ xử lý."
-
-#~ msgid "Column pointer must not be NULL."
-#~ msgstr "Con trỏ cột phải khác NULL."
-
-#~ msgid "Column's model column has no equivalent in the associated model."
-#~ msgstr "Mô hình của cột phải không tương đương với mô hình liên quan."
-
-#~ msgid "Could not add column to internal structures."
-#~ msgstr "Không thể thêm cột vào cấu trúc nội tại."
-
-#~ msgid "Couldn't create cursor."
-#~ msgstr "Không tạo được con trỏ chuột."
-
-#~ msgid "Directory '%s' doesn't exist!"
-#~ msgstr "Thư mục '%s' chưa tồn tại!"
-
-#~ msgid "Enter a page number between %d and %d:"
-#~ msgstr "Nhập vào số trang nằm giữa %d và %d:"
-
-#~ msgid "Failed to create a status bar."
-#~ msgstr "Tạo thanh trạng thái gặp lỗi."
-
-#~ msgid "File %s does not exist."
-#~ msgstr "Tập tin %s chưa tồn tại."
-
-#~ msgid "GB-2312"
-#~ msgstr "GB-2312"
-
-#~ msgid "Goto Page"
-#~ msgstr "Nhảy tới Trang"
-
-#~ msgid ""
-#~ "HTML pagination algorithm generated more than the allowed maximum number "
-#~ "of pages and it can't continue any longer!"
-#~ msgstr ""
-#~ "Thuật toán chia trang HTML tạo ra nhiều hơn số tối đa trang được phép và "
-#~ "nó không thể tiếp tục được nữa!"
-
-#~ msgid "I64"
-#~ msgstr "I64"
-
-#~ msgid "Internal error, illegal wxCustomTypeInfo"
-#~ msgstr "Lỗi nội bộ, wxCustomTypeInfo không hợp lệ"
-
-#~ msgid "Mode %ix%i-%i not available."
-#~ msgstr "Chế độ %ix%i-%i không sẵn sàng."
-
-#~ msgid "Model pointer not initialized."
-#~ msgstr "Mô hình con trỏ không thể khởi tạo."
-
-#~ msgid "No image handler for type %ld defined."
-#~ msgstr "Không có bộ điều khiển ảnh cho kiểu %ld đã định nghĩa."
-
-#~ msgid "No model associated with control."
-#~ msgstr "Không có mô hình liên kết với điều khiển này."
-
-#~ msgid "Owner not initialized."
-#~ msgstr "Chủ sở hữu không khởi tạo."
-
-#~ msgid "Paper Size"
-#~ msgstr "Cỡ giấy"
-
-#~ msgid "Passed item is invalid."
-#~ msgstr "Mục tin chuyển tới không hợp lệ."
-
-#~ msgid "Passing a already registered object to SetObjectName"
-#~ msgstr "Chuyển qua một đối tượng đã được đăng ký rồi để SetObjectName"
-
-#~ msgid "Pointer to dataview control must not be NULL"
-#~ msgstr "Con trỏ tới điều khiển hiển thị dữ liệu không được đặt bằng NULL."
-
-#~ msgid "Pointer to native control must not be NULL."
-#~ msgstr "Con trỏ tới điều khiển native không được đặt bằng NULL."
-
-#~ msgid "SHIFT-JIS"
-#~ msgstr "SHIFT-JIS"
-
-#~ msgid ""
-#~ "Streaming delegates for not already streamed objects not yet supported"
-#~ msgstr "Đại diện Streaming cho đối tượng streamed vẫn chưa được hỗ trợ"
-
-#~ msgid ""
-#~ "The data format for the GET-direction of the to be added data object "
-#~ "already exists"
-#~ msgstr ""
-#~ "Định dạng dữ liệu cho bộ điều hướng GET của đối tượng dữ liệu được thêm "
-#~ "vào đã có rồi"
-
-#~ msgid ""
-#~ "The data format for the SET-direction of the to be added data object "
-#~ "already exists"
-#~ msgstr ""
-#~ "Định dạng dữ liệu cho bộ điều hướng SET của đối tượng dữ liệu được thêm "
-#~ "vào đã có rồi"
-
-#~ msgid "The file '%s' doesn't exist and couldn't be opened."
-#~ msgstr "Tập tin '%s' chưa tồn tại và không thể mở."
-
-#~ msgid "The path '%s' contains too many \"..\"!"
-#~ msgstr "Đường dẫn '%s' chứa quá nhiều \"..\"!"
-
-#~ msgid "To be deleted item is invalid."
-#~ msgstr "Xóa mục tin là không hợp lệ."
-
-#~ msgid "Update"
-#~ msgstr "Cập nhật"
-
-#~ msgid "Value must be %lld or higher"
-#~ msgstr "Giá trị phải là %lld hay lớn hơn"
-
-#~ msgid "Value must be %llu or higher"
-#~ msgstr "Giá trị phải là %llu hay nhỏ hơn"
-
-#~ msgid "Value must be %llu or less"
-#~ msgstr "Giá trị phải là %llu hay nhỏ hơn"
-
-#~ msgid "Warning"
-#~ msgstr "Cảnh báo"
-
-#~ msgid "Windows 2000 (build %lu"
-#~ msgstr "Windows 2000 (build %lu"
-
-#~ msgid "delegate has no type info"
-#~ msgstr "delegate không có thông tin kiểu"
-
-#~ msgid "wxSearchEngine::LookFor must be called before scanning!"
-#~ msgstr "wxSearchEngine::LookFor phải được gọi trước khi quét!"
-
-#~ msgid "|<<"
-#~ msgstr "|<<"
-
-#~ msgid "%.*f GB"
-#~ msgstr "%.*f GB"
-
-#~ msgid "%.*f MB"
-#~ msgstr "%.*f MB"
-
-#~ msgid "%.*f TB"
-#~ msgstr "%.*f TB"
-
-#~ msgid "%.*f kB"
-#~ msgstr "%.*f kB"
-
-#~ msgid "%s B"
-#~ msgstr "%s B"
-
-#~ msgid "Archive doesnt contain #SYSTEM file"
-#~ msgstr "Phần lưu trữ không chứa tập tin hệ thống #SYSTEM"
-
-#~ msgid "Cannot convert dialog units: dialog unknown."
-#~ msgstr "Không thể chuyển đổi đơn vị hộp thoại: hộp thoại chưa được biết."
-
-#~ msgid "Cannot convert from the charset '%s'!"
-#~ msgstr "Không thể chuyển đổi từ bộ ký tự '%s'!"
-
-#~ msgid "Cannot find container for unknown control '%s'."
-#~ msgstr "Không tìm thấy container cho điều khiển không rõ '%s'."
-
-#~ msgid "Cannot find font node '%s'."
-#~ msgstr "Không thể tìm thấy nút phông chữ '%s'."
-
-#~ msgid "Cannot parse coordinates from '%s'."
-#~ msgstr "Không thể phân tách hệ tọa độ từ '%s'."
-
-#~ msgid "Cannot parse dimension from '%s'."
-#~ msgstr "Không thể phân tách kích thước từ '%s'."
-
-#~ msgid "Cant create the thread event queue"
-#~ msgstr "Không thể tạo hàng đợi sự kiện tuyến trình"
-
-#~ msgid "Control is wrongly initialized."
-#~ msgstr "Điều khiển khởi tạo sai."
-
-#~ msgid "Could not unlock mutex"
-#~ msgstr "Không thể bỏ khóa mutex"
-
-#~ msgid "Data view control is not correctly initialized"
-#~ msgstr "Điều khiển hiển thị dữ liệu không được khởi tạo một cách đúng đắn."
-
-#~ msgid "Error while waiting on semaphore"
-#~ msgstr "Lỗi khi chờ cờ hiệu"
-
-#~ msgid "Failed to connect to session manager: %s"
-#~ msgstr "Kết nối tới quản lý session gặp lỗi: %s"
-
-#~ msgid "Failed to register OpenGL window class."
-#~ msgstr "Đăng ký một lớp cửa sổ OpenGL gặp lỗi."
-
-#~ msgid "Fatal error"
-#~ msgstr "Lỗi nghiêm trọng"
-
-#~ msgid "Fatal error: "
-#~ msgstr "Lỗi nghiêm trọng: "
-
-#~ msgid "Go forward to the next HTML page"
-#~ msgstr "Tiến tới trang HTML tiếp theo"
-
-#~ msgid "Help : %s"
-#~ msgstr "Trợ giúp : %s"
-
-#~ msgid "Invalid XRC resource '%s': doesn't have root node 'resource'."
-#~ msgstr "Tài nguyên XRC '%s' không hợp lệ: không có nút gốc 'resource'."
-
-#~ msgid "No handler found for XML node '%s', class '%s'!"
-#~ msgstr "Không tìm thấy handler XML cho nút '%s', lớp '%s'!"
-
-#~ msgid "Preparing help window..."
-#~ msgstr "Đang chuẩn bị cửa sổ trợ giúp..."
-
-#~ msgid "Program aborted."
-#~ msgstr "Chương trình bị bãi bỏ."
-
-#~ msgid "Referenced object node with ref=\"%s\" not found!"
-#~ msgstr "Nốt đối tượng có liên quan đến ref=\"%s\" không tìm thấy!"
-
-#~ msgid "Resource files must have same version number!"
-#~ msgstr "Tập tin tài nguyên phải có cùng số phiên bản!"
-
-#~ msgid "Search!"
-#~ msgstr "Tìm kiếm!"
-
-#~ msgid "Sorry, could not open this file for saving."
-#~ msgstr "Rất tiếc, không thể mở tập tin này để ghi."
-
-#~ msgid "Sorry, could not save this file."
-#~ msgstr "Rất tiếc, không thể ghi lại tập tin này."
-
-#~ msgid "Sorry, print preview needs a printer to be installed."
-#~ msgstr "Rất tiếc, việc mô phỏng bản in cần một máy in đã được cài đặt."
-
-#~ msgid "Status: "
-#~ msgstr "Tình trạng: "
-
-#~ msgid "Subclass '%s' not found for resource '%s', not subclassing!"
-#~ msgstr ""
-#~ "Lớp con '%s' không được tìm thấy cho tài nguyên '%s', không có lớp con!"
-
-#~ msgid "TIFF library error."
-#~ msgstr "Thư viện TIFF bị lỗi."
-
-#~ msgid "TIFF library warning."
-#~ msgstr "Cảnh giác với thư viện TIFF."
-
-#~ msgid "Trying to solve a NULL hostname: giving up"
-#~ msgstr "Đang cố gắng giải quyết một tên máy chủ RỖNG: đưa lên"
-
-#~ msgid "Unknown style flag "
-#~ msgstr "Không rõ kiểu cờ "
-
-#~ msgid "XRC resource '%s' (class '%s') not found!"
-#~ msgstr "Tài nguyên XRC '%s' (lớp '%s') không tìm thấy!"
-
-#~ msgid "XRC resource: Cannot create animation from '%s'."
-#~ msgstr "Tài nguyên XRC: Không thể tạo hoạt hình từ '%s'."
-
-#~ msgid "XRC resource: Cannot create bitmap from '%s'."
-#~ msgstr "Tài nguyên XRC: Không thể tạo ảnh bitmap từ '%s'."
-
-#~ msgid ""
-#~ "XRC resource: Incorrect colour specification '%s' for attribute '%s'."
-#~ msgstr ""
-#~ "Tài nguyên XRC: Sự định màu '%s' không chính xác cho thuộc tính '%s'."
-
-#~ msgid "[EMPTY]"
-#~ msgstr "[EMPTY]"
-
-#~ msgid "catalog file for domain '%s' not found."
-#~ msgstr "tập tin catalog cho tên miền '%s' không tìm thấy."
-
-#~ msgid "encoding %i"
-#~ msgstr "bộ mã %i"
-
-#~ msgid "looking for catalog '%s' in path '%s'."
-#~ msgstr "tìm catalog '%s' trong đường dẫn '%s'."
-
-#~ msgid "m_peer is not or incorrectly initialized"
-#~ msgstr "khởi tạo m_peer không được hay không chính xác"
-
-#~ msgid "wxRichTextFontPage"
-#~ msgstr "wxRichTextFontPage"
-
-#~ msgid "wxSocket: invalid signature in ReadMsg."
-#~ msgstr "wxSocket: chữ ký không hợp lệ trong ReadMsg."
-
-#~ msgid "wxSocket: unknown event!."
-#~ msgstr "wxSocket: không rõ sự kiện!."
