@@ -1,33 +1,25 @@
-# wxWidgets Finnish translation.
-# Jani Kinnunen <jani.kinnunen@wippies.fi>, 2012.
-# Elias Julkunen <eliasjulkunen@gmail.com>, 2008
-# Jaakko Salli <jmsalli79@hotmail.com>, 2005.
-# Lauri Nurmi <lanurmi@iki.fi>, 2004.
-# Kaj G Backas <kgb@compart.fi>, 2000.
-#
-# HUOM! Jos jatkat suomennosta, ÃLÃ kÃ€ytÃ€ fuzzy-merkittyjÃ€ kohtia
-#       lukematta niitÃ€ lÃ€pi hyvin tarkasti! NiissÃ€ voi olla mitÃ€ vain.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets 3.0\n"
+"Project-Id-Version: wxwidgets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-23 22:46+0400\n"
-"PO-Revision-Date: 2012-08-07 13:31+0200\n"
-"Last-Translator: Jani Kinnunen <jani.kinnunen@wippies.fi>\n"
-"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
-"Language: fi\n"
+"PO-Revision-Date: 2015-08-19 01:15-0400\n"
+"Last-Translator: tierra <bryan@ibaku.net>\n"
+"Language-Team: Finnish\n"
+"Language: fi_FI\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: wxwidgets\n"
+"X-Crowdin-Language: fi\n"
+"X-Crowdin-File: wxstd.pot\n"
 
 #: ../src/common/debugrpt.cpp:591
-msgid ""
-"\n"
+msgid "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
+msgstr "\n"
 "Lähetä tämä ilmoitus ohjelman ylläpitäjälle, kiitos!\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
@@ -40,7 +32,7 @@ msgid "              Thank you and we're sorry for the inconvenience!\n"
 msgstr "              Kiitos, ja olemme pahoillamme kaikista hankaluuksista!\n"
 
 #: ../src/common/prntbase.cpp:573
-#, fuzzy, c-format
+#, c-format
 msgid " (copy %d of %d)"
 msgstr "Sivu %d / %d"
 
@@ -50,7 +42,7 @@ msgid " (error %ld: %s)"
 msgstr " (virhe %ld: %s)"
 
 #: ../src/common/imagtiff.cpp:72
-#, fuzzy, c-format
+#, c-format
 msgid " (in module \"%s\")"
 msgstr "tiff-moduuli: %s"
 
@@ -109,7 +101,6 @@ msgstr "#9 kirjekuori, 3 7/8″ x 8 7/8″"
 #: ../src/richtext/richtextsizepage.cpp:591
 #: ../src/richtext/richtextsizepage.cpp:626
 #: ../src/richtext/richtextsizepage.cpp:661
-#, fuzzy
 msgid "%"
 msgstr "%s"
 
@@ -119,7 +110,7 @@ msgid "%d of %lu"
 msgstr "%d / %lu"
 
 #: ../src/html/helpwnd.cpp:1678
-#, fuzzy, c-format
+#, c-format
 msgid "%i of %u"
 msgstr "%i / %i"
 
@@ -151,7 +142,7 @@ msgid "%s Information"
 msgstr "%s-tiedotus"
 
 #: ../src/generic/preferencesg.cpp:115
-#, fuzzy, c-format
+#, c-format
 msgid "%s Preferences"
 msgstr "&Asetukset"
 
@@ -171,7 +162,7 @@ msgid "%s files (%s)|%s"
 msgstr "%s-tiedostot (%s)|%s"
 
 #: ../src/html/helpwnd.cpp:1716
-#, fuzzy, c-format
+#, c-format
 msgid "%u of %u"
 msgstr "%lu / %lu"
 
@@ -227,7 +218,7 @@ msgstr "&Taustaväri:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:299
 msgid "&Blur distance:"
-msgstr ""
+msgstr "&Blur distance:"
 
 #: ../src/common/stockitem.cpp:143
 msgid "&Bold"
@@ -247,7 +238,6 @@ msgid "&Bottom:"
 msgstr "&Alaosa:"
 
 #: ../include/wx/richtext/richtextbuffer.h:3860
-#, fuzzy
 msgid "&Box"
 msgstr "&Lihavoitu"
 
@@ -372,7 +362,6 @@ msgid "&Floating mode:"
 msgstr "&Liukuva tila:"
 
 #: ../src/common/stockitem.cpp:160
-#, fuzzy
 msgid "&Floppy"
 msgstr "K&opioi"
 
@@ -427,7 +416,7 @@ msgstr "&Koti"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:213
 msgid "&Horizontal offset:"
-msgstr ""
+msgstr "&Horizontal offset:"
 
 #: ../src/richtext/richtextindentspage.cpp:184
 #: ../src/richtext/richtextliststylepage.cpp:372
@@ -436,7 +425,6 @@ msgstr "&Sisennys (millimetrin kymmenyksiä)"
 
 #: ../src/richtext/richtextindentspage.cpp:167
 #: ../src/richtext/richtextliststylepage.cpp:356
-#, fuzzy
 msgid "&Indeterminate"
 msgstr "&Alleviivaus"
 
@@ -574,7 +562,6 @@ msgid "&Position (tenths of a mm):"
 msgstr "&Sijainti (millimetrin kymmenyksiä):"
 
 #: ../src/richtext/richtextsizepage.cpp:514
-#, fuzzy
 msgid "&Position mode:"
 msgstr "&Liukuva tila:"
 
@@ -711,7 +698,7 @@ msgstr "&Symbolit:"
 #: ../src/richtext/richtextborderspage.cpp:383
 #: ../src/richtext/richtextborderspage.cpp:552
 msgid "&Synchronize values"
-msgstr ""
+msgstr "&Synchronize values"
 
 #: ../include/wx/richtext/richtextbuffer.h:6063
 msgid "&Table"
@@ -761,7 +748,6 @@ msgid "&Vertical alignment:"
 msgstr "&Tasaus pystysuunnassa:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:236
-#, fuzzy
 msgid "&Vertical offset:"
 msgstr "&Tasaus pystysuunnassa:"
 
@@ -790,12 +776,12 @@ msgid "&Yes"
 msgstr "&Kyllä"
 
 #: ../src/common/valtext.cpp:256
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' contains illegal characters"
 msgstr "”%s” saa sisältää vain kirjaimia."
 
 #: ../src/common/valtext.cpp:254
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' doesn't consist only of valid characters"
 msgstr "”%s” saa sisältää vain kirjaimia."
 
@@ -815,12 +801,12 @@ msgid "'%s' is not a valid message catalog."
 msgstr "”%s” ei ole kelvollinen viestiluettelo."
 
 #: ../src/common/valtext.cpp:165
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' is not one of the valid strings"
 msgstr "”%s” ei ole kelvollinen viestiluettelo."
 
 #: ../src/common/valtext.cpp:167
-#, fuzzy, c-format
+#, c-format
 msgid "'%s' is one of the invalid strings"
 msgstr "”%s” on virheellinen"
 
@@ -1200,24 +1186,22 @@ msgid "About %s"
 msgstr "Tietoja ohjelmasta %s"
 
 #: ../src/osx/menu_osx.cpp:597
-#, fuzzy
 msgid "About..."
 msgstr "Tietoja"
 
 #: ../src/richtext/richtextsizepage.cpp:520
 msgid "Absolute"
-msgstr ""
+msgstr "Absolute"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:859
-#, fuzzy
 msgid "ActiveBorder"
 msgstr "Moderni"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:860
 msgid "ActiveCaption"
-msgstr ""
+msgstr "ActiveCaption"
 
 #: ../src/common/stockitem.cpp:207
 msgid "Actual Size"
@@ -1230,11 +1214,11 @@ msgstr "Lisää"
 
 #: ../src/richtext/richtextbuffer.cpp:11446
 msgid "Add Column"
-msgstr ""
+msgstr "Add Column"
 
 #: ../src/richtext/richtextbuffer.cpp:11383
 msgid "Add Row"
-msgstr ""
+msgstr "Add Row"
 
 #: ../src/html/helpwnd.cpp:432
 msgid "Add current page to bookmarks"
@@ -1267,7 +1251,7 @@ msgstr "Utxt-kerroksen lisääminen epäonnistui"
 
 #: ../src/common/preferencescmn.cpp:43
 msgid "Advanced"
-msgstr ""
+msgstr "Advanced"
 
 #: ../src/richtext/richtextliststylepage.cpp:435
 msgid "After a paragraph:"
@@ -1325,7 +1309,7 @@ msgstr "Alt+"
 #: ../src/richtext/richtextborderspage.cpp:580
 #: ../src/richtext/richtextborderspage.cpp:582
 msgid "An optional corner radius for adding rounded corners."
-msgstr ""
+msgstr "An optional corner radius for adding rounded corners."
 
 #: ../src/common/debugrpt.cpp:581
 msgid "And includes the following files:\n"
@@ -1339,7 +1323,7 @@ msgstr "Animaatiotiedosto ei ole tyyppiä %ld."
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:858
 msgid "AppWorkspace"
-msgstr ""
+msgstr "AppWorkspace"
 
 #: ../src/generic/logg.cpp:1034
 #, c-format
@@ -1347,7 +1331,6 @@ msgid "Append log to file '%s' (choosing [No] will overwrite it)?"
 msgstr "Lisää loki tiedostoon ”%s” (valitse [Ei] korvataksesi tiedoston)?"
 
 #: ../src/osx/menu_osx.cpp:615 ../src/osx/menu_osx.cpp:623
-#, fuzzy
 msgid "Application"
 msgstr "Valinta"
 
@@ -1357,7 +1340,7 @@ msgstr "Käytä"
 
 #: ../src/propgrid/advprops.cpp:1570
 msgid "Aqua"
-msgstr ""
+msgstr "Aqua"
 
 #: ../src/richtext/richtextbulletspage.cpp:274
 #: ../src/richtext/richtextliststylepage.cpp:482
@@ -1375,7 +1358,6 @@ msgstr "Parametria %u ei löydy."
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1714
-#, fuzzy
 msgid "Arrow"
 msgstr "huomenna"
 
@@ -1494,17 +1476,14 @@ msgstr "Taustaväri"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:50
-#, fuzzy
 msgid "Backspace"
 msgstr "Takaisin"
 
 #: ../src/common/fmapbase.cpp:160
-#, fuzzy
 msgid "Baltic (ISO-8859-13)"
 msgstr "Baltti (ISO-8859-13)"
 
 #: ../src/common/fmapbase.cpp:151
-#, fuzzy
 msgid "Baltic (old) (ISO-8859-4)"
 msgstr "Vanha baltti (ISO-8859-4)"
 
@@ -1523,16 +1502,16 @@ msgstr "Värikartan piirtäjä ei voi piirtää arvoa; arvon tyyppi:"
 
 #: ../src/propgrid/advprops.cpp:1555
 msgid "Black"
-msgstr ""
+msgstr "Black"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1716
 msgid "Blank"
-msgstr ""
+msgstr "Blank"
 
 #: ../src/propgrid/advprops.cpp:1564
 msgid "Blue"
-msgstr ""
+msgstr "Blue"
 
 #: ../src/common/stockitem.cpp:143 ../src/generic/fontdlgg.cpp:333
 #: ../src/osx/carbon/fontdlg.cpp:524 ../src/richtext/richtextfontpage.cpp:353
@@ -1541,12 +1520,10 @@ msgstr "Lihavoitu"
 
 #: ../src/richtext/richtextborderspage.cpp:232
 #: ../src/richtext/richtextborderspage.cpp:390
-#, fuzzy
 msgid "Border"
 msgstr "Moderni"
 
 #: ../src/richtext/richtextformatdlg.cpp:385
-#, fuzzy
 msgid "Borders"
 msgstr "Moderni"
 
@@ -1559,17 +1536,14 @@ msgid "Bottom margin (mm):"
 msgstr "Alamarginaali (mm):"
 
 #: ../src/richtext/richtextbuffer.cpp:9376
-#, fuzzy
 msgid "Box Properties"
 msgstr "&Ominaisuudet"
 
 #: ../src/richtext/richtextstyles.cpp:1065
-#, fuzzy
 msgid "Box styles"
 msgstr "Kaikki tyylit"
 
 #: ../src/propgrid/advprops.cpp:1563
-#, fuzzy
 msgid "Brown"
 msgstr "Selaa"
 
@@ -1592,29 +1566,28 @@ msgstr "Luettelomerkit"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1717
-#, fuzzy
 msgid "Bullseye"
 msgstr "Luettelomerkkityyli"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:861
 msgid "ButtonFace"
-msgstr ""
+msgstr "ButtonFace"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:862
 msgid "ButtonHighlight"
-msgstr ""
+msgstr "ButtonHighlight"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:863
 msgid "ButtonShadow"
-msgstr ""
+msgstr "ButtonShadow"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:864
 msgid "ButtonText"
-msgstr ""
+msgstr "ButtonText"
 
 #: ../src/common/paper.cpp:99
 msgid "C sheet, 17 x 22 in"
@@ -1666,9 +1639,7 @@ msgstr "Ei voi &Kumota "
 
 #: ../src/common/image.cpp:2690
 msgid "Can't automatically determine the image format for non-seekable input."
-msgstr ""
-"Kuvamuotoa ei voi määrittää automaattisesti syötteelle, joka ei ole "
-"haettavissa."
+msgstr "Kuvamuotoa ei voi määrittää automaattisesti syötteelle, joka ei ole haettavissa."
 
 #: ../src/msw/registry.cpp:498
 #, c-format
@@ -1745,8 +1716,7 @@ msgstr "Zlib inflate -virtaa ei pystytä alustamaan."
 #: ../src/msw/fswatcher.cpp:476
 #, c-format
 msgid "Can't monitor non-existent directory \"%s\" for changes."
-msgstr ""
-"Hakemiston \"%s\" muutoksia ei voida tarkkailla, koska sitä ei ole olemassa."
+msgstr "Hakemiston \"%s\" muutoksia ei voida tarkkailla, koska sitä ei ole olemassa."
 
 #: ../src/msw/registry.cpp:445
 #, c-format
@@ -1793,7 +1763,6 @@ msgid "Can't set value of '%s'"
 msgstr "Ei voida asettaa arvoa ”%s”"
 
 #: ../src/unix/utilsunx.cpp:347
-#, fuzzy
 msgid "Can't write to child process's stdin"
 msgstr "Prosessia %d ei voitu lopettaa."
 
@@ -1813,9 +1782,7 @@ msgstr "Peruuta"
 
 #: ../src/osx/carbon/dataview.cpp:893
 msgid "Cannot create new column's ID. Probably max. number of columns reached."
-msgstr ""
-"Uutta saraketunnusta ei voi luoda. Mahdollisesti sarakkeiden enimmäismäärä "
-"saavutettu."
+msgstr "Uutta saraketunnusta ei voi luoda. Mahdollisesti sarakkeiden enimmäismäärä saavutettu."
 
 #: ../src/common/filefn.cpp:1280
 #, c-format
@@ -1837,7 +1804,7 @@ msgid "Cannot find the location of address book file"
 msgstr "Osoitekirjatiedoston sijaintia ei löydy"
 
 #: ../src/msw/ole/automtn.cpp:568
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot get an active instance of \"%s\""
 msgstr "Aktiivista puhelinyhteyttä ei löydy: %s"
 
@@ -1863,7 +1830,6 @@ msgid "Cannot initialize OLE"
 msgstr "OLE:n alustus epäonnistui"
 
 #: ../src/common/socket.cpp:853
-#, fuzzy
 msgid "Cannot initialize sockets"
 msgstr "OLE:n alustus epäonnistui"
 
@@ -1873,7 +1839,7 @@ msgid "Cannot load icon from '%s'."
 msgstr "Ei voitu ladata kuvaketta tiedostosta ”%s”."
 
 #: ../src/xrc/xmlres.cpp:363
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot load resources from '%s'."
 msgstr "Ei voi ladata resursseja tiedostosta ”%s”."
 
@@ -1907,7 +1873,7 @@ msgid "Cannot open index file: %s"
 msgstr "Indeksitiedostoa %s ei voi avata!"
 
 #: ../src/xrc/xmlres.cpp:727
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot open resources file '%s'."
 msgstr "Ei voi ladata resursseja tiedostosta ”%s”."
 
@@ -1921,7 +1887,7 @@ msgid "Cannot read typename from '%s'!"
 msgstr "Tyyppinimeä ei voi lukea: ”%s”"
 
 #: ../src/msw/thread.cpp:895
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot resume thread %lx"
 msgstr "Säikeen %x jatko epäonnistui"
 
@@ -1930,7 +1896,7 @@ msgid "Cannot retrieve thread scheduling policy."
 msgstr "Säikeen järjestyspolitiikka ei löydettävissä."
 
 #: ../src/common/intl.cpp:534
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot set locale to language \"%s\"."
 msgstr "Kieliasetusta ei voida asettaa kieleen ”%s”"
 
@@ -1939,7 +1905,7 @@ msgid "Cannot start thread: error writing TLS."
 msgstr "Säikeen käynnistys epäonnistui: virhe TLS-kirjoituksessa."
 
 #: ../src/msw/thread.cpp:879
-#, fuzzy, c-format
+#, c-format
 msgid "Cannot suspend thread %lx"
 msgstr "Säikeen %x keskeytys epäonnistui"
 
@@ -1949,14 +1915,13 @@ msgstr "Ei voi odottaa säikeen keskeytystä"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:73
-#, fuzzy
 msgid "Capital"
 msgstr "&Suuraakkoset"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:865
 msgid "CaptionText"
-msgstr ""
+msgstr "CaptionText"
 
 #: ../src/html/helpwnd.cpp:533
 msgid "Case sensitive"
@@ -1967,7 +1932,6 @@ msgid "Categorized Mode"
 msgstr "Kategorisoitu tila"
 
 #: ../src/richtext/richtextbuffer.cpp:9958
-#, fuzzy
 msgid "Cell Properties"
 msgstr "&Ominaisuudet"
 
@@ -2001,7 +1965,6 @@ msgid "Centre text."
 msgstr "Keskitä teksti."
 
 #: ../src/richtext/richtextsizepage.cpp:287
-#, fuzzy
 msgid "Centred"
 msgstr "&Keskitetty"
 
@@ -2015,13 +1978,11 @@ msgid "Change List Style"
 msgstr "Muuta luettelotyyli"
 
 #: ../src/richtext/richtextbuffer.cpp:3703
-#, fuzzy
 msgid "Change Object Style"
 msgstr "Muuta luettelotyyli"
 
 #: ../src/richtext/richtextbuffer.cpp:3976
 #: ../src/richtext/richtextbuffer.cpp:8122
-#, fuzzy
 msgid "Change Properties"
 msgstr "&Ominaisuudet"
 
@@ -2032,18 +1993,15 @@ msgstr "Muuta tyyli"
 #: ../src/common/fileconf.cpp:364
 #, c-format
 msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
-msgstr ""
-"Muutoksia ei tallenneta, jotta vältetään jo olemassa olevan tiedoston ”%s” "
-"korvaus"
+msgstr "Muutoksia ei tallenneta, jotta vältetään jo olemassa olevan tiedoston ”%s” korvaus"
 
 #: ../src/gtk/filedlg.cpp:87 ../src/gtk/filepicker.cpp:190
-#, fuzzy, c-format
+#, c-format
 msgid "Changing current directory to \"%s\" failed"
 msgstr "Hakemiston ”%s” luonti epäonnistui."
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1718
-#, fuzzy
 msgid "Character"
 msgstr "&Merkkikoodi:"
 
@@ -2070,7 +2028,7 @@ msgstr "Valitse lisätäksesi loppusulun."
 #: ../src/richtext/richtextborderspage.cpp:554
 #: ../src/richtext/richtextborderspage.cpp:556
 msgid "Check to edit all borders simultaneously."
-msgstr ""
+msgstr "Check to edit all borders simultaneously."
 
 #: ../src/richtext/richtextbulletspage.cpp:168
 #: ../src/richtext/richtextbulletspage.cpp:170
@@ -2081,7 +2039,6 @@ msgstr "Valitse sulkeaksesi luettelomerkin heittomerkkien sisään."
 
 #: ../src/richtext/richtextfontpage.cpp:315
 #: ../src/richtext/richtextfontpage.cpp:317
-#, fuzzy
 msgid "Check to indicate right-to-left text layout."
 msgstr "Napsauta muuttaaksesi tekstin värin."
 
@@ -2114,38 +2071,33 @@ msgstr "Valitse käyttääksesi suuraakkosia."
 
 #: ../src/richtext/richtextfontpage.cpp:291
 #: ../src/richtext/richtextfontpage.cpp:293
-#, fuzzy
 msgid "Check to show the text in small capitals."
 msgstr "Valitse käyttääksesi suuraakkosia."
 
 #: ../src/richtext/richtextfontpage.cpp:305
 #: ../src/richtext/richtextfontpage.cpp:307
-#, fuzzy
 msgid "Check to show the text in subscript."
 msgstr "Napsauta peruuttaaksesi fontin valinnan."
 
 #: ../src/richtext/richtextfontpage.cpp:298
 #: ../src/richtext/richtextfontpage.cpp:300
-#, fuzzy
 msgid "Check to show the text in superscript."
 msgstr "Napsauta peruuttaaksesi fontin valinnan."
 
 #: ../src/richtext/richtextfontpage.cpp:322
 #: ../src/richtext/richtextfontpage.cpp:324
 msgid "Check to suppress hyphenation."
-msgstr ""
+msgstr "Check to suppress hyphenation."
 
 #: ../src/msw/dialup.cpp:773
 msgid "Choose ISP to dial"
 msgstr "Valitse palveluntarjoaja jolle soitetaan"
 
 #: ../src/propgrid/props.cpp:1855
-#, fuzzy
 msgid "Choose a directory:"
 msgstr "Luo hakemisto"
 
 #: ../src/propgrid/props.cpp:1914
-#, fuzzy
 msgid "Choose a file"
 msgstr "Valitse kirjasinlaji"
 
@@ -2168,13 +2120,11 @@ msgid "Cl&ose"
 msgstr "&Sulje"
 
 #: ../src/msw/ole/automtn.cpp:690
-#, fuzzy
 msgid "Class not registered."
 msgstr "Säiettä ei voi luoda"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:70 ../src/common/stockitem.cpp:147
-#, fuzzy
 msgid "Clear"
 msgstr "&Tyhjennä"
 
@@ -2208,7 +2158,6 @@ msgstr "Napsauta muuttaaksesi kirjasimen värin."
 
 #: ../src/richtext/richtextfontpage.cpp:267
 #: ../src/richtext/richtextfontpage.cpp:269
-#, fuzzy
 msgid "Click to change the text background colour."
 msgstr "Napsauta muuttaaksesi tekstin värin."
 
@@ -2238,7 +2187,6 @@ msgstr "Napsauta varmistaaksesi fontin valinnan."
 
 #: ../src/richtext/richtextstyledlg.cpp:244
 #: ../src/richtext/richtextstyledlg.cpp:246
-#, fuzzy
 msgid "Click to create a new box style."
 msgstr "Napsauta luodaksesi uuden luettelotyylin."
 
@@ -2308,7 +2256,6 @@ msgid "Close this window"
 msgstr "Sulje tämä ikkuna"
 
 #: ../src/common/stockitem.cpp:193
-#, fuzzy
 msgid "Color"
 msgstr "Väri"
 
@@ -2348,27 +2295,21 @@ msgstr "Sarakkeen leveyttä ei voitu asettaa."
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:112
 msgid "Command"
-msgstr ""
+msgstr "Command"
 
 #: ../src/common/init.cpp:196
 #, c-format
-msgid ""
-"Command line argument %d couldn't be converted to Unicode and will be "
-"ignored."
-msgstr ""
-"Komentoriviparametria %d ei voitu muuntaa Unicode-merkistöön, joten se "
-"ohitetaan ."
+msgid "Command line argument %d couldn't be converted to Unicode and will be ignored."
+msgstr "Komentoriviparametria %d ei voitu muuntaa Unicode-merkistöön, joten se ohitetaan ."
 
 #: ../src/msw/fontdlg.cpp:119
-#, fuzzy, c-format
+#, c-format
 msgid "Common dialog failed with error code %0lx."
 msgstr "Värin valintaikkuna epäonnistui virheellä %0lx."
 
 #: ../src/gtk/window.cpp:4557
-msgid ""
-"Compositing not supported by this system, please enable it in your Window "
-"Manager."
-msgstr ""
+msgid "Compositing not supported by this system, please enable it in your Window Manager."
+msgstr "Compositing not supported by this system, please enable it in your Window Manager."
 
 #: ../src/html/helpwnd.cpp:1551
 msgid "Compressed HTML Help file (*.chm)|*.chm|"
@@ -2402,12 +2343,12 @@ msgstr "Sisältä"
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:866
 msgid "ControlDark"
-msgstr ""
+msgstr "ControlDark"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:867
 msgid "ControlLight"
-msgstr ""
+msgstr "ControlLight"
 
 #: ../src/common/strconv.cpp:2251
 #, c-format
@@ -2415,12 +2356,11 @@ msgid "Conversion to charset '%s' doesn't work."
 msgstr "Muunnos merkistöön ”%s” ei toimi."
 
 #: ../src/common/stockitem.cpp:149
-#, fuzzy
 msgid "Convert"
 msgstr "Sisältä"
 
 #: ../src/html/htmlwin.cpp:1074
-#, fuzzy, c-format
+#, c-format
 msgid "Copied to clipboard:\"%s\""
 msgstr "Kopioitu leikepöydälle: ”%s”"
 
@@ -2438,16 +2378,16 @@ msgstr "Kopioi valinta"
 
 #: ../src/msw/glcanvas.cpp:183 ../src/unix/glx11.cpp:136
 msgid "Core OpenGL profile is not supported by the OpenGL driver."
-msgstr ""
+msgstr "Core OpenGL profile is not supported by the OpenGL driver."
 
 #: ../src/richtext/richtextborderspage.cpp:569
 #: ../src/richtext/richtextborderspage.cpp:604
 msgid "Corner"
-msgstr ""
+msgstr "Corner"
 
 #: ../src/richtext/richtextborderspage.cpp:578
 msgid "Corner &radius:"
-msgstr ""
+msgstr "Corner &radius:"
 
 #: ../src/html/chm.cpp:718
 #, c-format
@@ -2463,7 +2403,6 @@ msgid "Could not determine column's position"
 msgstr "Ei voitu määritellä sarakkeen paikkaa"
 
 #: ../src/osx/carbon/dataview.cpp:841
-#, fuzzy
 msgid "Could not determine number of columns."
 msgstr "Kohteiden lukumäärää ei voitu määritellä"
 
@@ -2520,7 +2459,6 @@ msgid "Could not set column width."
 msgstr "Sarakkeen leveyttä ei voitu asettaa."
 
 #: ../src/common/filefn.cpp:1468
-#, fuzzy
 msgid "Could not set current working directory"
 msgstr "Työhakemistoa ei saatu"
 
@@ -2568,12 +2506,10 @@ msgid "Couldn't create a timer"
 msgstr "Ajastimen luonti epäonnistui"
 
 #: ../src/osx/carbon/overlay.cpp:122
-#, fuzzy
 msgid "Couldn't create the overlay window"
 msgstr "Ajastimen luonti epäonnistui"
 
 #: ../src/common/translation.cpp:2024
-#, fuzzy
 msgid "Couldn't enumerate translations"
 msgstr "Säiettä ei voi päättää"
 
@@ -2587,20 +2523,16 @@ msgid "Couldn't get the current thread pointer"
 msgstr "Säikeen osoittimen haku epäonnistui"
 
 #: ../src/osx/carbon/overlay.cpp:129
-#, fuzzy
 msgid "Couldn't init the context on the overlay window"
 msgstr "Säikeen osoittimen haku epäonnistui"
 
 #: ../src/common/imaggif.cpp:263
-#, fuzzy
 msgid "Couldn't initialize GIF hash table."
 msgstr "Zlib deflate -virtaa ei pystytä alustamaan."
 
 #: ../src/common/imagpng.cpp:649
 msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
-msgstr ""
-"PNG-kuvan lataus ei onnistunut - tiedosto korruptoitunut tai ei tarpeeksi "
-"muistia."
+msgstr "PNG-kuvan lataus ei onnistunut - tiedosto korruptoitunut tai ei tarpeeksi muistia."
 
 #: ../src/unix/sound.cpp:470
 #, c-format
@@ -2608,7 +2540,6 @@ msgid "Couldn't load sound data from '%s'."
 msgstr "Ei voi ladata äänidataa kohteesta ”%s”"
 
 #: ../src/msw/dirdlg.cpp:455
-#, fuzzy
 msgid "Couldn't obtain folder name"
 msgstr "Ajastimen luonti epäonnistui"
 
@@ -2623,7 +2554,7 @@ msgid "Couldn't register clipboard format '%s'."
 msgstr "Ei voi rekisteröidä leikepöytämuotoa ”%s”."
 
 #: ../src/msw/listctrl.cpp:760
-#, fuzzy, c-format
+#, c-format
 msgid "Couldn't retrieve information about list control item %d."
 msgstr "Ei voi hakea tietoja list-kontrollin jäsenestä indeksissä %d."
 
@@ -2650,17 +2581,16 @@ msgid "Create new directory"
 msgstr "Luo uusi hakemisto"
 
 #: ../src/xrc/xmlres.cpp:2441
-#, fuzzy, c-format
+#, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "Ei voitu purkaa ”%s”:aa kohteeseen ”%s”."
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1719
 msgid "Cross"
-msgstr ""
+msgstr "Cross"
 
 #: ../src/common/accelcmn.cpp:323
-#, fuzzy
 msgid "Ctrl+"
 msgstr "Ctrl-"
 
@@ -2676,7 +2606,6 @@ msgstr "Nykyinen hakemisto:"
 #. TRANSLATORS: Custom colour choice entry
 #: ../src/propgrid/advprops.cpp:882 ../src/propgrid/advprops.cpp:1535
 #: ../src/propgrid/advprops.cpp:1573
-#, fuzzy
 msgid "Custom"
 msgstr "Valinnainen koko"
 
@@ -2685,7 +2614,6 @@ msgid "Custom size"
 msgstr "Valinnainen koko"
 
 #: ../src/common/headerctrlcmn.cpp:60
-#, fuzzy
 msgid "Customize Columns"
 msgstr "Valinnainen koko"
 
@@ -2706,7 +2634,6 @@ msgid "D sheet, 22 x 34 in"
 msgstr "D-arkki, 22″ x 34″"
 
 #: ../src/msw/dde.cpp:708
-#, fuzzy
 msgid "DDE poke request failed"
 msgstr "DDE-kirjoituspyyntö epäonnistui"
 
@@ -2736,7 +2663,7 @@ msgstr "DL kirjekuori, 110 x 220 mm"
 
 #: ../src/richtext/richtextborderspage.cpp:616
 msgid "Dashed"
-msgstr ""
+msgstr "Dashed"
 
 #: ../src/osx/carbon/dataview.cpp:1919
 msgid "Data object has invalid data format"
@@ -2747,7 +2674,7 @@ msgid "Date renderer cannot render value; value type: "
 msgstr "Päivämäärän hahmontaja ei voi hahmontaa arvoa; arvon tyyppi: "
 
 #: ../src/generic/dbgrptg.cpp:300
-#, fuzzy, c-format
+#, c-format
 msgid "Debug report \"%s\""
 msgstr "Ohjelmavirheilmoitus ”%s”"
 
@@ -2762,7 +2689,7 @@ msgstr "Ohjelmavirheilmoituksen luonti epäonnistui."
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:82
 msgid "Decimal"
-msgstr ""
+msgstr "Decimal"
 
 #: ../src/generic/fontdlgg.cpp:323
 msgid "Decorative"
@@ -2770,7 +2697,6 @@ msgstr "Koristeellinen"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1713
-#, fuzzy
 msgid "Default"
 msgstr "oletus"
 
@@ -2788,7 +2714,6 @@ msgstr "Oletustulostin"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:49
-#, fuzzy
 msgid "Del"
 msgstr "Poista"
 
@@ -2803,12 +2728,10 @@ msgid "Delete A&ll"
 msgstr "Poista &kaikki"
 
 #: ../src/richtext/richtextbuffer.cpp:11332
-#, fuzzy
 msgid "Delete Column"
 msgstr "Poista valinta"
 
 #: ../src/richtext/richtextbuffer.cpp:11282
-#, fuzzy
 msgid "Delete Row"
 msgstr "Poista"
 
@@ -2839,12 +2762,11 @@ msgid "Deleted stale lock file '%s'."
 msgstr "Vanha lukitustiedosto '%s' poistettu."
 
 #: ../src/common/module.cpp:124
-#, fuzzy, c-format
+#, c-format
 msgid "Dependency \"%s\" of module \"%s\" doesn't exist."
 msgstr "Riippuvuutta ”%s” moduulille ”%s” ei ole."
 
 #: ../src/common/stockitem.cpp:196
-#, fuzzy
 msgid "Descending"
 msgstr "Oletuskoodaus"
 
@@ -2862,11 +2784,8 @@ msgid "Developers"
 msgstr "Kehittäjät"
 
 #: ../src/msw/dialup.cpp:384
-msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"Puhelinsoittomahdollisuutta ei ole koska RAS (remote access service)\n"
+msgid "Dial up functions are unavailable because the remote access service (RAS) is not installed on this machine. Please install it."
+msgstr "Puhelinsoittomahdollisuutta ei ole koska RAS (remote access service)\n"
 "ei ole asennettu tälle koneelle. Ole hyvä asenna se."
 
 #: ../src/generic/tipdlg.cpp:225
@@ -2874,7 +2793,7 @@ msgid "Did you know..."
 msgstr "Tiesitkö..."
 
 #: ../src/dfb/wrapdfb.cpp:63
-#, fuzzy, c-format
+#, c-format
 msgid "DirectFB error %d occurred."
 msgstr "DirectFB-virhe %d tapahtui."
 
@@ -2888,7 +2807,7 @@ msgid "Directory '%s' couldn't be created"
 msgstr "Hakemistoa ”%s” ei voitu luoda"
 
 #: ../src/common/filefn.cpp:1216
-#, fuzzy, c-format
+#, c-format
 msgid "Directory '%s' couldn't be deleted"
 msgstr "Hakemistoa ”%s” ei voitu luoda"
 
@@ -2902,16 +2821,11 @@ msgstr "Hakemistoa ei ole olemassa."
 
 #: ../src/common/docview.cpp:461
 msgid "Discard changes and reload the last saved version?"
-msgstr ""
-"Hylätäänkö muutokset ja ladataanko uudelleen viimeisin tallennettu versio?"
+msgstr "Hylätäänkö muutokset ja ladataanko uudelleen viimeisin tallennettu versio?"
 
 #: ../src/html/helpwnd.cpp:502
-msgid ""
-"Display all index items that contain given substring. Search is case "
-"insensitive."
-msgstr ""
-"Näytä sisällysluettelosta kaikki kohdat, jotka sisältävät annetun "
-"osatekstin. Haku on merkkikoosta riippumaton."
+msgid "Display all index items that contain given substring. Search is case insensitive."
+msgstr "Näytä sisällysluettelosta kaikki kohdat, jotka sisältävät annetun osatekstin. Haku on merkkikoosta riippumaton."
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2924,20 +2838,15 @@ msgstr "Näyttää ohjeen selatessasi kirjoja vasemmalla."
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:83
 msgid "Divide"
-msgstr ""
+msgstr "Divide"
 
 #: ../src/msw/mimetype.cpp:725
-#, fuzzy
-msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+msgid "Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"Haluatko korvata komennon jota käytetään %s-tiedostoille joilla on pääte "
-"”%s” ?\n"
+msgstr "Haluatko korvata komennon jota käytetään %s-tiedostoille joilla on pääte ”%s” ?\n"
 "Nykyinen arvo on \n"
 "%s, \n"
 "Uusi arvo on \n"
@@ -2949,7 +2858,6 @@ msgid "Do you want to save changes to %s?"
 msgstr "Haluatko tallentaa muutokset asiakirjaan %s?"
 
 #: ../src/common/prntbase.cpp:542
-#, fuzzy
 msgid "Document:"
 msgstr "Dokumentaatio:"
 
@@ -2974,12 +2882,10 @@ msgid "Done."
 msgstr "Valmis."
 
 #: ../src/richtext/richtextborderspage.cpp:615
-#, fuzzy
 msgid "Dotted"
 msgstr "Valmis"
 
 #: ../src/richtext/richtextborderspage.cpp:617
-#, fuzzy
 msgid "Double"
 msgstr "Valmis"
 
@@ -3000,14 +2906,13 @@ msgstr "Alas"
 
 #: ../src/richtext/richtextctrl.cpp:859
 msgid "Drag"
-msgstr ""
+msgstr "Drag"
 
 #: ../src/common/paper.cpp:101
 msgid "E sheet, 34 x 44 in"
 msgstr "E-arkki, 34″ x 44″"
 
 #: ../src/unix/fswatcher_inotify.cpp:548
-#, fuzzy
 msgid "EOF while reading from inotify descriptor"
 msgstr "tiedoston kuvauksen %d luku epäonnistui"
 
@@ -3032,19 +2937,16 @@ msgstr "Käytä korkeusarvoa."
 
 #: ../src/richtext/richtextsizepage.cpp:438
 #: ../src/richtext/richtextsizepage.cpp:440
-#, fuzzy
 msgid "Enable the maximum width value."
 msgstr "Käytä leveysarvoa."
 
 #: ../src/richtext/richtextsizepage.cpp:411
 #: ../src/richtext/richtextsizepage.cpp:413
-#, fuzzy
 msgid "Enable the minimum height value."
 msgstr "Käytä korkeusarvoa."
 
 #: ../src/richtext/richtextsizepage.cpp:384
 #: ../src/richtext/richtextsizepage.cpp:386
-#, fuzzy
 msgid "Enable the minimum width value."
 msgstr "Käytä leveysarvoa."
 
@@ -3055,59 +2957,50 @@ msgstr "Käytä leveysarvoa."
 
 #: ../src/richtext/richtextsizepage.cpp:280
 #: ../src/richtext/richtextsizepage.cpp:282
-#, fuzzy
 msgid "Enable vertical alignment."
 msgstr "Tasausta ei voitu asettaa."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:163
 #: ../src/richtext/richtextbackgroundpage.cpp:165
-#, fuzzy
 msgid "Enables a background colour."
 msgstr "Taustaväri"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:197
 #: ../src/richtext/richtextbackgroundpage.cpp:199
-#, fuzzy
 msgid "Enables a shadow."
 msgstr "Taustaväri"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:301
 #: ../src/richtext/richtextbackgroundpage.cpp:303
-#, fuzzy
 msgid "Enables the blur distance."
 msgstr "Käytä leveysarvoa."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:261
 #: ../src/richtext/richtextbackgroundpage.cpp:263
-#, fuzzy
 msgid "Enables the shadow colour."
 msgstr "Taustaväri"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:328
 #: ../src/richtext/richtextbackgroundpage.cpp:330
-#, fuzzy
 msgid "Enables the shadow opacity."
 msgstr "Käytä leveysarvoa."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:274
 #: ../src/richtext/richtextbackgroundpage.cpp:276
-#, fuzzy
 msgid "Enables the shadow spread."
 msgstr "Käytä leveysarvoa."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:64
 msgid "End"
-msgstr ""
+msgstr "End"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:53
-#, fuzzy
 msgid "Enter"
 msgstr "Tulostin"
 
 #: ../src/richtext/richtextstyledlg.cpp:934
-#, fuzzy
 msgid "Enter a box style name"
 msgstr "Anna uuden tyylin nimi"
 
@@ -3128,7 +3021,7 @@ msgid "Enter a paragraph style name"
 msgstr "Anna kappaletyylin nimi"
 
 #: ../src/generic/dbgrptg.cpp:174
-#, fuzzy, c-format
+#, c-format
 msgid "Enter command to open file \"%s\":"
 msgstr "Anna komento tiedoston ”%s” avaamiseksi:"
 
@@ -3137,17 +3030,13 @@ msgid "Entries found"
 msgstr "Löydetyt kohdat"
 
 #: ../src/common/paper.cpp:143
-#, fuzzy
 msgid "Envelope Invite 220 x 220 mm"
 msgstr "DL Kirjekuori, 110 x 220 mm"
 
 #: ../src/common/config.cpp:473
-#, fuzzy, c-format
-msgid ""
-"Environment variables expansion failed: missing '%c' at position %u in '%s'."
-msgstr ""
-"Ympäristömuuttujien laajennus epäonnistui: puuttuva ”%1$c” muuttujan ”%3$s” "
-"kohdassa %2$d."
+#, c-format
+msgid "Environment variables expansion failed: missing '%c' at position %u in '%s'."
+msgstr "Ympäristömuuttujien laajennus epäonnistui: puuttuva ”%1$c” muuttujan ”%3$s” kohdassa %2$d."
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/dirctrlg.cpp:609
 #: ../src/generic/dirctrlg.cpp:620 ../src/generic/dirdlgg.cpp:352
@@ -3160,12 +3049,10 @@ msgid "Error"
 msgstr "Virhe"
 
 #: ../src/unix/epolldispatcher.cpp:103
-#, fuzzy
 msgid "Error closing epoll descriptor"
 msgstr "Virhe hakemistoa luotaessa"
 
 #: ../src/unix/fswatcher_kqueue.cpp:114
-#, fuzzy
 msgid "Error closing kqueue instance"
 msgstr "Virhe hakemistoa luotaessa"
 
@@ -3201,11 +3088,10 @@ msgstr "Virhe: "
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:67
 msgid "Esc"
-msgstr ""
+msgstr "Esc"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:68
-#, fuzzy
 msgid "Escape"
 msgstr "Vaakasuunta"
 
@@ -3218,7 +3104,6 @@ msgid "Estimated time:"
 msgstr "Arvioitu aika:"
 
 #: ../src/generic/dbgrptg.cpp:234
-#, fuzzy
 msgid "Executable files (*.exe)|*.exe|"
 msgstr "Suoritettavat tiedostot (*.exe)|*.exe|Kaikki tiedostot (*.*)|*.*||"
 
@@ -3233,14 +3118,12 @@ msgid "Execution of command '%s' failed"
 msgstr "Komennon ”%s” käynnistäminen epäonnistui"
 
 #: ../src/common/paper.cpp:106
-#, fuzzy
 msgid "Executive, 7 1/4 x 10 1/2 in"
 msgstr "Executive, 7 1/4 x 10 1/2” "
 
 #: ../src/msw/registry.cpp:1238
-#, fuzzy, c-format
-msgid ""
-"Exporting registry key: file \"%s\" already exists and won't be overwritten."
+#, c-format
+msgid "Exporting registry key: file \"%s\" already exists and won't be overwritten."
 msgstr "Viety rekisteriavain: tiedosto ”%s” on jo olemassa eikä sitä korvata."
 
 #: ../src/common/fmapbase.cpp:195
@@ -3258,7 +3141,6 @@ msgstr "F"
 
 #. TRANSLATORS: Label of font face name
 #: ../src/propgrid/advprops.cpp:658
-#, fuzzy
 msgid "Face Name"
 msgstr "UusiNimi"
 
@@ -3267,17 +3149,16 @@ msgid "Failed to access lock file."
 msgstr "Lukkotiedostoon ei päästy käsiksi."
 
 #: ../src/unix/epolldispatcher.cpp:116
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to add descriptor %d to epoll descriptor %d"
 msgstr "kirjoittaminen epäonnistui tiedoston kuvaukseen %d"
 
 #: ../src/msw/dib.cpp:548
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to allocate %luKb of memory for bitmap data."
 msgstr "Osoittimen luonti epäonnistui."
 
 #: ../src/common/glcmn.cpp:87
-#, fuzzy
 msgid "Failed to allocate colour for OpenGL"
 msgstr "Osoittimen luonti epäonnistui."
 
@@ -3286,12 +3167,12 @@ msgid "Failed to change video mode"
 msgstr "Näyttötilan vaihto epäonnistui"
 
 #: ../src/common/image.cpp:3143
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to check format of image file \"%s\"."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/common/debugrpt.cpp:244
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to clean up debug report directory \"%s\""
 msgstr "Ohjelmavirheiden ilmoituskansion ”%s” tyhjentäminen epäonnistui."
 
@@ -3309,7 +3190,7 @@ msgid "Failed to close the clipboard."
 msgstr "Leikepöydän sulkeminen epäonnistui."
 
 #: ../src/x11/utils.cpp:204
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to close the display \"%s\""
 msgstr "Näytön ”%s” sulkeminen epäonnistui"
 
@@ -3322,12 +3203,11 @@ msgid "Failed to connect: no ISP to dial."
 msgstr "Yhdistäminen epäonnistui: ei soitettavissa olevaa palveluntarjoajaa."
 
 #: ../src/common/textfile.cpp:200
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to convert file \"%s\" to Unicode."
 msgstr "Tiedostoa ”%s” ei voitu muuntaa Unicode-muotoon."
 
 #: ../src/generic/logg.cpp:976
-#, fuzzy
 msgid "Failed to copy dialog contents to the clipboard."
 msgstr "Leikepöydän avaus ei onnistunut."
 
@@ -3347,7 +3227,7 @@ msgid "Failed to copy the file '%s' to '%s'"
 msgstr "Tiedoston ”%s” kopiointi kohteeseen ”%s” epäonnistui."
 
 #: ../src/msw/registry.cpp:671
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to copy the registry subkey '%s' to '%s'."
 msgstr "Ali-rekisteriavaimen ”%s” kopiointi ”%s”:ksi ei onnistu."
 
@@ -3368,7 +3248,7 @@ msgid "Failed to create an anonymous pipe"
 msgstr "Anonyymin putken luonti epäonnistui"
 
 #: ../src/msw/ole/automtn.cpp:528
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to create an instance of \"%s\""
 msgstr "Tilarivin luonti epäonnistui."
 
@@ -3382,21 +3262,18 @@ msgid "Failed to create cursor."
 msgstr "Osoittimen luonti epäonnistui."
 
 #: ../src/common/debugrpt.cpp:209
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to create directory \"%s\""
 msgstr "Hakemiston ”%s” luonti epäonnistui."
 
 #: ../src/generic/dirdlgg.cpp:249
 #, c-format
-msgid ""
-"Failed to create directory '%s'\n"
+msgid "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"Hakemiston ”%s” luonti epäonnistui\n"
+msgstr "Hakemiston ”%s” luonti epäonnistui\n"
 "(Onko sinulla vaadittavat oikeudet?)"
 
 #: ../src/unix/epolldispatcher.cpp:84
-#, fuzzy
 msgid "Failed to create epoll descriptor"
 msgstr "Osoittimen luonti epäonnistui."
 
@@ -3411,7 +3288,6 @@ msgid "Failed to create the standard find/replace dialog (error code %d)"
 msgstr "Standardin etsi/korvaa ikkunan luonti epäonnistui (virhekoodi %d)"
 
 #: ../src/unix/wakeuppipe.cpp:52
-#, fuzzy
 msgid "Failed to create wake up pipe used by event loop."
 msgstr "Tilarivin luonti epäonnistui."
 
@@ -3429,7 +3305,6 @@ msgid "Failed to enumerate video modes"
 msgstr "Näyttötilojen luettelointi ei onnistu"
 
 #: ../src/msw/dde.cpp:727
-#, fuzzy
 msgid "Failed to establish an advise loop with DDE server"
 msgstr "DDE-serverin ohjeistuspiiriä ei aikaansaatu"
 
@@ -3445,9 +3320,7 @@ msgstr "Ei voitu ajaa kohdetta ”%s”\n"
 
 #: ../src/common/debugrpt.cpp:725
 msgid "Failed to execute curl, please install it in PATH."
-msgstr ""
-"curl:in suorittaminen epäonnistui. Asenna se johonkin PATH-määrityksessä "
-"olevaan hakemistoon."
+msgstr "curl:in suorittaminen epäonnistui. Asenna se johonkin PATH-määrityksessä olevaan hakemistoon."
 
 #: ../src/msw/ole/automtn.cpp:511
 #, c-format
@@ -3494,12 +3367,11 @@ msgid "Failed to initialize OpenGL"
 msgstr "OpenGL:n alustus epäonnistui"
 
 #: ../src/msw/dialup.cpp:868
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to initiate dialup connection: %s"
 msgstr "Puhelinyhteyden ”%s” keskeytys ei onnistunut."
 
 #: ../src/gtk/textctrl.cpp:1142
-#, fuzzy
 msgid "Failed to insert text in the control."
 msgstr "Työhakemistoa ei saatu"
 
@@ -3509,17 +3381,12 @@ msgid "Failed to inspect the lock file '%s'"
 msgstr "Lukkotiedostoa ”%s” ei voitu tutkia"
 
 #: ../src/unix/appunix.cpp:182
-#, fuzzy
 msgid "Failed to install signal handler"
 msgstr "Tiedostokahvan sulkeminen epäonnistui"
 
 #: ../src/unix/threadpsx.cpp:1167
-msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
-msgstr ""
-"Säikeen kytkentä epäonnistui, todennäköisesti muistivuoto - ole hyvä ja "
-"käynnistä ohjelma uudestaan"
+msgid "Failed to join a thread, potential memory leak detected - please restart the program"
+msgstr "Säikeen kytkentä epäonnistui, todennäköisesti muistivuoto - ole hyvä ja käynnistä ohjelma uudestaan"
 
 #: ../src/msw/utils.cpp:679
 #, c-format
@@ -3527,32 +3394,32 @@ msgid "Failed to kill process %d"
 msgstr "Prosessia %d ei voitu lopettaa."
 
 #: ../src/common/image.cpp:2367
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load bitmap \"%s\" from resources."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/common/image.cpp:2376
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load icon \"%s\" from resources."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/common/iconbndl.cpp:182
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load image %%d from file '%s'."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/common/iconbndl.cpp:190
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load image %d from stream."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/common/image.cpp:2454 ../src/common/image.cpp:2473
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load image from file \"%s\"."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/msw/enhmeta.cpp:97
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load metafile from file \"%s\"."
 msgstr "Metatiedostoa ei voitu ladata tiedostosta ”%s”."
 
@@ -3561,7 +3428,7 @@ msgid "Failed to load mpr.dll."
 msgstr "Tiedoston mpr.dll lataus epäonnistui."
 
 #: ../src/msw/utils.cpp:1015
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load resource \"%s\"."
 msgstr "Prosessia %d ei voitu lopettaa."
 
@@ -3571,12 +3438,12 @@ msgid "Failed to load shared library '%s'"
 msgstr "Jaetun kirjaston ”%s” lataaminen epäonnistui"
 
 #: ../src/osx/core/sound.cpp:118
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to load sound from \"%s\" (error %d)."
 msgstr "Prosessia %d ei voitu lopettaa."
 
 #: ../src/msw/utils.cpp:1022
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to lock resource \"%s\"."
 msgstr "Lukkotiedostoa ”%s” ei voitu lukita"
 
@@ -3591,7 +3458,7 @@ msgid "Failed to modify descriptor %d in epoll descriptor %d"
 msgstr "Kuvaajan %d muokkaus epäonnistui epoll-kuvaajassa %d"
 
 #: ../src/common/filename.cpp:2648
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to modify file times for '%s'"
 msgstr "Tiedoston ”%s” aikoja ei voitu muuttaa"
 
@@ -3615,17 +3482,17 @@ msgid "Failed to open CHM archive '%s'."
 msgstr "CHM arkiston ”%s” avaaminen epäonnistui."
 
 #: ../src/common/utilscmn.cpp:1180
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to open URL \"%s\" in default browser."
 msgstr "URL-osoitetta ”%s” ei voitu avata oletusselaimessa."
 
 #: ../include/wx/msw/private/fswatcher.h:92
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to open directory \"%s\" for monitoring."
 msgstr "Kohteen ”%s” avaaminen kirjoittamista varten epäonnistui"
 
 #: ../src/x11/utils.cpp:223
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to open display \"%s\"."
 msgstr "Näyttöä ”%s” ei voitu avata."
 
@@ -3638,12 +3505,12 @@ msgid "Failed to open the clipboard."
 msgstr "Leikepöydän avaus ei onnistunut."
 
 #: ../src/common/translation.cpp:1184
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to parse Plural-Forms: '%s'"
 msgstr "Monikkomuotoja ”%s” ei voida käsitellä"
 
 #: ../src/unix/mediactrl.cpp:1266
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to prepare playing \"%s\"."
 msgstr "Näyttöä ”%s” ei voitu avata."
 
@@ -3660,17 +3527,15 @@ msgid "Failed to read config options."
 msgstr "Asetuksia ei voitu lukea."
 
 #: ../src/common/docview.cpp:684
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to read document from the file \"%s\"."
 msgstr "Kuvaa %d ei voi ladata tiedostosta ”%s”."
 
 #: ../src/dfb/evtloop.cpp:98
-#, fuzzy
 msgid "Failed to read event from DirectFB pipe"
 msgstr "PID:iä ei voitu lukea lukkotiedostosta."
 
 #: ../src/unix/wakeuppipe.cpp:120
-#, fuzzy
 msgid "Failed to read from wake-up pipe"
 msgstr "PID:iä ei voitu lukea lukkotiedostosta."
 
@@ -3693,7 +3558,7 @@ msgid "Failed to remember the encoding for the charset '%s'."
 msgstr "Merkistön ”%s” koodaus on unohtunut."
 
 #: ../src/common/debugrpt.cpp:227
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to remove debug report file \"%s\""
 msgstr "Ohjelmavirhetiedostoa ”%s” ei voitu poistaa."
 
@@ -3714,12 +3579,8 @@ msgstr "Rekisteriavaimen ”%s” nimeäminen ”%s”:ksi ei onnistu."
 
 #: ../src/common/filefn.cpp:1124
 #, c-format
-msgid ""
-"Failed to rename the file '%s' to '%s' because the destination file already "
-"exists."
-msgstr ""
-"Tiedoston '%s' uudelleennimeäminen tiedostoksi '%s' epäonnistui, koska "
-"kohdetiedosto on jo olemassa."
+msgid "Failed to rename the file '%s' to '%s' because the destination file already exists."
+msgstr "Tiedoston '%s' uudelleennimeäminen tiedostoksi '%s' epäonnistui, koska kohdetiedosto on jo olemassa."
 
 #: ../src/msw/registry.cpp:626
 #, c-format
@@ -3731,7 +3592,7 @@ msgid "Failed to retrieve data from the clipboard."
 msgstr "Dataa ei voida hakea leikepöydältä."
 
 #: ../src/common/filename.cpp:2744
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to retrieve file times for '%s'"
 msgstr "Tiedoston ”%s” aikoja ei voida hakea"
 
@@ -3744,12 +3605,12 @@ msgid "Failed to retrieve the supported clipboard formats"
 msgstr "Ei voi hakea tuettuja leikepöytämuotoja"
 
 #: ../src/common/docview.cpp:655
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to save document to the file \"%s\"."
 msgstr "Touch epäonnistui tiedostolle ”%s”"
 
 #: ../src/msw/dib.cpp:326
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to save the bitmap image to file \"%s\"."
 msgstr "Kuvatiedostoa ”%s” ei voitu tallentaa."
 
@@ -3772,7 +3633,6 @@ msgid "Failed to set permissions on lock file '%s'"
 msgstr "Oikeuksia ei voitu asettaa lukkotiedostolle ”%s”"
 
 #: ../src/unix/utilsunx.cpp:664
-#, fuzzy
 msgid "Failed to set process priority"
 msgstr "Säikeen prioriteetin %d asetus epäonnistui."
 
@@ -3781,12 +3641,11 @@ msgid "Failed to set temporary file permissions"
 msgstr "Tilapäistiedoston oikeuksia ei voitu asettaa."
 
 #: ../src/gtk/textctrl.cpp:1078
-#, fuzzy
 msgid "Failed to set text in the text control."
 msgstr "Työhakemistoa ei saatu"
 
 #: ../src/unix/threadpsx.cpp:1298
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to set thread concurrency level to %lu"
 msgstr "Säikeen prioriteetin %d asetus epäonnistui."
 
@@ -3797,7 +3656,7 @@ msgstr "Säikeen prioriteetin %d asetus epäonnistui."
 
 #: ../src/unix/utilsunx.cpp:779
 msgid "Failed to set up non-blocking pipe, the program might hang."
-msgstr ""
+msgstr "Failed to set up non-blocking pipe, the program might hang."
 
 #: ../src/common/fs_mem.cpp:261
 #, c-format
@@ -3806,11 +3665,11 @@ msgstr "Kuvan ”%s” tallennus Muisti-VFS:ään epäonnistui!"
 
 #: ../src/dfb/evtloop.cpp:170
 msgid "Failed to switch DirectFB pipe to non-blocking mode"
-msgstr ""
+msgstr "Failed to switch DirectFB pipe to non-blocking mode"
 
 #: ../src/unix/wakeuppipe.cpp:59
 msgid "Failed to switch wake up pipe to non-blocking mode"
-msgstr ""
+msgstr "Failed to switch wake up pipe to non-blocking mode"
 
 #: ../src/unix/threadpsx.cpp:1605
 msgid "Failed to terminate a thread."
@@ -3841,7 +3700,7 @@ msgid "Failed to unregister DDE server '%s'"
 msgstr "DDE-serverin ”%s” poisto rekisteröinnistä epäonnistui"
 
 #: ../src/unix/epolldispatcher.cpp:155
-#, fuzzy, c-format
+#, c-format
 msgid "Failed to unregister descriptor %d from epoll descriptor %d"
 msgstr "Dataa ei voida hakea leikepöydältä."
 
@@ -3861,13 +3720,11 @@ msgstr "Lukkotiedoston ”%s” kirjoitus epäonnistui"
 
 #. TRANSLATORS: Name of Boolean false value
 #: ../src/propgrid/propgrid.cpp:208
-#, fuzzy
 msgid "False"
 msgstr "Tiedosto"
 
 #. TRANSLATORS: Label of font family
 #: ../src/propgrid/advprops.cpp:680
-#, fuzzy
 msgid "Family"
 msgstr "&Kirjasinperhe:"
 
@@ -3876,12 +3733,12 @@ msgid "File"
 msgstr "Tiedosto"
 
 #: ../src/common/docview.cpp:672
-#, fuzzy, c-format
+#, c-format
 msgid "File \"%s\" could not be opened for reading."
 msgstr "Kohteen ”%s” avaaminen lukemista varten epäonnistui"
 
 #: ../src/common/docview.cpp:649
-#, fuzzy, c-format
+#, c-format
 msgid "File \"%s\" could not be opened for writing."
 msgstr "Kohteen ”%s” avaaminen kirjoittamista varten epäonnistui"
 
@@ -3891,12 +3748,12 @@ msgid "File '%s' already exists, do you really want to overwrite it?"
 msgstr "Tiedosto ”%s” on jo olemassa, korvataanko se varmasti?"
 
 #: ../src/common/filefn.cpp:1160
-#, fuzzy, c-format
+#, c-format
 msgid "File '%s' couldn't be removed"
 msgstr "Hakemistoa ”%s” ei voitu luoda"
 
 #: ../src/common/filefn.cpp:1143
-#, fuzzy, c-format
+#, c-format
 msgid "File '%s' couldn't be renamed '%s'"
 msgstr "Hakemistoa ”%s” ei voitu luoda"
 
@@ -3905,7 +3762,7 @@ msgid "File couldn't be loaded."
 msgstr "Tiedostoa ei voitu ladata."
 
 #: ../src/msw/filedlg.cpp:462
-#, fuzzy, c-format
+#, c-format
 msgid "File dialog failed with error code %0lx."
 msgstr "Värin valintaikkuna epäonnistui virheellä %0lx."
 
@@ -3935,17 +3792,14 @@ msgid "Find"
 msgstr "Etsi"
 
 #: ../src/common/stockitem.cpp:159
-#, fuzzy
 msgid "First"
 msgstr "ensimmäinen"
 
 #: ../src/common/prntbase.cpp:1548
-#, fuzzy
 msgid "First page"
 msgstr "Seuraava sivu"
 
 #: ../src/richtext/richtextsizepage.cpp:521
-#, fuzzy
 msgid "Fixed"
 msgstr "Kiinteälevyinen fontti:"
 
@@ -3962,7 +3816,6 @@ msgid "Floating"
 msgstr "Liukuva"
 
 #: ../src/common/stockitem.cpp:160
-#, fuzzy
 msgid "Floppy"
 msgstr "Kopioi"
 
@@ -4001,7 +3854,6 @@ msgid "Fork failed"
 msgstr "Haarauttaminen epäonnistui"
 
 #: ../src/common/stockitem.cpp:161
-#, fuzzy
 msgid "Forward"
 msgstr "&Eteenpäin"
 
@@ -4020,7 +3872,7 @@ msgstr "Lähettäjä:"
 
 #: ../src/propgrid/advprops.cpp:1565
 msgid "Fuchsia"
-msgstr ""
+msgstr "Fuchsia"
 
 #: ../src/common/imaggif.cpp:160
 msgid "GIF: Invalid gif index."
@@ -4043,10 +3895,8 @@ msgid "GIF: unknown error!!!"
 msgstr "GIF: tuntematon virhe!!!"
 
 #: ../src/gtk/window.cpp:4539
-msgid ""
-"GTK+ installed on this machine is too old to support screen compositing, "
-"please install GTK+ 2.12 or later."
-msgstr ""
+msgid "GTK+ installed on this machine is too old to support screen compositing, please install GTK+ 2.12 or later."
+msgstr "GTK+ installed on this machine is too old to support screen compositing, please install GTK+ 2.12 or later."
 
 #: ../src/univ/themes/gtk.cpp:525
 msgid "GTK+ theme"
@@ -4054,19 +3904,17 @@ msgstr "GTK+-teema"
 
 #: ../src/common/preferencescmn.cpp:40
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: ../src/common/prntbase.cpp:258
 msgid "Generic PostScript"
 msgstr "Generic PostScript"
 
 #: ../src/common/paper.cpp:136
-#, fuzzy
 msgid "German Legal Fanfold, 8 1/2 x 13 in"
 msgstr "Saksalainen traktoriveto, 8 1/2 x 13” "
 
 #: ../src/common/paper.cpp:135
-#, fuzzy
 msgid "German Std Fanfold, 8 1/2 x 12 in"
 msgstr "Eurooppalainen traktoriveto, 8 1/2 x 12” "
 
@@ -4080,8 +3928,7 @@ msgstr "Funktiota GetPropertyCollection kutsuttu yleisellä haulla"
 
 #: ../include/wx/xtiprop.h:202
 msgid "GetPropertyCollection called w/o valid collection getter"
-msgstr ""
-"GetPropertyCollection-funktiota kutsuttu ilman kelvollista kokoelman hakijaa"
+msgstr "GetPropertyCollection-funktiota kutsuttu ilman kelvollista kokoelman hakijaa"
 
 #: ../src/html/helpwnd.cpp:660
 msgid "Go back"
@@ -4109,25 +3956,24 @@ msgstr "Graafisen taiteen tekijä:"
 
 #: ../src/propgrid/advprops.cpp:1560
 msgid "Gray"
-msgstr ""
+msgstr "Gray"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:869
 msgid "GrayText"
-msgstr ""
+msgstr "GrayText"
 
 #: ../src/common/fmapbase.cpp:154
 msgid "Greek (ISO-8859-7)"
 msgstr "kreikkalainen (ISO-8859-7)"
 
 #: ../src/propgrid/advprops.cpp:1561
-#, fuzzy
 msgid "Green"
 msgstr "Mac (kreikkalainen)"
 
 #: ../src/richtext/richtextborderspage.cpp:618
 msgid "Groove"
-msgstr ""
+msgstr "Groove"
 
 #: ../src/common/zstream.cpp:158 ../src/common/zstream.cpp:318
 msgid "Gzip not supported by this version of zlib"
@@ -4149,7 +3995,7 @@ msgstr "HTML-tiedostot (*.html;*.htm)|*.html;*.htm|"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1720
 msgid "Hand"
-msgstr ""
+msgstr "Hand"
 
 #: ../src/common/stockitem.cpp:162
 msgid "Harddisk"
@@ -4187,12 +4033,12 @@ msgid "Help books (*.htb)|*.htb|Help books (*.zip)|*.zip|"
 msgstr "Ohjekirjat (*.htb)|*.htb|Ohjekirjat (*.zip)|*.zip|"
 
 #: ../src/generic/helpext.cpp:267
-#, fuzzy, c-format
+#, c-format
 msgid "Help directory \"%s\" not found."
 msgstr "Ohjehakemistoa ”%s” ei löytynyt."
 
 #: ../src/generic/helpext.cpp:275
-#, fuzzy, c-format
+#, c-format
 msgid "Help file \"%s\" not found."
 msgstr "Ohjetiedostoa ”%s” ei löytynyt."
 
@@ -4202,7 +4048,7 @@ msgid "Help: %s"
 msgstr "Ohje: %s"
 
 #: ../src/osx/menu_osx.cpp:615
-#, fuzzy, c-format
+#, c-format
 msgid "Hide %s"
 msgstr "Piilota"
 
@@ -4216,13 +4062,11 @@ msgstr "Piilota tämä huomautus."
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:870
-#, fuzzy
 msgid "Highlight"
 msgstr "heikko"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:871
-#, fuzzy
 msgid "HighlightText"
 msgstr "Tasaa teksti oikealle."
 
@@ -4239,12 +4083,12 @@ msgstr "Kotihakemisto"
 #: ../src/richtext/richtextsizepage.cpp:253
 #: ../src/richtext/richtextsizepage.cpp:255
 msgid "How the object will float relative to the text."
-msgstr ""
+msgstr "How the object will float relative to the text."
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1721
 msgid "I-Beam"
-msgstr ""
+msgstr "I-Beam"
 
 #: ../src/common/imagbmp.cpp:1195
 msgid "ICO: Error in reading mask DIB."
@@ -4295,41 +4139,39 @@ msgid "Icon & text renderer cannot render value; value type: "
 msgstr "Kuvakkeen ja tekstin hahmontaja ei voi hahmontaa arvoa; arvon tyyppi: "
 
 #: ../src/html/htmprint.cpp:282
-msgid ""
-"If possible, try changing the layout parameters to make the printout more "
-"narrow."
-msgstr ""
+msgid "If possible, try changing the layout parameters to make the printout more narrow."
+msgstr "If possible, try changing the layout parameters to make the printout more narrow."
 
 #: ../src/generic/dbgrptg.cpp:358
-msgid ""
-"If you have any additional information pertaining to this bug\n"
+msgid "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
+msgstr "If you have any additional information pertaining to this bug\n"
+"report, please enter it here and it will be joined to it:"
 
 #: ../src/generic/dbgrptg.cpp:324
-msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+msgid "If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
+msgstr "If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
+"but be warned that it may hinder improving the program, so if\n"
+"at all possible please do continue with the report generation.\n"
 
 #: ../src/msw/registry.cpp:1403
-#, fuzzy, c-format
+#, c-format
 msgid "Ignoring value \"%s\" of the key \"%s\"."
 msgstr "Ohitetaan arvo ”%s” avaimessa ”%s”."
 
 #: ../src/common/xtistrm.cpp:299
 msgid "Illegal Object Class (Non-wxEvtHandler) as Event Source"
-msgstr ""
+msgstr "Illegal Object Class (Non-wxEvtHandler) as Event Source"
 
 #: ../src/common/xti.cpp:513
 msgid "Illegal Parameter Count for ConstructObject Method"
-msgstr ""
+msgstr "Illegal Parameter Count for ConstructObject Method"
 
 #: ../src/common/xti.cpp:501
 msgid "Illegal Parameter Count for Create Method"
-msgstr ""
+msgstr "Illegal Parameter Count for Create Method"
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/filectrlg.cpp:791
 msgid "Illegal directory name."
@@ -4344,22 +4186,18 @@ msgid "Image and mask have different sizes."
 msgstr "Kuvan ja peitteen koot ovat erisuuruiset."
 
 #: ../src/common/image.cpp:2613
-#, fuzzy, c-format
+#, c-format
 msgid "Image file is not of type %d."
 msgstr "Kuvatiedoston tyyppi ei ole %ld."
 
 #: ../src/common/image.cpp:2743
-#, fuzzy, c-format
+#, c-format
 msgid "Image is not of type %s."
 msgstr "Kuvatiedoston tyyppi ei ole %s."
 
 #: ../src/msw/textctrl.cpp:488
-msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"Rich Edit tekstimuokkaus on mahdotonta, käytetään tavanomaista "
-"tekstimuokkausta.Asenna riched32.dll uudestaan."
+msgid "Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll"
+msgstr "Rich Edit tekstimuokkaus on mahdotonta, käytetään tavanomaista tekstimuokkausta.Asenna riched32.dll uudestaan."
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4382,19 +4220,18 @@ msgstr "Lupien asetus tiedostolle ”%s” on mahdotonta"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:872
-#, fuzzy
 msgid "InactiveBorder"
 msgstr "Moderni"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:873
 msgid "InactiveCaption"
-msgstr ""
+msgstr "InactiveCaption"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:874
 msgid "InactiveCaptionText"
-msgstr ""
+msgstr "InactiveCaptionText"
 
 #: ../src/common/gifdecod.cpp:792
 #, c-format
@@ -4431,7 +4268,6 @@ msgstr "Alustus epäonnistui jälkialustuksessa, keskeytetään."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:52
-#, fuzzy
 msgid "Ins"
 msgstr "Lisää"
 
@@ -4441,7 +4277,6 @@ msgid "Insert"
 msgstr "Lisää"
 
 #: ../src/richtext/richtextbuffer.cpp:8060
-#, fuzzy
 msgid "Insert Field"
 msgstr "Lisää teksti"
 
@@ -4451,7 +4286,6 @@ msgid "Insert Image"
 msgstr "Lisää kuva"
 
 #: ../src/richtext/richtextbuffer.cpp:8018
-#, fuzzy
 msgid "Insert Object"
 msgstr "Lisää teksti"
 
@@ -4464,17 +4298,15 @@ msgstr "Lisää teksti"
 
 #: ../src/richtext/richtextindentspage.cpp:295
 #: ../src/richtext/richtextindentspage.cpp:297
-#, fuzzy
 msgid "Inserts a page break before the paragraph."
 msgstr "Tyhjä tila ennen kappaletta."
 
 #: ../src/richtext/richtextborderspage.cpp:620
-#, fuzzy
 msgid "Inset"
 msgstr "Lisää"
 
 #: ../src/gtk/app.cpp:413
-#, fuzzy, c-format
+#, c-format
 msgid "Invalid GTK+ command line option, use \"%s --help\""
 msgstr "Virheellinen GTK+-komentorivivalinta, kokeile ”%s --help”"
 
@@ -4499,7 +4331,7 @@ msgstr "Virheellinen geometry-määritelmä ”%s”"
 #: ../src/unix/fswatcher_inotify.cpp:311
 #, c-format
 msgid "Invalid inotify event for \"%s\""
-msgstr ""
+msgstr "Invalid inotify event for \"%s\""
 
 #: ../src/unix/snglinst.cpp:312
 #, c-format
@@ -4507,19 +4339,16 @@ msgid "Invalid lock file '%s'."
 msgstr "Virheellinen lukkotiedosto ”%s”."
 
 #: ../src/common/translation.cpp:1125
-#, fuzzy
 msgid "Invalid message catalog."
 msgstr "”%s” ei ole kelvollinen viestiluettelo."
 
 #: ../src/common/xtistrm.cpp:409 ../src/common/xtistrm.cpp:424
 msgid "Invalid or Null Object ID passed to GetObjectClassInfo"
-msgstr ""
-"Virheellinen tai nollaobjektitunnus välitetty kohteelle GetObjectClassInfo"
+msgstr "Virheellinen tai nollaobjektitunnus välitetty kohteelle GetObjectClassInfo"
 
 #: ../src/common/xtistrm.cpp:439
 msgid "Invalid or Null Object ID passed to HasObjectClassInfo"
-msgstr ""
-"Virheellinen tai nollaobjektitunnus välitetty kohteelle HasObjectClassInfo"
+msgstr "Virheellinen tai nollaobjektitunnus välitetty kohteelle HasObjectClassInfo"
 
 #: ../src/common/regex.cpp:310
 #, c-format
@@ -4550,55 +4379,55 @@ msgstr "JPEG: Ei voinut tallentaa kuvaa"
 
 #: ../src/common/paper.cpp:164
 msgid "Japanese Double Postcard 200 x 148 mm"
-msgstr ""
+msgstr "Japanese Double Postcard 200 x 148 mm"
 
 #: ../src/common/paper.cpp:168
 msgid "Japanese Envelope Chou #3"
-msgstr ""
+msgstr "Japanese Envelope Chou #3"
 
 #: ../src/common/paper.cpp:181
 msgid "Japanese Envelope Chou #3 Rotated"
-msgstr ""
+msgstr "Japanese Envelope Chou #3 Rotated"
 
 #: ../src/common/paper.cpp:169
 msgid "Japanese Envelope Chou #4"
-msgstr ""
+msgstr "Japanese Envelope Chou #4"
 
 #: ../src/common/paper.cpp:182
 msgid "Japanese Envelope Chou #4 Rotated"
-msgstr ""
+msgstr "Japanese Envelope Chou #4 Rotated"
 
 #: ../src/common/paper.cpp:166
 msgid "Japanese Envelope Kaku #2"
-msgstr ""
+msgstr "Japanese Envelope Kaku #2"
 
 #: ../src/common/paper.cpp:179
 msgid "Japanese Envelope Kaku #2 Rotated"
-msgstr ""
+msgstr "Japanese Envelope Kaku #2 Rotated"
 
 #: ../src/common/paper.cpp:167
 msgid "Japanese Envelope Kaku #3"
-msgstr ""
+msgstr "Japanese Envelope Kaku #3"
 
 #: ../src/common/paper.cpp:180
 msgid "Japanese Envelope Kaku #3 Rotated"
-msgstr ""
+msgstr "Japanese Envelope Kaku #3 Rotated"
 
 #: ../src/common/paper.cpp:186
 msgid "Japanese Envelope You #4"
-msgstr ""
+msgstr "Japanese Envelope You #4"
 
 #: ../src/common/paper.cpp:187
 msgid "Japanese Envelope You #4 Rotated"
-msgstr ""
+msgstr "Japanese Envelope You #4 Rotated"
 
 #: ../src/common/paper.cpp:139
 msgid "Japanese Postcard 100 x 148 mm"
-msgstr ""
+msgstr "Japanese Postcard 100 x 148 mm"
 
 #: ../src/common/paper.cpp:176
 msgid "Japanese Postcard Rotated 148 x 100 mm"
-msgstr ""
+msgstr "Japanese Postcard Rotated 148 x 100 mm"
 
 #: ../src/common/stockitem.cpp:169
 msgid "Jump to"
@@ -4629,128 +4458,116 @@ msgstr "KP_"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:104
-#, fuzzy
 msgid "KP_Add"
 msgstr "KP_LISÄÄ"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:99
 msgid "KP_Begin"
-msgstr ""
+msgstr "KP_Begin"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:107
 msgid "KP_Decimal"
-msgstr ""
+msgstr "KP_Decimal"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:101
-#, fuzzy
 msgid "KP_Delete"
 msgstr "Poista"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:108
 msgid "KP_Divide"
-msgstr ""
+msgstr "KP_Divide"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:93
-#, fuzzy
 msgid "KP_Down"
 msgstr "Alas"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:98
-#, fuzzy
 msgid "KP_End"
 msgstr "KP_END"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:88
-#, fuzzy
 msgid "KP_Enter"
 msgstr "Tulostin"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:102
 msgid "KP_Equal"
-msgstr ""
+msgstr "KP_Equal"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:89
-#, fuzzy
 msgid "KP_Home"
 msgstr "Koti"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:100
-#, fuzzy
 msgid "KP_Insert"
 msgstr "Lisää"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:90
-#, fuzzy
 msgid "KP_Left"
 msgstr "Vasen"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:103
 msgid "KP_Multiply"
-msgstr ""
+msgstr "KP_Multiply"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:97
-#, fuzzy
 msgid "KP_Next"
 msgstr "Seuraava"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:95
 msgid "KP_PageDown"
-msgstr ""
+msgstr "KP_PageDown"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:94
 msgid "KP_PageUp"
-msgstr ""
+msgstr "KP_PageUp"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:96
 msgid "KP_Prior"
-msgstr ""
+msgstr "KP_Prior"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:92
-#, fuzzy
 msgid "KP_Right"
 msgstr "Oikealle"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:105
 msgid "KP_Separator"
-msgstr ""
+msgstr "KP_Separator"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:86
 msgid "KP_Space"
-msgstr ""
+msgstr "KP_Space"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:106
 msgid "KP_Subtract"
-msgstr ""
+msgstr "KP_Subtract"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:87
-#, fuzzy
 msgid "KP_Tab"
 msgstr "KP_SARKAIN"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:91
-#, fuzzy
 msgid "KP_Up"
 msgstr "KP_YLÖS"
 
@@ -4763,12 +4580,10 @@ msgid "Landscape"
 msgstr "Vaakasuunta"
 
 #: ../src/common/stockitem.cpp:174
-#, fuzzy
 msgid "Last"
 msgstr "Liitä"
 
 #: ../src/common/prntbase.cpp:1572
-#, fuzzy
 msgid "Last page"
 msgstr "Seuraava sivu"
 
@@ -4776,11 +4591,10 @@ msgstr "Seuraava sivu"
 #, c-format
 msgid "Last repeated message (\"%s\", %u time) wasn't output"
 msgid_plural "Last repeated message (\"%s\", %u times) wasn't output"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Last repeated message (\"%s\", %u time) wasn't output"
+msgstr[1] "Last repeated message (\"%s\", %u times) wasn't output"
 
 #: ../src/common/paper.cpp:104
-#, fuzzy
 msgid "Ledger, 17 x 11 in"
 msgstr "Ledger, 17 x 11” "
 
@@ -4803,7 +4617,7 @@ msgstr "Vasen (&ensimmäinen rivi):"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1722
 msgid "Left Button"
-msgstr ""
+msgstr "Left Button"
 
 #: ../src/generic/prntdlgg.cpp:880
 msgid "Left margin (mm):"
@@ -4817,46 +4631,38 @@ msgid "Left-align text."
 msgstr "Vasemmalle tasattu teksti:"
 
 #: ../src/common/paper.cpp:145
-#, fuzzy
 msgid "Legal Extra 9 1/2 x 15 in"
 msgstr "Legal 8 1/2 x 14” "
 
 #: ../src/common/paper.cpp:97
-#, fuzzy
 msgid "Legal, 8 1/2 x 14 in"
 msgstr "Legal 8 1/2 x 14” "
 
 #: ../src/common/paper.cpp:144
-#, fuzzy
 msgid "Letter Extra 9 1/2 x 12 in"
 msgstr "Letter 8 1/2 x 11” "
 
 #: ../src/common/paper.cpp:150
 msgid "Letter Extra Transverse 9.275 x 12 in"
-msgstr ""
+msgstr "Letter Extra Transverse 9.275 x 12 in"
 
 #: ../src/common/paper.cpp:153
-#, fuzzy
 msgid "Letter Plus 8 1/2 x 12.69 in"
 msgstr "Letter 8 1/2 x 11” "
 
 #: ../src/common/paper.cpp:170
-#, fuzzy
 msgid "Letter Rotated 11 x 8 1/2 in"
 msgstr "Letter 8 1/2 x 11” "
 
 #: ../src/common/paper.cpp:102
-#, fuzzy
 msgid "Letter Small, 8 1/2 x 11 in"
 msgstr "Letter (pieni) 8 1/2 x 11” "
 
 #: ../src/common/paper.cpp:148
-#, fuzzy
 msgid "Letter Transverse 8 1/2 x 11 in"
 msgstr "Letter 8 1/2 x 11” "
 
 #: ../src/common/paper.cpp:96
-#, fuzzy
 msgid "Letter, 8 1/2 x 11 in"
 msgstr "Letter 8 1/2 x 11” "
 
@@ -4870,13 +4676,12 @@ msgstr "Kevyt"
 
 #: ../src/propgrid/advprops.cpp:1569
 msgid "Lime"
-msgstr ""
+msgstr "Lime"
 
 #: ../src/generic/helpext.cpp:294
 #, c-format
 msgid "Line %lu of map file \"%s\" has invalid syntax, skipped."
-msgstr ""
-"Rivillä %lu karttatiedostossa \"%s\" on virheellinen syntaksi, ohitettu."
+msgstr "Rivillä %lu karttatiedostossa \"%s\" on virheellinen syntaksi, ohitettu."
 
 #: ../src/richtext/richtextliststylepage.cpp:444
 msgid "Line spacing:"
@@ -4943,19 +4748,14 @@ msgid "MDI child"
 msgstr "MDI lapsi"
 
 #: ../src/msw/helpchm.cpp:56
-msgid ""
-"MS HTML Help functions are unavailable because the MS HTML Help library is "
-"not installed on this machine. Please install it."
-msgstr ""
-"MS HTML Ohjetoiminnot eivät ole saatavilla koska MS HTML Help kirjastoa ei "
-"ole asennettu tälle koneelle. Ole hyvä ja asenna se."
+msgid "MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it."
+msgstr "MS HTML Ohjetoiminnot eivät ole saatavilla koska MS HTML Help kirjastoa ei ole asennettu tälle koneelle. Ole hyvä ja asenna se."
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
 msgstr "S&uurenna"
 
 #: ../src/common/fmapbase.cpp:203
-#, fuzzy
 msgid "MacArabic"
 msgstr "Arabialainen"
 
@@ -4969,7 +4769,7 @@ msgstr "Mac (bengalilainen)"
 
 #: ../src/common/fmapbase.cpp:217
 msgid "MacBurmese"
-msgstr ""
+msgstr "MacBurmese"
 
 #: ../src/common/fmapbase.cpp:236
 msgid "MacCeltic"
@@ -4977,15 +4777,15 @@ msgstr "Mac (kelttiläinen)"
 
 #: ../src/common/fmapbase.cpp:227
 msgid "MacCentralEurRoman"
-msgstr ""
+msgstr "MacCentralEurRoman"
 
 #: ../src/common/fmapbase.cpp:223
 msgid "MacChineseSimp"
-msgstr ""
+msgstr "MacChineseSimp"
 
 #: ../src/common/fmapbase.cpp:201
 msgid "MacChineseTrad"
-msgstr ""
+msgstr "MacChineseTrad"
 
 #: ../src/common/fmapbase.cpp:233
 msgid "MacCroatian"
@@ -4997,18 +4797,17 @@ msgstr "Mac (kyrillinen)"
 
 #: ../src/common/fmapbase.cpp:207
 msgid "MacDevanagari"
-msgstr ""
+msgstr "MacDevanagari"
 
 #: ../src/common/fmapbase.cpp:231
 msgid "MacDingbats"
-msgstr ""
+msgstr "MacDingbats"
 
 #: ../src/common/fmapbase.cpp:226
 msgid "MacEthiopic"
 msgstr "Mac (etiopialainen)"
 
 #: ../src/common/fmapbase.cpp:229
-#, fuzzy
 msgid "MacExtArabic"
 msgstr "Arabialainen"
 
@@ -5026,11 +4825,11 @@ msgstr "Mac (kreikkalainen)"
 
 #: ../src/common/fmapbase.cpp:209
 msgid "MacGujarati"
-msgstr ""
+msgstr "MacGujarati"
 
 #: ../src/common/fmapbase.cpp:208
 msgid "MacGurmukhi"
-msgstr ""
+msgstr "MacGurmukhi"
 
 #: ../src/common/fmapbase.cpp:204
 msgid "MacHebrew"
@@ -5046,15 +4845,15 @@ msgstr "Mac (japanilainen)"
 
 #: ../src/common/fmapbase.cpp:214
 msgid "MacKannada"
-msgstr ""
+msgstr "MacKannada"
 
 #: ../src/common/fmapbase.cpp:238
 msgid "MacKeyboardGlyphs"
-msgstr ""
+msgstr "MacKeyboardGlyphs"
 
 #: ../src/common/fmapbase.cpp:218
 msgid "MacKhmer"
-msgstr ""
+msgstr "MacKhmer"
 
 #: ../src/common/fmapbase.cpp:202
 msgid "MacKorean"
@@ -5062,11 +4861,11 @@ msgstr "Mac (korealainen)"
 
 #: ../src/common/fmapbase.cpp:220
 msgid "MacLaotian"
-msgstr ""
+msgstr "MacLaotian"
 
 #: ../src/common/fmapbase.cpp:215
 msgid "MacMalayalam"
-msgstr ""
+msgstr "MacMalayalam"
 
 #: ../src/common/fmapbase.cpp:225
 msgid "MacMongolian"
@@ -5074,25 +4873,21 @@ msgstr "Mac (mongolialainen)"
 
 #: ../src/common/fmapbase.cpp:210
 msgid "MacOriya"
-msgstr ""
+msgstr "MacOriya"
 
 #: ../src/common/fmapbase.cpp:199
-#, fuzzy
 msgid "MacRoman"
 msgstr "Roman"
 
 #: ../src/common/fmapbase.cpp:235
-#, fuzzy
 msgid "MacRomanian"
 msgstr "Roman"
 
 #: ../src/common/fmapbase.cpp:216
-#, fuzzy
 msgid "MacSinhalese"
 msgstr "Sama kirjainkoko"
 
 #: ../src/common/fmapbase.cpp:230
-#, fuzzy
 msgid "MacSymbol"
 msgstr "Symboli"
 
@@ -5102,15 +4897,15 @@ msgstr "Mac (tamililainen)"
 
 #: ../src/common/fmapbase.cpp:213
 msgid "MacTelugu"
-msgstr ""
+msgstr "MacTelugu"
 
 #: ../src/common/fmapbase.cpp:219
 msgid "MacThai"
-msgstr ""
+msgstr "MacThai"
 
 #: ../src/common/fmapbase.cpp:224
 msgid "MacTibetan"
-msgstr ""
+msgstr "MacTibetan"
 
 #: ../src/common/fmapbase.cpp:232
 msgid "MacTurkish"
@@ -5123,10 +4918,9 @@ msgstr "Mac (vietnamilainen)"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1723
 msgid "Magnifier"
-msgstr ""
+msgstr "Magnifier"
 
 #: ../src/propgrid/advprops.cpp:2104
-#, fuzzy
 msgid "Make a selection:"
 msgstr "Liitä valinta"
 
@@ -5137,25 +4931,24 @@ msgstr "Marginaalit"
 
 #: ../src/propgrid/advprops.cpp:1556
 msgid "Maroon"
-msgstr ""
+msgstr "Maroon"
 
 #: ../src/generic/fdrepdlg.cpp:147
 msgid "Match case"
 msgstr "Sama kirjainkoko"
 
 #: ../src/richtext/richtextsizepage.cpp:463
-#, fuzzy
 msgid "Max height:"
 msgstr "&Korkeus:"
 
 #: ../src/richtext/richtextsizepage.cpp:436
 msgid "Max width:"
-msgstr ""
+msgstr "Max width:"
 
 #: ../src/unix/mediactrl.cpp:1004
 #, c-format
 msgid "Media playback error: %s"
-msgstr ""
+msgstr "Media playback error: %s"
 
 #: ../src/common/fs_mem.cpp:175
 #, c-format
@@ -5170,17 +4963,16 @@ msgid "Menu"
 msgstr "Valikko"
 
 #: ../src/common/msgout.cpp:124
-#, fuzzy
 msgid "Message"
 msgstr "%s-viesti"
 
 #: ../src/univ/themes/metal.cpp:168
 msgid "Metal theme"
-msgstr ""
+msgstr "Metal theme"
 
 #: ../src/msw/ole/automtn.cpp:658
 msgid "Method or property not found."
-msgstr ""
+msgstr "Method or property not found."
 
 #: ../src/univ/themes/win32.cpp:3752
 msgid "Mi&nimize"
@@ -5189,16 +4981,15 @@ msgstr "P&ienennä"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1724
 msgid "Middle Button"
-msgstr ""
+msgstr "Middle Button"
 
 #: ../src/richtext/richtextsizepage.cpp:409
-#, fuzzy
 msgid "Min height:"
 msgstr "Kirjasimen &paino:"
 
 #: ../src/richtext/richtextsizepage.cpp:382
 msgid "Min width:"
-msgstr ""
+msgstr "Min width:"
 
 #: ../src/msw/ole/automtn.cpp:674
 msgid "Missing a required parameter."
@@ -5213,12 +5004,11 @@ msgid "Modified"
 msgstr "Muokattu"
 
 #: ../src/common/module.cpp:133
-#, fuzzy, c-format
+#, c-format
 msgid "Module \"%s\" initialization failed"
 msgstr "Moduulin ”%s” alustus epäonnistui"
 
 #: ../src/common/paper.cpp:132
-#, fuzzy
 msgid "Monarch Envelope, 3 7/8 x 7 1/2 in"
 msgstr "Monarch Envelope, 3 7/8 x 7 1/2” "
 
@@ -5254,19 +5044,17 @@ msgstr "Nimi"
 
 #: ../src/propgrid/advprops.cpp:1557
 msgid "Navy"
-msgstr ""
+msgstr "Navy"
 
 #: ../src/common/stockitem.cpp:175
 msgid "Network"
 msgstr "Verkko"
 
 #: ../src/common/stockitem.cpp:176
-#, fuzzy
 msgid "New"
 msgstr "&Uusi"
 
 #: ../src/richtext/richtextstyledlg.cpp:243
-#, fuzzy
 msgid "New &Box Style..."
 msgstr "Uusi &luettelotyyli"
 
@@ -5300,7 +5088,6 @@ msgid "New directory"
 msgstr "Uusi hakemisto"
 
 #: ../src/generic/editlbox.cpp:273
-#, fuzzy
 msgid "New item"
 msgstr "Uusi kohta"
 
@@ -5325,15 +5112,15 @@ msgstr "Ei"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1725
 msgid "No Entry"
-msgstr ""
+msgstr "No Entry"
 
 #: ../src/generic/animateg.cpp:150
-#, fuzzy, c-format
+#, c-format
 msgid "No animation handler for type %ld defined."
 msgstr "Kuvatyypin %d käsittelijää ei määritelty."
 
 #: ../src/dfb/bitmap.cpp:642 ../src/dfb/bitmap.cpp:676
-#, fuzzy, c-format
+#, c-format
 msgid "No bitmap handler for type %d defined."
 msgstr "Kuvatyypin %d käsittelijää ei määritelty."
 
@@ -5342,13 +5129,12 @@ msgid "No column existing."
 msgstr "Saraketta ei ole."
 
 #: ../src/osx/carbon/dataview.cpp:1672
-#, fuzzy
 msgid "No column for the specified column existing."
 msgstr "Saraketta ei ole."
 
 #: ../src/osx/carbon/dataview.cpp:1421
 msgid "No column for the specified column position existing."
-msgstr ""
+msgstr "No column for the specified column position existing."
 
 #: ../src/common/utilscmn.cpp:1094
 msgid "No default application configured for HTML files."
@@ -5359,30 +5145,24 @@ msgid "No entries found."
 msgstr "Kohtia ei löytynyt."
 
 #: ../src/common/fontmap.cpp:421
-#, fuzzy, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found,\n"
+#, c-format
+msgid "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"Koodaus ”%s” on tuntematon, mutta vaihtoehtoinen\n"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "Koodaus ”%s” on tuntematon, mutta vaihtoehtoinen\n"
 "koodaus ”%s” on saatavilla.\n"
 "Haluatko käyttää tätä koodausta (muutoin joudut valitsemaan toisen)?"
 
 #: ../src/common/fontmap.cpp:426
-#, fuzzy, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found.\n"
+#, c-format
+msgid "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"Koodaus ”%s” on tuntematon.\n"
+msgstr "Koodaus ”%s” on tuntematon.\n"
 "Haluatko valita kirjasintyypin, jota käytetään tähän?\n"
 "(Muutoin tällä koodauksella olevaa teksiä ei näytetä oikein)"
 
 #: ../src/generic/animateg.cpp:142
-#, fuzzy
 msgid "No handler found for animation type."
 msgstr "Kuvatyypin käsittelijää ei löytynyt."
 
@@ -5392,12 +5172,12 @@ msgstr "Kuvatyypin käsittelijää ei löytynyt."
 
 #: ../src/common/image.cpp:2603 ../src/common/image.cpp:2714
 #: ../src/common/image.cpp:2767
-#, fuzzy, c-format
+#, c-format
 msgid "No image handler for type %d defined."
 msgstr "Kuvatyypin %d käsittelijää ei määritelty."
 
 #: ../src/common/image.cpp:2737 ../src/common/image.cpp:2781
-#, fuzzy, c-format
+#, c-format
 msgid "No image handler for type %s defined."
 msgstr "Kuvatyypin %s käsittelyohjelmaa ei määritelty."
 
@@ -5407,11 +5187,11 @@ msgstr "Täsmääviä sivuja ei vielä löydetty"
 
 #: ../src/osx/carbon/dataview.cpp:1674 ../src/osx/carbon/dataview.cpp:1784
 msgid "No renderer or invalid renderer type specified for custom data column."
-msgstr ""
+msgstr "No renderer or invalid renderer type specified for custom data column."
 
 #: ../src/osx/carbon/dataview.cpp:1422
 msgid "No renderer specified for column."
-msgstr ""
+msgstr "No renderer specified for column."
 
 #: ../src/unix/sound.cpp:81
 msgid "No sound"
@@ -5419,7 +5199,7 @@ msgstr "Ei ääntä"
 
 #: ../src/common/image.cpp:2168 ../src/common/image.cpp:2209
 msgid "No unused colour in image being masked."
-msgstr ""
+msgstr "No unused colour in image being masked."
 
 #: ../src/common/image.cpp:3240
 msgid "No unused colour in image."
@@ -5428,12 +5208,11 @@ msgstr "Ei käyttämättömiä värejä kuvassa"
 #: ../src/generic/helpext.cpp:302
 #, c-format
 msgid "No valid mappings found in the file \"%s\"."
-msgstr ""
+msgstr "No valid mappings found in the file \"%s\"."
 
 #: ../src/richtext/richtextborderspage.cpp:613
 #: ../src/richtext/richtextsizepage.cpp:248
 #: ../src/richtext/richtextsizepage.cpp:252
-#, fuzzy
 msgid "None"
 msgstr "(Ei mitään)"
 
@@ -5454,12 +5233,11 @@ msgid "Normal font:"
 msgstr "Tavallinen fontti:"
 
 #: ../src/propgrid/props.cpp:1062
-#, fuzzy, c-format
+#, c-format
 msgid "Not %s"
 msgstr "Tietoja %s"
 
 #: ../include/wx/filename.h:586 ../include/wx/filename.h:591
-#, fuzzy
 msgid "Not available"
 msgstr "Valitettavasti vihjeitä ei ole!"
 
@@ -5468,7 +5246,6 @@ msgid "Not underlined"
 msgstr "Ei alleviivattu"
 
 #: ../src/common/paper.cpp:116
-#, fuzzy
 msgid "Note, 8 1/2 x 11 in"
 msgstr "Note, 8 1/2 x 11” "
 
@@ -5479,125 +5256,119 @@ msgstr "Huomio"
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:103
 msgid "Num *"
-msgstr ""
+msgstr "Num *"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:104
 msgid "Num +"
-msgstr ""
+msgstr "Num +"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:105
 msgid "Num ,"
-msgstr ""
+msgstr "Num ,"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:106
 msgid "Num -"
-msgstr ""
+msgstr "Num -"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:107
 msgid "Num ."
-msgstr ""
+msgstr "Num ."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:108
 msgid "Num /"
-msgstr ""
+msgstr "Num /"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:102
 msgid "Num ="
-msgstr ""
+msgstr "Num ="
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:99
 msgid "Num Begin"
-msgstr ""
+msgstr "Num Begin"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:101
-#, fuzzy
 msgid "Num Delete"
 msgstr "Poista"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:93
-#, fuzzy
 msgid "Num Down"
 msgstr "Alas"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:98
 msgid "Num End"
-msgstr ""
+msgstr "Num End"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:88
 msgid "Num Enter"
-msgstr ""
+msgstr "Num Enter"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:89
-#, fuzzy
 msgid "Num Home"
 msgstr "Koti"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:100
-#, fuzzy
 msgid "Num Insert"
 msgstr "Lisää"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:84
 msgid "Num Lock"
-msgstr ""
+msgstr "Num Lock"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:95
 msgid "Num Page Down"
-msgstr ""
+msgstr "Num Page Down"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:94
 msgid "Num Page Up"
-msgstr ""
+msgstr "Num Page Up"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:92
-#, fuzzy
 msgid "Num Right"
 msgstr "Oikealle"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:86
 msgid "Num Space"
-msgstr ""
+msgstr "Num Space"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:87
 msgid "Num Tab"
-msgstr ""
+msgstr "Num Tab"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:91
 msgid "Num Up"
-msgstr ""
+msgstr "Num Up"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:90
 msgid "Num left"
-msgstr ""
+msgstr "Num left"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:84
 msgid "Num_lock"
-msgstr ""
+msgstr "Num_lock"
 
 #: ../src/osx/carbon/dataview.cpp:900
-#, fuzzy
 msgid "Number of columns could not be determined."
 msgstr "Sarakkeen leveyttä ei voitu määritellä"
 
@@ -5619,7 +5390,6 @@ msgid "OLE Automation error in %s: %s"
 msgstr "OLE-automaatiovirhe kohteessa %s: %s"
 
 #: ../include/wx/richtext/richtextimagedlg.h:37
-#, fuzzy
 msgid "Object Properties"
 msgstr "&Ominaisuudet"
 
@@ -5633,11 +5403,11 @@ msgstr "Objekteilla täytyy olla id-määre"
 
 #: ../src/propgrid/advprops.cpp:1562
 msgid "Olive"
-msgstr ""
+msgstr "Olive"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:326
 msgid "Opaci&ty:"
-msgstr ""
+msgstr "Opaci&ty:"
 
 #: ../src/common/docview.cpp:1776 ../src/common/docview.cpp:1818
 msgid "Open File"
@@ -5648,17 +5418,16 @@ msgid "Open HTML document"
 msgstr "Avaa HTML-asiakirja"
 
 #: ../src/generic/dbgrptg.cpp:163
-#, fuzzy, c-format
+#, c-format
 msgid "Open file \"%s\""
 msgstr "Avaa tiedosto ”%s”"
 
 #: ../src/common/stockitem.cpp:179
-#, fuzzy
 msgid "Open..."
 msgstr "&Avaa..."
 
 #: ../src/osx/carbon/glcanvas.cpp:48
-#, fuzzy, c-format
+#, c-format
 msgid "OpenGL function \"%s\" failed: %s (error %d)"
 msgstr "OpenGL-toiminto ”%s” epäonnistui: %s (virhe %d)"
 
@@ -5668,7 +5437,7 @@ msgid "Operation not permitted."
 msgstr "Ei sallittu toimenpide."
 
 #: ../src/common/cmdline.cpp:900
-#, fuzzy, c-format
+#, c-format
 msgid "Option '%s' can't be negated"
 msgstr "Hakemistoa ”%s” ei voitu luoda"
 
@@ -5688,7 +5457,7 @@ msgstr "Valinnat"
 
 #: ../src/propgrid/advprops.cpp:1567
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: ../src/generic/prntdlgg.cpp:615 ../src/generic/prntdlgg.cpp:869
 msgid "Orientation"
@@ -5696,7 +5465,7 @@ msgstr "Suunta"
 
 #: ../src/common/windowid.cpp:259
 msgid "Out of window IDs.  Recommend shutting down application."
-msgstr ""
+msgstr "Out of window IDs.  Recommend shutting down application."
 
 #: ../src/richtext/richtextborderspage.cpp:401
 #: ../src/richtext/richtextborderspage.cpp:559
@@ -5705,11 +5474,11 @@ msgstr "Jäsennys"
 
 #: ../src/richtext/richtextborderspage.cpp:621
 msgid "Outset"
-msgstr ""
+msgstr "Outset"
 
 #: ../src/msw/ole/automtn.cpp:662
 msgid "Overflow while coercing argument values."
-msgstr ""
+msgstr "Overflow while coercing argument values."
 
 #: ../src/common/imagpcx.cpp:457 ../src/common/imagpcx.cpp:480
 msgid "PCX: couldn't allocate memory"
@@ -5854,7 +5623,7 @@ msgstr "PRC-kirjekuori #9 käännetty 324 x 229 mm"
 
 #: ../src/richtext/richtextmarginspage.cpp:285
 msgid "Padding"
-msgstr ""
+msgstr "Padding"
 
 #: ../src/common/prntbase.cpp:2074
 #, c-format
@@ -5868,7 +5637,6 @@ msgstr "Sivu %d / %d"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:56
-#, fuzzy
 msgid "Page Down"
 msgstr "Sivu %d"
 
@@ -5878,7 +5646,6 @@ msgstr "Sivun asetukset"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:55
-#, fuzzy
 msgid "Page Up"
 msgstr "Sivu %d"
 
@@ -5888,13 +5655,11 @@ msgstr "Sivun asetukset"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:56
-#, fuzzy
 msgid "PageDown"
 msgstr "Alas"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:55
-#, fuzzy
 msgid "PageUp"
 msgstr "Sivut"
 
@@ -5905,7 +5670,7 @@ msgstr "Sivut"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1726
 msgid "Paint Brush"
-msgstr ""
+msgstr "Paint Brush"
 
 #: ../src/generic/prntdlgg.cpp:602 ../src/generic/prntdlgg.cpp:801
 #: ../src/generic/prntdlgg.cpp:842 ../src/generic/prntdlgg.cpp:855
@@ -5919,11 +5684,11 @@ msgstr "Kappaletyylit"
 
 #: ../src/common/xtistrm.cpp:469
 msgid "Passing a already registered object to SetObject"
-msgstr ""
+msgstr "Passing a already registered object to SetObject"
 
 #: ../src/common/xtistrm.cpp:480
 msgid "Passing an unknown object to GetObject"
-msgstr ""
+msgstr "Passing an unknown object to GetObject"
 
 #: ../src/common/stockitem.cpp:180 ../src/richtext/richtextctrl.cpp:3488
 #: ../src/stc/stc_i18n.cpp:19
@@ -5937,12 +5702,12 @@ msgstr "Liitä valinta"
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:72
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1727
 msgid "Pencil"
-msgstr ""
+msgstr "Pencil"
 
 #: ../src/richtext/richtextbulletspage.cpp:159
 #: ../src/richtext/richtextliststylepage.cpp:222
@@ -5956,15 +5721,14 @@ msgstr "Oikeudet"
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:58
 msgid "PgDn"
-msgstr ""
+msgstr "PgDn"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:57
 msgid "PgUp"
-msgstr ""
+msgstr "PgUp"
 
 #: ../src/richtext/richtextbuffer.cpp:12815
-#, fuzzy
 msgid "Picture Properties"
 msgstr "&Ominaisuudet"
 
@@ -5990,12 +5754,10 @@ msgstr "Valitse palveluntarjoaja, johon haluat kytkeytyä"
 
 #: ../src/msw/listctrl.cpp:372
 #, c-format
-msgid ""
-"Please install a newer version of comctl32.dll\n"
+msgid "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"Ole hyvä ja asenna uudempi versio tiedostosta comctl32.dll\n"
+msgstr "Ole hyvä ja asenna uudempi versio tiedostosta comctl32.dll\n"
 "(version 4.70 vaaditaan mutta sinulla on %d.%02d)\n"
 "tai tämä ohjelma ei toimi kunnolla."
 
@@ -6004,25 +5766,21 @@ msgid "Please select the columns to show and define their order:"
 msgstr "Valitse näytettävät sarakkeet ja määritä niiden järjestys:"
 
 #: ../src/common/prntbase.cpp:538
-#, fuzzy
 msgid "Please wait while printing..."
 msgstr "Odota kunnes tulostus loppuu\n"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1728
-#, fuzzy
 msgid "Point Left"
 msgstr "K&irjasinkoko:"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1729
-#, fuzzy
 msgid "Point Right"
 msgstr "Tasaa oikealle"
 
 #. TRANSLATORS: Label of font point size
 #: ../src/propgrid/advprops.cpp:648
-#, fuzzy
 msgid "Point Size"
 msgstr "K&irjasinkoko:"
 
@@ -6033,7 +5791,7 @@ msgstr "K&irjasinkoko:"
 #: ../src/osx/carbon/dataview.cpp:1819 ../src/osx/carbon/dataview.cpp:1872
 #: ../src/osx/carbon/dataview.cpp:1995
 msgid "Pointer to data view control not set correctly."
-msgstr ""
+msgstr "Pointer to data view control not set correctly."
 
 #: ../src/osx/carbon/dataview.cpp:1277 ../src/osx/carbon/dataview.cpp:1336
 #: ../src/osx/carbon/dataview.cpp:1419 ../src/osx/carbon/dataview.cpp:1476
@@ -6041,14 +5799,13 @@ msgstr ""
 #: ../src/osx/carbon/dataview.cpp:1820 ../src/osx/carbon/dataview.cpp:1873
 #: ../src/osx/carbon/dataview.cpp:1996
 msgid "Pointer to model not set correctly."
-msgstr ""
+msgstr "Pointer to model not set correctly."
 
 #: ../src/generic/prntdlgg.cpp:612 ../src/generic/prntdlgg.cpp:867
 msgid "Portrait"
 msgstr "Pystysuunta"
 
 #: ../src/richtext/richtextsizepage.cpp:496
-#, fuzzy
 msgid "Position"
 msgstr "Kysymys"
 
@@ -6057,18 +5814,16 @@ msgid "PostScript file"
 msgstr "PostScript-tiedosto"
 
 #: ../src/common/stockitem.cpp:181
-#, fuzzy
 msgid "Preferences"
 msgstr "&Asetukset"
 
 #: ../src/osx/menu_osx.cpp:606
-#, fuzzy
 msgid "Preferences..."
 msgstr "&Asetukset"
 
 #: ../src/common/prntbase.cpp:546
 msgid "Preparing"
-msgstr ""
+msgstr "Preparing"
 
 #: ../src/generic/fontdlgg.cpp:455 ../src/html/helpwnd.cpp:1222
 #: ../src/osx/carbon/fontdlg.cpp:560
@@ -6109,22 +5864,18 @@ msgid "Print in colour"
 msgstr "Väritulostus"
 
 #: ../src/common/stockitem.cpp:182
-#, fuzzy
 msgid "Print previe&w..."
 msgstr "Tulostuksen &esikatselu"
 
 #: ../src/common/docview.cpp:1265
-#, fuzzy
 msgid "Print preview creation failed."
 msgstr "Putken luonti epäonnistui"
 
 #: ../src/common/stockitem.cpp:182
-#, fuzzy
 msgid "Print preview..."
 msgstr "Tulostuksen esikatselu"
 
 #: ../src/generic/prntdlgg.cpp:630
-#, fuzzy
 msgid "Print spooling"
 msgstr "Tulostuksen sivuajo"
 
@@ -6137,7 +5888,6 @@ msgid "Print to File"
 msgstr "Tulosta tiedostoon"
 
 #: ../src/common/stockitem.cpp:183
-#, fuzzy
 msgid "Print..."
 msgstr "&Tulosta..."
 
@@ -6167,7 +5917,6 @@ msgstr "Tulostin:"
 
 #: ../include/wx/richtext/richtextprint.h:163 ../src/common/prntbase.cpp:535
 #: ../src/html/htmprint.cpp:277
-#, fuzzy
 msgid "Printing"
 msgstr "Tulostetaan "
 
@@ -6180,12 +5929,12 @@ msgid "Printing Error"
 msgstr "Tulostusvirhe"
 
 #: ../src/common/prntbase.cpp:565
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d"
 msgstr "Tulostetaan sivua %d..."
 
 #: ../src/common/prntbase.cpp:570
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d of %d"
 msgstr "Tulostetaan sivua %d..."
 
@@ -6200,48 +5949,40 @@ msgstr "Tulostetaan..."
 
 #: ../include/wx/prntbase.h:267 ../include/wx/richtext/richtextprint.h:109
 #: ../src/common/docview.cpp:2135
-#, fuzzy
 msgid "Printout"
 msgstr "Tulosta"
 
 #: ../src/common/debugrpt.cpp:565
-#, fuzzy, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
-msgstr ""
-"Ohjelmavirheilmoituksen valmistelu epäonnistui, tiedostot jätetään "
-"hakemistoon ”%s”."
+#, c-format
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr "Ohjelmavirheilmoituksen valmistelu epäonnistui, tiedostot jätetään hakemistoon ”%s”."
 
 #: ../src/osx/carbon/dataview.cpp:2470
 msgid "Progress renderer cannot render value type; value type: "
-msgstr ""
+msgstr "Progress renderer cannot render value type; value type: "
 
 #: ../src/common/prntbase.cpp:545
 msgid "Progress:"
-msgstr ""
+msgstr "Progress:"
 
 #: ../src/common/stockitem.cpp:184
-#, fuzzy
 msgid "Properties"
 msgstr "&Ominaisuudet"
 
 #: ../src/propgrid/manager.cpp:237
-#, fuzzy
 msgid "Property"
 msgstr "&Ominaisuudet"
 
 #. TRANSLATORS: Caption of message box displaying any property error
 #: ../src/propgrid/propgrid.cpp:3181 ../src/propgrid/propgrid.cpp:3314
-#, fuzzy
 msgid "Property Error"
 msgstr "Tulostusvirhe"
 
 #: ../src/propgrid/advprops.cpp:1558
 msgid "Purple"
-msgstr ""
+msgstr "Purple"
 
 #: ../src/common/paper.cpp:113
-#, fuzzy
 msgid "Quarto, 215 x 275 mm"
 msgstr "Quarto, 215 x 275 mm"
 
@@ -6251,17 +5992,15 @@ msgstr "Kysymys"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1730
-#, fuzzy
 msgid "Question Arrow"
 msgstr "Kysymys"
 
 #: ../src/common/stockitem.cpp:156
-#, fuzzy
 msgid "Quit"
 msgstr "&Poistu"
 
 #: ../src/osx/menu_osx.cpp:623
-#, fuzzy, c-format
+#, c-format
 msgid "Quit %s"
 msgstr "&Poistu"
 
@@ -6270,7 +6009,6 @@ msgid "Quit this program"
 msgstr "Poistu tästä sovelluksesta"
 
 #: ../src/common/accelcmn.cpp:328
-#, fuzzy
 msgid "RawCtrl+"
 msgstr "Ctrl-"
 
@@ -6284,7 +6022,6 @@ msgid "Ready"
 msgstr "Valmis"
 
 #: ../src/propgrid/advprops.cpp:1566
-#, fuzzy
 msgid "Red"
 msgstr "Toista"
 
@@ -6312,12 +6049,10 @@ msgstr "Rekisteriavain ”%s” ei ole olemassa, sitä ei voi uudelleennimetä."
 
 #: ../src/msw/registry.cpp:719
 #, c-format
-msgid ""
-"Registry key '%s' is needed for normal system operation,\n"
+msgid "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"Rekisteriavainta ”%s” tarvitaan järjestelmän normaaliin\n"
+msgstr "Rekisteriavainta ”%s” tarvitaan järjestelmän normaaliin\n"
 "toimintaan. Avaimen poistaminen jättää järjestelmän\n"
 "epävakaaseen tilaan: toiminto keskeytetty."
 
@@ -6332,7 +6067,6 @@ msgid "Regular"
 msgstr "Tavallinen"
 
 #: ../src/richtext/richtextsizepage.cpp:519
-#, fuzzy
 msgid "Relative"
 msgstr "Koristeellinen"
 
@@ -6349,7 +6083,6 @@ msgid "Remove"
 msgstr "Poista"
 
 #: ../src/richtext/richtextctrl.cpp:1539
-#, fuzzy
 msgid "Remove Bullet"
 msgstr "Poista"
 
@@ -6360,7 +6093,7 @@ msgstr "Poista nykyinen sivu kirjanmerkeistä"
 #: ../src/common/rendcmn.cpp:194
 #, c-format
 msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
-msgstr ""
+msgstr "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
 
 #: ../src/osx/carbon/dataview.cpp:1428
 msgid "Rendering failed."
@@ -6392,30 +6125,29 @@ msgstr "Korvaa kohteella:"
 
 #: ../src/common/valtext.cpp:163
 msgid "Required information entry is empty."
-msgstr ""
+msgstr "Required information entry is empty."
 
 #: ../src/common/translation.cpp:1975
-#, fuzzy, c-format
+#, c-format
 msgid "Resource '%s' is not a valid message catalog."
 msgstr "”%s” ei ole kelvollinen viestiluettelo."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:54
 msgid "Return"
-msgstr ""
+msgstr "Return"
 
 #: ../src/common/stockitem.cpp:189
 msgid "Revert to Saved"
 msgstr "Palauta tallennettuun"
 
 #: ../src/richtext/richtextborderspage.cpp:619
-#, fuzzy
 msgid "Ridge"
 msgstr "Oikealle"
 
 #: ../src/richtext/richtextfontpage.cpp:313
 msgid "Rig&ht-to-left"
-msgstr ""
+msgstr "Rig&ht-to-left"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:60 ../src/richtext/richtextbulletspage.cpp:188
@@ -6426,14 +6158,13 @@ msgstr "Oikealle"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1715
-#, fuzzy
 msgid "Right Arrow"
 msgstr "Oikealle"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1731
 msgid "Right Button"
-msgstr ""
+msgstr "Right Button"
 
 #: ../src/generic/prntdlgg.cpp:892
 msgid "Right margin (mm):"
@@ -6477,7 +6208,6 @@ msgid "Save As"
 msgstr "Tallenna nimellä"
 
 #: ../src/common/stockitem.cpp:191
-#, fuzzy
 msgid "Save as"
 msgstr "Tallenna nimellä"
 
@@ -6500,17 +6230,17 @@ msgstr "Script"
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:85
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:85
 msgid "Scroll_lock"
-msgstr ""
+msgstr "Scroll_lock"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:876
 msgid "Scrollbar"
-msgstr ""
+msgstr "Scrollbar"
 
 #: ../src/generic/srchctlg.cpp:56 ../src/html/helpwnd.cpp:535
 #: ../src/html/helpwnd.cpp:550
@@ -6518,12 +6248,8 @@ msgid "Search"
 msgstr "Etsi"
 
 #: ../src/html/helpwnd.cpp:537
-#, fuzzy
-msgid ""
-"Search contents of help book(s) for all occurrences of the text you typed "
-"above"
-msgstr ""
-"Hae ohjekirjojen sisällöstä kaikki tapaukset, jossa on yllä antamasi teksti"
+msgid "Search contents of help book(s) for all occurrences of the text you typed above"
+msgstr "Hae ohjekirjojen sisällöstä kaikki tapaukset, jossa on yllä antamasi teksti"
 
 #: ../src/generic/fdrepdlg.cpp:160
 msgid "Search direction"
@@ -6557,7 +6283,6 @@ msgstr "Hakuvirhe tiedostossa ”%s” (stdio ei tue suuria tiedostoja)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:74
-#, fuzzy
 msgid "Select"
 msgstr "Valinta"
 
@@ -6605,7 +6330,7 @@ msgstr "Valitse muokattava luettelotaso."
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:80
 msgid "Separator"
-msgstr ""
+msgstr "Separator"
 
 #: ../src/common/cmdline.cpp:1083
 #, c-format
@@ -6614,20 +6339,19 @@ msgstr "Erotinmerkki tarvitaan option ”%s” jälkeen."
 
 #: ../src/osx/menu_osx.cpp:610
 msgid "Services"
-msgstr ""
+msgstr "Services"
 
 #: ../src/richtext/richtextbuffer.cpp:11208
-#, fuzzy
 msgid "Set Cell Style"
 msgstr "Poista tyyli"
 
 #: ../include/wx/xtiprop.h:175
 msgid "SetProperty called w/o valid setter"
-msgstr ""
+msgstr "SetProperty called w/o valid setter"
 
 #: ../src/common/filename.cpp:2599
 msgid "Setting directory access times is not supported under this OS version"
-msgstr ""
+msgstr "Setting directory access times is not supported under this OS version"
 
 #: ../src/generic/prntdlgg.cpp:188
 msgid "Setup..."
@@ -6635,24 +6359,21 @@ msgstr "Asetukset..."
 
 #: ../src/msw/dialup.cpp:554
 msgid "Several active dialup connections found, choosing one randomly."
-msgstr ""
-"Monta aktiivista puhelinvalintaikkunaa auki, valitsen yhden satunnaisesti."
+msgstr "Monta aktiivista puhelinvalintaikkunaa auki, valitsen yhden satunnaisesti."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:272
 msgid "Sh&adow spread:"
-msgstr ""
+msgstr "Sh&adow spread:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:180
 msgid "Shadow"
-msgstr ""
+msgstr "Shadow"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:259
-#, fuzzy
 msgid "Shadow c&olour:"
 msgstr "Valitse väri"
 
 #: ../src/common/accelcmn.cpp:325
-#, fuzzy
 msgid "Shift+"
 msgstr "Shift-"
 
@@ -6665,7 +6386,6 @@ msgid "Show &hidden files"
 msgstr "Näytä piilo&tiedostot"
 
 #: ../src/osx/menu_osx.cpp:618
-#, fuzzy
 msgid "Show All"
 msgstr "Näytä kaikki"
 
@@ -6699,7 +6419,7 @@ msgstr "Näyttää Unicode-osajoukon"
 #: ../src/richtext/richtextliststylepage.cpp:472
 #: ../src/richtext/richtextliststylepage.cpp:474
 msgid "Shows a preview of the bullet settings."
-msgstr ""
+msgstr "Shows a preview of the bullet settings."
 
 #: ../src/richtext/richtextfontpage.cpp:330
 #: ../src/richtext/richtextfontpage.cpp:332
@@ -6721,7 +6441,7 @@ msgstr "Näytä kirjasimen esikatselu."
 
 #: ../src/propgrid/advprops.cpp:1568
 msgid "Silver"
-msgstr ""
+msgstr "Silver"
 
 #: ../src/univ/themes/mono.cpp:516
 msgid "Simple monochrome theme"
@@ -6730,7 +6450,7 @@ msgstr "Yksinkertainen yksivärinen teema"
 #: ../src/richtext/richtextindentspage.cpp:275
 #: ../src/richtext/richtextliststylepage.cpp:449
 msgid "Single"
-msgstr ""
+msgstr "Single"
 
 #: ../src/generic/filectrlg.cpp:460 ../src/richtext/richtextformatdlg.cpp:373
 #: ../src/richtext/richtextsizepage.cpp:299
@@ -6744,27 +6464,27 @@ msgstr "Koko:"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1736
 msgid "Sizing"
-msgstr ""
+msgstr "Sizing"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1733
 msgid "Sizing N-S"
-msgstr ""
+msgstr "Sizing N-S"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1732
 msgid "Sizing NE-SW"
-msgstr ""
+msgstr "Sizing NE-SW"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1734
 msgid "Sizing NW-SE"
-msgstr ""
+msgstr "Sizing NW-SE"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1735
 msgid "Sizing W-E"
-msgstr ""
+msgstr "Sizing W-E"
 
 #: ../src/generic/progdlgg.cpp:263 ../src/generic/progdlgg.cpp:776
 #: ../src/msw/progdlg.cpp:801
@@ -6776,17 +6496,15 @@ msgid "Slant"
 msgstr "Kalteva"
 
 #: ../src/richtext/richtextfontpage.cpp:289
-#, fuzzy
 msgid "Small C&apitals"
 msgstr "&Suuraakkoset"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:77
 msgid "Snapshot"
-msgstr ""
+msgstr "Snapshot"
 
 #: ../src/richtext/richtextborderspage.cpp:614
-#, fuzzy
 msgid "Solid"
 msgstr "Lihavoitu"
 
@@ -6821,12 +6539,10 @@ msgstr "äänitiedoston ”%s” muotoa ei tueta."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:65
-#, fuzzy
 msgid "Space"
 msgstr "Etsitään..."
 
 #: ../src/richtext/richtextliststylepage.cpp:467
-#, fuzzy
 msgid "Spacing"
 msgstr "Etsitään..."
 
@@ -6837,7 +6553,7 @@ msgstr "Oikeinkirjoituksen tarkistus"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1737
 msgid "Spraycan"
-msgstr ""
+msgstr "Spraycan"
 
 #: ../src/richtext/richtextbulletspage.cpp:282
 #: ../src/richtext/richtextliststylepage.cpp:490
@@ -6845,13 +6561,11 @@ msgid "Standard"
 msgstr "Perus"
 
 #: ../src/common/paper.cpp:105
-#, fuzzy
 msgid "Statement, 5 1/2 x 8 1/2 in"
 msgstr "Statement, 5 1/2 x 8 1/2” "
 
 #: ../src/richtext/richtextsizepage.cpp:518
 #: ../src/richtext/richtextsizepage.cpp:523
-#, fuzzy
 msgid "Static"
 msgstr "Tila:"
 
@@ -6860,7 +6574,6 @@ msgid "Status:"
 msgstr "Tila:"
 
 #: ../src/common/stockitem.cpp:198
-#, fuzzy
 msgid "Stop"
 msgstr "&Pysäytä"
 
@@ -6871,7 +6584,7 @@ msgstr "Yliviivaus"
 #: ../src/common/colourcmn.cpp:45
 #, c-format
 msgid "String To Colour : Incorrect colour specification : %s"
-msgstr ""
+msgstr "String To Colour : Incorrect colour specification : %s"
 
 #. TRANSLATORS: Label of font style
 #: ../src/propgrid/advprops.cpp:666 ../src/richtext/richtextformatdlg.cpp:337
@@ -6887,17 +6600,15 @@ msgid "Style:"
 msgstr "Tyyli:"
 
 #: ../src/richtext/richtextfontpage.cpp:303
-#, fuzzy
 msgid "Subscrip&t"
 msgstr "Script"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:81
 msgid "Subtract"
-msgstr ""
+msgstr "Subtract"
 
 #: ../src/richtext/richtextfontpage.cpp:296
-#, fuzzy
 msgid "Supe&rscript"
 msgstr "Script"
 
@@ -6911,7 +6622,7 @@ msgstr "SuperB/SuperB/A3 305 x 487 mm"
 
 #: ../src/richtext/richtextfontpage.cpp:320
 msgid "Suppress hyphe&nation"
-msgstr ""
+msgstr "Suppress hyphe&nation"
 
 #: ../src/generic/fontdlgg.cpp:326
 msgid "Swiss"
@@ -6954,26 +6665,22 @@ msgstr "TIFF: Virhe kuvan kirjoituksessa."
 
 #: ../src/common/imagtiff.cpp:355
 msgid "TIFF: Image size is abnormally big."
-msgstr ""
+msgstr "TIFF: Image size is abnormally big."
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:66
-#, fuzzy
 msgid "Tab"
 msgstr "Välilehdet"
 
 #: ../src/richtext/richtextbuffer.cpp:11489
-#, fuzzy
 msgid "Table Properties"
 msgstr "&Ominaisuudet"
 
 #: ../src/common/paper.cpp:146
-#, fuzzy
 msgid "Tabloid Extra 11.69 x 18 in"
 msgstr "Tabloid, 11 x 17” "
 
 #: ../src/common/paper.cpp:103
-#, fuzzy
 msgid "Tabloid, 11 x 17 in"
 msgstr "Tabloid, 11 x 17” "
 
@@ -6983,7 +6690,7 @@ msgstr "Välilehdet"
 
 #: ../src/propgrid/advprops.cpp:1559
 msgid "Teal"
-msgstr ""
+msgstr "Teal"
 
 #: ../src/generic/fontdlgg.cpp:327
 msgid "Teletype"
@@ -6995,7 +6702,7 @@ msgstr "Asiakirjamallit"
 
 #: ../src/osx/carbon/dataview.cpp:2371
 msgid "Text renderer cannot render value; value type: "
-msgstr ""
+msgstr "Text renderer cannot render value; value type: "
 
 #: ../src/common/fmapbase.cpp:158
 msgid "Thai (ISO-8859-11)"
@@ -7014,7 +6721,7 @@ msgstr "FTP-palvelin ei tue komentoa PORT."
 #: ../src/richtext/richtextliststylepage.cpp:215
 #: ../src/richtext/richtextliststylepage.cpp:217
 msgid "The available bullet styles."
-msgstr ""
+msgstr "The available bullet styles."
 
 #: ../src/richtext/richtextstyledlg.cpp:202
 #: ../src/richtext/richtextstyledlg.cpp:204
@@ -7023,7 +6730,6 @@ msgstr "Käytettävissä olevat tyylit."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:169
 #: ../src/richtext/richtextbackgroundpage.cpp:171
-#, fuzzy
 msgid "The background colour."
 msgstr "Taustaväri"
 
@@ -7043,19 +6749,16 @@ msgstr "Taustaväri"
 #: ../src/richtext/richtextborderspage.cpp:508
 #: ../src/richtext/richtextborderspage.cpp:540
 #: ../src/richtext/richtextborderspage.cpp:542
-#, fuzzy
 msgid "The border line style."
 msgstr "Kirjasimen tyyli."
 
 #: ../src/richtext/richtextmarginspage.cpp:267
 #: ../src/richtext/richtextmarginspage.cpp:269
-#, fuzzy
 msgid "The bottom margin size."
 msgstr "Kirjasinkoko."
 
 #: ../src/richtext/richtextmarginspage.cpp:381
 #: ../src/richtext/richtextmarginspage.cpp:383
-#, fuzzy
 msgid "The bottom padding size."
 msgstr "Kirjasinkoko."
 
@@ -7063,7 +6766,6 @@ msgstr "Kirjasinkoko."
 #: ../src/richtext/richtextsizepage.cpp:641
 #: ../src/richtext/richtextsizepage.cpp:653
 #: ../src/richtext/richtextsizepage.cpp:655
-#, fuzzy
 msgid "The bottom position."
 msgstr "Välilehden sijainti."
 
@@ -7076,7 +6778,7 @@ msgstr "Välilehden sijainti."
 #: ../src/richtext/richtextliststylepage.cpp:275
 #: ../src/richtext/richtextliststylepage.cpp:277
 msgid "The bullet character."
-msgstr ""
+msgstr "The bullet character."
 
 #: ../src/richtext/richtextsymboldlg.cpp:443
 #: ../src/richtext/richtextsymboldlg.cpp:445
@@ -7085,12 +6787,10 @@ msgstr "Merkkikoodi."
 
 #: ../src/common/fontmap.cpp:203
 #, c-format
-msgid ""
-"The charset '%s' is unknown. You may select\n"
+msgid "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"Merkistö ”%s” on tuntematon. Sen tilalle\n"
+msgstr "Merkistö ”%s” on tuntematon. Sen tilalle\n"
 "voi valita toisen merkistön. Ellei korvaavaa\n"
 "merkistöä ole, valitse [Peruuta]."
 
@@ -7106,29 +6806,23 @@ msgstr "Oletustyyli seuraavalle kappaleelle."
 
 #: ../src/generic/dirdlgg.cpp:231
 #, c-format
-msgid ""
-"The directory '%s' does not exist\n"
+msgid "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"Hakemisto ”%s” ei ole olemassa.\n"
+msgstr "Hakemisto ”%s” ei ole olemassa.\n"
 "Luodaanko se nyt?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
-msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
-"\n"
+msgid "The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
+msgstr "The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n\n"
+"Would you like to proceed with printing it nevertheless?"
 
 #: ../src/common/docview.cpp:1205
 #, c-format
-msgid ""
-"The file '%s' doesn't exist and couldn't be opened.\n"
+msgid "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr ""
-"Tiedosto ”%s” ei ole olemassa ja eikä sitä voi avata.\n"
+msgstr "Tiedosto ”%s” ei ole olemassa ja eikä sitä voi avata.\n"
 "Se on myös poistettu MRU-tiedostojen luettelosta"
 
 #: ../src/richtext/richtextindentspage.cpp:208
@@ -7166,7 +6860,6 @@ msgstr "Kirjasinkoko pisteinä."
 
 #: ../src/richtext/richtextfontpage.cpp:181
 #: ../src/richtext/richtextfontpage.cpp:183
-#, fuzzy
 msgid "The font size units, points or pixels."
 msgstr "Kirjasinkoko pisteinä."
 
@@ -7179,13 +6872,12 @@ msgid "The font weight."
 msgstr "Kirjasimen paino."
 
 #: ../src/common/docview.cpp:1486
-#, fuzzy, c-format
+#, c-format
 msgid "The format of file '%s' couldn't be determined."
 msgstr "Sarakkeen leveyttä ei voitu määritellä"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:220
 #: ../src/richtext/richtextbackgroundpage.cpp:222
-#, fuzzy
 msgid "The horizontal offset."
 msgstr "Ota käyttöön pysty-offset."
 
@@ -7198,13 +6890,11 @@ msgstr "Vasen sisennys."
 
 #: ../src/richtext/richtextmarginspage.cpp:194
 #: ../src/richtext/richtextmarginspage.cpp:196
-#, fuzzy
 msgid "The left margin size."
 msgstr "Kirjasinkoko."
 
 #: ../src/richtext/richtextmarginspage.cpp:308
 #: ../src/richtext/richtextmarginspage.cpp:310
-#, fuzzy
 msgid "The left padding size."
 msgstr "Kirjasinkoko."
 
@@ -7212,7 +6902,6 @@ msgstr "Kirjasinkoko."
 #: ../src/richtext/richtextsizepage.cpp:536
 #: ../src/richtext/richtextsizepage.cpp:548
 #: ../src/richtext/richtextsizepage.cpp:550
-#, fuzzy
 msgid "The left position."
 msgstr "Välilehden sijainti."
 
@@ -7230,47 +6919,40 @@ msgstr "Luettelokohdan numero."
 
 #: ../src/msw/ole/automtn.cpp:670
 msgid "The locale ID is unknown."
-msgstr ""
+msgstr "The locale ID is unknown."
 
 #: ../src/richtext/richtextsizepage.cpp:366
 #: ../src/richtext/richtextsizepage.cpp:368
-#, fuzzy
 msgid "The object height."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:474
 #: ../src/richtext/richtextsizepage.cpp:476
-#, fuzzy
 msgid "The object maximum height."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:447
 #: ../src/richtext/richtextsizepage.cpp:449
-#, fuzzy
 msgid "The object maximum width."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:420
 #: ../src/richtext/richtextsizepage.cpp:422
-#, fuzzy
 msgid "The object minimum height."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:393
 #: ../src/richtext/richtextsizepage.cpp:395
-#, fuzzy
 msgid "The object minimum width."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:332
 #: ../src/richtext/richtextsizepage.cpp:334
-#, fuzzy
 msgid "The object width."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextindentspage.cpp:227
 #: ../src/richtext/richtextindentspage.cpp:229
-#, fuzzy
 msgid "The outline level."
 msgstr "Näytä kirjasimen esikatselu."
 
@@ -7278,12 +6960,12 @@ msgstr "Näytä kirjasimen esikatselu."
 #, c-format
 msgid "The previous message repeated %u time."
 msgid_plural "The previous message repeated %u times."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "The previous message repeated %u time."
+msgstr[1] "The previous message repeated %u times."
 
 #: ../src/common/log.cpp:274
 msgid "The previous message repeated once."
-msgstr ""
+msgstr "The previous message repeated once."
 
 #: ../src/richtext/richtextsymboldlg.cpp:462
 #: ../src/richtext/richtextsymboldlg.cpp:464
@@ -7291,11 +6973,10 @@ msgid "The range to show."
 msgstr "Näytettävä alue."
 
 #: ../src/generic/dbgrptg.cpp:322
-msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+msgid "The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
+msgstr "The report contains the files listed below. If any of these files contain private information,\n"
+"please uncheck them and they will be removed from the report.\n"
 
 #: ../src/common/cmdline.cpp:1254
 #, c-format
@@ -7311,13 +6992,11 @@ msgstr "Oikea sisennys."
 
 #: ../src/richtext/richtextmarginspage.cpp:219
 #: ../src/richtext/richtextmarginspage.cpp:221
-#, fuzzy
 msgid "The right margin size."
 msgstr "Oikea sisennys."
 
 #: ../src/richtext/richtextmarginspage.cpp:333
 #: ../src/richtext/richtextmarginspage.cpp:335
-#, fuzzy
 msgid "The right padding size."
 msgstr "Oikea sisennys."
 
@@ -7325,30 +7004,28 @@ msgstr "Oikea sisennys."
 #: ../src/richtext/richtextsizepage.cpp:606
 #: ../src/richtext/richtextsizepage.cpp:618
 #: ../src/richtext/richtextsizepage.cpp:620
-#, fuzzy
 msgid "The right position."
 msgstr "Välilehden sijainti."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:310
 #: ../src/richtext/richtextbackgroundpage.cpp:312
 msgid "The shadow blur distance."
-msgstr ""
+msgstr "The shadow blur distance."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:267
 #: ../src/richtext/richtextbackgroundpage.cpp:269
-#, fuzzy
 msgid "The shadow colour."
 msgstr "Kirjasimen väri."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:337
 #: ../src/richtext/richtextbackgroundpage.cpp:339
 msgid "The shadow opacity."
-msgstr ""
+msgstr "The shadow opacity."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:283
 #: ../src/richtext/richtextbackgroundpage.cpp:285
 msgid "The shadow spread."
-msgstr ""
+msgstr "The shadow spread."
 
 #: ../src/richtext/richtextindentspage.cpp:267
 #: ../src/richtext/richtextliststylepage.cpp:439
@@ -7397,13 +7074,11 @@ msgstr "Tekstiä ei voitu tallentaa."
 
 #: ../src/richtext/richtextmarginspage.cpp:242
 #: ../src/richtext/richtextmarginspage.cpp:244
-#, fuzzy
 msgid "The top margin size."
 msgstr "Kirjasinkoko."
 
 #: ../src/richtext/richtextmarginspage.cpp:356
 #: ../src/richtext/richtextmarginspage.cpp:358
-#, fuzzy
 msgid "The top padding size."
 msgstr "Kirjasinkoko."
 
@@ -7411,7 +7086,6 @@ msgstr "Kirjasinkoko."
 #: ../src/richtext/richtextsizepage.cpp:571
 #: ../src/richtext/richtextsizepage.cpp:583
 #: ../src/richtext/richtextsizepage.cpp:585
-#, fuzzy
 msgid "The top position."
 msgstr "Välilehden sijainti."
 
@@ -7423,81 +7097,58 @@ msgstr "Valinnan ”%s” arvo täyty olla määritelty."
 #: ../src/richtext/richtextborderspage.cpp:588
 #: ../src/richtext/richtextborderspage.cpp:590
 msgid "The value of the corner radius."
-msgstr ""
+msgstr "The value of the corner radius."
 
 #: ../src/msw/dialup.cpp:443
-#, fuzzy, c-format
-msgid ""
-"The version of remote access service (RAS) installed on this machine is too "
-"old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"Tälle koneelle asennetun RAS (remote access server) komponentin versio on "
-"liian vanha, ole hyvä ja päivitä se (vaadittua funktiota %s ei löytynyt)."
+#, c-format
+msgid "The version of remote access service (RAS) installed on this machine is too old, please upgrade (the following required function is missing: %s)."
+msgstr "Tälle koneelle asennetun RAS (remote access server) komponentin versio on liian vanha, ole hyvä ja päivitä se (vaadittua funktiota %s ei löytynyt)."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
-#, fuzzy
 msgid "The vertical offset."
 msgstr "Ota käyttöön pysty-offset."
 
 #: ../src/osx/carbon/dataview.cpp:1338
 msgid "There is no column or renderer for the specified column index."
-msgstr ""
+msgstr "There is no column or renderer for the specified column index."
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
-msgid ""
-"There was a problem during page setup: you may need to set a default printer."
-msgstr ""
-"Sivun asetusten kanssa oli ongelma: voit joutua asettamaan oletustulostimen."
+msgid "There was a problem during page setup: you may need to set a default printer."
+msgstr "Sivun asetusten kanssa oli ongelma: voit joutua asettamaan oletustulostimen."
 
 #: ../src/html/htmprint.cpp:255
-msgid ""
-"This document doesn't fit on the page horizontally and will be truncated "
-"when it is printed."
-msgstr ""
+msgid "This document doesn't fit on the page horizontally and will be truncated when it is printed."
+msgstr "This document doesn't fit on the page horizontally and will be truncated when it is printed."
 
 #: ../src/common/image.cpp:2720
-#, fuzzy, c-format
+#, c-format
 msgid "This is not a %s."
 msgstr "PCX: tämä ei ole PCX tiedosto."
 
 #: ../src/common/wincmn.cpp:1670
 msgid "This platform does not support background transparency."
-msgstr ""
+msgstr "This platform does not support background transparency."
 
 #: ../src/gtk/window.cpp:4568
-msgid ""
-"This program was compiled with a too old version of GTK+, please rebuild "
-"with GTK+ 2.12 or newer."
-msgstr ""
+msgid "This program was compiled with a too old version of GTK+, please rebuild with GTK+ 2.12 or newer."
+msgstr "This program was compiled with a too old version of GTK+, please rebuild with GTK+ 2.12 or newer."
 
 #: ../src/msw/datecontrols.cpp:59
-#, fuzzy
-msgid ""
-"This system doesn't support date controls, please upgrade your version of "
-"comctl32.dll"
-msgstr ""
-"Tämä järjestelmä ei tue date picker kontrollia, ole hyvä ja päivitä comctl32."
-"dll"
+msgid "This system doesn't support date controls, please upgrade your version of comctl32.dll"
+msgstr "Tämä järjestelmä ei tue date picker kontrollia, ole hyvä ja päivitä comctl32.dll"
 
 #: ../src/msw/thread.cpp:1251
-msgid ""
-"Thread module initialization failed: cannot store value in thread local "
-"storage"
-msgstr ""
-"Säiemoduulin käynnistys epäonnistui: arvoa ei voi tallentaa säikeen muistiin"
+msgid "Thread module initialization failed: cannot store value in thread local storage"
+msgstr "Säiemoduulin käynnistys epäonnistui: arvoa ei voi tallentaa säikeen muistiin"
 
 #: ../src/unix/threadpsx.cpp:1794
 msgid "Thread module initialization failed: failed to create thread key"
 msgstr "Säiemoduulin käynnistys epäonnistui: säieavainta ei voi luoda"
 
 #: ../src/msw/thread.cpp:1239
-msgid ""
-"Thread module initialization failed: impossible to allocate index in thread "
-"local storage"
-msgstr ""
-"Säiemoduulin käynnistys epäonnistui: indeksin varaus säikeen muistiin "
-"mahdotonta"
+msgid "Thread module initialization failed: impossible to allocate index in thread local storage"
+msgstr "Säiemoduulin käynnistys epäonnistui: indeksin varaus säikeen muistiin mahdotonta"
 
 #: ../src/unix/threadpsx.cpp:1043
 msgid "Thread priority setting is ignored."
@@ -7513,9 +7164,7 @@ msgstr "Järjestä &pystysuoraan"
 
 #: ../src/common/ftp.cpp:202
 msgid "Timeout while waiting for FTP server to connect, try passive mode."
-msgstr ""
-"Aikakatkaisu tapahtui yhteydenotossa FTP-palvelimeen, kokeile passiivista "
-"tilaa."
+msgstr "Aikakatkaisu tapahtui yhteydenotossa FTP-palvelimeen, kokeile passiivista tilaa."
 
 #: ../src/generic/tipdlg.cpp:215
 msgid "Tip of the Day"
@@ -7531,7 +7180,7 @@ msgstr "Vastaanottaja:"
 
 #: ../src/osx/carbon/dataview.cpp:2449
 msgid "Toggle renderer cannot render value; value type: "
-msgstr ""
+msgstr "Toggle renderer cannot render value; value type: "
 
 #: ../src/richtext/richtextbuffer.cpp:8356
 msgid "Too many EndStyle calls!"
@@ -7544,16 +7193,15 @@ msgstr "Liian monta väri PNG:ssä, kuva saattaa olla hieman sumea."
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:877
 msgid "Tooltip"
-msgstr ""
+msgstr "Tooltip"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:878
 msgid "TooltipText"
-msgstr ""
+msgstr "TooltipText"
 
 #: ../src/common/stockitem.cpp:200 ../src/richtext/richtextsizepage.cpp:286
 #: ../src/richtext/richtextsizepage.cpp:290
-#, fuzzy
 msgid "Top"
 msgstr "Vastaanottaja:"
 
@@ -7577,8 +7225,7 @@ msgstr "Tosi"
 #: ../src/common/fs_mem.cpp:227
 #, c-format
 msgid "Trying to remove file '%s' from memory VFS, but it is not loaded!"
-msgstr ""
-"Tiedosto ”%s” yritettiin poistaa Muisti-VFS:stä, mutta se ei ole ladattu!"
+msgstr "Tiedosto ”%s” yritettiin poistaa Muisti-VFS:stä, mutta se ei ole ladattu!"
 
 #: ../src/common/fmapbase.cpp:156
 msgid "Turkish (ISO-8859-9)"
@@ -7601,22 +7248,19 @@ msgstr "Anna koko pisteinä."
 #: ../src/msw/ole/automtn.cpp:682
 #, c-format
 msgid "Type mismatch in argument %u."
-msgstr ""
+msgstr "Type mismatch in argument %u."
 
 #: ../src/common/xtistrm.cpp:322 ../src/common/xtixml.cpp:356
 #: ../src/common/xtixml.cpp:509
 msgid "Type must have enum - long conversion"
-msgstr ""
+msgstr "Type must have enum - long conversion"
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
 
 #: ../src/common/paper.cpp:134
-#, fuzzy
 msgid "US Std Fanfold, 14 7/8 x 11 in"
 msgstr "Vakio traktoriveto, 14 7/8 x 11” "
 
@@ -7626,78 +7270,72 @@ msgstr "US-ASCII"
 
 #: ../src/unix/fswatcher_inotify.cpp:109
 msgid "Unable to add inotify watch"
-msgstr ""
+msgstr "Unable to add inotify watch"
 
 #: ../src/unix/fswatcher_kqueue.cpp:136
 msgid "Unable to add kqueue watch"
-msgstr ""
+msgstr "Unable to add kqueue watch"
 
 #: ../include/wx/msw/private/fswatcher.h:142
 msgid "Unable to associate handle with I/O completion port"
-msgstr ""
+msgstr "Unable to associate handle with I/O completion port"
 
 #: ../include/wx/msw/private/fswatcher.h:125
-#, fuzzy
 msgid "Unable to close I/O completion port handle"
 msgstr "Tiedostokahvan sulkeminen epäonnistui"
 
 #: ../src/unix/fswatcher_inotify.cpp:97
-#, fuzzy
 msgid "Unable to close inotify instance"
 msgstr "Tiedostokahvan sulkeminen epäonnistui"
 
 #: ../include/wx/unix/private/fswatcher_kqueue.h:74
-#, fuzzy, c-format
+#, c-format
 msgid "Unable to close path '%s'"
 msgstr "Lukkotiedoston ”%s” sulkeminen epäonnistui"
 
 #: ../include/wx/msw/private/fswatcher.h:48
-#, fuzzy, c-format
+#, c-format
 msgid "Unable to close the handle for '%s'"
 msgstr "Tiedostokahvan sulkeminen epäonnistui"
 
 #: ../include/wx/msw/private/fswatcher.h:273
-#, fuzzy
 msgid "Unable to create I/O completion port"
 msgstr "Osoittimen luonti epäonnistui."
 
 #: ../src/msw/fswatcher.cpp:84
-#, fuzzy
 msgid "Unable to create IOCP worker thread"
 msgstr "MDI-isäntäkehystä ei voitu luoda."
 
 #: ../src/unix/fswatcher_inotify.cpp:74
-#, fuzzy
 msgid "Unable to create inotify instance"
 msgstr "DDE-merkkijonoa ei voitu luoda"
 
 #: ../src/unix/fswatcher_kqueue.cpp:97
-#, fuzzy
 msgid "Unable to create kqueue instance"
 msgstr "DDE-merkkijonoa ei voitu luoda"
 
 #: ../include/wx/msw/private/fswatcher.h:262
 msgid "Unable to dequeue completion packet"
-msgstr ""
+msgstr "Unable to dequeue completion packet"
 
 #: ../src/unix/fswatcher_kqueue.cpp:185
 msgid "Unable to get events from kqueue"
-msgstr ""
+msgstr "Unable to get events from kqueue"
 
 #: ../src/osx/carbon/dataview.cpp:1901
 msgid "Unable to handle native drag&drop data"
-msgstr ""
+msgstr "Unable to handle native drag&drop data"
 
 #: ../src/gtk/app.cpp:423
 msgid "Unable to initialize GTK+, is DISPLAY set properly?"
-msgstr ""
+msgstr "Unable to initialize GTK+, is DISPLAY set properly?"
 
 #: ../src/gtk/app.cpp:260
 msgid "Unable to initialize Hildon program"
 msgstr "Hildon-sovellusta ei voida alustaa"
 
 #: ../include/wx/unix/private/fswatcher_kqueue.h:57
-#, fuzzy, c-format
+#, c-format
 msgid "Unable to open path '%s'"
 msgstr "CHM arkiston ”%s” avaaminen epäonnistui."
 
@@ -7708,40 +7346,38 @@ msgstr "Vaadittua HTML-asiakirjaa ei voi avata: %s"
 
 #: ../src/unix/sound.cpp:368
 msgid "Unable to play sound asynchronously."
-msgstr ""
+msgstr "Unable to play sound asynchronously."
 
 #: ../include/wx/msw/private/fswatcher.h:213
 msgid "Unable to post completion status"
-msgstr ""
+msgstr "Unable to post completion status"
 
 #: ../src/unix/fswatcher_inotify.cpp:543
-#, fuzzy
 msgid "Unable to read from inotify descriptor"
 msgstr "tiedoston kuvauksen %d luku epäonnistui"
 
 #: ../src/unix/fswatcher_inotify.cpp:132
 msgid "Unable to remove inotify watch"
-msgstr ""
+msgstr "Unable to remove inotify watch"
 
 #: ../src/unix/fswatcher_kqueue.cpp:153
 msgid "Unable to remove kqueue watch"
-msgstr ""
+msgstr "Unable to remove kqueue watch"
 
 #: ../src/msw/fswatcher.cpp:168
-#, fuzzy, c-format
+#, c-format
 msgid "Unable to set up watch for '%s'"
 msgstr "Touch epäonnistui tiedostolle ”%s”"
 
 #: ../src/msw/fswatcher.cpp:91
 msgid "Unable to start IOCP worker thread"
-msgstr ""
+msgstr "Unable to start IOCP worker thread"
 
 #: ../src/common/stockitem.cpp:201
 msgid "Undelete"
 msgstr "Kumoa poisto"
 
 #: ../src/common/stockitem.cpp:202
-#, fuzzy
 msgid "Underline"
 msgstr "&Alleviivaus"
 
@@ -7760,14 +7396,14 @@ msgid "Undo last action"
 msgstr "Kumoa viimeisin toiminto"
 
 #: ../src/common/cmdline.cpp:1029
-#, fuzzy, c-format
+#, c-format
 msgid "Unexpected characters following option '%s'."
 msgstr "Odottamaton parametri ”%s”"
 
 #: ../src/unix/fswatcher_inotify.cpp:262
 #, c-format
 msgid "Unexpected event for \"%s\": no matching watch descriptor."
-msgstr ""
+msgstr "Unexpected event for \"%s\": no matching watch descriptor."
 
 #: ../src/common/cmdline.cpp:1195
 #, c-format
@@ -7776,10 +7412,9 @@ msgstr "Odottamaton parametri ”%s”"
 
 #: ../include/wx/msw/private/fswatcher.h:148
 msgid "Unexpectedly new I/O completion port was created"
-msgstr ""
+msgstr "Unexpectedly new I/O completion port was created"
 
 #: ../src/msw/fswatcher.cpp:70
-#, fuzzy
 msgid "Ungraceful worker thread termination"
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
@@ -7795,11 +7430,11 @@ msgstr "Unicode 16 bit (UTF-16)"
 
 #: ../src/common/fmapbase.cpp:190
 msgid "Unicode 16 bit Big Endian (UTF-16BE)"
-msgstr ""
+msgstr "Unicode 16 bit Big Endian (UTF-16BE)"
 
 #: ../src/common/fmapbase.cpp:186
 msgid "Unicode 16 bit Little Endian (UTF-16LE)"
-msgstr ""
+msgstr "Unicode 16 bit Little Endian (UTF-16LE)"
 
 #: ../src/common/fmapbase.cpp:187 ../src/common/fmapbase.cpp:193
 msgid "Unicode 32 bit (UTF-32)"
@@ -7807,11 +7442,11 @@ msgstr "Unicode 32 bit (UTF-32)"
 
 #: ../src/common/fmapbase.cpp:192
 msgid "Unicode 32 bit Big Endian (UTF-32BE)"
-msgstr ""
+msgstr "Unicode 32 bit Big Endian (UTF-32BE)"
 
 #: ../src/common/fmapbase.cpp:188
 msgid "Unicode 32 bit Little Endian (UTF-32LE)"
-msgstr ""
+msgstr "Unicode 32 bit Little Endian (UTF-32LE)"
 
 #: ../src/common/fmapbase.cpp:182
 msgid "Unicode 7 bit (UTF-7)"
@@ -7822,152 +7457,141 @@ msgid "Unicode 8 bit (UTF-8)"
 msgstr "Unicode 8 bit (UTF-8)"
 
 #: ../src/common/stockitem.cpp:204
-#, fuzzy
 msgid "Unindent"
 msgstr "&Vähennä sisennystä"
 
 #: ../src/richtext/richtextborderspage.cpp:362
 #: ../src/richtext/richtextborderspage.cpp:364
 msgid "Units for the bottom border width."
-msgstr ""
+msgstr "Units for the bottom border width."
 
 #: ../src/richtext/richtextmarginspage.cpp:277
 #: ../src/richtext/richtextmarginspage.cpp:279
 msgid "Units for the bottom margin."
-msgstr ""
+msgstr "Units for the bottom margin."
 
 #: ../src/richtext/richtextborderspage.cpp:531
 #: ../src/richtext/richtextborderspage.cpp:533
 msgid "Units for the bottom outline width."
-msgstr ""
+msgstr "Units for the bottom outline width."
 
 #: ../src/richtext/richtextmarginspage.cpp:391
 #: ../src/richtext/richtextmarginspage.cpp:393
 msgid "Units for the bottom padding."
-msgstr ""
+msgstr "Units for the bottom padding."
 
 #: ../src/richtext/richtextsizepage.cpp:664
 #: ../src/richtext/richtextsizepage.cpp:666
-#, fuzzy
 msgid "Units for the bottom position."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
 #: ../src/richtext/richtextborderspage.cpp:599
 #: ../src/richtext/richtextborderspage.cpp:601
-#, fuzzy
 msgid "Units for the corner radius."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
 #: ../src/richtext/richtextborderspage.cpp:260
 #: ../src/richtext/richtextborderspage.cpp:262
 msgid "Units for the left border width."
-msgstr ""
+msgstr "Units for the left border width."
 
 #: ../src/richtext/richtextmarginspage.cpp:204
 #: ../src/richtext/richtextmarginspage.cpp:206
 msgid "Units for the left margin."
-msgstr ""
+msgstr "Units for the left margin."
 
 #: ../src/richtext/richtextborderspage.cpp:429
 #: ../src/richtext/richtextborderspage.cpp:431
 msgid "Units for the left outline width."
-msgstr ""
+msgstr "Units for the left outline width."
 
 #: ../src/richtext/richtextmarginspage.cpp:318
 #: ../src/richtext/richtextmarginspage.cpp:320
 msgid "Units for the left padding."
-msgstr ""
+msgstr "Units for the left padding."
 
 #: ../src/richtext/richtextsizepage.cpp:559
 #: ../src/richtext/richtextsizepage.cpp:561
-#, fuzzy
 msgid "Units for the left position."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
 #: ../src/richtext/richtextsizepage.cpp:485
 #: ../src/richtext/richtextsizepage.cpp:487
-#, fuzzy
 msgid "Units for the maximum object height."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:458
 #: ../src/richtext/richtextsizepage.cpp:460
-#, fuzzy
 msgid "Units for the maximum object width."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:431
 #: ../src/richtext/richtextsizepage.cpp:433
-#, fuzzy
 msgid "Units for the minimum object height."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:404
 #: ../src/richtext/richtextsizepage.cpp:406
-#, fuzzy
 msgid "Units for the minimum object width."
 msgstr "Kirjasimen paino."
 
 #: ../src/richtext/richtextsizepage.cpp:377
 #: ../src/richtext/richtextsizepage.cpp:379
 msgid "Units for the object height."
-msgstr ""
+msgstr "Units for the object height."
 
 #: ../src/richtext/richtextsizepage.cpp:343
 #: ../src/richtext/richtextsizepage.cpp:345
 msgid "Units for the object width."
-msgstr ""
+msgstr "Units for the object width."
 
 #: ../src/richtext/richtextborderspage.cpp:294
 #: ../src/richtext/richtextborderspage.cpp:296
 msgid "Units for the right border width."
-msgstr ""
+msgstr "Units for the right border width."
 
 #: ../src/richtext/richtextmarginspage.cpp:229
 #: ../src/richtext/richtextmarginspage.cpp:231
 msgid "Units for the right margin."
-msgstr ""
+msgstr "Units for the right margin."
 
 #: ../src/richtext/richtextborderspage.cpp:463
 #: ../src/richtext/richtextborderspage.cpp:465
 msgid "Units for the right outline width."
-msgstr ""
+msgstr "Units for the right outline width."
 
 #: ../src/richtext/richtextmarginspage.cpp:343
 #: ../src/richtext/richtextmarginspage.cpp:345
 msgid "Units for the right padding."
-msgstr ""
+msgstr "Units for the right padding."
 
 #: ../src/richtext/richtextsizepage.cpp:629
 #: ../src/richtext/richtextsizepage.cpp:631
-#, fuzzy
 msgid "Units for the right position."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
 #: ../src/richtext/richtextborderspage.cpp:328
 #: ../src/richtext/richtextborderspage.cpp:330
 msgid "Units for the top border width."
-msgstr ""
+msgstr "Units for the top border width."
 
 #: ../src/richtext/richtextmarginspage.cpp:252
 #: ../src/richtext/richtextmarginspage.cpp:254
-#, fuzzy
 msgid "Units for the top margin."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
 #: ../src/richtext/richtextborderspage.cpp:497
 #: ../src/richtext/richtextborderspage.cpp:499
 msgid "Units for the top outline width."
-msgstr ""
+msgstr "Units for the top outline width."
 
 #: ../src/richtext/richtextmarginspage.cpp:366
 #: ../src/richtext/richtextmarginspage.cpp:368
 msgid "Units for the top padding."
-msgstr ""
+msgstr "Units for the top padding."
 
 #: ../src/richtext/richtextsizepage.cpp:594
 #: ../src/richtext/richtextsizepage.cpp:596
-#, fuzzy
 msgid "Units for the top position."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
@@ -7979,7 +7603,6 @@ msgstr "Ei voi odottaa säikeen keskeytystä"
 #: ../src/richtext/richtextbackgroundpage.cpp:296
 #: ../src/richtext/richtextbackgroundpage.cpp:321
 #: ../src/richtext/richtextbackgroundpage.cpp:323
-#, fuzzy
 msgid "Units for this value."
 msgstr "Ei voi odottaa säikeen keskeytystä"
 
@@ -7994,10 +7617,10 @@ msgstr "Tuntematon DDE-virhe %08x"
 
 #: ../src/common/xtistrm.cpp:414
 msgid "Unknown Object passed to GetObjectClassInfo"
-msgstr ""
+msgstr "Unknown Object passed to GetObjectClassInfo"
 
 #: ../src/common/imagpng.cpp:606
-#, fuzzy, c-format
+#, c-format
 msgid "Unknown PNG resolution unit %d"
 msgstr "Tuntematon valitsin ”%s”"
 
@@ -8009,10 +7632,9 @@ msgstr "Tuntematon ominaisuus %s"
 #: ../src/common/imagtiff.cpp:529
 #, c-format
 msgid "Unknown TIFF resolution unit %d ignored"
-msgstr ""
+msgstr "Unknown TIFF resolution unit %d ignored"
 
 #: ../src/osx/carbon/dataview.cpp:1976
-#, fuzzy
 msgid "Unknown data format"
 msgstr "virhe dataformaatissa"
 
@@ -8026,17 +7648,15 @@ msgid "Unknown encoding (%d)"
 msgstr "Tuntematon koodaus (%d)"
 
 #: ../src/msw/ole/automtn.cpp:694
-#, fuzzy, c-format
+#, c-format
 msgid "Unknown error %08x"
 msgstr "Tuntematon DDE-virhe %08x"
 
 #: ../src/msw/ole/automtn.cpp:653
-#, fuzzy
 msgid "Unknown exception"
 msgstr "Tuntematon valitsin ”%s”"
 
 #: ../src/common/image.cpp:2705
-#, fuzzy
 msgid "Unknown image data format."
 msgstr "virhe dataformaatissa"
 
@@ -8047,7 +7667,7 @@ msgstr "Tuntematon pitkä valitsin ”%s”"
 
 #: ../src/msw/ole/automtn.cpp:637
 msgid "Unknown name or named argument."
-msgstr ""
+msgstr "Unknown name or named argument."
 
 #: ../src/common/cmdline.cpp:929 ../src/common/cmdline.cpp:951
 #, c-format
@@ -8066,7 +7686,6 @@ msgstr "Nimeämätän komento"
 
 #. TRANSLATORS: Text  displayed for unspecified value
 #: ../src/propgrid/propgrid.cpp:410
-#, fuzzy
 msgid "Unspecified"
 msgstr "Tasattu"
 
@@ -8102,18 +7721,18 @@ msgstr "Käyttö: %s"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:195
 msgid "Use &shadow"
-msgstr ""
+msgstr "Use &shadow"
 
 #: ../src/richtext/richtextindentspage.cpp:169
 #: ../src/richtext/richtextindentspage.cpp:171
 #: ../src/richtext/richtextliststylepage.cpp:358
 #: ../src/richtext/richtextliststylepage.cpp:360
 msgid "Use the current alignment setting."
-msgstr ""
+msgstr "Use the current alignment setting."
 
 #: ../src/osx/carbon/dataview.cpp:2656 ../src/osx/carbon/dataview.cpp:2721
 msgid "Valid pointer to native data view control does not exist"
-msgstr ""
+msgstr "Valid pointer to native data view control does not exist"
 
 #: ../src/common/valtext.cpp:179
 msgid "Validation conflict"
@@ -8121,32 +7740,30 @@ msgstr "Validointiristiriita"
 
 #: ../src/propgrid/manager.cpp:238
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 #: ../src/propgrid/props.cpp:385 ../src/propgrid/props.cpp:492
 #, c-format
 msgid "Value must be %s or higher."
-msgstr ""
+msgstr "Value must be %s or higher."
 
 #: ../src/propgrid/props.cpp:412 ../src/propgrid/props.cpp:519
 #, c-format
 msgid "Value must be %s or less."
-msgstr ""
+msgstr "Value must be %s or less."
 
 #: ../src/propgrid/props.cpp:389 ../src/propgrid/props.cpp:416
 #: ../src/propgrid/props.cpp:496 ../src/propgrid/props.cpp:523
-#, fuzzy, c-format
+#, c-format
 msgid "Value must be between %s and %s."
 msgstr "Anna sivunumero väliltä %d ja %d:"
 
 #: ../src/generic/aboutdlgg.cpp:128
-#, fuzzy
 msgid "Version "
 msgstr "Versio %s"
 
 #: ../src/richtext/richtextsizepage.cpp:291
 #: ../src/richtext/richtextsizepage.cpp:293
-#, fuzzy
 msgid "Vertical alignment."
 msgstr "Tasausta ei voitu asettaa."
 
@@ -8165,15 +7782,15 @@ msgstr "Näkymät"
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1738
 msgid "Wait"
-msgstr ""
+msgstr "Wait"
 
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1740
 msgid "Wait Arrow"
-msgstr ""
+msgstr "Wait Arrow"
 
 #: ../src/unix/epolldispatcher.cpp:213
-#, fuzzy, c-format
+#, c-format
 msgid "Waiting for IO on epoll descriptor %d failed"
 msgstr "Aliprosessin keskeytymisen odotus epäonnistui"
 
@@ -8184,7 +7801,7 @@ msgstr "Varoitus: "
 #. TRANSLATORS: System cursor name
 #: ../src/propgrid/advprops.cpp:1739
 msgid "Watch"
-msgstr ""
+msgstr "Watch"
 
 #. TRANSLATORS: Label of font weight
 #: ../src/propgrid/advprops.cpp:671
@@ -8205,7 +7822,7 @@ msgstr "Onko kirjasin alleviivattu."
 
 #: ../src/propgrid/advprops.cpp:1572
 msgid "White"
-msgstr ""
+msgstr "White"
 
 #: ../src/generic/fdrepdlg.cpp:144
 msgid "Whole word"
@@ -8225,24 +7842,20 @@ msgstr "Win32s, Windows 3.1-alustalla"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:879
-#, fuzzy
 msgid "Window"
 msgstr "&Ikkuna"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:880
-#, fuzzy
 msgid "WindowFrame"
 msgstr "&Ikkuna"
 
 #. TRANSLATORS: Keyword of system colour
 #: ../src/propgrid/advprops.cpp:881
-#, fuzzy
 msgid "WindowText"
 msgstr "&Ikkuna"
 
 #: ../src/msw/utils.cpp:1233
-#, fuzzy
 msgid "Windows 10"
 msgstr "Windows 98"
 
@@ -8255,12 +7868,10 @@ msgid "Windows 7"
 msgstr "Windows 7"
 
 #: ../src/msw/utils.cpp:1221
-#, fuzzy
 msgid "Windows 8"
 msgstr "Windows 98"
 
 #: ../src/msw/utils.cpp:1227
-#, fuzzy
 msgid "Windows 8.1"
 msgstr "Windows 98"
 
@@ -8327,7 +7938,6 @@ msgid "Windows Japanese (CP 932) or Shift-JIS"
 msgstr "Windows japanilainen (CP 932) tai Shift-JIS"
 
 #: ../src/common/fmapbase.cpp:180
-#, fuzzy
 msgid "Windows Johab (CP 1361)"
 msgstr "Windows, arabia (CP 1256)"
 
@@ -8345,7 +7955,6 @@ msgid "Windows NT %lu.%lu"
 msgstr "Windows NT %lu.%lu"
 
 #: ../src/msw/utils.cpp:1232
-#, fuzzy
 msgid "Windows Server 10"
 msgstr "Windows Server 2003"
 
@@ -8362,12 +7971,10 @@ msgid "Windows Server 2008 R2"
 msgstr "Windows Server 2008 R2"
 
 #: ../src/msw/utils.cpp:1220
-#, fuzzy
 msgid "Windows Server 2012"
 msgstr "Windows Server 2003"
 
 #: ../src/msw/utils.cpp:1226
-#, fuzzy
 msgid "Windows Server 2012 R2"
 msgstr "Windows Server 2008 R2"
 
@@ -8380,7 +7987,6 @@ msgid "Windows Turkish (CP 1254)"
 msgstr "Windows, turkki (CP 1254)"
 
 #: ../src/common/fmapbase.cpp:179
-#, fuzzy
 msgid "Windows Vietnamese (CP 1258)"
 msgstr "Windows, kreikka (CP 1253)"
 
@@ -8406,19 +8012,16 @@ msgstr "Windows/DOS OEM kyrillinen (CP 866)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:109
-#, fuzzy
 msgid "Windows_Left"
 msgstr "Windows 7"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:111
-#, fuzzy
 msgid "Windows_Menu"
 msgstr "Windows ME"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:110
-#, fuzzy
 msgid "Windows_Right"
 msgstr "Windows Vista"
 
@@ -8461,7 +8064,7 @@ msgstr "XPM: katkennut kuvatieto rivillä %d"
 
 #: ../src/propgrid/advprops.cpp:1571
 msgid "Yellow"
-msgstr ""
+msgstr "Yellow"
 
 #: ../include/wx/msgdlg.h:276 ../src/common/stockitem.cpp:206
 #: ../src/motif/msgdlg.cpp:196
@@ -8469,13 +8072,12 @@ msgid "Yes"
 msgstr "Kyllä"
 
 #: ../src/osx/carbon/overlay.cpp:155
-#, fuzzy
 msgid "You cannot Clear an overlay that is not inited"
 msgstr "Et voi lisätä uutta hakemistoa tähän kohtaan."
 
 #: ../src/dfb/overlay.cpp:61 ../src/osx/carbon/overlay.cpp:107
 msgid "You cannot Init an overlay twice"
-msgstr ""
+msgstr "You cannot Init an overlay twice"
 
 #: ../src/generic/dirdlgg.cpp:316
 msgid "You cannot add a new directory to this section."
@@ -8483,7 +8085,7 @@ msgstr "Et voi lisätä uutta hakemistoa tähän kohtaan."
 
 #: ../src/propgrid/propgrid.cpp:3295
 msgid "You have entered invalid value. Press ESC to cancel editing."
-msgstr ""
+msgstr "You have entered invalid value. Press ESC to cancel editing."
 
 #: ../src/common/stockitem.cpp:209
 msgid "Zoom &In"
@@ -8494,12 +8096,10 @@ msgid "Zoom &Out"
 msgstr "Lo&itonna"
 
 #: ../src/common/prntbase.cpp:1594 ../src/common/stockitem.cpp:209
-#, fuzzy
 msgid "Zoom In"
 msgstr "&Lähennä"
 
 #: ../src/common/prntbase.cpp:1580 ../src/common/stockitem.cpp:210
-#, fuzzy
 msgid "Zoom Out"
 msgstr "Lo&itonna"
 
@@ -8508,23 +8108,18 @@ msgid "Zoom to &Fit"
 msgstr "&Sovita"
 
 #: ../src/common/stockitem.cpp:208
-#, fuzzy
 msgid "Zoom to Fit"
 msgstr "&Sovita"
 
 #: ../src/msw/dde.cpp:1144
-#, fuzzy
 msgid "a DDEML application has created a prolonged race condition."
 msgstr "DDEML-sovellus on luonut pitkän kilpailutilanteen."
 
 #: ../src/msw/dde.cpp:1132
-msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+msgid "a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"DDEML funktio kutsuttiin ilman edeltävää DDE-initialisointia, \n"
+msgstr "DDEML funktio kutsuttiin ilman edeltävää DDE-initialisointia, \n"
 "tai epäkelpo instanssin tunniste annetiin DDEML funktiolle."
 
 #: ../src/msw/dde.cpp:1150
@@ -8536,7 +8131,6 @@ msgid "a memory allocation failed."
 msgstr "muistin varaus epäonnistui."
 
 #: ../src/msw/dde.cpp:1141
-#, fuzzy
 msgid "a parameter failed to be validated by the DDEML."
 msgstr "DDEML ei voinut varmistaa parametria."
 
@@ -8553,7 +8147,6 @@ msgid "a request for a synchronous execute transaction has timed out."
 msgstr "synkronisen ohjelmapyynnön sallittu aika ylittyi."
 
 #: ../src/msw/dde.cpp:1156
-#, fuzzy
 msgid "a request for a synchronous poke transaction has timed out."
 msgstr "synkronisen datakirjoitustapahtuman pyynnön sallittu aika ylittyi."
 
@@ -8562,12 +8155,10 @@ msgid "a request to end an advise transaction has timed out."
 msgstr "ohjeistustapahtuman lopettamisen pyynnön sallittu aika ylittyi."
 
 #: ../src/msw/dde.cpp:1165
-msgid ""
-"a server-side transaction was attempted on a conversation\n"
+msgid "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"palvelinpuolella tapahtuma yritettiin keskustelussa,\n"
+msgstr "palvelinpuolella tapahtuma yritettiin keskustelussa,\n"
 "joka pysäytettiin asiakkaan taholla, tai palvelin\n"
 "keskeytti ennen tapahtuman valmistumista."
 
@@ -8580,14 +8171,11 @@ msgid "alt"
 msgstr "alt"
 
 #: ../src/msw/dde.cpp:1135
-#, fuzzy
-msgid ""
-"an application initialized as APPCLASS_MONITOR has\n"
+msgid "an application initialized as APPCLASS_MONITOR has\n"
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"APCLASS_MONITOR käynnistämä sovellus on yrittänyt\n"
+msgstr "APCLASS_MONITOR käynnistämä sovellus on yrittänyt\n"
 "tehdä DDE tapahtuman tai APPCMD_CLIENTONLY on yrittänyt \n"
 "tehdä palvelimen tapahtuman."
 
@@ -8600,18 +8188,16 @@ msgid "an internal error has occurred in the DDEML."
 msgstr "sisäinen virhe tapahtui DDEML:ssä."
 
 #: ../src/msw/dde.cpp:1174
-msgid ""
-"an invalid transaction identifier was passed to a DDEML function.\n"
+msgid "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"virheellinen tapahtumatunnus on siirretty DDEML funktiolle.\n"
+msgstr "virheellinen tapahtumatunnus on siirretty DDEML funktiolle.\n"
 "Kun sovellus on palannut XTYP_XACT_COMPLETE vastakutsusta, \n"
 "tapahtuman tunnus tälle vastakutsulle ei päde enää."
 
 #: ../src/common/zipstrm.cpp:1272
 msgid "assuming this is a multi-part zip concatenated"
-msgstr ""
+msgstr "assuming this is a multi-part zip concatenated"
 
 #: ../src/common/fileconf.cpp:1874
 #, c-format
@@ -8628,7 +8214,7 @@ msgstr "väärä allekirjoitus"
 
 #: ../src/common/zipstrm.cpp:1678
 msgid "bad zipfile offset to entry"
-msgstr ""
+msgstr "bad zipfile offset to entry"
 
 #: ../src/common/ftp.cpp:405
 msgid "binary"
@@ -8680,7 +8266,7 @@ msgstr "ei voida suorittaa kohdetta ”%s”"
 
 #: ../src/common/zipstrm.cpp:1453
 msgid "can't find central directory in zip"
-msgstr ""
+msgstr "can't find central directory in zip"
 
 #: ../src/common/file.cpp:487
 #, c-format
@@ -8726,11 +8312,11 @@ msgstr "käyttäjän asetustiedoston avaus ei onnistu."
 
 #: ../src/common/zipstrm.cpp:527
 msgid "can't re-initialize zlib deflate stream"
-msgstr ""
+msgstr "can't re-initialize zlib deflate stream"
 
 #: ../src/common/zipstrm.cpp:552
 msgid "can't re-initialize zlib inflate stream"
-msgstr ""
+msgstr "can't re-initialize zlib inflate stream"
 
 #: ../src/common/file.cpp:326
 #, c-format
@@ -8750,7 +8336,7 @@ msgstr "väliaikaistiedostoa ”%s” ei voi poistaa"
 #: ../src/common/file.cpp:430 ../src/msw/wince/filefnwce.cpp:190
 #, c-format
 msgid "can't seek on file descriptor %d"
-msgstr ""
+msgstr "can't seek on file descriptor %d"
 
 #: ../src/common/textfile.cpp:270
 #, c-format
@@ -8772,7 +8358,7 @@ msgstr "tarkistussummavirhe"
 
 #: ../src/common/tarstrm.cpp:820
 msgid "checksum failure reading tar header block"
-msgstr ""
+msgstr "checksum failure reading tar header block"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:227
 #: ../src/richtext/richtextbackgroundpage.cpp:250
@@ -8806,7 +8392,7 @@ msgstr ""
 #: ../src/richtext/richtextsizepage.cpp:625
 #: ../src/richtext/richtextsizepage.cpp:660
 msgid "cm"
-msgstr ""
+msgstr "cm"
 
 #: ../src/html/chm.cpp:347
 msgid "compression error"
@@ -8834,11 +8420,11 @@ msgstr "oletus"
 
 #: ../src/common/cmdline.cpp:1490
 msgid "double"
-msgstr ""
+msgstr "double"
 
 #: ../src/common/debugrpt.cpp:543
 msgid "dump of the process state (binary)"
-msgstr ""
+msgstr "dump of the process state (binary)"
 
 #: ../src/common/datetimefmt.cpp:1974
 msgid "eighteenth"
@@ -8872,16 +8458,16 @@ msgstr "virhe avattaessa tiedostoa"
 
 #: ../src/common/zipstrm.cpp:1539
 msgid "error reading zip central directory"
-msgstr ""
+msgstr "error reading zip central directory"
 
 #: ../src/common/zipstrm.cpp:1630
 msgid "error reading zip local header"
-msgstr ""
+msgstr "error reading zip local header"
 
 #: ../src/common/zipstrm.cpp:2291
 #, c-format
 msgid "error writing zip entry '%s': bad crc or length"
-msgstr ""
+msgstr "error writing zip entry '%s': bad crc or length"
 
 #: ../src/common/ffile.cpp:188
 #, c-format
@@ -8952,19 +8538,19 @@ msgstr "kuva"
 
 #: ../src/common/tarstrm.cpp:796
 msgid "incomplete header block in tar"
-msgstr ""
+msgstr "incomplete header block in tar"
 
 #: ../src/common/xtixml.cpp:489
 msgid "incorrect event handler string, missing dot"
-msgstr ""
+msgstr "incorrect event handler string, missing dot"
 
 #: ../src/common/tarstrm.cpp:1381
 msgid "incorrect size given for tar entry"
-msgstr ""
+msgstr "incorrect size given for tar entry"
 
 #: ../src/common/tarstrm.cpp:993
 msgid "invalid data in extended tar header"
-msgstr ""
+msgstr "invalid data in extended tar header"
 
 #: ../src/generic/logg.cpp:1050
 msgid "invalid message box return value"
@@ -9038,7 +8624,7 @@ msgstr "muisti loppu"
 
 #: ../src/common/debugrpt.cpp:519
 msgid "process context description"
-msgstr ""
+msgstr "process context description"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:228
 #: ../src/richtext/richtextbackgroundpage.cpp:251
@@ -9056,7 +8642,7 @@ msgstr ""
 #: ../src/richtext/richtextfontpage.cpp:177
 #: ../src/richtext/richtextfontpage.cpp:180
 msgid "pt"
-msgstr ""
+msgstr "pt"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:226
 #: ../src/richtext/richtextbackgroundpage.cpp:229
@@ -9153,10 +8739,9 @@ msgstr ""
 #: ../src/richtext/richtextsizepage.cpp:662
 #: ../src/richtext/richtextsizepage.cpp:663
 msgid "px"
-msgstr ""
+msgstr "px"
 
 #: ../src/common/accelcmn.cpp:189
-#, fuzzy
 msgid "rawctrl"
 msgstr "ctrl"
 
@@ -9224,11 +8809,11 @@ msgstr "perus/ympyrä"
 
 #: ../src/richtext/richtextbuffer.cpp:9334
 msgid "standard/circle-outline"
-msgstr ""
+msgstr "standard/circle-outline"
 
 #: ../src/richtext/richtextbuffer.cpp:9336
 msgid "standard/diamond"
-msgstr ""
+msgstr "standard/diamond"
 
 #: ../src/richtext/richtextbuffer.cpp:9335
 msgid "standard/square"
@@ -9236,25 +8821,24 @@ msgstr "perus/neliö"
 
 #: ../src/richtext/richtextbuffer.cpp:9337
 msgid "standard/triangle"
-msgstr ""
+msgstr "standard/triangle"
 
 #: ../src/common/zipstrm.cpp:1745
 msgid "stored file length not in Zip header"
-msgstr ""
+msgstr "stored file length not in Zip header"
 
 #: ../src/common/cmdline.cpp:1482
 msgid "str"
 msgstr "merkkijono"
 
 #: ../src/common/fontcmn.cpp:980
-#, fuzzy
 msgid "strikethrough"
 msgstr "Yliviivaus"
 
 #: ../src/common/tarstrm.cpp:1003 ../src/common/tarstrm.cpp:1025
 #: ../src/common/tarstrm.cpp:1507 ../src/common/tarstrm.cpp:1529
 msgid "tar entry not open"
-msgstr ""
+msgstr "tar entry not open"
 
 #: ../src/common/datetimefmt.cpp:1966
 msgid "tenth"
@@ -9283,14 +8867,11 @@ msgstr "huomenna"
 #: ../src/common/fileconf.cpp:1971
 #, c-format
 msgid "trailing backslash ignored in '%s'"
-msgstr ""
+msgstr "trailing backslash ignored in '%s'"
 
 #: ../src/gtk/aboutdlg.cpp:218
 msgid "translator-credits"
-msgstr ""
-"Elias Julkunen <elias.julkunen@gmail.com>, 2008.Jaakko Salli "
-"<jmsalli79@hotmail.com>, 2005.Lauri Nurmi <lanurmi@iki.fi>, 2004.Kaj G "
-"Backas <kgb@compart.fi>, 2000."
+msgstr "Elias Julkunen <elias.julkunen@gmail.com>, 2008.Jaakko Salli <jmsalli79@hotmail.com>, 2005.Lauri Nurmi <lanurmi@iki.fi>, 2004.Kaj G Backas <kgb@compart.fi>, 2000."
 
 #: ../src/common/datetimefmt.cpp:1968
 msgid "twelfth"
@@ -9369,7 +8950,7 @@ msgstr "wxGetTimeOfDay epäonnistui."
 
 #: ../src/osx/carbon/dataview.cpp:1301
 msgid "wxWidget control pointer is not a data view pointer"
-msgstr ""
+msgstr "wxWidget control pointer is not a data view pointer"
 
 #: ../src/osx/carbon/dataview.cpp:905
 msgid "wxWidget's control not initialized."
@@ -9402,501 +8983,3 @@ msgstr "zlib-virhe %d"
 msgid "~"
 msgstr "~"
 
-#~ msgid "ADD"
-#~ msgstr "LISÄÄ"
-
-#~ msgid "BACK"
-#~ msgstr "TAKAISIN"
-
-#~ msgid "CANCEL"
-#~ msgstr "PERUUTA"
-
-#~ msgid "CAPITAL"
-#~ msgstr "SUURAAKKOSET"
-
-#~ msgid "CLEAR"
-#~ msgstr "TYHJENNÄ"
-
-#~ msgid "COMMAND"
-#~ msgstr "KOMENTO"
-
-#~ msgid "Cannot create mutex."
-#~ msgstr "Mutexin luonti epäonnistui"
-
-#~ msgid "Cannot resume thread %lu"
-#~ msgstr "Säikeen %lu jatko epäonnistui"
-
-#~ msgid "Cannot suspend thread %lu"
-#~ msgstr "Säikeen %lu keskeytys epäonnistui"
-
-#~ msgid "Couldn't acquire a mutex lock"
-#~ msgstr "Mutex lukon saanti epäonnistui"
-
-#~ msgid "Couldn't get hatch style from wxBrush."
-#~ msgstr "Varjostustyyliä ei voitu noutaa wxBrush-funktiosta."
-
-#~ msgid "Couldn't release a mutex"
-#~ msgstr "Mutexin vapautus ei onnistu"
-
-#~ msgid "DECIMAL"
-#~ msgstr "DESIMAALI"
-
-#~ msgid "DELETE"
-#~ msgstr "POISTA"
-
-#~ msgid "DIVIDE"
-#~ msgstr "JAA"
-
-#~ msgid "DOWN"
-#~ msgstr "ALAS"
-
-#~ msgid "ENTER"
-#~ msgstr "ENTER"
-
-#~ msgid "ESC"
-#~ msgstr "ESC"
-
-#~ msgid "ESCAPE"
-#~ msgstr "ESCAPE"
-
-#~ msgid "EXECUTE"
-#~ msgstr "SUORITA"
-
-#~ msgid "Execution of command '%s' failed with error: %ul"
-#~ msgstr "Komennon ”%s” ajo epäonnistui virheellä: %ul"
-
-#~ msgid ""
-#~ "File '%s' already exists.\n"
-#~ "Do you want to replace it?"
-#~ msgstr ""
-#~ "Tiedosto ”%s” on jo olemassa.\n"
-#~ "Korvataanko se?"
-
-#~ msgid "HELP"
-#~ msgstr "OHJE"
-
-#~ msgid "HOME"
-#~ msgstr "KOTI"
-
-#~ msgid "INS"
-#~ msgstr "INS"
-
-#~ msgid "INSERT"
-#~ msgstr "LISÄÄ"
-
-#~ msgid "KP_BEGIN"
-#~ msgstr "KP_ALOITA"
-
-#~ msgid "KP_DECIMAL"
-#~ msgstr "KP_DESIMAALI"
-
-#~ msgid "KP_DELETE"
-#~ msgstr "KP_POISTA"
-
-#~ msgid "KP_DIVIDE"
-#~ msgstr "KP_JAKOMERKKI"
-
-#~ msgid "KP_DOWN"
-#~ msgstr "KP_ALAS"
-
-#~ msgid "KP_ENTER"
-#~ msgstr "KP_ENTER"
-
-#~ msgid "KP_EQUAL"
-#~ msgstr "KP_YHTÄSUURI"
-
-#~ msgid "KP_HOME"
-#~ msgstr "KP_HOME"
-
-#~ msgid "KP_INSERT"
-#~ msgstr "KP_INSERT"
-
-#~ msgid "KP_LEFT"
-#~ msgstr "KP_VASEN"
-
-#~ msgid "KP_MULTIPLY"
-#~ msgstr "KP_KERTOMERKKI"
-
-#~ msgid "KP_NEXT"
-#~ msgstr "KP_SEURAAVA"
-
-#~ msgid "KP_PAGEDOWN"
-#~ msgstr "KP_PAGEDOWN"
-
-#~ msgid "KP_PAGEUP"
-#~ msgstr "KP_PAGEUP"
-
-#~ msgid "KP_PRIOR"
-#~ msgstr "KP_EDELLINEN"
-
-#~ msgid "KP_RIGHT"
-#~ msgstr "KP_OIKEA"
-
-#~ msgid "KP_SEPARATOR"
-#~ msgstr "KP_EROTIN"
-
-#~ msgid "KP_SPACE"
-#~ msgstr "KP_SPACE"
-
-#~ msgid "KP_SUBTRACT"
-#~ msgstr "KP_VÄHENNÄ"
-
-#~ msgid "LEFT"
-#~ msgstr "VASEN"
-
-#~ msgid "MENU"
-#~ msgstr "VALIKKO"
-
-#~ msgid "NUM_LOCK"
-#~ msgstr "NUM_LOCK"
-
-#~ msgid "PAGEDOWN"
-#~ msgstr "PAGEDOWN"
-
-#~ msgid "PAGEUP"
-#~ msgstr "PAGEUP"
-
-#~ msgid "PAUSE"
-#~ msgstr "PAUSE"
-
-#~ msgid "PGDN"
-#~ msgstr "PGDN"
-
-#~ msgid "PGUP"
-#~ msgstr "PGUP"
-
-#~ msgid "PRINT"
-#~ msgstr "TULOSTA"
-
-#~ msgid "RETURN"
-#~ msgstr "ENTER"
-
-#~ msgid "RIGHT"
-#~ msgstr "OIKEA"
-
-#~ msgid "SCROLL_LOCK"
-#~ msgstr "SCROLL_LOCK"
-
-#~ msgid "SELECT"
-#~ msgstr "VALITSE"
-
-#~ msgid "SEPARATOR"
-#~ msgstr "EROTIN"
-
-#~ msgid "SPACE"
-#~ msgstr "VÄLI"
-
-#~ msgid "SUBTRACT"
-#~ msgstr "VÄHENNÄ"
-
-#~ msgid "TAB"
-#~ msgstr "TAB"
-
-#~ msgid "The print dialog returned an error."
-#~ msgstr "Tulostusvalintaikkuna palautti virheen."
-
-#~ msgid "The wxGtkPrinterDC cannot be used."
-#~ msgstr "Toimintoa wxGtkPrinterDC ei voida käyttää."
-
-#~ msgid "Timer creation failed."
-#~ msgstr "Ajastimen luonti epäonnistui"
-
-#~ msgid "UP"
-#~ msgstr "UP"
-
-#~ msgid "not implemented"
-#~ msgstr "Ei toteutettu"
-
-#~ msgid "Event queue overflowed"
-#~ msgstr "Ylivuoto tapahtumajonossa"
-
-#~ msgid "percent"
-#~ msgstr "prosentti"
-
-#~ msgid "Print preview"
-#~ msgstr "Tulostuksen esikatselu"
-
-#~ msgid "'"
-#~ msgstr "'"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "3"
-#~ msgstr "3"
-
-#~ msgid "4"
-#~ msgstr "4"
-
-#~ msgid "5"
-#~ msgstr "5"
-
-#~ msgid "6"
-#~ msgstr "6"
-
-#~ msgid "7"
-#~ msgstr "7"
-
-#~ msgid "8"
-#~ msgstr "8"
-
-#~ msgid "9"
-#~ msgstr "9"
-
-#~ msgid "Can't monitor non-existent path \"%s\" for changes."
-#~ msgstr ""
-#~ "Polun \"%s\" muutoksia ei voida tarkkailla, koska sitä ei ole olemassa."
-
-#~ msgid "File system containing watched object was unmounted"
-#~ msgstr ""
-#~ "Vahditun objektin sisältävän tiedostojärjestelmän liitos on poistettu"
-
-#~ msgid "&Preview..."
-#~ msgstr "&Esikatselu..."
-
-#~ msgid "&Save..."
-#~ msgstr "&Tallenna..."
-
-#~ msgid "About "
-#~ msgstr "Tietoja"
-
-#~ msgid "All files (*.*)|*"
-#~ msgstr "Kaikki tiedostot (*.*)|*"
-
-#~ msgid "Cannot initialize SciTech MGL!"
-#~ msgstr "SciTech MGL:n alustus epäonnistui!"
-
-#~ msgid "Cannot initialize display."
-#~ msgstr "Näytön alustus epäonnistui."
-
-#~ msgid "Cannot start thread: error writing TLS"
-#~ msgstr "Säiettä ei voi käynnistää: virhe TLS:n kirjoituksessa"
-
-#~ msgid "Close\tAlt-F4"
-#~ msgstr "Sulje\tAlt-F4"
-
-#~ msgid "Couldn't create cursor."
-#~ msgstr "Kohdistimen luonti epäonnistui."
-
-#~ msgid "Directory '%s' doesn't exist!"
-#~ msgstr "Hakemistoa ”%s” ei ole olemassa!"
-
-#~ msgid "File %s does not exist."
-#~ msgstr "Tiedosto %s ei ole olemassa."
-
-#~ msgid "Mode %ix%i-%i not available."
-#~ msgstr "Tila %ix%i-%i ei käytettävissä."
-
-#~ msgid "Paper Size"
-#~ msgstr "Paperin koko"
-
-#, fuzzy
-#~ msgid "Preview..."
-#~ msgstr " Esikatselu"
-
-#, fuzzy
-#~ msgid "The vertical offset relative to the paragraph."
-#~ msgstr "Oletustyyli seuraavalle kappaleelle."
-
-#~ msgid "%.*f GB"
-#~ msgstr "%.*f GB"
-
-#~ msgid "%.*f MB"
-#~ msgstr "%.*f MB"
-
-#~ msgid "%.*f TB"
-#~ msgstr "%.*f TB"
-
-#~ msgid "%.*f kB"
-#~ msgstr "%.*f kB"
-
-#~ msgid "%s B"
-#~ msgstr "%s B"
-
-#~ msgid "&Goto..."
-#~ msgstr "&Siirry..."
-
-#~ msgid "<<"
-#~ msgstr "<<"
-
-#~ msgid ">>"
-#~ msgstr ">>"
-
-#~ msgid ">>|"
-#~ msgstr ">>|"
-
-#~ msgid "Added item is invalid."
-#~ msgstr "Lisätty kohta on epäkelpo."
-
-#~ msgid "Archive doesnt contain #SYSTEM file"
-#~ msgstr "Arkisto ei sisällä #SYSTEM tiedostoa"
-
-#~ msgid "Can't check image format of file '%s': file does not exist."
-#~ msgstr "En voi tarkistaa kuvatiedoston ”%s” muotoa: tiedostoa ei ole."
-
-#~ msgid "Can't load image from file '%s': file does not exist."
-#~ msgstr "Tiedostosta ”%s” ei voi ladata kuvaa: tiedosto ei ole olemassa."
-
-#~ msgid "Cannot convert from the charset '%s'!"
-#~ msgstr "Ei voida muuttaa merkistöstä ”%s”!"
-
-#~ msgid "Cannot find font node '%s'."
-#~ msgstr "Kirjasinsolmua ”%s” ei löydy."
-
-#~ msgid "Cannot open file '%s'."
-#~ msgstr "Tiedostoa ”%s” ei voi avata."
-
-#~ msgid "Cannot parse coordinates from '%s'."
-#~ msgstr "Koordinaatteja ei voida saada: ”%s”"
-
-#~ msgid "Cannot parse dimension from '%s'."
-#~ msgstr "Mittoja ei voida saada: ”%s”"
-
-#~ msgid "Cant create the thread event queue"
-#~ msgstr "Säikeen tapahtumajonoa ei voida luoda"
-
-#~ msgid "Changed item is invalid."
-#~ msgstr "Muutettu kohde on epäkelpo."
-
-#~ msgid "Click to cancel this window."
-#~ msgstr "Napsauta peruuttaaksesi tämä ikkuna."
-
-#~ msgid "Click to confirm your selection."
-#~ msgstr "Napsauta varmistaaksesi valintasi."
-
-#~ msgid "Column does not have a renderer."
-#~ msgstr "Sarakkeella ei ole piirtäjää."
-
-#~ msgid "Could not unlock mutex"
-#~ msgstr "Mutexin vapautus ei onnistu"
-
-#~ msgid "Failed to connect to session manager: %s"
-#~ msgstr "Istunnonhallintaan ei voitu yhdistää: %s"
-
-#~ msgid "Failed to register OpenGL window class."
-#~ msgstr "OpenGL-ikkunaluokan rekisteröinti epäonnistui."
-
-#~ msgid "Fatal error"
-#~ msgstr "Tuhoisa virhe"
-
-#~ msgid "Fatal error: "
-#~ msgstr "Tuhoisa virhe: "
-
-#~ msgid "GB-2312"
-#~ msgstr "GB-2312"
-
-#~ msgid "Go forward to the next HTML page"
-#~ msgstr "Siirry eteenpäin seuraavalle HTML-sivulle"
-
-#~ msgid "Goto Page"
-#~ msgstr "Mene sivulle"
-
-#~ msgid "Help : %s"
-#~ msgstr "Ohje: %s"
-
-#~ msgid "I64"
-#~ msgstr "I64"
-
-#~ msgid "Internal error, illegal wxCustomTypeInfo"
-#~ msgstr "Sisäinen virhe, epäkelpo wxCustomTypeInfo"
-
-#, fuzzy
-#~ msgid "No image handler for type %ld defined."
-#~ msgstr "Kuvatyypin %d käsittelijää ei määritelty."
-
-#~ msgid "Owner not initialized."
-#~ msgstr "Omistajaa ei ole asetettu."
-
-#~ msgid "Passed item is invalid."
-#~ msgstr "Ohitettu kohta on epäkelpo."
-
-#~ msgid "Preparing help window..."
-#~ msgstr "Valmistellaan ohje-ikkunaa"
-
-#~ msgid "Program aborted."
-#~ msgstr "Ohjelma keskeytetty."
-
-#~ msgid "Resource files must have same version number!"
-#~ msgstr "Resurssitiedostoilla pitää olla sama versionumero!"
-
-#~ msgid "SHIFT-JIS"
-#~ msgstr "SHIFT-JIS"
-
-#~ msgid "Search!"
-#~ msgstr "Etsi"
-
-#~ msgid "Sorry, could not open this file for saving."
-#~ msgstr "Ei voi avata tiedostoa tallennettavaksi."
-
-#~ msgid "Sorry, could not save this file."
-#~ msgstr "Tätä tiedostoa ei voi tallentaa."
-
-#~ msgid "Sorry, print preview needs a printer to be installed."
-#~ msgstr "Tulostuksen esikatselu vaatii asennetun tulostimen."
-
-#~ msgid "Status: "
-#~ msgstr "Tila: "
-
-#~ msgid "TIFF library error."
-#~ msgstr "TIFF-kirjastovirhe."
-
-#~ msgid "TIFF library warning."
-#~ msgstr "TIFF-kirjastovaroitus."
-
-#~ msgid ""
-#~ "The file '%s' couldn't be opened.\n"
-#~ "It has been removed from the most recently used files list."
-#~ msgstr ""
-#~ "Tiedostoa ”%s” ei voitu avata.\n"
-#~ "Se on myös poistettu MRU-tiedostojen luettelosta"
-
-#~ msgid "The path '%s' contains too many ”..”!"
-#~ msgstr "Polku ”%s” sisältää liian monta ”..”!"
-
-#~ msgid "Trying to solve a NULL hostname: giving up"
-#~ msgstr "Tyhjää isäntänimeä yritettiin selvittää: luovutan"
-
-#~ msgid "Unknown style flag "
-#~ msgstr "Tuntemattoman tyylinen lippu"
-
-#~ msgid "Warning"
-#~ msgstr "Varoitus"
-
-#~ msgid "Windows 2000 (build %lu"
-#~ msgstr "Windows 2000 (käännös %lu"
-
-#~ msgid "XRC resource '%s' (class '%s') not found!"
-#~ msgstr "XRC resurssia ”%s” (luokka ”%s”) ei löydy!"
-
-#, fuzzy
-#~ msgid "XRC resource: Cannot create animation from '%s'."
-#~ msgstr "XRC resurssi: Ei voida luoda kuvaa ”%s”."
-
-#~ msgid "XRC resource: Cannot create bitmap from '%s'."
-#~ msgstr "XRC resurssi: Ei voida luoda kuvaa ”%s”."
-
-#, fuzzy
-#~ msgid ""
-#~ "XRC resource: Incorrect colour specification '%s' for attribute '%s'."
-#~ msgstr "XRC resurssi: Väärä värimääritelmä ”%s” ominaisuudelle ”%s”."
-
-#~ msgid "[EMPTY]"
-#~ msgstr "[TYHJÄ]"
-
-#~ msgid "catalog file for domain '%s' not found."
-#~ msgstr "luettelotiedostoa verkkoalueelle ”%s” ei löydy."
-
-#~ msgid "looking for catalog '%s' in path '%s'."
-#~ msgstr "etsitään luetteloa ”%s” polussa ”%s”."
-
-#~ msgid "wxSocket: invalid signature in ReadMsg."
-#~ msgstr "wxSocket: virheellinen allekirjoitus ReadMsg:ssä."
-
-#~ msgid "wxSocket: unknown event!."
-#~ msgstr "wxSocket: tuntematon tapahtuma!."
-
-#~ msgid "|<<"
-#~ msgstr "|<<"

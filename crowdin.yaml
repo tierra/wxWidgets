@@ -1,0 +1,20 @@
+project_identifier: wxwidgets
+api_key: 54e01e81--your-api-key--f6a2724a
+
+files:
+  -
+    source: '/locale/wxstd.pot'
+    translation: '/locale/%two_letters_code%.po'
+    languages_mapping:
+      two_letters_code:
+        # crowdin_language_code: local_name
+        'es-ES' : 'es'
+        'gl'    : 'gl_ES'
+        'ko'    : 'ko_KR'
+        'ne-NP' : 'ne'
+        'pt-PT' : 'pt'
+        'pt-BR' : 'pt_BR'
+        'sv-SE' : 'sv'
+        'val-ES': 'ca@valencia'
+        'zh-CN' : 'zh_CN'
+        'zh-TW' : 'zh_TW'

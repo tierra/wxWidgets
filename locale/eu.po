@@ -1,25 +1,25 @@
-# Xabier Aramendi <azpidatziak@gmail.com>, 2011-2015.
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets\n"
+"Project-Id-Version: wxwidgets\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-07-18 21:01+0200\n"
-"PO-Revision-Date: 2015-07-18 21:39+0200\n"
-"Last-Translator: Xabier Aramendi <azpidatziak@gmail.com>\n"
-"Language-Team: (EUS_Xabier Aramendi) <azpidatziak@gmail.com>\n"
-"Language: eu\n"
+"POT-Creation-Date: 2015-05-23 22:46+0400\n"
+"PO-Revision-Date: 2015-08-19 01:15-0400\n"
+"Last-Translator: tierra <bryan@ibaku.net>\n"
+"Language-Team: Basque\n"
+"Language: eu_ES\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 1.8.2\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: wxwidgets\n"
+"X-Crowdin-Language: eu\n"
+"X-Crowdin-File: wxstd.pot\n"
 
 #: ../src/common/debugrpt.cpp:591
-msgid ""
-"\n"
+msgid "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
+msgstr "\n"
 "Mesedez bidali jakinarazpen hau programaren arduradunari, mila esker!\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
@@ -1639,9 +1639,7 @@ msgstr "Ezin da De&segin"
 
 #: ../src/common/image.cpp:2690
 msgid "Can't automatically determine the image format for non-seekable input."
-msgstr ""
-"Ezin da berezgaitasunez zehaztu irudi heuskarria sarrera ez-"
-"bilagarriarentzat."
+msgstr "Ezin da berezgaitasunez zehaztu irudi heuskarria sarrera ez-bilagarriarentzat."
 
 #: ../src/msw/registry.cpp:498
 #, c-format
@@ -1784,8 +1782,7 @@ msgstr "E&zeztatu"
 
 #: ../src/osx/carbon/dataview.cpp:893
 msgid "Cannot create new column's ID. Probably max. number of columns reached."
-msgstr ""
-"Ezin da zutabe ID berririk. Zihurrenik geh. zutabe zenbatekoa erdietsita."
+msgstr "Ezin da zutabe ID berririk. Zihurrenik geh. zutabe zenbatekoa erdietsita."
 
 #: ../src/common/filefn.cpp:1280
 #, c-format
@@ -1996,8 +1993,7 @@ msgstr "Aldatu Estiloa"
 #: ../src/common/fileconf.cpp:364
 #, c-format
 msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
-msgstr ""
-"Aldaketak ez dira gordeko badagoen \"%s\" agiria gainidaztea saihesteko"
+msgstr "Aldaketak ez dira gordeko badagoen \"%s\" agiria gainidaztea saihesteko"
 
 #: ../src/gtk/filedlg.cpp:87 ../src/gtk/filepicker.cpp:190
 #, c-format
@@ -2303,11 +2299,8 @@ msgstr "Agindua"
 
 #: ../src/common/init.cpp:196
 #, c-format
-msgid ""
-"Command line argument %d couldn't be converted to Unicode and will be "
-"ignored."
-msgstr ""
-"%d agindu lerro argumentua ezin da Unicodera bihurtu eta ezikusi egingo da."
+msgid "Command line argument %d couldn't be converted to Unicode and will be ignored."
+msgstr "%d agindu lerro argumentua ezin da Unicodera bihurtu eta ezikusi egingo da."
 
 #: ../src/msw/fontdlg.cpp:119
 #, c-format
@@ -2315,12 +2308,8 @@ msgid "Common dialog failed with error code %0lx."
 msgstr "Elkarrizketa arrunt hutsegitea %0lx akats kodearekin."
 
 #: ../src/gtk/window.cpp:4557
-msgid ""
-"Compositing not supported by this system, please enable it in your Window "
-"Manager."
-msgstr ""
-"Osaketa ez dago sostengaturik sistema honetan, mesedez gaitu ezazu zure "
-"Leiho Kudeatzailean."
+msgid "Compositing not supported by this system, please enable it in your Window Manager."
+msgstr "Osaketa ez dago sostengaturik sistema honetan, mesedez gaitu ezazu zure Leiho Kudeatzailean."
 
 #: ../src/html/helpwnd.cpp:1551
 msgid "Compressed HTML Help file (*.chm)|*.chm|"
@@ -2543,9 +2532,7 @@ msgstr "Ezinezkoa GIF hash taula abiaraztea."
 
 #: ../src/common/imagpng.cpp:649
 msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
-msgstr ""
-"Ezinezkoa PNG irudia gertatzea - agiria hondatuta dago edo ez dago nahikoa "
-"oroimen."
+msgstr "Ezinezkoa PNG irudia gertatzea - agiria hondatuta dago edo ez dago nahikoa oroimen."
 
 #: ../src/unix/sound.cpp:470
 #, c-format
@@ -2797,12 +2784,8 @@ msgid "Developers"
 msgstr "Garatzaileak"
 
 #: ../src/msw/dialup.cpp:384
-msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"Dei eginkizunak ez daude eskuragarri hurreneko sarbide zerbitzua (RAS) ez "
-"dagoelako ezarrita makina honetan. Mesedez ezarri ezazu."
+msgid "Dial up functions are unavailable because the remote access service (RAS) is not installed on this machine. Please install it."
+msgstr "Dei eginkizunak ez daude eskuragarri hurreneko sarbide zerbitzua (RAS) ez dagoelako ezarrita makina honetan. Mesedez ezarri ezazu."
 
 #: ../src/generic/tipdlg.cpp:225
 msgid "Did you know..."
@@ -2840,12 +2823,8 @@ msgid "Discard changes and reload the last saved version?"
 msgstr "Baztertu aldaketak eta gertatu gordetako azken bertsioa?"
 
 #: ../src/html/helpwnd.cpp:502
-msgid ""
-"Display all index items that contain given substring. Search is case "
-"insensitive."
-msgstr ""
-"Erakutsi emandako azpikatea duten aurkibideko gai guztiak. Bilaketak hizki "
-"xehe-larriak bereizten ditu."
+msgid "Display all index items that contain given substring. Search is case insensitive."
+msgstr "Erakutsi emandako azpikatea duten aurkibideko gai guztiak. Bilaketak hizki xehe-larriak bereizten ditu."
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2861,16 +2840,12 @@ msgid "Divide"
 msgstr "Zatiketa"
 
 #: ../src/msw/mimetype.cpp:725
-msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+msgid "Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"%s agirientzako erabilitako komandoa gainidaztea nahi duzu \"%s\" "
-"luzapenarekin ?\n"
+msgstr "%s agirientzako erabilitako komandoa gainidaztea nahi duzu \"%s\" luzapenarekin ?\n"
 "Oraingo balioa da \n"
 "%s, \n"
 "Balio berria da \n"
@@ -3059,11 +3034,8 @@ msgstr "Gonbidapen Gutunazala 220 x 220 mm"
 
 #: ../src/common/config.cpp:473
 #, c-format
-msgid ""
-"Environment variables expansion failed: missing '%c' at position %u in '%s'."
-msgstr ""
-"Ingurugiro aldaera hedapen hutsegitea: ez dago '%c'  %u kokapenean, hemen: "
-"'%s'."
+msgid "Environment variables expansion failed: missing '%c' at position %u in '%s'."
+msgstr "Ingurugiro aldaera hedapen hutsegitea: ez dago '%c'  %u kokapenean, hemen: '%s'."
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/dirctrlg.cpp:609
 #: ../src/generic/dirctrlg.cpp:620 ../src/generic/dirdlgg.cpp:352
@@ -3150,11 +3122,8 @@ msgstr "Exekutiboa, 7 1/4 x 10 1/2 in"
 
 #: ../src/msw/registry.cpp:1238
 #, c-format
-msgid ""
-"Exporting registry key: file \"%s\" already exists and won't be overwritten."
-msgstr ""
-"Esportatzen erregistro giltza: \"%s\" agiria jadanik badago eta ezin da "
-"gainidatzi."
+msgid "Exporting registry key: file \"%s\" already exists and won't be overwritten."
+msgstr "Esportatzen erregistro giltza: \"%s\" agiria jadanik badago eta ezin da gainidatzi."
 
 #: ../src/common/fmapbase.cpp:195
 msgid "Extended Unix Codepage for Japanese (EUC-JP)"
@@ -3298,11 +3267,9 @@ msgstr "Hutsegitea \"%s\" zuzenbidea sortzerakoan"
 
 #: ../src/generic/dirdlgg.cpp:249
 #, c-format
-msgid ""
-"Failed to create directory '%s'\n"
+msgid "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"Hutsegitea '%s' zuzenbidea sortzerakoan\n"
+msgstr "Hutsegitea '%s' zuzenbidea sortzerakoan\n"
 "(Badituzu beharrezko baimenak?)"
 
 #: ../src/unix/epolldispatcher.cpp:84
@@ -3317,14 +3284,11 @@ msgstr "Hutsegitea '%s' agirientzak sarrera erregistroa sortzerakoan."
 #: ../src/msw/fdrepdlg.cpp:409
 #, c-format
 msgid "Failed to create the standard find/replace dialog (error code %d)"
-msgstr ""
-"Hutsegitea bilaketa estandarra/ordeztu elkarrizketa sortzerakoan (akats "
-"kodea %d)"
+msgstr "Hutsegitea bilaketa estandarra/ordeztu elkarrizketa sortzerakoan (akats kodea %d)"
 
 #: ../src/unix/wakeuppipe.cpp:52
 msgid "Failed to create wake up pipe used by event loop."
-msgstr ""
-"Hutsegitea gertaera bigiztak erabilitako iratzarpen hodia sortzearakoan."
+msgstr "Hutsegitea gertaera bigiztak erabilitako iratzarpen hodia sortzearakoan."
 
 #: ../src/html/winpars.cpp:730
 #, c-format
@@ -3365,8 +3329,7 @@ msgstr "Hutsegitea \"%s\"-ren CLSID bilatzerakoan."
 #: ../src/common/regex.cpp:431 ../src/common/regex.cpp:479
 #, c-format
 msgid "Failed to find match for regular expression: %s"
-msgstr ""
-"Hutsegitea adierazpen arrunt honentzak bateragarririk aurkitzerakoan: %s"
+msgstr "Hutsegitea adierazpen arrunt honentzak bateragarririk aurkitzerakoan: %s"
 
 #: ../src/msw/dialup.cpp:705
 #, c-format
@@ -3421,12 +3384,8 @@ msgid "Failed to install signal handler"
 msgstr "Hutsegitea seinale kudeatzeilea ezartzerakoan"
 
 #: ../src/unix/threadpsx.cpp:1167
-msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
-msgstr ""
-"Hutsegitea harira batzerakoan, oroimen galera potentziala atzeman da - "
-"mesedez berrabiarazi programa"
+msgid "Failed to join a thread, potential memory leak detected - please restart the program"
+msgstr "Hutsegitea harira batzerakoan, oroimen galera potentziala atzeman da - mesedez berrabiarazi programa"
 
 #: ../src/msw/utils.cpp:679
 #, c-format
@@ -3619,12 +3578,8 @@ msgstr "Hutsegitea '%s' erregistro balioa '%s'-ra birrizendatzerakoan."
 
 #: ../src/common/filefn.cpp:1124
 #, c-format
-msgid ""
-"Failed to rename the file '%s' to '%s' because the destination file already "
-"exists."
-msgstr ""
-"Hutsegitea '%s' agiria '%s'-ra birrizendatzean zerezn helmuga agiria jadanik "
-"badago."
+msgid "Failed to rename the file '%s' to '%s' because the destination file already exists."
+msgstr "Hutsegitea '%s' agiria '%s'-ra birrizendatzean zerezn helmuga agiria jadanik badago."
 
 #: ../src/msw/registry.cpp:626
 #, c-format
@@ -3700,8 +3655,7 @@ msgstr "Hutsegitea %d hari lehentasuna ezartzerakoan."
 
 #: ../src/unix/utilsunx.cpp:779
 msgid "Failed to set up non-blocking pipe, the program might hang."
-msgstr ""
-"Hutsegitea ez-blokeo hodia ezartzerakoan, programa blokeatu egin daiteke."
+msgstr "Hutsegitea ez-blokeo hodia ezartzerakoan, programa blokeatu egin daiteke."
 
 #: ../src/common/fs_mem.cpp:261
 #, c-format
@@ -3747,8 +3701,7 @@ msgstr "Hutsegitea '%s' DDE zerbitzaria erregistratu gabetzerakoan"
 #: ../src/unix/epolldispatcher.cpp:155
 #, c-format
 msgid "Failed to unregister descriptor %d from epoll descriptor %d"
-msgstr ""
-"Hutsegitea %d azaltzailea %d epoll azaltzailetik erregistratu gabetzerakoan"
+msgstr "Hutsegitea %d azaltzailea %d epoll azaltzailetik erregistratu gabetzerakoan"
 
 #: ../src/common/fileconf.cpp:1029
 msgid "Failed to update user configuration file."
@@ -3941,12 +3894,8 @@ msgid "GIF: unknown error!!!"
 msgstr "GIF: akats ezezaguna!!!"
 
 #: ../src/gtk/window.cpp:4539
-msgid ""
-"GTK+ installed on this machine is too old to support screen compositing, "
-"please install GTK+ 2.12 or later."
-msgstr ""
-"Gailu honetan ezarritako GTK+ zaharregia da ikusleiho osaketa sostengatzeko, "
-"mesedez ezarri GTK+2.12 edo berriagoa."
+msgid "GTK+ installed on this machine is too old to support screen compositing, please install GTK+ 2.12 or later."
+msgstr "Gailu honetan ezarritako GTK+ zaharregia da ikusleiho osaketa sostengatzeko, mesedez ezarri GTK+2.12 edo berriagoa."
 
 #: ../src/univ/themes/gtk.cpp:525
 msgid "GTK+ theme"
@@ -4189,30 +4138,20 @@ msgid "Icon & text renderer cannot render value; value type: "
 msgstr "Ikur eta idazki aurkezleak ezin du balioa aurkeztu; balio mota:"
 
 #: ../src/html/htmprint.cpp:282
-msgid ""
-"If possible, try changing the layout parameters to make the printout more "
-"narrow."
-msgstr ""
-"Ahal bada, saiatu antolakuntza parametroak aldatzen irarketa estuagoa "
-"egiteko."
+msgid "If possible, try changing the layout parameters to make the printout more narrow."
+msgstr "Ahal bada, saiatu antolakuntza parametroak aldatzen irarketa estuagoa egiteko."
 
 #: ../src/generic/dbgrptg.cpp:358
-msgid ""
-"If you have any additional information pertaining to this bug\n"
+msgid "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
-"Akats honi buruzko argibide gehigarriren bat baduzu\n"
+msgstr "Akats honi buruzko argibide gehigarriren bat baduzu\n"
 "jakinarazi, mesedez sartu hemen eta berari batuko zaio:"
 
 #: ../src/generic/dbgrptg.cpp:324
-msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+msgid "If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
-"Akats jakinarazpen hau erabat ezabatzea nahi baduzu, mesedez hautatu "
-"\"Ezeztatu\" botoia,\n"
+msgstr "Akats jakinarazpen hau erabat ezabatzea nahi baduzu, mesedez hautatu \"Ezeztatu\" botoia,\n"
 "baina kontuan izan programaren hobekuntza zaildu dezakeela, hortaz\n"
 "ahal bezain mesedez jarraitu jakinarazpenaren sortzearekin.\n"
 
@@ -4256,12 +4195,8 @@ msgid "Image is not of type %s."
 msgstr "Irudia ez da %s motakoa."
 
 #: ../src/msw/textctrl.cpp:488
-msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"Ezinezkoa aberastu edizio aginte bat sortzea, idazki arrunt agintea "
-"erabiltzen ordez. Mesedez berrezarri riched32.dll"
+msgid "Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll"
+msgstr "Ezinezkoa aberastu edizio aginte bat sortzea, idazki arrunt agintea erabiltzen ordez. Mesedez berrezarri riched32.dll"
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4812,12 +4747,8 @@ msgid "MDI child"
 msgstr "MDI child"
 
 #: ../src/msw/helpchm.cpp:56
-msgid ""
-"MS HTML Help functions are unavailable because the MS HTML Help library is "
-"not installed on this machine. Please install it."
-msgstr ""
-"MS HTML Laguntza eginkizunak ez daude eskuragarri MS HTML Laguntza "
-"liburutegia ez delako ezarri gailu honetan. Mesedez ezarri ezazu."
+msgid "MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it."
+msgstr "MS HTML Laguntza eginkizunak ez daude eskuragarri MS HTML Laguntza liburutegia ez delako ezarri gailu honetan. Mesedez ezarri ezazu."
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
@@ -5214,24 +5145,19 @@ msgstr "Ez da sarrerarik aurkitu."
 
 #: ../src/common/fontmap.cpp:421
 #, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found,\n"
+msgid "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"Ez da aurkitu hizkirik idazkia erakusteko '%s' kodeaketan.\n"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "Ez da aurkitu hizkirik idazkia erakusteko '%s' kodeaketan.\n"
 "baina '%s' kodeaketa aukera eskuragarri dago.\n"
 "Nahi duzu kodeaketa hau erabiltzea (bestela beste bat hautatu beharko duzu)?"
 
 #: ../src/common/fontmap.cpp:426
 #, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found.\n"
+msgid "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"Ez da aurkitu hizkirik idazkia erakusteko '%s' kodeaketan.\n"
+msgstr "Ez da aurkitu hizkirik idazkia erakusteko '%s' kodeaketan.\n"
 "Nahi duzu hautatzea hizki bat kodeaketa honetarako erabitzeko\n"
 "(bestela idazkia kodeaketa honetan ez da zuzen erakutsiko)?"
 
@@ -5260,9 +5186,7 @@ msgstr "Ez da bat datorren orrialderik aurkitu oraindik"
 
 #: ../src/osx/carbon/dataview.cpp:1674 ../src/osx/carbon/dataview.cpp:1784
 msgid "No renderer or invalid renderer type specified for custom data column."
-msgstr ""
-"Ez da aurkezlerik edo baliogabeko aurkezle mota adierazi da egile datu "
-"zutaberako."
+msgstr "Ez da aurkezlerik edo baliogabeko aurkezle mota adierazi da egile datu zutaberako."
 
 #: ../src/osx/carbon/dataview.cpp:1422
 msgid "No renderer specified for column."
@@ -5829,12 +5753,10 @@ msgstr "Mesedez zein IZH-ra nahi duzun elkarketatzea"
 
 #: ../src/msw/listctrl.cpp:372
 #, c-format
-msgid ""
-"Please install a newer version of comctl32.dll\n"
+msgid "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"Mesedez ezarri comctl32.dll bertsio berriago bat\n"
+msgstr "Mesedez ezarri comctl32.dll bertsio berriago bat\n"
 "(gutxienez 4.70 bertsioa behar da baina zuk %d.%02d duzu)\n"
 "edo programa honek ez du zuzen jardungo."
 
@@ -6031,11 +5953,8 @@ msgstr "Irarketa"
 
 #: ../src/common/debugrpt.cpp:565
 #, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
-msgstr ""
-"Garbiketa jakinarazpen prozesapenak huts egin du, agiria \"%s\" zuzenbidean "
-"uzten."
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr "Garbiketa jakinarazpen prozesapenak huts egin du, agiria \"%s\" zuzenbidean uzten."
 
 #: ../src/osx/carbon/dataview.cpp:2470
 msgid "Progress renderer cannot render value type; value type: "
@@ -6129,12 +6048,10 @@ msgstr "'%s' erregistro giltza ez dago, ezin da birrizendatu."
 
 #: ../src/msw/registry.cpp:719
 #, c-format
-msgid ""
-"Registry key '%s' is needed for normal system operation,\n"
+msgid "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"'%s' erregistro giltza beharrezkoa da sistemaren eragiketa normalerako,\n"
+msgstr "'%s' erregistro giltza beharrezkoa da sistemaren eragiketa normalerako,\n"
 "ezabatzen bada zure sistema erabiltezin geldituko da:\n"
 "eragiketa utzita."
 
@@ -6175,8 +6092,7 @@ msgstr "Kendu oraingo orrialdea lastermarketatik"
 #: ../src/common/rendcmn.cpp:194
 #, c-format
 msgid "Renderer \"%s\" has incompatible version %d.%d and couldn't be loaded."
-msgstr ""
-"\"%s\" aurkezlea bateraezina da %d bertsioarekin.%d ezinezkoa gertatzea."
+msgstr "\"%s\" aurkezlea bateraezina da %d bertsioarekin.%d ezinezkoa gertatzea."
 
 #: ../src/osx/carbon/dataview.cpp:1428
 msgid "Rendering failed."
@@ -6331,12 +6247,8 @@ msgid "Search"
 msgstr "Bilatu"
 
 #: ../src/html/helpwnd.cpp:537
-msgid ""
-"Search contents of help book(s) for all occurrences of the text you typed "
-"above"
-msgstr ""
-"Bilatu edukiak laguntza liburuan gainean idatzi duzun idazkiaren gertaera "
-"guztientzat"
+msgid "Search contents of help book(s) for all occurrences of the text you typed above"
+msgstr "Bilatu edukiak laguntza liburuan gainean idatzi duzun idazkiaren gertaera guztientzat"
 
 #: ../src/generic/fdrepdlg.cpp:160
 msgid "Search direction"
@@ -6366,8 +6278,7 @@ msgstr "Bilatu akatsak '%s' agirian"
 #: ../src/common/ffile.cpp:228
 #, c-format
 msgid "Seek error on file '%s' (large files not supported by stdio)"
-msgstr ""
-"Bilatu akatsak '%s' agirian (stdiok ez du agiri handiagorik sostengatzen)"
+msgstr "Bilatu akatsak '%s' agirian (stdiok ez du agiri handiagorik sostengatzen)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:74
@@ -6439,8 +6350,7 @@ msgstr "SetProperty w/o baliozko ezartzailea deituta"
 
 #: ../src/common/filename.cpp:2599
 msgid "Setting directory access times is not supported under this OS version"
-msgstr ""
-"Zuzenbide sarbide denborak ezartzea ez dago sostengaturik SE bertsio honetan"
+msgstr "Zuzenbide sarbide denborak ezartzea ez dago sostengaturik SE bertsio honetan"
 
 #: ../src/generic/prntdlgg.cpp:188
 msgid "Setup..."
@@ -6876,12 +6786,10 @@ msgstr "Hizki kodea."
 
 #: ../src/common/fontmap.cpp:203
 #, c-format
-msgid ""
-"The charset '%s' is unknown. You may select\n"
+msgid "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"'%s' hizkikodea ezezaguna da. Hautatu dezakezu\n"
+msgstr "'%s' hizkikodea ezezaguna da. Hautatu dezakezu\n"
 "beste hizkikode bat ordezteko edo hautatu\n"
 "[Ezeztatu] ezin bada ordeztu"
 
@@ -6897,33 +6805,23 @@ msgstr "Berezko estiloa hurrengo esaldirako."
 
 #: ../src/generic/dirdlgg.cpp:231
 #, c-format
-msgid ""
-"The directory '%s' does not exist\n"
+msgid "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"'%s' zuzenbidea ez dago\n"
+msgstr "'%s' zuzenbidea ez dago\n"
 "Orain sortu?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
-msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
-"\n"
+msgid "The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
-"\"%s\" agiria ez da orrialdean etzanka finkatzen eta itzulikatu egingo da "
-"irarkitzerakoan.\n"
-"\n"
+msgstr "\"%s\" agiria ez da orrialdean etzanka finkatzen eta itzulikatu egingo da irarkitzerakoan.\n\n"
 "Horrela ere irarkitzea nahi duzu?"
 
 #: ../src/common/docview.cpp:1205
 #, c-format
-msgid ""
-"The file '%s' doesn't exist and couldn't be opened.\n"
+msgid "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr ""
-"'%s' agiria ez dago edo ezin da ireki.\n"
+msgstr "'%s' agiria ez dago edo ezin da ireki.\n"
 "Kendua izanda berrikien erabilitako agiri zerrendatik."
 
 #: ../src/richtext/richtextindentspage.cpp:208
@@ -7074,13 +6972,9 @@ msgid "The range to show."
 msgstr "Erakusteko maila."
 
 #: ../src/generic/dbgrptg.cpp:322
-msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+msgid "The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
-"Jakinarazpenak behean zerrendaturiko agiriak ditu. Agiri hauetakoren batek "
-"argibide pribatuak baditu,\n"
+msgstr "Jakinarazpenak behean zerrendaturiko agiriak ditu. Agiri hauetakoren batek argibide pribatuak baditu,\n"
 "mesedez ez hautatu itzazu eta jakinarazpenetik kenduko dira.\n"
 
 #: ../src/common/cmdline.cpp:1254
@@ -7206,12 +7100,8 @@ msgstr "Bazterreko erradioaren balioa."
 
 #: ../src/msw/dialup.cpp:443
 #, c-format
-msgid ""
-"The version of remote access service (RAS) installed on this machine is too "
-"old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"Gailu honetan ezarrita dagoen hurruneko sarbide zerbitzuaren (RAS) bertsioa "
-"oso zaharra da, mesedez eguneratu (ez dagoen beharrezkoa den eginkizuna: %s)."
+msgid "The version of remote access service (RAS) installed on this machine is too old, please upgrade (the following required function is missing: %s)."
+msgstr "Gailu honetan ezarrita dagoen hurruneko sarbide zerbitzuaren (RAS) bertsioa oso zaharra da, mesedez eguneratu (ez dagoen beharrezkoa den eginkizuna: %s)."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
@@ -7220,23 +7110,15 @@ msgstr "Zutikako oreka."
 
 #: ../src/osx/carbon/dataview.cpp:1338
 msgid "There is no column or renderer for the specified column index."
-msgstr ""
-"Ez dago zutaberik edo aurkezlerik adierazitako zutabe aurkibidearentzat."
+msgstr "Ez dago zutaberik edo aurkezlerik adierazitako zutabe aurkibidearentzat."
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
-msgid ""
-"There was a problem during page setup: you may need to set a default printer."
-msgstr ""
-"Arazo bat egon da orrialde ezarpenean: badaiteke berezko irarkailu bat "
-"ezarri behar izatea. "
+msgid "There was a problem during page setup: you may need to set a default printer."
+msgstr "Arazo bat egon da orrialde ezarpenean: badaiteke berezko irarkailu bat ezarri behar izatea. "
 
 #: ../src/html/htmprint.cpp:255
-msgid ""
-"This document doesn't fit on the page horizontally and will be truncated "
-"when it is printed."
-msgstr ""
-"Agiri hau ez da orrialdean etzanka finkatzen eta itzulikatu egingo da "
-"irarkitzerakoan."
+msgid "This document doesn't fit on the page horizontally and will be truncated when it is printed."
+msgstr "Agiri hau ez da orrialdean etzanka finkatzen eta itzulikatu egingo da irarkitzerakoan."
 
 #: ../src/common/image.cpp:2720
 #, c-format
@@ -7248,40 +7130,24 @@ msgid "This platform does not support background transparency."
 msgstr "Plataforma honek ez dut barren gardentasuna sostengatzen."
 
 #: ../src/gtk/window.cpp:4568
-msgid ""
-"This program was compiled with a too old version of GTK+, please rebuild "
-"with GTK+ 2.12 or newer."
-msgstr ""
-"Plataforma hau GTK+ bertsio zahar batekin bildua da, mesedez berreraiki GTK+ "
-"2.12 edo berriago batekin."
+msgid "This program was compiled with a too old version of GTK+, please rebuild with GTK+ 2.12 or newer."
+msgstr "Plataforma hau GTK+ bertsio zahar batekin bildua da, mesedez berreraiki GTK+ 2.12 edo berriago batekin."
 
 #: ../src/msw/datecontrols.cpp:59
-msgid ""
-"This system doesn't support date controls, please upgrade your version of "
-"comctl32.dll"
-msgstr ""
-"Sistemak ez ditu datu aginteak sostengatzen, mesedez eguneratu zure comctl32."
-"dll bertsioa "
+msgid "This system doesn't support date controls, please upgrade your version of comctl32.dll"
+msgstr "Sistemak ez ditu datu aginteak sostengatzen, mesedez eguneratu zure comctl32.dll bertsioa "
 
 #: ../src/msw/thread.cpp:1251
-msgid ""
-"Thread module initialization failed: cannot store value in thread local "
-"storage"
-msgstr ""
-"Hari modulo abiarazpen hutsegitea: ezinezkoa biltegiratzea balioa hariaren "
-"tokiko biltegian "
+msgid "Thread module initialization failed: cannot store value in thread local storage"
+msgstr "Hari modulo abiarazpen hutsegitea: ezinezkoa biltegiratzea balioa hariaren tokiko biltegian "
 
 #: ../src/unix/threadpsx.cpp:1794
 msgid "Thread module initialization failed: failed to create thread key"
 msgstr "Hari modulo abiarazpen hutsegitea: hutsegitea hari giltza sortzerakoan"
 
 #: ../src/msw/thread.cpp:1239
-msgid ""
-"Thread module initialization failed: impossible to allocate index in thread "
-"local storage"
-msgstr ""
-"Hari modulo abiarazpen hutsegitea: ezinezkoa aurkibidea esleitzea hariaren "
-"tokiko biltegian"
+msgid "Thread module initialization failed: impossible to allocate index in thread local storage"
+msgstr "Hari modulo abiarazpen hutsegitea: ezinezkoa aurkibidea esleitzea hariaren tokiko biltegian"
 
 #: ../src/unix/threadpsx.cpp:1043
 msgid "Thread priority setting is ignored."
@@ -7297,9 +7163,7 @@ msgstr "Teila &Zutia"
 
 #: ../src/common/ftp.cpp:202
 msgid "Timeout while waiting for FTP server to connect, try passive mode."
-msgstr ""
-"Denboraz kanpo FTP zerbitzariarekin elkarketatzeari itxaroten, saiatu modu "
-"pasiboarekin."
+msgstr "Denboraz kanpo FTP zerbitzariarekin elkarketatzeari itxaroten, saiatu modu pasiboarekin."
 
 #: ../src/generic/tipdlg.cpp:215
 msgid "Tip of the Day"
@@ -7392,12 +7256,8 @@ msgstr "Motak enum- long bihurketa izan behar du"
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
-" \"%s\" eragiketa hutsegitea:  \"%s\" ezaugarri etiketatua \"%s\" motakoa "
-"da, EZ \"%s\"."
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr " \"%s\" eragiketa hutsegitea:  \"%s\" ezaugarri etiketatua \"%s\" motakoa da, EZ \"%s\"."
 
 #: ../src/common/paper.cpp:134
 msgid "US Std Fanfold, 14 7/8 x 11 in"
@@ -8255,13 +8115,10 @@ msgid "a DDEML application has created a prolonged race condition."
 msgstr "DDEML aplikazio batek lasterketa baldintza luzatu bat sortu du."
 
 #: ../src/msw/dde.cpp:1132
-msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+msgid "a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"DDEML eginkizun bat deitu da lehenik DdeInitialize eginkizuna deitu gabe,\n"
+msgstr "DDEML eginkizun bat deitu da lehenik DdeInitialize eginkizuna deitu gabe,\n"
 "edo ekinbide ezagutarazle baliogabe bat\n"
 "pasatu da DDEML eginkizun batera."
 
@@ -8298,12 +8155,10 @@ msgid "a request to end an advise transaction has timed out."
 msgstr "ohar eskualdaketa amaiera eskabidea denboraz-kanpo."
 
 #: ../src/msw/dde.cpp:1165
-msgid ""
-"a server-side transaction was attempted on a conversation\n"
+msgid "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"zerbitzari-aldeko eskualdaketa elkarrizketa saiakera bat izan da\n"
+msgstr "zerbitzari-aldeko eskualdaketa elkarrizketa saiakera bat izan da\n"
 "bezeroak amaitu duena, edo zerbitzariak\n"
 "amaitu du eskualdaketa bat osatu aurretik."
 
@@ -8316,13 +8171,11 @@ msgid "alt"
 msgstr "alt"
 
 #: ../src/msw/dde.cpp:1135
-msgid ""
-"an application initialized as APPCLASS_MONITOR has\n"
+msgid "an application initialized as APPCLASS_MONITOR has\n"
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"APPCLASS_MONITOR bezala abiatutako aplikazio bat\n"
+msgstr "APPCLASS_MONITOR bezala abiatutako aplikazio bat\n"
 "DDE transakzio bat egiten saiatu da,\n"
 "edo APPCMD_CLIENTONLY bezala abiatutako aplikazio bat \n"
 "zerbitzari transakzioak egiten saiatu da."
@@ -8336,12 +8189,10 @@ msgid "an internal error has occurred in the DDEML."
 msgstr "barne akats bat gertatu da DDEML-an."
 
 #: ../src/msw/dde.cpp:1174
-msgid ""
-"an invalid transaction identifier was passed to a DDEML function.\n"
+msgid "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"eskualdaketa ezagutarazle baliogabe bat pasatu da DDEML eginkizun batera.\n"
+msgstr "eskualdaketa ezagutarazle baliogabe bat pasatu da DDEML eginkizun batera.\n"
 "Behin aplikazioak XTYP_XACT_COMPLETE irizkizunetik erantzundakoan,\n"
 "irizkizun horretarako ezgutarazlea ez da baliogarria gehiago."
 
@@ -8425,8 +8276,7 @@ msgstr "ezin da aurkitu agiri luzera %d agiri azaltzailean"
 
 #: ../src/msw/utils.cpp:369
 msgid "can't find user's HOME, using current directory."
-msgstr ""
-"ezin da aurkitu erabiltzailearen HASIERA, oraingo zuzenbidea erabiltzen."
+msgstr "ezin da aurkitu erabiltzailearen HASIERA, oraingo zuzenbidea erabiltzen."
 
 #: ../src/common/file.cpp:388
 #, c-format
@@ -9134,460 +8984,3 @@ msgstr "zlib akatsa %d"
 msgid "~"
 msgstr "~"
 
-#~ msgid "ADD"
-#~ msgstr "ADD"
-
-#~ msgid "BACK"
-#~ msgstr "ATZERA"
-
-#~ msgid "CANCEL"
-#~ msgstr "EZEZTATU"
-
-#~ msgid "CAPITAL"
-#~ msgstr "LARRIA"
-
-#~ msgid "CLEAR"
-#~ msgstr "GARBITU"
-
-#~ msgid "COMMAND"
-#~ msgstr "AGINDUAK"
-
-#~ msgid "Cannot create mutex."
-#~ msgstr "Ezin da mutex sortu."
-
-#~ msgid "Cannot resume thread %lu"
-#~ msgstr "Ezin da %lu haria kendu"
-
-#~ msgid "Cannot suspend thread %lu"
-#~ msgstr "Ezin da %lu haria utzi"
-
-#~ msgid "Couldn't acquire a mutex lock"
-#~ msgstr "Ezinezkoa mutex blokeoa lortzea"
-
-#~ msgid "Couldn't get hatch style from wxBrush."
-#~ msgstr "Ezinezkoa itzal estiloa lortzea wxBrush-tik."
-
-#~ msgid "Couldn't release a mutex"
-#~ msgstr "Ezinezkoa mutex argitaratzea"
-
-#~ msgid "DECIMAL"
-#~ msgstr "HAMARRENA"
-
-#~ msgid "DEL"
-#~ msgstr "EZAB"
-
-#~ msgid "DELETE"
-#~ msgstr "EZABATU"
-
-#~ msgid "DIVIDE"
-#~ msgstr "ZATITU"
-
-#~ msgid "DOWN"
-#~ msgstr "BEHERA"
-
-#~ msgid "END"
-#~ msgstr "AMAIERA"
-
-#~ msgid "ENTER"
-#~ msgstr "SARTU"
-
-#~ msgid "ESC"
-#~ msgstr "IRT"
-
-#~ msgid "ESCAPE"
-#~ msgstr "IRTEN"
-
-#~ msgid "EXECUTE"
-#~ msgstr "EXEKUTATU"
-
-#~ msgid "Execution of command '%s' failed with error: %ul"
-#~ msgstr "Hutsegitea '%s' komandoa exekutatzerakoan, akatsa: %ul"
-
-#~ msgid ""
-#~ "File '%s' already exists.\n"
-#~ "Do you want to replace it?"
-#~ msgstr ""
-#~ "'%s' agiria jadanik badago.\n"
-#~ "Ordeztea nahi duzu?"
-
-#~ msgid "HELP"
-#~ msgstr "LAGUNTZA"
-
-#~ msgid "HOME"
-#~ msgstr "HASIERA"
-
-#~ msgid "INS"
-#~ msgstr "TXER"
-
-#~ msgid "INSERT"
-#~ msgstr "TXERTATU"
-
-#~ msgid "KP_BEGIN"
-#~ msgstr "ZT_HASIERA"
-
-#~ msgid "KP_DECIMAL"
-#~ msgstr "ZT_HAMARRENA"
-
-#~ msgid "KP_DELETE"
-#~ msgstr "ZT_EZABATU"
-
-#~ msgid "KP_DIVIDE"
-#~ msgstr "ZT_ZATITU"
-
-#~ msgid "KP_DOWN"
-#~ msgstr "ZT_BEHERA"
-
-#~ msgid "KP_ENTER"
-#~ msgstr "ZT_SARTU"
-
-#~ msgid "KP_EQUAL"
-#~ msgstr "ZT_BERDIN"
-
-#~ msgid "KP_HOME"
-#~ msgstr "ZT_HASIERA"
-
-#~ msgid "KP_INSERT"
-#~ msgstr "ZT_TXERTATU"
-
-#~ msgid "KP_LEFT"
-#~ msgstr "ZT_EZKER"
-
-#~ msgid "KP_MULTIPLY"
-#~ msgstr "ZT_BIDER"
-
-#~ msgid "KP_NEXT"
-#~ msgstr "ZT_HURRENGOA"
-
-#~ msgid "KP_PAGEDOWN"
-#~ msgstr "ZT_ORRBEHERA"
-
-#~ msgid "KP_PAGEUP"
-#~ msgstr "ZT_ORRGORA"
-
-#~ msgid "KP_PRIOR"
-#~ msgstr "ZT_LEHEN"
-
-#~ msgid "KP_RIGHT"
-#~ msgstr "ZT_ESKUIN"
-
-#~ msgid "KP_SEPARATOR"
-#~ msgstr "ZT_BANANTZAILEA"
-
-#~ msgid "KP_SPACE"
-#~ msgstr "ZT_TARTEA"
-
-#~ msgid "KP_SUBTRACT"
-#~ msgstr "ZT_KENKETA"
-
-#~ msgid "LEFT"
-#~ msgstr "EZKER"
-
-#~ msgid "MENU"
-#~ msgstr "MENUA"
-
-#~ msgid "NUM_LOCK"
-#~ msgstr "ZENB_BLOK"
-
-#~ msgid "PAGEDOWN"
-#~ msgstr "ORRBEHERA"
-
-#~ msgid "PAGEUP"
-#~ msgstr "ORRGORA"
-
-#~ msgid "PAUSE"
-#~ msgstr "PAUSA"
-
-#~ msgid "PGDN"
-#~ msgstr "ORRBEH"
-
-#~ msgid "PGUP"
-#~ msgstr "ORRGOR"
-
-#~ msgid "PRINT"
-#~ msgstr "IRARKITU"
-
-#~ msgid "RETURN"
-#~ msgstr "ITZULI"
-
-#~ msgid "RIGHT"
-#~ msgstr "ESKUIN"
-
-#~ msgid "SCROLL_LOCK"
-#~ msgstr "IRRISTARI_BLOKEOA"
-
-#~ msgid "SELECT"
-#~ msgstr "HAUTATU"
-
-#~ msgid "SEPARATOR"
-#~ msgstr "BANANTZAILEA"
-
-#~ msgid "SNAPSHOT"
-#~ msgstr "BEREHALAKOA"
-
-#~ msgid "SPACE"
-#~ msgstr "TARTEA"
-
-#~ msgid "SUBTRACT"
-#~ msgstr "KENKETA"
-
-#~ msgid "TAB"
-#~ msgstr "TAB"
-
-#~ msgid "The print dialog returned an error."
-#~ msgstr "Irarketa elkarrizketak akats bat itzuli du."
-
-#~ msgid "The wxGtkPrinterDC cannot be used."
-#~ msgstr "wxGtkPrinterDC ezin da erabili."
-
-#~ msgid "Timer creation failed."
-#~ msgstr "Denboragailu sortze hutsegitea."
-
-#~ msgid "UP"
-#~ msgstr "UP"
-
-#~ msgid "WINDOWS_LEFT"
-#~ msgstr "WINDOWS_EZKER"
-
-#~ msgid "WINDOWS_MENU"
-#~ msgstr "WINDOWS_MENUA"
-
-#~ msgid "WINDOWS_RIGHT"
-#~ msgstr "WINDOWS_ESKUIN"
-
-#~ msgid "buffer is too small for Windows directory."
-#~ msgstr "bufferra txikiegia da Windowsen zuzenbiderako."
-
-#~ msgid "not implemented"
-#~ msgstr "ez da egin"
-
-#~ msgid "wxPrintout::GetPageInfo gives a null maxPage."
-#~ msgstr "wxPrintout::GetPageInfok gehOrrialde nuloa ematen du."
-
-#~ msgid "Event queue overflowed"
-#~ msgstr "Gertaera lerroak gainezka eginda"
-
-#~ msgid "Print preview"
-#~ msgstr "Irarketa aurreikuspena"
-
-#~ msgid "percent"
-#~ msgstr "ehuneko"
-
-#~ msgid "'"
-#~ msgstr "'"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "3"
-#~ msgstr "3"
-
-#~ msgid "4"
-#~ msgstr "4"
-
-#~ msgid "5"
-#~ msgstr "5"
-
-#~ msgid "6"
-#~ msgstr "6"
-
-#~ msgid "7"
-#~ msgstr "7"
-
-#~ msgid "8"
-#~ msgstr "8"
-
-#~ msgid "9"
-#~ msgstr "9"
-
-#~ msgid "Can't monitor non-existent path \"%s\" for changes."
-#~ msgstr "Ezin da monitorizatu ez-dagoen \"%s\" helburua aldaketetarako."
-
-#~ msgid "&Preview..."
-#~ msgstr "&Aurreikuspena..."
-
-#~ msgid "Preview..."
-#~ msgstr "Aurreikuspena..."
-
-#~ msgid "The vertical offset relative to the paragraph."
-#~ msgstr "Esaliarekiko zutikako antolakuntza erlatiboa."
-
-#~ msgid "Units for the object offset."
-#~ msgstr "Objetu antolakuntza unitateak."
-
-#~ msgid "&Save..."
-#~ msgstr "&Gorde..."
-
-#~ msgid "About "
-#~ msgstr "Honi buruz"
-
-#~ msgid "All files (*.*)|*"
-#~ msgstr "Agiri denak (*.*)|*"
-
-#~ msgid "Cannot initialize SciTech MGL!"
-#~ msgstr "Ezin da abiatu SciTech MGL!"
-
-#~ msgid "Cannot initialize display."
-#~ msgstr "Ezin da abiatu erakuspena."
-
-#~ msgid "Cannot start thread: error writing TLS"
-#~ msgstr "Ezin da haria hasi: akatsa TLS idazterakoan"
-
-#~ msgid "Close\tAlt-F4"
-#~ msgstr "Itxi\tAlt-F4"
-
-#~ msgid "Couldn't create cursor."
-#~ msgstr "Ezinezkoa kurtsorea sortzea."
-
-#~ msgid "Directory '%s' doesn't exist!"
-#~ msgstr "'%s' zuzenbidea ez dago!"
-
-#~ msgid "File %s does not exist."
-#~ msgstr "%s agiria ez dago."
-
-#~ msgid "Mode %ix%i-%i not available."
-#~ msgstr "%ix%i-%i modua ez da eskuragarria."
-
-#~ msgid "Paper Size"
-#~ msgstr "Paper Neurria"
-
-#~ msgid "&Goto..."
-#~ msgstr "&Joan hona..."
-
-#~ msgid "<<"
-#~ msgstr "<<"
-
-#~ msgid ">>"
-#~ msgstr ">>"
-
-#~ msgid ">>|"
-#~ msgstr ">>|"
-
-#~ msgid "Added item is invalid."
-#~ msgstr "Gehitutako gaia baliogabea da."
-
-#~ msgid "BIG5"
-#~ msgstr "BIG5"
-
-#~ msgid "Can't check image format of file '%s': file does not exist."
-#~ msgstr "Ezin da '%s' agiriaren irudi heuskarria egiaztatu: agiria ez dago."
-
-#~ msgid "Can't load image from file '%s': file does not exist."
-#~ msgstr "Ezin da irudia gertatu '%s' agiritik: agiria ez dago."
-
-#~ msgid "Cannot open file '%s'."
-#~ msgstr "Ezinezkoa '%s' agiria irekitzea"
-
-#~ msgid "Changed item is invalid."
-#~ msgstr "Aldatutako gaia baliogabea da."
-
-#~ msgid "Click to cancel this window."
-#~ msgstr "Klikatu leiho hau ezeztatzeko"
-
-#~ msgid "Click to confirm your selection."
-#~ msgstr "Klikatu zure hautapena berresteko."
-
-#~ msgid "Column could not be added to native control."
-#~ msgstr "Zutabea ezin da jatorrizko agintera gehitu."
-
-#~ msgid "Column does not have a renderer."
-#~ msgstr "Zutabeak ez du aurkezlerik."
-
-#~ msgid "Column pointer must not be NULL."
-#~ msgstr "Zutabe puntua ezin da NULL izan."
-
-#~ msgid "Could not add column to internal structures."
-#~ msgstr "Ezin da zutaberik gehitu barneko egiteratara."
-
-#~ msgid "Enter a page number between %d and %d:"
-#~ msgstr "Sartu orrialde zenbaki bat %d eta %d artekoa:"
-
-#~ msgid "Failed to create a status bar."
-#~ msgstr "Hutsegitea egoera barra sortzerakoan."
-
-#~ msgid "GB-2312"
-#~ msgstr "GB-2312"
-
-#~ msgid "Goto Page"
-#~ msgstr "Joan Orrialdera"
-
-#~ msgid "I64"
-#~ msgstr "I64"
-
-#~ msgid "Internal error, illegal wxCustomTypeInfo"
-#~ msgstr "Barne akatsa, legezkanpoko wxCustomTypeInfo"
-
-#~ msgid "Model pointer not initialized."
-#~ msgstr "Modelo puntua ez da hasi."
-
-#~ msgid "No model associated with control."
-#~ msgstr "Ez dago modelorik elkartuta agintearekin."
-
-#~ msgid "SHIFT-JIS"
-#~ msgstr "SHIFT-JIS"
-
-#~ msgid "The path '%s' contains too many \"..\"!"
-#~ msgstr "'%s' helburuak \"..\" gehiegi ditu!"
-
-#~ msgid "To be deleted item is invalid."
-#~ msgstr "Gaia ezabatza baliogabea da."
-
-#~ msgid "Update"
-#~ msgstr "Eguneratu"
-
-#~ msgid "Value must be %lld or higher"
-#~ msgstr "Balioa izan behar da %lld edo handiagoa"
-
-#~ msgid "Value must be %llu or higher"
-#~ msgstr "Balioa izan behar da %llu edo handiagoa"
-
-#~ msgid "Value must be %llu or less"
-#~ msgstr "Balio izan behar da %llu edo txikiagoa"
-
-#~ msgid "Warning"
-#~ msgstr "Kontuz"
-
-#~ msgid "Windows 2000 (build %lu"
-#~ msgstr "Windows 2000 (build %lu"
-
-#~ msgid "delegate has no type info"
-#~ msgstr "ordezkariak ez du mota argibiderik"
-
-#~ msgid "wxSearchEngine::LookFor must be called before scanning!"
-#~ msgstr "wxSearchEngine::LookFor deitua izan behar da mihaketaren aurretik!"
-
-#~ msgid "|<<"
-#~ msgstr "|<<"
-
-#~ msgid "%i of %i"
-#~ msgstr "%i %i-tik"
-
-#~ msgid "KP_ADD"
-#~ msgstr "ZT_GEHITU"
-
-#~ msgid "KP_END"
-#~ msgstr "ZT_AMAIERA"
-
-#~ msgid "KP_TAB"
-#~ msgstr "ZT_TAB"
-
-#~ msgid "KP_UP"
-#~ msgstr "ZT_GORA"
-
-#~ msgid "Last repeated message (\"%s\", %lu time) wasn't output"
-#~ msgid_plural "Last repeated message (\"%s\", %lu times) wasn't output"
-#~ msgstr[0] "Berregindako azken mezua (\"%s\", %lu aldiz) ez zen irteera"
-#~ msgstr[1] "Berregindako azken mezua (\"%s\", %lu aldiz) ez zen irteera"
-
-#~ msgid "The previous message repeated %lu time."
-#~ msgid_plural "The previous message repeated %lu times."
-#~ msgstr[0] "Aurreko mezua %lu aldiz errepikatuta."
-#~ msgstr[1] "Aurreko mezua %lu aldiz errepikatuta."
-
-#~ msgid "Enable vertical offset."
-#~ msgstr "Gaitu zutikako antolakuntza."
-
-#~ msgid "Vertical &Offset:"
-#~ msgstr "Zutikako An&tolakuntza:"
