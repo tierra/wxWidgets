@@ -1,32 +1,31 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets 3.0\n"
+"Project-Id-Version: wxwidgets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-23 22:46+0400\n"
-"PO-Revision-Date: 2015-06-08 08:22+0100\n"
-"Last-Translator: Zbyněk Schwarz <zbynek.schwarz@gmail.com>\n"
-"Language-Team: wxWidgets translators <wx-translators@wxwidgets.org>\n"
+"PO-Revision-Date: 2015-08-23 00:41-0400\n"
+"Last-Translator: tierra <bryan@ibaku.net>\n"
+"Language-Team: Czech\n"
 "Language: cs_CZ\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-Bookmarks: 1524,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
-"X-Generator: Poedit 1.8.1\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: wxwidgets\n"
+"X-Crowdin-Language: cs\n"
+"X-Crowdin-File: wxstd.pot\n"
 
 #: ../src/common/debugrpt.cpp:591
-msgid ""
-"\n"
+msgid "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
+msgstr "\n"
 "Pošlete, prosím, tento protokol udržovateli programu. Děkujeme!\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
 #: ../src/richtext/richtextstyledlg.cpp:222
 msgid " "
-msgstr " "
+msgstr ""
 
 #: ../src/generic/dbgrptg.cpp:326
 msgid "              Thank you and we're sorry for the inconvenience!\n"
@@ -1732,8 +1731,7 @@ msgstr "Nelze číst z inflate proudu: %s"
 
 #: ../src/common/zstream.cpp:244
 msgid "Can't read inflate stream: unexpected EOF in underlying stream."
-msgstr ""
-"Nelze číst proud inflate: neočekávaný konec souboru v základovém proudu."
+msgstr "Nelze číst proud inflate: neočekávaný konec souboru v základovém proudu."
 
 #: ../src/msw/registry.cpp:1056
 #, c-format
@@ -1785,9 +1783,7 @@ msgstr "Storno"
 
 #: ../src/osx/carbon/dataview.cpp:893
 msgid "Cannot create new column's ID. Probably max. number of columns reached."
-msgstr ""
-"Nelze vytvořit nové ID sloupce. Pravděpodobně byl dosažen limit maximálního "
-"počtu sloupců."
+msgstr "Nelze vytvořit nové ID sloupce. Pravděpodobně byl dosažen limit maximálního počtu sloupců."
 
 #: ../src/common/filefn.cpp:1280
 #, c-format
@@ -2304,9 +2300,7 @@ msgstr "Command"
 
 #: ../src/common/init.cpp:196
 #, c-format
-msgid ""
-"Command line argument %d couldn't be converted to Unicode and will be "
-"ignored."
+msgid "Command line argument %d couldn't be converted to Unicode and will be ignored."
 msgstr "Argument příkazové řádky %d nelze převést na Unicode a bude ignorován."
 
 #: ../src/msw/fontdlg.cpp:119
@@ -2315,11 +2309,8 @@ msgid "Common dialog failed with error code %0lx."
 msgstr "Dialogové okno selhalo s kódem chyby %0lx"
 
 #: ../src/gtk/window.cpp:4557
-msgid ""
-"Compositing not supported by this system, please enable it in your Window "
-"Manager."
-msgstr ""
-"Skládání není podporováno v tomto systému, povolte ho prosím ve správci oken."
+msgid "Compositing not supported by this system, please enable it in your Window Manager."
+msgstr "Skládání není podporováno v tomto systému, povolte ho prosím ve správci oken."
 
 #: ../src/html/helpwnd.cpp:1551
 msgid "Compressed HTML Help file (*.chm)|*.chm|"
@@ -2542,8 +2533,7 @@ msgstr "Nelze zavést hash tabulku GIF."
 
 #: ../src/common/imagpng.cpp:649
 msgid "Couldn't load a PNG image - file is corrupted or not enough memory."
-msgstr ""
-"Nelze načíst PNG obrázek - buď je soubor poškozený nebo není dostatek paměti."
+msgstr "Nelze načíst PNG obrázek - buď je soubor poškozený nebo není dostatek paměti."
 
 #: ../src/unix/sound.cpp:470
 #, c-format
@@ -2795,12 +2785,8 @@ msgid "Developers"
 msgstr "Vývojáři"
 
 #: ../src/msw/dialup.cpp:384
-msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"Funkce vytáčeného připojení nejsou dostupné, protože Služba vzdáleného "
-"přístupu (RAS) není nainstalována. Prosím, nainstalujte ji."
+msgid "Dial up functions are unavailable because the remote access service (RAS) is not installed on this machine. Please install it."
+msgstr "Funkce vytáčeného připojení nejsou dostupné, protože Služba vzdáleného přístupu (RAS) není nainstalována. Prosím, nainstalujte ji."
 
 #: ../src/generic/tipdlg.cpp:225
 msgid "Did you know..."
@@ -2838,12 +2824,8 @@ msgid "Discard changes and reload the last saved version?"
 msgstr "Zahodit změny a znovu nahrát poslední uloženou verzi?"
 
 #: ../src/html/helpwnd.cpp:502
-msgid ""
-"Display all index items that contain given substring. Search is case "
-"insensitive."
-msgstr ""
-"Zobrazí všechny položky rejstříku, které obsahují daný podřetězec. "
-"Nerozlišuje velká a malá písmena."
+msgid "Display all index items that contain given substring. Search is case insensitive."
+msgstr "Zobrazí všechny položky rejstříku, které obsahují daný podřetězec. Nerozlišuje velká a malá písmena."
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2859,15 +2841,12 @@ msgid "Divide"
 msgstr "Lomítko"
 
 #: ../src/msw/mimetype.cpp:725
-msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+msgid "Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"Chcete změnit příkaz používaný k %s souborů s příponou \"%s\" ?\n"
+msgstr "Chcete změnit příkaz používaný k %s souborů s příponou \"%s\" ?\n"
 "Stávající hodnota je \n"
 "%s, \n"
 "Nová hodnota je \n"
@@ -3056,10 +3035,8 @@ msgstr "Obálka pozvánka 220 x 220 mm"
 
 #: ../src/common/config.cpp:473
 #, c-format
-msgid ""
-"Environment variables expansion failed: missing '%c' at position %u in '%s'."
-msgstr ""
-"Chyba během expanze proměnných prostředí: chybí '%c' na pozici %u v '%s'."
+msgid "Environment variables expansion failed: missing '%c' at position %u in '%s'."
+msgstr "Chyba během expanze proměnných prostředí: chybí '%c' na pozici %u v '%s'."
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/dirctrlg.cpp:609
 #: ../src/generic/dirctrlg.cpp:620 ../src/generic/dirdlgg.cpp:352
@@ -3146,8 +3123,7 @@ msgstr "Executive, 7 1/4 x 10 1/2 palce"
 
 #: ../src/msw/registry.cpp:1238
 #, c-format
-msgid ""
-"Exporting registry key: file \"%s\" already exists and won't be overwritten."
+msgid "Exporting registry key: file \"%s\" already exists and won't be overwritten."
 msgstr "Exportuji klíč registru: soubor \"%s\" již existuje a nebude přepsán."
 
 #: ../src/common/fmapbase.cpp:195
@@ -3292,11 +3268,9 @@ msgstr "Nelze vytvořit adresář \"%s\""
 
 #: ../src/generic/dirdlgg.cpp:249
 #, c-format
-msgid ""
-"Failed to create directory '%s'\n"
+msgid "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"Nelze vytvořit adresář '%s'\n"
+msgstr "Nelze vytvořit adresář '%s'\n"
 "(Máte potřebná přístupová práva?)"
 
 #: ../src/unix/epolldispatcher.cpp:84
@@ -3411,12 +3385,8 @@ msgid "Failed to install signal handler"
 msgstr "Nelze instalovat obslužnou rutinu signálu"
 
 #: ../src/unix/threadpsx.cpp:1167
-msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
-msgstr ""
-"Nelze připojit vlákno, zjištěna možná chybná alokace paměti - restartujte "
-"prosím program"
+msgid "Failed to join a thread, potential memory leak detected - please restart the program"
+msgstr "Nelze připojit vlákno, zjištěna možná chybná alokace paměti - restartujte prosím program"
 
 #: ../src/msw/utils.cpp:679
 #, c-format
@@ -3609,11 +3579,8 @@ msgstr "Nelze přejmenovat klíč registru '%s' na '%s'."
 
 #: ../src/common/filefn.cpp:1124
 #, c-format
-msgid ""
-"Failed to rename the file '%s' to '%s' because the destination file already "
-"exists."
-msgstr ""
-"Nelze přejmenovat soubor '%s' na '%s' protože cílový soubor již existuje."
+msgid "Failed to rename the file '%s' to '%s' because the destination file already exists."
+msgstr "Nelze přejmenovat soubor '%s' na '%s' protože cílový soubor již existuje."
 
 #: ../src/msw/registry.cpp:626
 #, c-format
@@ -3928,12 +3895,8 @@ msgid "GIF: unknown error!!!"
 msgstr "GIF: neznámá chyba!!!"
 
 #: ../src/gtk/window.cpp:4539
-msgid ""
-"GTK+ installed on this machine is too old to support screen compositing, "
-"please install GTK+ 2.12 or later."
-msgstr ""
-"GTK+ instalovaný na tomto stroji je příliš starý pro podporu skládání "
-"obrazovky, nainstalujte prosím GTK+ 2.12 nebo novější."
+msgid "GTK+ installed on this machine is too old to support screen compositing, please install GTK+ 2.12 or later."
+msgstr "GTK+ instalovaný na tomto stroji je příliš starý pro podporu skládání obrazovky, nainstalujte prosím GTK+ 2.12 nebo novější."
 
 #: ../src/univ/themes/gtk.cpp:525
 msgid "GTK+ theme"
@@ -4176,29 +4139,20 @@ msgid "Icon & text renderer cannot render value; value type: "
 msgstr "Vykreslovač ikon a textu nemohl vykreslit hodnotu; typ hodnoty: "
 
 #: ../src/html/htmprint.cpp:282
-msgid ""
-"If possible, try changing the layout parameters to make the printout more "
-"narrow."
-msgstr ""
-"Pokud je to možné, zkuste změnit parametry rozvržení, aby byl výtisk užší."
+msgid "If possible, try changing the layout parameters to make the printout more narrow."
+msgstr "Pokud je to možné, zkuste změnit parametry rozvržení, aby byl výtisk užší."
 
 #: ../src/generic/dbgrptg.cpp:358
-msgid ""
-"If you have any additional information pertaining to this bug\n"
+msgid "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
-"Pokud máte nějaké další informace náležící k tomuto protokolu\n"
+msgstr "Pokud máte nějaké další informace náležící k tomuto protokolu\n"
 "chyby, zadejte je prosím zde a tyto k němu budou přidány:"
 
 #: ../src/generic/dbgrptg.cpp:324
-msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+msgid "If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
-"Pokud chcete úplně zrušit tento protokol ladění, zvolte, prosím, tlačítko "
-"\"Zrušit\",\n"
+msgstr "Pokud chcete úplně zrušit tento protokol ladění, zvolte, prosím, tlačítko \"Zrušit\",\n"
 "ale uvědomte si, že tímto můžete brzdit vylepšování programu, takže pokud\n"
 "je to možné, pokračujte, prosím, ve vytváření protokolu.\n"
 
@@ -4242,12 +4196,8 @@ msgid "Image is not of type %s."
 msgstr "Obrázek není typu %s."
 
 #: ../src/msw/textctrl.cpp:488
-msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"Není možné vytvořit prvek rich edit, místo něj použit obyčejný. "
-"Přeinstalujte prosím riched32.dll."
+msgid "Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll"
+msgstr "Není možné vytvořit prvek rich edit, místo něj použit obyčejný. Přeinstalujte prosím riched32.dll."
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4799,12 +4749,8 @@ msgid "MDI child"
 msgstr "MDI syn"
 
 #: ../src/msw/helpchm.cpp:56
-msgid ""
-"MS HTML Help functions are unavailable because the MS HTML Help library is "
-"not installed on this machine. Please install it."
-msgstr ""
-"Funkce MS HTML nápovědy nejsou dostupné, protože chybí příslušná komponenta. "
-"Prosím nainstalujte ji."
+msgid "MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it."
+msgstr "Funkce MS HTML nápovědy nejsou dostupné, protože chybí příslušná komponenta. Prosím nainstalujte ji."
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
@@ -5201,24 +5147,19 @@ msgstr "Nenalezeny žádné položky."
 
 #: ../src/common/fontmap.cpp:421
 #, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found,\n"
+msgid "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"Nenalezen žádný font použitelný k zobrazení textu v kódování '%s',\n"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "Nenalezen žádný font použitelný k zobrazení textu v kódování '%s',\n"
 "ale je k dispozici alternativní kódování '%s'.\n"
 "Přejete si použít toto kódování (jinak si budete muset vybrat jiné)?"
 
 #: ../src/common/fontmap.cpp:426
 #, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found.\n"
+msgid "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"Nenalezen žádný font použitelný k zobrazení textu v kódování '%s'.\n"
+msgstr "Nenalezen žádný font použitelný k zobrazení textu v kódování '%s'.\n"
 "Přejete si vybrat font, který se má s tímto kódováním použít\n"
 "(jinak se text v tomto kódování nezobrazí správně)?"
 
@@ -5247,8 +5188,7 @@ msgstr "Ještě nebylo nic nalezeno"
 
 #: ../src/osx/carbon/dataview.cpp:1674 ../src/osx/carbon/dataview.cpp:1784
 msgid "No renderer or invalid renderer type specified for custom data column."
-msgstr ""
-"Pro vlastní sloupec dat byl zadán žádný nebo neplatný typ vykreslovače."
+msgstr "Pro vlastní sloupec dat byl zadán žádný nebo neplatný typ vykreslovače."
 
 #: ../src/osx/carbon/dataview.cpp:1422
 msgid "No renderer specified for column."
@@ -5815,12 +5755,10 @@ msgstr "Prosím vyberte si poskytovatele (ISP), ke kterému se chcete připojit"
 
 #: ../src/msw/listctrl.cpp:372
 #, c-format
-msgid ""
-"Please install a newer version of comctl32.dll\n"
+msgid "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"Nainstalujte si prosím novou verzi knihovny comctl32.dll\n"
+msgstr "Nainstalujte si prosím novou verzi knihovny comctl32.dll\n"
 "(je potřeba alespoň verze 4.70, ale vy máte %d.%02d),\n"
 "jinak tento program nebude fungovat správně."
 
@@ -6017,10 +5955,8 @@ msgstr "Výtisk"
 
 #: ../src/common/debugrpt.cpp:565
 #, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
-msgstr ""
-"Zpracování protokolu ladění selhalo, ponechávám soubory v adresáři \"%s\"."
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr "Zpracování protokolu ladění selhalo, ponechávám soubory v adresáři \"%s\"."
 
 #: ../src/osx/carbon/dataview.cpp:2470
 msgid "Progress renderer cannot render value type; value type: "
@@ -6114,12 +6050,10 @@ msgstr "Klíč registru '%s' neexistuje, Nelze ho přejmenovat."
 
 #: ../src/msw/registry.cpp:719
 #, c-format
-msgid ""
-"Registry key '%s' is needed for normal system operation,\n"
+msgid "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"Klíč registru '%s' je potřeba k normálnímu běhu systému,\n"
+msgstr "Klíč registru '%s' je potřeba k normálnímu běhu systému,\n"
 "pokud ho smažete, systém bude nestabilní:\n"
 "operace přerušena."
 
@@ -6315,12 +6249,8 @@ msgid "Search"
 msgstr "Hledat"
 
 #: ../src/html/helpwnd.cpp:537
-msgid ""
-"Search contents of help book(s) for all occurrences of the text you typed "
-"above"
-msgstr ""
-"Prohledá obsah knih(y) s nápovědou a vypíše všechny výskyty textu, který "
-"jste zadali"
+msgid "Search contents of help book(s) for all occurrences of the text you typed above"
+msgstr "Prohledá obsah knih(y) s nápovědou a vypíše všechny výskyty textu, který jste zadali"
 
 #: ../src/generic/fdrepdlg.cpp:160
 msgid "Search direction"
@@ -6430,8 +6360,7 @@ msgstr "Nastavení..."
 
 #: ../src/msw/dialup.cpp:554
 msgid "Several active dialup connections found, choosing one randomly."
-msgstr ""
-"Nalezeno několik aktivních vytáčených připojení, vybírám jedno náhodně."
+msgstr "Nalezeno několik aktivních vytáčených připojení, vybírám jedno náhodně."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:272
 msgid "Sh&adow spread:"
@@ -6859,12 +6788,10 @@ msgstr "Kód znaku."
 
 #: ../src/common/fontmap.cpp:203
 #, c-format
-msgid ""
-"The charset '%s' is unknown. You may select\n"
+msgid "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"Znaková sada '%s' je neznámá. Můžete vybrat\n"
+msgstr "Znaková sada '%s' je neznámá. Můžete vybrat\n"
 "jinou sadu jako náhradu nebo stiskněte\n"
 "[Storno], pokud ji nelze nahradit"
 
@@ -6880,33 +6807,23 @@ msgstr "Výchozí styl pro další odstavec."
 
 #: ../src/generic/dirdlgg.cpp:231
 #, c-format
-msgid ""
-"The directory '%s' does not exist\n"
+msgid "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"Adresář '%s' neexistuje\n"
+msgstr "Adresář '%s' neexistuje\n"
 "Chcete ho vytvořit?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
-msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
-"\n"
+msgid "The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
-"Dokument \"%s\" se vodorovně na stránku nevejde a bude zkrácen, pokud bude "
-"vytisknut.\n"
-"\n"
+msgstr "Dokument \"%s\" se vodorovně na stránku nevejde a bude zkrácen, pokud bude vytisknut.\n\n"
 "Chcete přesto pokračovat v tisku?"
 
 #: ../src/common/docview.cpp:1205
 #, c-format
-msgid ""
-"The file '%s' doesn't exist and couldn't be opened.\n"
+msgid "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr ""
-"Soubor '%s' neexistuje a nemohl být otevřen.\n"
+msgstr "Soubor '%s' neexistuje a nemohl být otevřen.\n"
 "Byl odstraněn ze seznamu naposledy použitých souborů."
 
 #: ../src/richtext/richtextindentspage.cpp:208
@@ -7058,13 +6975,9 @@ msgid "The range to show."
 msgstr "Rozsah k zobrazení"
 
 #: ../src/generic/dbgrptg.cpp:322
-msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+msgid "The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
-"Protokol obsahuje soubory uvedené níže. Pokud některý z těchto souborů "
-"obsahuje citlivé informace,\n"
+msgstr "Protokol obsahuje soubory uvedené níže. Pokud některý z těchto souborů obsahuje citlivé informace,\n"
 "prosím odškrtněte je a tyto budou z protokolu odstraněny.\n"
 
 #: ../src/common/cmdline.cpp:1254
@@ -7190,12 +7103,8 @@ msgstr "Hodnota zaoblení rohu."
 
 #: ../src/msw/dialup.cpp:443
 #, c-format
-msgid ""
-"The version of remote access service (RAS) installed on this machine is too "
-"old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"Verze Služby vzdáleného přístupu (RAS) instalované na tomto počítači je "
-"příliš stará, prosím aktualizujte (následující požadovaná funkce chybí: %s)."
+msgid "The version of remote access service (RAS) installed on this machine is too old, please upgrade (the following required function is missing: %s)."
+msgstr "Verze Služby vzdáleného přístupu (RAS) instalované na tomto počítači je příliš stará, prosím aktualizujte (následující požadovaná funkce chybí: %s)."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
@@ -7207,16 +7116,12 @@ msgid "There is no column or renderer for the specified column index."
 msgstr "Pro zadaný index sloupce neexistuje žádný sloupec nebo vykreslovač."
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
-msgid ""
-"There was a problem during page setup: you may need to set a default printer."
+msgid "There was a problem during page setup: you may need to set a default printer."
 msgstr "Při nastavování stránky nastala chyba: nastavte výchozí tiskárnu."
 
 #: ../src/html/htmprint.cpp:255
-msgid ""
-"This document doesn't fit on the page horizontally and will be truncated "
-"when it is printed."
-msgstr ""
-"Tento dokument se vodorovně na stránku nevejde a bude při tisku zkrácen."
+msgid "This document doesn't fit on the page horizontally and will be truncated when it is printed."
+msgstr "Tento dokument se vodorovně na stránku nevejde a bude při tisku zkrácen."
 
 #: ../src/common/image.cpp:2720
 #, c-format
@@ -7228,40 +7133,24 @@ msgid "This platform does not support background transparency."
 msgstr "Tato platforma nepodporuje průhlednost pozadí."
 
 #: ../src/gtk/window.cpp:4568
-msgid ""
-"This program was compiled with a too old version of GTK+, please rebuild "
-"with GTK+ 2.12 or newer."
-msgstr ""
-"Tento program byl sestaven s příliš starou verzí GTK+, znovu ho, prosím, "
-"sestavte s GTK+ 2.12 nebo novější."
+msgid "This program was compiled with a too old version of GTK+, please rebuild with GTK+ 2.12 or newer."
+msgstr "Tento program byl sestaven s příliš starou verzí GTK+, znovu ho, prosím, sestavte s GTK+ 2.12 nebo novější."
 
 #: ../src/msw/datecontrols.cpp:59
-msgid ""
-"This system doesn't support date controls, please upgrade your version of "
-"comctl32.dll"
-msgstr ""
-"Tento systém nepodporuje ovládací prvky pro výběr data, aktualizujte, "
-"prosím, Vaši verzi comctl32.dll"
+msgid "This system doesn't support date controls, please upgrade your version of comctl32.dll"
+msgstr "Tento systém nepodporuje ovládací prvky pro výběr data, aktualizujte, prosím, Vaši verzi comctl32.dll"
 
 #: ../src/msw/thread.cpp:1251
-msgid ""
-"Thread module initialization failed: cannot store value in thread local "
-"storage"
-msgstr ""
-"Vlákno pro modul se nepodařilo zavést: nelze ukládat hodnoty do místního "
-"úložiště vláken"
+msgid "Thread module initialization failed: cannot store value in thread local storage"
+msgstr "Vlákno pro modul se nepodařilo zavést: nelze ukládat hodnoty do místního úložiště vláken"
 
 #: ../src/unix/threadpsx.cpp:1794
 msgid "Thread module initialization failed: failed to create thread key"
 msgstr "Selhalo zavedení modulu s vlákny: nelze vytvořit klíč vlákna"
 
 #: ../src/msw/thread.cpp:1239
-msgid ""
-"Thread module initialization failed: impossible to allocate index in thread "
-"local storage"
-msgstr ""
-"Vlákno pro modul se nepodařilo zavést: Nelze přidělit index do místního "
-"úložiště vláken"
+msgid "Thread module initialization failed: impossible to allocate index in thread local storage"
+msgstr "Vlákno pro modul se nepodařilo zavést: Nelze přidělit index do místního úložiště vláken"
 
 #: ../src/unix/threadpsx.cpp:1043
 msgid "Thread priority setting is ignored."
@@ -7370,12 +7259,8 @@ msgstr "Typ musí podporovat převod typu enum na long"
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
-"Operace typu \"%s\" selhala: Vlastnost označená \"%s\" je typu \"%s\", NE "
-"\"%s\"."
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr "Operace typu \"%s\" selhala: Vlastnost označená \"%s\" je typu \"%s\", NE \"%s\"."
 
 #: ../src/common/paper.cpp:134
 msgid "US Std Fanfold, 14 7/8 x 11 in"
@@ -7520,8 +7405,7 @@ msgstr "Volbu '%s' následovaly neočekávané znaky."
 #: ../src/unix/fswatcher_inotify.cpp:262
 #, c-format
 msgid "Unexpected event for \"%s\": no matching watch descriptor."
-msgstr ""
-"Neočekávaná událost pro \"%s\": žádný odpovídající popisovač sledování."
+msgstr "Neočekávaná událost pro \"%s\": žádný odpovídající popisovač sledování."
 
 #: ../src/common/cmdline.cpp:1195
 #, c-format
@@ -8234,13 +8118,10 @@ msgid "a DDEML application has created a prolonged race condition."
 msgstr "DDEML aplikace způsobila prodloužený souběh."
 
 #: ../src/msw/dde.cpp:1132
-msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+msgid "a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"Funkce DDEML byla zavolána bez předchozího volání DdeInitialize,\n"
+msgstr "Funkce DDEML byla zavolána bez předchozího volání DdeInitialize,\n"
 "nebo dostala neplatný identifikátor\n"
 "instance."
 
@@ -8277,12 +8158,10 @@ msgid "a request to end an advise transaction has timed out."
 msgstr "požadavek na ukončení advise transakce vypršel."
 
 #: ../src/msw/dde.cpp:1165
-msgid ""
-"a server-side transaction was attempted on a conversation\n"
+msgid "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"v konverzaci ukončené klientem došlo k pokusu o serverovou\n"
+msgstr "v konverzaci ukončené klientem došlo k pokusu o serverovou\n"
 "transakci, nebo se server před\n"
 "dokončením transakce ukončil ."
 
@@ -8295,13 +8174,11 @@ msgid "alt"
 msgstr "alt"
 
 #: ../src/msw/dde.cpp:1135
-msgid ""
-"an application initialized as APPCLASS_MONITOR has\n"
+msgid "an application initialized as APPCLASS_MONITOR has\n"
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"aplikace zavedená jako APPCLASS_MONITOR se\n"
+msgstr "aplikace zavedená jako APPCLASS_MONITOR se\n"
 "pokusila o přenos DDE,\n"
 "nebo se aplikace zavedená jako APPCMD_CLIENTONLY pokusila\n"
 "o přenos přes server."
@@ -8315,12 +8192,10 @@ msgid "an internal error has occurred in the DDEML."
 msgstr "nastala interní chyba v DDEML."
 
 #: ../src/msw/dde.cpp:1174
-msgid ""
-"an invalid transaction identifier was passed to a DDEML function.\n"
+msgid "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"DDEML funkce dostala neplatný identifikátor transakce.\n"
+msgstr "DDEML funkce dostala neplatný identifikátor transakce.\n"
 "Jakmile se aplikace vrátí z XTYP_XACT_COMPLETE callbacku, \n"
 "identifikátor transakce se stává neplatným."
 
@@ -9112,741 +8987,3 @@ msgstr "chyba zlib %d"
 msgid "~"
 msgstr "~"
 
-#~ msgid "ADD"
-#~ msgstr "PLUS"
-
-#~ msgid "BACK"
-#~ msgstr "BACKSPACE"
-
-#~ msgid "CANCEL"
-#~ msgstr "ZRUŠIT"
-
-#~ msgid "CAPITAL"
-#~ msgstr "KAPITÁLKY"
-
-#~ msgid "CLEAR"
-#~ msgstr "VYČISTIT"
-
-#~ msgid "COMMAND"
-#~ msgstr "PŘÍKAZ"
-
-#~ msgid "Cannot create mutex."
-#~ msgstr "Nelze vytvořit mutex."
-
-#~ msgid "Cannot resume thread %lu"
-#~ msgstr "Nelze obnovit vlákno %lu"
-
-#~ msgid "Cannot suspend thread %lu"
-#~ msgstr "Nelze ukončit vlákno %lu"
-
-#~ msgid "Couldn't acquire a mutex lock"
-#~ msgstr "Nelze získat zámek mutexu"
-
-#~ msgid "Couldn't get hatch style from wxBrush."
-#~ msgstr "Nelze získat styl šrafování z wxBrush."
-
-#~ msgid "Couldn't release a mutex"
-#~ msgstr "Nelze uvolnit mutex"
-
-#~ msgid "DECIMAL"
-#~ msgstr "DES. ČÁRKA"
-
-#~ msgid "DEL"
-#~ msgstr "DEL"
-
-#~ msgid "DELETE"
-#~ msgstr "DELETE"
-
-#~ msgid "DIVIDE"
-#~ msgstr "ROZDĚLIT"
-
-#~ msgid "DOWN"
-#~ msgstr "DOLŮ"
-
-#~ msgid "END"
-#~ msgstr "END"
-
-#~ msgid "ENTER"
-#~ msgstr "ENTER"
-
-#~ msgid "ESC"
-#~ msgstr "ESC"
-
-#~ msgid "ESCAPE"
-#~ msgstr "ESCAPE"
-
-#~ msgid "EXECUTE"
-#~ msgstr "SPUSTIT"
-
-#~ msgid "Execution of command '%s' failed with error: %ul"
-#~ msgstr "Volání příkazu '%s' selhalo s chybou: %ul"
-
-#~ msgid ""
-#~ "File '%s' already exists.\n"
-#~ "Do you want to replace it?"
-#~ msgstr ""
-#~ "Soubor '%s' již existuje.\n"
-#~ "Opravdu ho chcete přepsat?"
-
-#~ msgid "HELP"
-#~ msgstr "NÁPOVĚDA"
-
-#~ msgid "HOME"
-#~ msgstr "HOME"
-
-#~ msgid "INS"
-#~ msgstr "INS"
-
-#~ msgid "INSERT"
-#~ msgstr "INSERT"
-
-#~ msgid "KP_BEGIN"
-#~ msgstr "NK_ZAČÍT"
-
-#~ msgid "KP_DECIMAL"
-#~ msgstr "NK_DES. ČÁRKA"
-
-#~ msgid "KP_DELETE"
-#~ msgstr "NK_DELETE"
-
-#~ msgid "KP_DIVIDE"
-#~ msgstr "NK_LOMENO"
-
-#~ msgid "KP_DOWN"
-#~ msgstr "NK_DOLŮ"
-
-#~ msgid "KP_ENTER"
-#~ msgstr "NK_ENTER"
-
-#~ msgid "KP_EQUAL"
-#~ msgstr "NK_ROVNÁ SE"
-
-#~ msgid "KP_HOME"
-#~ msgstr "NK_HOME"
-
-#~ msgid "KP_INSERT"
-#~ msgstr "NK_INSERT"
-
-#~ msgid "KP_LEFT"
-#~ msgstr "NK_DOLEVA"
-
-#~ msgid "KP_MULTIPLY"
-#~ msgstr "NK_KRÁT"
-
-#~ msgid "KP_NEXT"
-#~ msgstr "NK_DALŠÍ"
-
-#~ msgid "KP_PAGEDOWN"
-#~ msgstr "NK_PAGEDOWN"
-
-#~ msgid "KP_PAGEUP"
-#~ msgstr "NK_PAGEUP"
-
-#~ msgid "KP_PRIOR"
-#~ msgstr "NK_PŘEDCHOZÍ"
-
-#~ msgid "KP_RIGHT"
-#~ msgstr "NK_DOPRAVA"
-
-#~ msgid "KP_SEPARATOR"
-#~ msgstr "NK_ODDĚLOVAČ"
-
-#~ msgid "KP_SPACE"
-#~ msgstr "NK_MEZERNÍK"
-
-#~ msgid "KP_SUBTRACT"
-#~ msgstr "NK_MÍNUS"
-
-#~ msgid "LEFT"
-#~ msgstr "DOLEVA"
-
-#~ msgid "MENU"
-#~ msgstr "MENU"
-
-#~ msgid "NUM_LOCK"
-#~ msgstr "NUM_LOCK"
-
-#~ msgid "PAGEDOWN"
-#~ msgstr "PAGEDOWN"
-
-#~ msgid "PAGEUP"
-#~ msgstr "PAGEUP"
-
-#~ msgid "PAUSE"
-#~ msgstr "PAUSE"
-
-#~ msgid "PGDN"
-#~ msgstr "PGDN"
-
-#~ msgid "PGUP"
-#~ msgstr "PGUP"
-
-#~ msgid "PRINT"
-#~ msgstr "PRINT"
-
-#~ msgid "RETURN"
-#~ msgstr "RETURN"
-
-#~ msgid "RIGHT"
-#~ msgstr "DOPRAVA"
-
-#~ msgid "SCROLL_LOCK"
-#~ msgstr "SCROLL_LOCK"
-
-#~ msgid "SELECT"
-#~ msgstr "VYBRAT"
-
-#~ msgid "SEPARATOR"
-#~ msgstr "ODDĚLOVAČ"
-
-#~ msgid "SNAPSHOT"
-#~ msgstr "SNAPSHOT"
-
-#~ msgid "SPACE"
-#~ msgstr "MEZERNÍK"
-
-#~ msgid "SUBTRACT"
-#~ msgstr "MÍNUS"
-
-#~ msgid "TAB"
-#~ msgstr "TAB"
-
-#~ msgid "The print dialog returned an error."
-#~ msgstr "Dialogové okno tisku vrátilo chybu."
-
-#~ msgid "The wxGtkPrinterDC cannot be used."
-#~ msgstr "Nelze použít wxGtkPrinterDC."
-
-#~ msgid "Timer creation failed."
-#~ msgstr "Vytvoření časovače selhalo."
-
-#~ msgid "UP"
-#~ msgstr "NAHORU"
-
-#~ msgid "WINDOWS_LEFT"
-#~ msgstr "WINDOWS_VLEVO"
-
-#~ msgid "WINDOWS_MENU"
-#~ msgstr "WINDOWS_MENU"
-
-#~ msgid "WINDOWS_RIGHT"
-#~ msgstr "WINDOWS_VPRAVO"
-
-#~ msgid "buffer is too small for Windows directory."
-#~ msgstr "vyrovnávací paměť pro adresář Windows je příliš malá."
-
-#~ msgid "not implemented"
-#~ msgstr "nezavedeno"
-
-#~ msgid "wxPrintout::GetPageInfo gives a null maxPage."
-#~ msgstr "wxPrintout::GetPageInfo dává nulový maxPage."
-
-#~ msgid "Event queue overflowed"
-#~ msgstr "Fronta událostí byla přeplněna"
-
-#~ msgid "percent"
-#~ msgstr "procent"
-
-#~ msgid "Print preview"
-#~ msgstr "Náhled tisku"
-
-#~ msgid "'"
-#~ msgstr "'"
-
-#~ msgid "1"
-#~ msgstr "1"
-
-#~ msgid "10"
-#~ msgstr "10"
-
-#~ msgid "3"
-#~ msgstr "3"
-
-#~ msgid "4"
-#~ msgstr "4"
-
-#~ msgid "5"
-#~ msgstr "5"
-
-#~ msgid "6"
-#~ msgstr "6"
-
-#~ msgid "7"
-#~ msgstr "7"
-
-#~ msgid "8"
-#~ msgstr "8"
-
-#~ msgid "9"
-#~ msgstr "9"
-
-#~ msgid "Can't monitor non-existent path \"%s\" for changes."
-#~ msgstr "Nelze sledovat změny neexistující cesty \"%s\""
-
-#~ msgid "File system containing watched object was unmounted"
-#~ msgstr "Systém souborů obsahující sledovaný objekt byl odpojen"
-
-#~ msgid "&Preview..."
-#~ msgstr "&Náhled..."
-
-#~ msgid "Passing an unkown object to GetObject"
-#~ msgstr "Předávání neznámého objektu do GetObject"
-
-#~ msgid "Preview..."
-#~ msgstr "Náhled..."
-
-#~ msgid "The vertical offset relative to the paragraph."
-#~ msgstr "Svislé posunutí vzhledem k odstavci."
-
-#~ msgid "Units for the object offset."
-#~ msgstr "Jednotky pro posunutí objektu."
-
-#~ msgid "&Save..."
-#~ msgstr "&Uložit..."
-
-#~ msgid "About "
-#~ msgstr "O"
-
-#~ msgid "All files (*.*)|*"
-#~ msgstr "Všechny soubory (*.*)|*"
-
-#~ msgid "Cannot initialize SciTech MGL!"
-#~ msgstr "Nelze zavést knihovnu SciTech MGL!"
-
-#~ msgid "Cannot initialize display."
-#~ msgstr "Nelze zavést zobrazení."
-
-#~ msgid "Cannot start thread: error writing TLS"
-#~ msgstr "Nelze spustit vlákno: chyba zápisu do TLS"
-
-#~ msgid "Close\tAlt-F4"
-#~ msgstr "Zavřít\tAlt-F4"
-
-#~ msgid "Couldn't create cursor."
-#~ msgstr "Nelze vytvořit kurzor."
-
-#~ msgid "Directory '%s' doesn't exist!"
-#~ msgstr "Adresář '%s' neexistuje!"
-
-#~ msgid "File %s does not exist."
-#~ msgstr "Soubor %s neexistuje."
-
-#~ msgid "Mode %ix%i-%i not available."
-#~ msgstr "Režim %ix%i-%i není k dispozici."
-
-#~ msgid "Paper Size"
-#~ msgstr "Velikost papíru"
-
-#~ msgid "&Goto..."
-#~ msgstr "&Přejít..."
-
-#~ msgid "<<"
-#~ msgstr "<<"
-
-#~ msgid ">>"
-#~ msgstr ">>"
-
-#~ msgid ">>|"
-#~ msgstr ">>|"
-
-#~ msgid "Added item is invalid."
-#~ msgstr "Přidaná položka je neplatná."
-
-#~ msgid "BIG5"
-#~ msgstr "BIG5"
-
-#~ msgid "Can't check image format of file '%s': file does not exist."
-#~ msgstr "Nelze detekovat formát obrázku '%s': soubor neexistuje."
-
-#~ msgid "Can't load image from file '%s': file does not exist."
-#~ msgstr "Nelze načíst obrázek ze souboru '%s': soubor neexistuje."
-
-#~ msgid "Cannot open file '%s'."
-#~ msgstr "Soubor '%s' nelze otevřít."
-
-#~ msgid "Changed item is invalid."
-#~ msgstr "Změněná položka je neplatná."
-
-#~ msgid "Click to cancel this window."
-#~ msgstr "Klikněte pro zrušení okna."
-
-#~ msgid "Click to confirm your selection."
-#~ msgstr "Klikněte pro potvrzení Vašeho výběru"
-
-#~ msgid "Column could not be added to native control."
-#~ msgstr "Sloupec nelze přidat k nativnímu ovládacímu prvku."
-
-#~ msgid "Column does not have a renderer."
-#~ msgstr "Sloupec nemá vykreslovač."
-
-#~ msgid "Column pointer must not be NULL."
-#~ msgstr "Ukazatel na sloupec nesmí být NULL."
-
-#~ msgid "Column's model column has no equivalent in the associated model."
-#~ msgstr "Model sloupce nemá obdobu v přidruženém modelu."
-
-#~ msgid "Could not add column to internal structures."
-#~ msgstr "Nelze přidat sloupec do vnitřních struktur."
-
-#~ msgid "Enter a page number between %d and %d:"
-#~ msgstr "Zadejte číslo stránky mezi %d a %d."
-
-#~ msgid "Failed to create a status bar."
-#~ msgstr "Nelze vytvořit status bar."
-
-#~ msgid "GB-2312"
-#~ msgstr "GB-2312"
-
-#~ msgid "Goto Page"
-#~ msgstr "Jdi na stránku"
-
-#~ msgid ""
-#~ "HTML pagination algorithm generated more than the allowed maximum number "
-#~ "of pages and it can't continue any longer!"
-#~ msgstr ""
-#~ "Algoritmus stránkování HTML vytvořil více než maximálně povolený počet "
-#~ "stránek a nemůže dále pokračovat!"
-
-#~ msgid "I64"
-#~ msgstr "I64"
-
-#~ msgid "Internal error, illegal wxCustomTypeInfo"
-#~ msgstr "Vnitřní chyba, neplatné wxCustomTypeInfo"
-
-#~ msgid "Model pointer not initialized."
-#~ msgstr "Ukazatel modelu není spuštěn."
-
-#~ msgid "No image handler for type %ld defined."
-#~ msgstr "Nebyla stanovena žádná obslužná rutina obrázku pro typ %ld."
-
-#~ msgid "No model associated with control."
-#~ msgstr "S tímto ovládacím prvkem není spojen žádný model."
-
-#~ msgid "Owner not initialized."
-#~ msgstr "Vlastník není inicializován."
-
-#~ msgid "Passed item is invalid."
-#~ msgstr "Předaná položka je neplatná"
-
-#~ msgid "Passing a already registered object to SetObjectName"
-#~ msgstr "Předávání už zaregistrovaného objektu do SetObjectName"
-
-#~ msgid "Pointer to dataview control must not be NULL"
-#~ msgstr "Ukazatel na ovládací prvek data view dat nesmí být NULL"
-
-#~ msgid "Pointer to native control must not be NULL."
-#~ msgstr "Ukazatel na nativní ovládací prvek nesmí být NULL."
-
-#~ msgid "SHIFT-JIS"
-#~ msgstr "SHIFT-JIS"
-
-#~ msgid ""
-#~ "Streaming delegates for not already streamed objects not yet supported"
-#~ msgstr "Proudění delegátů pro ještě neproudící objekty není podporováno"
-
-#~ msgid ""
-#~ "The data format for the GET-direction of the to be added data object "
-#~ "already exists"
-#~ msgstr "Formát data pro směr ZÍSKAT přidávaných dat objektu už existuje"
-
-#~ msgid ""
-#~ "The data format for the SET-direction of the to be added data object "
-#~ "already exists"
-#~ msgstr "Formát data pro směr NASTAVIT přidávaných dat objektu už existuje"
-
-#~ msgid "The file '%s' doesn't exist and couldn't be opened."
-#~ msgstr "Soubor '%s' neexistuje a nemůže být otevřen."
-
-#~ msgid "The path '%s' contains too many \"..\"!"
-#~ msgstr "Cesta '%s' obsahuje příliš mnoho \"..\"!"
-
-#~ msgid "To be deleted item is invalid."
-#~ msgstr "Položka k vymazání je neplatná."
-
-#~ msgid "Update"
-#~ msgstr "Aktualizovat"
-
-#~ msgid "Value must be %lld or higher"
-#~ msgstr "Hodnota musí být %lld nebo větší"
-
-#~ msgid "Value must be %llu or higher"
-#~ msgstr "Hodnota musí být %llu nebo větší"
-
-#~ msgid "Value must be %llu or less"
-#~ msgstr "Hodnota musí být %llu nebo menší"
-
-#~ msgid "Warning"
-#~ msgstr "Varování"
-
-#~ msgid "Windows 2000 (build %lu"
-#~ msgstr "Windows 2000 (sestavení %lu"
-
-#~ msgid "delegate has no type info"
-#~ msgstr "delegát nemá informace o typu"
-
-#~ msgid "wxSearchEngine::LookFor must be called before scanning!"
-#~ msgstr "wxSearchEngine::LookFor musí být zavolán před skenováním!"
-
-#~ msgid "|<<"
-#~ msgstr "|<<"
-
-#~ msgid "%.*f GB"
-#~ msgstr "%.*f GB"
-
-#~ msgid "%.*f MB"
-#~ msgstr "%.*f MB"
-
-#~ msgid "%.*f TB"
-#~ msgstr "%.*f TB"
-
-#~ msgid "%.*f kB"
-#~ msgstr "%.*f kB"
-
-#~ msgid "%s B"
-#~ msgstr "%s B"
-
-#~ msgid "Cannot convert dialog units: dialog unknown."
-#~ msgstr "Nelze převést dialogové jednotky: dialog není znám."
-
-#, fuzzy
-#~ msgid "Cannot convert from the charset '%s'!"
-#~ msgstr "Text nelze zkonvertovat z kódování '%s'!"
-
-#~ msgid "Cannot find container for unknown control '%s'."
-#~ msgstr "Nelze nalézt kontejner pro anonymní ovládací prvek '%s'."
-
-#~ msgid "Cannot find font node '%s'."
-#~ msgstr "Chybí uzel s fontem '%s'."
-
-#~ msgid "Cannot parse coordinates from '%s'."
-#~ msgstr "Nelze získat souřadníce z '%s'."
-
-#~ msgid "Cannot parse dimension from '%s'."
-#~ msgstr "Nelze ze '%s' získat rozměry."
-
-#, fuzzy
-#~ msgid "Cant create the thread event queue"
-#~ msgstr "Nelze vytvořit vlákno"
-
-#, fuzzy
-#~ msgid "Could not unlock mutex"
-#~ msgstr "Nelze vytvořit časovač"
-
-#, fuzzy
-#~ msgid "Failed to connect to session manager: %s"
-#~ msgstr "Nepodařilo se %s připojení k Internetu: %s"
-
-#, fuzzy
-#~ msgid "Failed to register OpenGL window class."
-#~ msgstr "Nelze inicializovat OpenGL"
-
-#~ msgid "Fatal error"
-#~ msgstr "Kritická chyba"
-
-#~ msgid "Fatal error: "
-#~ msgstr "Kritická chyba: "
-
-#~ msgid "Help : %s"
-#~ msgstr "Nápověda: %s"
-
-#~ msgid "Invalid XRC resource '%s': doesn't have root node 'resource'."
-#~ msgstr "Neplatný XRC zdroj '%s': chybí kořenový uzel 'resource'."
-
-#~ msgid "No handler found for XML node '%s', class '%s'!"
-#~ msgstr "Nenalezen žádný ovladač pro XML uzel '%s' třídy '%s'!"
-
-#~ msgid "Program aborted."
-#~ msgstr "Program přerušen."
-
-#~ msgid "Referenced object node with ref=\"%s\" not found!"
-#~ msgstr "Objektový uzel s ref=\"%s\" nenalezen!"
-
-#~ msgid "Resource files must have same version number!"
-#~ msgstr "Soubory se zdroji musí mít stejné číslo verze!"
-
-#~ msgid "Search!"
-#~ msgstr "Hledat!"
-
-#~ msgid "Sorry, could not open this file for saving."
-#~ msgstr "Tento soubor nelze otevřít pro zápis."
-
-#~ msgid "Sorry, could not save this file."
-#~ msgstr "Tento soubor nelze uložit."
-
-#~ msgid "Status: "
-#~ msgstr "Status: "
-
-#~ msgid "Subclass '%s' not found for resource '%s', not subclassing!"
-#~ msgstr "Podtřída '%s' ke zdroji '%s' nenalezena!"
-
-#~ msgid "Trying to solve a NULL hostname: giving up"
-#~ msgstr "Snažím se zjistit NULLové jméno počítače: vzdávám to"
-
-#~ msgid "Unknown style flag "
-#~ msgstr "Neznámý styl "
-
-#~ msgid "XRC resource '%s' (class '%s') not found!"
-#~ msgstr "XRC zdroj '%s' (třída '%s') nenalezen!"
-
-#, fuzzy
-#~ msgid "XRC resource: Cannot create animation from '%s'."
-#~ msgstr "XRC zdroje: Nelze vytvořit bitmapu z '%s'."
-
-#~ msgid "XRC resource: Cannot create bitmap from '%s'."
-#~ msgstr "XRC zdroje: Nelze vytvořit bitmapu z '%s'."
-
-#, fuzzy
-#~ msgid ""
-#~ "XRC resource: Incorrect colour specification '%s' for attribute '%s'."
-#~ msgstr "XRC zdroje: chybný popis barvy '%s' u vlastnosti '%s'."
-
-#~ msgid "[EMPTY]"
-#~ msgstr "[PRÁZDNÝ]"
-
-#~ msgid "catalog file for domain '%s' not found."
-#~ msgstr "katalog pro doménu '%s' nenalezen."
-
-#, fuzzy
-#~ msgid "encoding %i"
-#~ msgstr "Neznámá znaková sada %s"
-
-#~ msgid "looking for catalog '%s' in path '%s'."
-#~ msgstr "hledám katalog '%s' v cestě '%s'."
-
-#~ msgid "wxSocket: invalid signature in ReadMsg."
-#~ msgstr "wxSocket: chybná signatura v ReadMsg."
-
-#~ msgid "wxSocket: unknown event!."
-#~ msgstr "wxSocket: neznámá událost!"
-
-#, fuzzy
-#~ msgid " Couldn't create the UnicodeConverter"
-#~ msgstr "Nelze vytvořit časovač"
-
-#, fuzzy
-#~ msgid "&Open"
-#~ msgstr "&Otevřít..."
-
-#, fuzzy
-#~ msgid "&Print"
-#~ msgstr "Vytisknout"
-
-#, fuzzy
-#~ msgid "Bitmap resource specification %s not found."
-#~ msgstr "XRC zdroj '%s' (třída '%s') nenalezen!"
-
-#, fuzzy
-#~ msgid "Couldn't end the context on the overlay window"
-#~ msgstr "Nelze získat ukazatel na aktuální vlákno"
-
-#, fuzzy
-#~ msgid "Failed to get clipboard data."
-#~ msgstr "Nelze uložit data do schránky."
-
-#~ msgid "Failed to load shared library '%s' Error '%s'"
-#~ msgstr "Nelze načíst sdílenou knihovnu '%s', chyba '%s'"
-
-#, fuzzy
-#~ msgid "Found "
-#~ msgstr "Najít"
-
-#, fuzzy
-#~ msgid "Icon resource specification %s not found."
-#~ msgstr "XRC zdroj '%s' (třída '%s') nenalezen!"
-
-#~ msgid "Option '%s' requires a value, '=' expected."
-#~ msgstr "Volba '%s' vyžaduje hodnotu, očekávám '='."
-
-#, fuzzy
-#~ msgid "Select all"
-#~ msgstr "Vybrat &vše"
-
-#~ msgid "Warning: attempt to remove HTML tag handler from empty stack."
-#~ msgstr "Varování: pokus o vyjmutí HTML tag handleru z prázdného zásobníku."
-
-#~ msgid "establish"
-#~ msgstr "navázat"
-
-#~ msgid "initiate"
-#~ msgstr "inicializovat"
-
-#~ msgid "invalid eof() return value."
-#~ msgstr "špatná návratová hodnota eof()."
-
-#~ msgid "unknown line terminator"
-#~ msgstr "neznámý konec řádku"
-
-#~ msgid "writing"
-#~ msgstr "zápis"
-
-#~ msgid "."
-#~ msgstr "."
-
-#~ msgid "Cannot open URL '%s'"
-#~ msgstr "Nelze otevřít URL '%s'"
-
-#~ msgid "Error "
-#~ msgstr "Chyba"
-
-#~ msgid "Failed to create directory %s/.gnome."
-#~ msgstr "Nelze vytvořit uživatelský %s/.gnome."
-
-#~ msgid "Failed to create directory %s/mime-info."
-#~ msgstr "Nelze vytvořit adresář %s/mime-info."
-
-#~ msgid "Mailcap file %s, line %d: incomplete entry ignored."
-#~ msgstr "Soubor Mailcap %s, řádka %d: nekompletní položka ignorována."
-
-#~ msgid "Mime.types file %s, line %d: unterminated quoted string."
-#~ msgstr "Soubor Mime.types %s, řádka %d: neukončený uzávorkovaný řetězec."
-
-#~ msgid "Unknown field in file %s, line %d: '%s'."
-#~ msgstr "Neznámá položka v souboru %s, řádka %d: '%s'."
-
-#~ msgid "bold "
-#~ msgstr "tučné "
-
-#~ msgid "light "
-#~ msgstr "tenké "
-
-#~ msgid "underlined "
-#~ msgstr "podtržené "
-
-#, fuzzy
-#~ msgid ""
-#~ "Failed to get stack backtrace:\n"
-#~ "%s"
-#~ msgstr "Nepodařilo se získat jména ISP: %s"
-
-#~ msgid "Loading Grey Ascii PNM image is not yet implemented."
-#~ msgstr "Načítání šedých ascii PNM obrázků není ještě implementováno."
-
-#~ msgid "Loading Grey Raw PNM image is not yet implemented."
-#~ msgstr "Načítání šedých raw PNM obrázků není ještě implementováno."
-
-#, fuzzy
-#~ msgid "Cannot wait on thread to exit."
-#~ msgstr "Nelze počkat na ukončení vlákna"
-
-#~ msgid "Could not load Rich Edit DLL '%s'"
-#~ msgstr "Nelze načíst Rich Edit DLL '%s'"
-
-#~ msgid "ZIP handler currently supports only local files!"
-#~ msgstr "ZIP soubory lze otevřít jenom z disku!"
-
-#, fuzzy
-#~ msgid ""
-#~ "can't seek on file descriptor %d, large files support is not enabled."
-#~ msgstr "Nelze seekovat v deskriptoru %d"
-
-#~ msgid "More..."
-#~ msgstr "Více..."
-
-#~ msgid "Setup"
-#~ msgstr "Nastavení"
-
-#~ msgid "Backward"
-#~ msgstr "Zpět"
-
-#~ msgid "GetUnusedColour:: No Unused Color in image "
-#~ msgstr "GetUnusedColour: v obrázku není žádná nepoužitá barva"

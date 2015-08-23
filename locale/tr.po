@@ -1,37 +1,31 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-#
-# Translators:
-# Kaya Zeren <kayazeren@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
-"Project-Id-Version: wxWidgets (unofficial)\n"
+"Project-Id-Version: wxwidgets\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-23 22:46+0400\n"
-"PO-Revision-Date: 2014-11-26 21:27+0200\n"
-"Last-Translator: Kaya Zeren <kayazeren@gmail.com>\n"
-"Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/"
-"wxwidgets_unofficial/language/tr_TR/)\n"
+"PO-Revision-Date: 2015-08-23 00:42-0400\n"
+"Last-Translator: tierra <bryan@ibaku.net>\n"
+"Language-Team: Turkish\n"
 "Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: wxwidgets\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: wxstd.pot\n"
 
 #: ../src/common/debugrpt.cpp:591
-msgid ""
-"\n"
+msgid "\n"
 "Please send this report to the program maintainer, thank you!\n"
-msgstr ""
-"\n"
+msgstr "\n"
 "Lütfen bu raporu program geliştiricisine gönderin, teşekkürler!\n"
 
 #: ../src/richtext/richtextstyledlg.cpp:210
 #: ../src/richtext/richtextstyledlg.cpp:222
 msgid " "
-msgstr " "
+msgstr ""
 
 #: ../src/generic/dbgrptg.cpp:326
 msgid "              Thank you and we're sorry for the inconvenience!\n"
@@ -125,6 +119,7 @@ msgstr "%i / %u"
 msgid "%ld byte"
 msgid_plural "%ld bytes"
 msgstr[0] "%ld bayt"
+msgstr[1] ""
 
 #: ../src/html/helpwnd.cpp:1033
 #, c-format
@@ -753,7 +748,6 @@ msgid "&Vertical alignment:"
 msgstr "&Dikey hizalama:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:236
-#, fuzzy
 msgid "&Vertical offset:"
 msgstr "&Dikey hizalama:"
 
@@ -1788,8 +1782,7 @@ msgstr "İptal"
 
 #: ../src/osx/carbon/dataview.cpp:893
 msgid "Cannot create new column's ID. Probably max. number of columns reached."
-msgstr ""
-"Yeni sütunun kodu oluşturulamadı. En fazla sütun sayısına ulaşılmış olabilir."
+msgstr "Yeni sütunun kodu oluşturulamadı. En fazla sütun sayısına ulaşılmış olabilir."
 
 #: ../src/common/filefn.cpp:1280
 #, c-format
@@ -2000,12 +1993,10 @@ msgstr "Stili Değiştirin"
 #: ../src/common/fileconf.cpp:364
 #, c-format
 msgid "Changes won't be saved to avoid overwriting the existing file \"%s\""
-msgstr ""
-"Varolan \"%s\" dosyasının üstüne yazılmasını önlemek için değişiklikler "
-"kaydedilmeyecek."
+msgstr "Varolan \"%s\" dosyasının üstüne yazılmasını önlemek için değişiklikler kaydedilmeyecek."
 
 #: ../src/gtk/filedlg.cpp:87 ../src/gtk/filepicker.cpp:190
-#, fuzzy, c-format
+#, c-format
 msgid "Changing current directory to \"%s\" failed"
 msgstr "\"%s\" klasörü oluşturulamadı"
 
@@ -2308,9 +2299,7 @@ msgstr "Komut"
 
 #: ../src/common/init.cpp:196
 #, c-format
-msgid ""
-"Command line argument %d couldn't be converted to Unicode and will be "
-"ignored."
+msgid "Command line argument %d couldn't be converted to Unicode and will be ignored."
 msgstr "%d komut satırı değişkeni Unikoda çevrilemediğinden yoksayılacak."
 
 #: ../src/msw/fontdlg.cpp:119
@@ -2319,12 +2308,8 @@ msgid "Common dialog failed with error code %0lx."
 msgstr "Ortak diyalog %0lx hata koduyla sonlandı."
 
 #: ../src/gtk/window.cpp:4557
-msgid ""
-"Compositing not supported by this system, please enable it in your Window "
-"Manager."
-msgstr ""
-"Sistmein birleştirme (compositing) desteği etkin değil. Lütfen Pencere "
-"Yöneticinizden etkinleştirin."
+msgid "Compositing not supported by this system, please enable it in your Window Manager."
+msgstr "Sistmein birleştirme (compositing) desteği etkin değil. Lütfen Pencere Yöneticinizden etkinleştirin."
 
 #: ../src/html/helpwnd.cpp:1551
 msgid "Compressed HTML Help file (*.chm)|*.chm|"
@@ -2596,7 +2581,7 @@ msgid "Create new directory"
 msgstr "Yeni klasör oluşturun"
 
 #: ../src/xrc/xmlres.cpp:2441
-#, fuzzy, c-format
+#, c-format
 msgid "Creating %s \"%s\" failed."
 msgstr "'%s'', '%s' içine açılamadı."
 
@@ -2799,12 +2784,8 @@ msgid "Developers"
 msgstr "Geliştiriciler"
 
 #: ../src/msw/dialup.cpp:384
-msgid ""
-"Dial up functions are unavailable because the remote access service (RAS) is "
-"not installed on this machine. Please install it."
-msgstr ""
-"Uzaktan erişim hizmeti (RAS) kurulu olmadığı için arama işlevleri "
-"kullanılamıyor. Lütfen kurun."
+msgid "Dial up functions are unavailable because the remote access service (RAS) is not installed on this machine. Please install it."
+msgstr "Uzaktan erişim hizmeti (RAS) kurulu olmadığı için arama işlevleri kullanılamıyor. Lütfen kurun."
 
 #: ../src/generic/tipdlg.cpp:225
 msgid "Did you know..."
@@ -2842,12 +2823,8 @@ msgid "Discard changes and reload the last saved version?"
 msgstr "Değişiklikler iptal edilip son kaydedilmiş sürüme dönülsün mü?"
 
 #: ../src/html/helpwnd.cpp:502
-msgid ""
-"Display all index items that contain given substring. Search is case "
-"insensitive."
-msgstr ""
-"Verilen altdizgeyi içeren tüm dizin elemanları görüntülensin. Arama küçük-"
-"büyük harfe duyarlıdır."
+msgid "Display all index items that contain given substring. Search is case insensitive."
+msgstr "Verilen altdizgeyi içeren tüm dizin elemanları görüntülensin. Arama küçük-büyük harfe duyarlıdır."
 
 #: ../src/html/helpwnd.cpp:679
 msgid "Display options dialog"
@@ -2863,16 +2840,12 @@ msgid "Divide"
 msgstr "Bölü"
 
 #: ../src/msw/mimetype.cpp:725
-msgid ""
-"Do you want to overwrite the command used to %s files with extension \"%s"
-"\" ?\n"
+msgid "Do you want to overwrite the command used to %s files with extension \"%s\" ?\n"
 "Current value is \n"
 "%s, \n"
 "New value is \n"
 "%s %1"
-msgstr ""
-"%s dosyaları için kullanılan komutu değiştirmek istiyor musunuz (\"%s\" "
-"uzantılı dosyalar) ?\n"
+msgstr "%s dosyaları için kullanılan komutu değiştirmek istiyor musunuz (\"%s\" uzantılı dosyalar) ?\n"
 "Geçerli değer \n"
 "%s, \n"
 "Yeni değer \n"
@@ -2993,31 +2966,26 @@ msgstr "Bir artalan rengini etkinleştirir."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:197
 #: ../src/richtext/richtextbackgroundpage.cpp:199
-#, fuzzy
 msgid "Enables a shadow."
 msgstr "Bir artalan rengini etkinleştirir."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:301
 #: ../src/richtext/richtextbackgroundpage.cpp:303
-#, fuzzy
 msgid "Enables the blur distance."
 msgstr "Genişlik değeri kullanılsın."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:261
 #: ../src/richtext/richtextbackgroundpage.cpp:263
-#, fuzzy
 msgid "Enables the shadow colour."
 msgstr "Bir artalan rengini etkinleştirir."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:328
 #: ../src/richtext/richtextbackgroundpage.cpp:330
-#, fuzzy
 msgid "Enables the shadow opacity."
 msgstr "Genişlik değeri kullanılsın."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:274
 #: ../src/richtext/richtextbackgroundpage.cpp:276
-#, fuzzy
 msgid "Enables the shadow spread."
 msgstr "Genişlik değeri kullanılsın."
 
@@ -3066,8 +3034,7 @@ msgstr "Davetiye Zarf 220 x 220 mm"
 
 #: ../src/common/config.cpp:473
 #, c-format
-msgid ""
-"Environment variables expansion failed: missing '%c' at position %u in '%s'."
+msgid "Environment variables expansion failed: missing '%c' at position %u in '%s'."
 msgstr "Ortam değişkenleri açılamadı: eksik '%c', konum %u, '%s' içinde."
 
 #: ../src/generic/dirctrlg.cpp:591 ../src/generic/dirctrlg.cpp:609
@@ -3155,8 +3122,7 @@ msgstr "Executive, 7 1/4 x 10 1/2 inç"
 
 #: ../src/msw/registry.cpp:1238
 #, c-format
-msgid ""
-"Exporting registry key: file \"%s\" already exists and won't be overwritten."
+msgid "Exporting registry key: file \"%s\" already exists and won't be overwritten."
 msgstr "Kayıt anahtarı verme: \"%s\" dosyası zaten var, üstüne yazılmayacak."
 
 #: ../src/common/fmapbase.cpp:195
@@ -3301,11 +3267,9 @@ msgstr "\"%s\" klasörü oluşturulamadı"
 
 #: ../src/generic/dirdlgg.cpp:249
 #, c-format
-msgid ""
-"Failed to create directory '%s'\n"
+msgid "Failed to create directory '%s'\n"
 "(Do you have the required permissions?)"
-msgstr ""
-"'%s' klasörü oluşturulamadı\n"
+msgstr "'%s' klasörü oluşturulamadı\n"
 "(Yeterli izniniz var mı?)"
 
 #: ../src/unix/epolldispatcher.cpp:84
@@ -3420,12 +3384,8 @@ msgid "Failed to install signal handler"
 msgstr "İşaret işleyici kurulamadı"
 
 #: ../src/unix/threadpsx.cpp:1167
-msgid ""
-"Failed to join a thread, potential memory leak detected - please restart the "
-"program"
-msgstr ""
-"İş parçacığına bağlanılamadı, olası bellek taşması bulundu - lütfen programı "
-"yeniden başlatın"
+msgid "Failed to join a thread, potential memory leak detected - please restart the program"
+msgstr "İş parçacığına bağlanılamadı, olası bellek taşması bulundu - lütfen programı yeniden başlatın"
 
 #: ../src/msw/utils.cpp:679
 #, c-format
@@ -3618,12 +3578,8 @@ msgstr "'%s' kayıt değeri '%s' olarak yeniden adlandırılamadı."
 
 #: ../src/common/filefn.cpp:1124
 #, c-format
-msgid ""
-"Failed to rename the file '%s' to '%s' because the destination file already "
-"exists."
-msgstr ""
-"'%s' dosyası aynı adlı bir dosya olduğundan '%s' olarak yeniden "
-"adlandırılamadı."
+msgid "Failed to rename the file '%s' to '%s' because the destination file already exists."
+msgstr "'%s' dosyası aynı adlı bir dosya olduğundan '%s' olarak yeniden adlandırılamadı."
 
 #: ../src/msw/registry.cpp:626
 #, c-format
@@ -3938,12 +3894,8 @@ msgid "GIF: unknown error!!!"
 msgstr "GIF: bilinmeyen hata!!!"
 
 #: ../src/gtk/window.cpp:4539
-msgid ""
-"GTK+ installed on this machine is too old to support screen compositing, "
-"please install GTK+ 2.12 or later."
-msgstr ""
-"Yüklü GTK+ çok eski ve ekran karmayı desteklemiyor. Lütfen GTK+ 2.12 ya da "
-"üzeri bir sürüm yükleyin."
+msgid "GTK+ installed on this machine is too old to support screen compositing, please install GTK+ 2.12 or later."
+msgstr "Yüklü GTK+ çok eski ve ekran karmayı desteklemiyor. Lütfen GTK+ 2.12 ya da üzeri bir sürüm yükleyin."
 
 #: ../src/univ/themes/gtk.cpp:525
 msgid "GTK+ theme"
@@ -3975,9 +3927,7 @@ msgstr "'GetPropertyCollection' işlevi genel bir erişici üzerinden çağrıld
 
 #: ../include/wx/xtiprop.h:202
 msgid "GetPropertyCollection called w/o valid collection getter"
-msgstr ""
-"'GetPropertyCollection' işlevi geçerli bir koleksiyon alıcısı olmaksızın "
-"çağrıldı"
+msgstr "'GetPropertyCollection' işlevi geçerli bir koleksiyon alıcısı olmaksızın çağrıldı"
 
 #: ../src/html/helpwnd.cpp:660
 msgid "Go back"
@@ -4188,28 +4138,20 @@ msgid "Icon & text renderer cannot render value; value type: "
 msgstr "Simge ve metin görüntüleyici değeri işleyemiyor; değer tipi:"
 
 #: ../src/html/htmprint.cpp:282
-msgid ""
-"If possible, try changing the layout parameters to make the printout more "
-"narrow."
-msgstr ""
-"Olabiliyorsa, çıktıyı daraltmak için sayfa ayarlarını değiştirmeyi deneyin."
+msgid "If possible, try changing the layout parameters to make the printout more narrow."
+msgstr "Olabiliyorsa, çıktıyı daraltmak için sayfa ayarlarını değiştirmeyi deneyin."
 
 #: ../src/generic/dbgrptg.cpp:358
-msgid ""
-"If you have any additional information pertaining to this bug\n"
+msgid "If you have any additional information pertaining to this bug\n"
 "report, please enter it here and it will be joined to it:"
-msgstr ""
-"Bu hata raporuna ekleyeceğiniz bir bilgi varsa,\n"
+msgstr "Bu hata raporuna ekleyeceğiniz bir bilgi varsa,\n"
 "lütfen buraya yazın:"
 
 #: ../src/generic/dbgrptg.cpp:324
-msgid ""
-"If you wish to suppress this debug report completely, please choose the "
-"\"Cancel\" button,\n"
+msgid "If you wish to suppress this debug report completely, please choose the \"Cancel\" button,\n"
 "but be warned that it may hinder improving the program, so if\n"
 "at all possible please do continue with the report generation.\n"
-msgstr ""
-"Bu hata raporunu göndermek istemiyorsanız, \"İptal\" düğmesine tıklayın,\n"
+msgstr "Bu hata raporunu göndermek istemiyorsanız, \"İptal\" düğmesine tıklayın,\n"
 "ancak bu rapor, yazılımın geliştirilmesine yardımcı olabilir, \n"
 "bu nedenle olanağınız varsa raporu gönderin.\n"
 
@@ -4253,12 +4195,8 @@ msgid "Image is not of type %s."
 msgstr "Görsel dosyası %s tipinde değil."
 
 #: ../src/msw/textctrl.cpp:488
-msgid ""
-"Impossible to create a rich edit control, using simple text control instead. "
-"Please reinstall riched32.dll"
-msgstr ""
-"Zengin metin denetimi oluşturulamıyor. Onun yerine basit metin denetimi "
-"kullanılacak. Lütfen riched32.dll kitaplığını yeniden yükleyin."
+msgid "Impossible to create a rich edit control, using simple text control instead. Please reinstall riched32.dll"
+msgstr "Zengin metin denetimi oluşturulamıyor. Onun yerine basit metin denetimi kullanılacak. Lütfen riched32.dll kitaplığını yeniden yükleyin."
 
 #: ../src/unix/utilsunx.cpp:297
 msgid "Impossible to get child process input"
@@ -4649,10 +4587,11 @@ msgid "Last page"
 msgstr "Son sayfa"
 
 #: ../src/common/log.cpp:309
-#, fuzzy, c-format
+#, c-format
 msgid "Last repeated message (\"%s\", %u time) wasn't output"
 msgid_plural "Last repeated message (\"%s\", %u times) wasn't output"
 msgstr[0] "Son yinelenen ileti (\"%s\", %lu kez) çıkış değildi"
+msgstr[1] ""
 
 #: ../src/common/paper.cpp:104
 msgid "Ledger, 17 x 11 in"
@@ -4741,8 +4680,7 @@ msgstr "Limon"
 #: ../src/generic/helpext.cpp:294
 #, c-format
 msgid "Line %lu of map file \"%s\" has invalid syntax, skipped."
-msgstr ""
-"%lu satırında \"%s\" eşleştirme dosyası içinde sözdizimi hatası var, atlandı."
+msgstr "%lu satırında \"%s\" eşleştirme dosyası içinde sözdizimi hatası var, atlandı."
 
 #: ../src/richtext/richtextliststylepage.cpp:444
 msgid "Line spacing:"
@@ -4809,12 +4747,8 @@ msgid "MDI child"
 msgstr "MDI alt"
 
 #: ../src/msw/helpchm.cpp:56
-msgid ""
-"MS HTML Help functions are unavailable because the MS HTML Help library is "
-"not installed on this machine. Please install it."
-msgstr ""
-"MS HTML Yardım kitaplığı yüklü olmadığından yardım işlevleri kullanılamıyor. "
-"Lütfen yükleyin."
+msgid "MS HTML Help functions are unavailable because the MS HTML Help library is not installed on this machine. Please install it."
+msgstr "MS HTML Yardım kitaplığı yüklü olmadığından yardım işlevleri kullanılamıyor. Lütfen yükleyin."
 
 #: ../src/univ/themes/win32.cpp:3754
 msgid "Ma&ximize"
@@ -5211,25 +5145,19 @@ msgstr "Hiç bir kayıt bulunamadı."
 
 #: ../src/common/fontmap.cpp:421
 #, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found,\n"
+msgid "No font for displaying text in encoding '%s' found,\n"
 "but an alternative encoding '%s' is available.\n"
-"Do you want to use this encoding (otherwise you will have to choose another "
-"one)?"
-msgstr ""
-"Metni '%s' kodlamasıyla görüntüleyecek bir yazı tipi yok,\n"
+"Do you want to use this encoding (otherwise you will have to choose another one)?"
+msgstr "Metni '%s' kodlamasıyla görüntüleyecek bir yazı tipi yok,\n"
 "ancak onun yerine '%s' kodlama seçeneği kullanılabilir.\n"
-"Bu kodlamayı kullanmak istiyor musunuz (aksi halde başka bir tane "
-"seçmelisiniz) ?"
+"Bu kodlamayı kullanmak istiyor musunuz (aksi halde başka bir tane seçmelisiniz) ?"
 
 #: ../src/common/fontmap.cpp:426
 #, c-format
-msgid ""
-"No font for displaying text in encoding '%s' found.\n"
+msgid "No font for displaying text in encoding '%s' found.\n"
 "Would you like to select a font to be used for this encoding\n"
 "(otherwise the text in this encoding will not be shown correctly)?"
-msgstr ""
-"Metni '%s' kodlamasıyla görüntüleyecek bir yazı tipi yok.\n"
+msgstr "Metni '%s' kodlamasıyla görüntüleyecek bir yazı tipi yok.\n"
 "Bu kodlamayı kullanabileceğiniz bir yazı tipi seçmek istiyor musunuz\n"
 "(aksi halde bu kodlamadaki metin doğru olarak görüntülenmez) ?"
 
@@ -5825,12 +5753,10 @@ msgstr "Lütfen bağlanmak istediğiniz servis sağlayıcıyı seçin"
 
 #: ../src/msw/listctrl.cpp:372
 #, c-format
-msgid ""
-"Please install a newer version of comctl32.dll\n"
+msgid "Please install a newer version of comctl32.dll\n"
 "(at least version 4.70 is required but you have %d.%02d)\n"
 "or this program won't operate correctly."
-msgstr ""
-"Lütfen daha yeni bir comctl32.dll sürümü yükleyin\n"
+msgstr "Lütfen daha yeni bir comctl32.dll sürümü yükleyin\n"
 "(en az 4.70 sürümü kullanılabilir, %d.%02d sürümü yüklü)\n"
 "yoksa bu program düzgün şekilde çalışamaz."
 
@@ -6002,7 +5928,7 @@ msgid "Printing Error"
 msgstr "Yazdırma Hatası"
 
 #: ../src/common/prntbase.cpp:565
-#, fuzzy, c-format
+#, c-format
 msgid "Printing page %d"
 msgstr "Yazdırılan sayfa %d..."
 
@@ -6027,10 +5953,8 @@ msgstr "Çıktı"
 
 #: ../src/common/debugrpt.cpp:565
 #, c-format
-msgid ""
-"Processing debug report has failed, leaving the files in \"%s\" directory."
-msgstr ""
-"Hata ayıklama raporu oluşturulamadı, dosyalar \"%s\" klasöründe bırakıldı."
+msgid "Processing debug report has failed, leaving the files in \"%s\" directory."
+msgstr "Hata ayıklama raporu oluşturulamadı, dosyalar \"%s\" klasöründe bırakıldı."
 
 #: ../src/osx/carbon/dataview.cpp:2470
 msgid "Progress renderer cannot render value type; value type: "
@@ -6124,12 +6048,10 @@ msgstr "'%s' kayıt anahtarı bulunamadığından yeniden adlandırılamıyor."
 
 #: ../src/msw/registry.cpp:719
 #, c-format
-msgid ""
-"Registry key '%s' is needed for normal system operation,\n"
+msgid "Registry key '%s' is needed for normal system operation,\n"
 "deleting it will leave your system in unusable state:\n"
 "operation aborted."
-msgstr ""
-"'%s' kayıt anahtarı normal sistem işlemleri için gerekiyor,\n"
+msgstr "'%s' kayıt anahtarı normal sistem işlemleri için gerekiyor,\n"
 "silinmesi sistemi kararsız bir hale getirir:\n"
 "işlem iptal edildi."
 
@@ -6325,9 +6247,7 @@ msgid "Search"
 msgstr "Arayın"
 
 #: ../src/html/helpwnd.cpp:537
-msgid ""
-"Search contents of help book(s) for all occurrences of the text you typed "
-"above"
+msgid "Search contents of help book(s) for all occurrences of the text you typed above"
 msgstr "Yukarıya yazılan metin yardım kitapları içinde her türlü aranır"
 
 #: ../src/generic/fdrepdlg.cpp:160
@@ -6358,9 +6278,7 @@ msgstr "'%s' dosyasında arama hatası"
 #: ../src/common/ffile.cpp:228
 #, c-format
 msgid "Seek error on file '%s' (large files not supported by stdio)"
-msgstr ""
-"'%s' dosyasında arama hatası (büyük dosyalar 'stdio' tarafından "
-"desteklenmiyor)"
+msgstr "'%s' dosyasında arama hatası (büyük dosyalar 'stdio' tarafından desteklenmiyor)"
 
 #. TRANSLATORS: Name of keyboard key
 #: ../src/common/accelcmn.cpp:74
@@ -6432,8 +6350,7 @@ msgstr "'SetProperty' işlevi geçerli bir yerleştirici olmaksızın çağrıld
 
 #: ../src/common/filename.cpp:2599
 msgid "Setting directory access times is not supported under this OS version"
-msgstr ""
-"Klasör erişim zamanları ayarı bu işletim sistemi sürümünde desteklenmiyor"
+msgstr "Klasör erişim zamanları ayarı bu işletim sistemi sürümünde desteklenmiyor"
 
 #: ../src/generic/prntdlgg.cpp:188
 msgid "Setup..."
@@ -6448,12 +6365,10 @@ msgid "Sh&adow spread:"
 msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:180
-#, fuzzy
 msgid "Shadow"
 msgstr "DüğmeGölgesi"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:259
-#, fuzzy
 msgid "Shadow c&olour:"
 msgstr "Renk seçin"
 
@@ -6871,12 +6786,10 @@ msgstr "Karakter kodu."
 
 #: ../src/common/fontmap.cpp:203
 #, c-format
-msgid ""
-"The charset '%s' is unknown. You may select\n"
+msgid "The charset '%s' is unknown. You may select\n"
 "another charset to replace it with or choose\n"
 "[Cancel] if it cannot be replaced"
-msgstr ""
-"'%s' karakter kümesi bilinmiyor. Yerine\n"
+msgstr "'%s' karakter kümesi bilinmiyor. Yerine\n"
 "başka bir tane seçebilir ya da \n"
 "seçemiyorsanız [İptal] düğmesine tıklayabilirsiniz"
 
@@ -6892,32 +6805,23 @@ msgstr "Sonraki paragraf için varsayılan stil."
 
 #: ../src/generic/dirdlgg.cpp:231
 #, c-format
-msgid ""
-"The directory '%s' does not exist\n"
+msgid "The directory '%s' does not exist\n"
 "Create it now?"
-msgstr ""
-"'%s' klasörü bulunamadı\n"
+msgstr "'%s' klasörü bulunamadı\n"
 "Şimdi oluşturulsun mu?"
 
 #: ../src/html/htmprint.cpp:271
 #, c-format
-msgid ""
-"The document \"%s\" doesn't fit on the page horizontally and will be "
-"truncated if printed.\n"
-"\n"
+msgid "The document \"%s\" doesn't fit on the page horizontally and will be truncated if printed.\n\n"
 "Would you like to proceed with printing it nevertheless?"
-msgstr ""
-"\"%s\" belgesi sayfaya yatay olarak sığmıyor ve yazdırılırsa budanacak.\n"
-"\n"
+msgstr "\"%s\" belgesi sayfaya yatay olarak sığmıyor ve yazdırılırsa budanacak.\n\n"
 "Buna rağmen yazdırmak istiyor musunuz?"
 
 #: ../src/common/docview.cpp:1205
 #, c-format
-msgid ""
-"The file '%s' doesn't exist and couldn't be opened.\n"
+msgid "The file '%s' doesn't exist and couldn't be opened.\n"
 "It has been removed from the most recently used files list."
-msgstr ""
-"'%s' dosyası yok ve açılamadı.\n"
+msgstr "'%s' dosyası yok ve açılamadı.\n"
 "Son kullanılan dosyalar listesinden kaldırıldı."
 
 #: ../src/richtext/richtextindentspage.cpp:208
@@ -6973,7 +6877,6 @@ msgstr "'%s' dosyasının biçimi belirlenemedi."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:220
 #: ../src/richtext/richtextbackgroundpage.cpp:222
-#, fuzzy
 msgid "The horizontal offset."
 msgstr "&Yatay Döşeyin"
 
@@ -7053,10 +6956,11 @@ msgid "The outline level."
 msgstr "Taslak düzeyi."
 
 #: ../src/common/log.cpp:281
-#, fuzzy, c-format
+#, c-format
 msgid "The previous message repeated %u time."
 msgid_plural "The previous message repeated %u times."
 msgstr[0] "Önceki ileti %lu kez yinelendi."
+msgstr[1] ""
 
 #: ../src/common/log.cpp:274
 msgid "The previous message repeated once."
@@ -7068,13 +6972,9 @@ msgid "The range to show."
 msgstr "Görüntülenecek aralık."
 
 #: ../src/generic/dbgrptg.cpp:322
-msgid ""
-"The report contains the files listed below. If any of these files contain "
-"private information,\n"
+msgid "The report contains the files listed below. If any of these files contain private information,\n"
 "please uncheck them and they will be removed from the report.\n"
-msgstr ""
-"Bu rapor aşağıdaki dosyaları içermektedir. Eğer bu dosyalarda özel "
-"bilgileriniz varsa,\n"
+msgstr "Bu rapor aşağıdaki dosyaları içermektedir. Eğer bu dosyalarda özel bilgileriniz varsa,\n"
 "rapordan çıkarmak istediğiniz dosyaların işaretini kaldırın.\n"
 
 #: ../src/common/cmdline.cpp:1254
@@ -7113,7 +7013,6 @@ msgstr ""
 
 #: ../src/richtext/richtextbackgroundpage.cpp:267
 #: ../src/richtext/richtextbackgroundpage.cpp:269
-#, fuzzy
 msgid "The shadow colour."
 msgstr "Yazı tipi rengi."
 
@@ -7201,16 +7100,11 @@ msgstr "Köşe yarıçapı değeri."
 
 #: ../src/msw/dialup.cpp:443
 #, c-format
-msgid ""
-"The version of remote access service (RAS) installed on this machine is too "
-"old, please upgrade (the following required function is missing: %s)."
-msgstr ""
-"Bu bilgisayarda kurulu uzak erişim hizmetinin (RAS) sürümü çok eski, lütfen "
-"yükseltin (gereken şu işlev eksik: %s)."
+msgid "The version of remote access service (RAS) installed on this machine is too old, please upgrade (the following required function is missing: %s)."
+msgstr "Bu bilgisayarda kurulu uzak erişim hizmetinin (RAS) sürümü çok eski, lütfen yükseltin (gereken şu işlev eksik: %s)."
 
 #: ../src/richtext/richtextbackgroundpage.cpp:243
 #: ../src/richtext/richtextbackgroundpage.cpp:245
-#, fuzzy
 msgid "The vertical offset."
 msgstr "Dikey hizalama kullanılsın."
 
@@ -7219,16 +7113,11 @@ msgid "There is no column or renderer for the specified column index."
 msgstr "Belirtilen sütun dizin için sütun ya da görüntüleyici bulunamadı."
 
 #: ../src/html/htmprint.cpp:740 ../src/richtext/richtextprint.cpp:619
-msgid ""
-"There was a problem during page setup: you may need to set a default printer."
-msgstr ""
-"Sayfa ayarlanırken bir hata oluştu: varsayılan bir yazıcı belirlemeniz "
-"gerekebilir."
+msgid "There was a problem during page setup: you may need to set a default printer."
+msgstr "Sayfa ayarlanırken bir hata oluştu: varsayılan bir yazıcı belirlemeniz gerekebilir."
 
 #: ../src/html/htmprint.cpp:255
-msgid ""
-"This document doesn't fit on the page horizontally and will be truncated "
-"when it is printed."
+msgid "This document doesn't fit on the page horizontally and will be truncated when it is printed."
 msgstr "Bu belge sayfaya yatay olarak sığmıyor ve yazdırılırsa budanacak."
 
 #: ../src/common/image.cpp:2720
@@ -7241,36 +7130,23 @@ msgid "This platform does not support background transparency."
 msgstr "Bu platformda artalan saydamlığı desteklenmiyor."
 
 #: ../src/gtk/window.cpp:4568
-msgid ""
-"This program was compiled with a too old version of GTK+, please rebuild "
-"with GTK+ 2.12 or newer."
-msgstr ""
-"Bu program çok eski bir GTK+ sürümüyle derlenmiş. Lütfen GTK+ 2.12 ya da "
-"üzeri bir sürümle yeniden derleyin."
+msgid "This program was compiled with a too old version of GTK+, please rebuild with GTK+ 2.12 or newer."
+msgstr "Bu program çok eski bir GTK+ sürümüyle derlenmiş. Lütfen GTK+ 2.12 ya da üzeri bir sürümle yeniden derleyin."
 
 #: ../src/msw/datecontrols.cpp:59
-msgid ""
-"This system doesn't support date controls, please upgrade your version of "
-"comctl32.dll"
-msgstr ""
-"Bu sistem tarih ögelerini desteklemiyor, lütfen comctl32.dll sürümünü "
-"yükseltin"
+msgid "This system doesn't support date controls, please upgrade your version of comctl32.dll"
+msgstr "Bu sistem tarih ögelerini desteklemiyor, lütfen comctl32.dll sürümünü yükseltin"
 
 #: ../src/msw/thread.cpp:1251
-msgid ""
-"Thread module initialization failed: cannot store value in thread local "
-"storage"
+msgid "Thread module initialization failed: cannot store value in thread local storage"
 msgstr "İş parçacığı modülü başlatılamadı: yerel depoya değer koyulamıyor"
 
 #: ../src/unix/threadpsx.cpp:1794
 msgid "Thread module initialization failed: failed to create thread key"
-msgstr ""
-"İş parçacığı modülü başlatılamadı: iş parçacığı anahtarı oluşturulamadı"
+msgstr "İş parçacığı modülü başlatılamadı: iş parçacığı anahtarı oluşturulamadı"
 
 #: ../src/msw/thread.cpp:1239
-msgid ""
-"Thread module initialization failed: impossible to allocate index in thread "
-"local storage"
+msgid "Thread module initialization failed: impossible to allocate index in thread local storage"
 msgstr "İş parçacığı modülü başlatılamadı: yerel depoda dizin oluşturulamıyor"
 
 #: ../src/unix/threadpsx.cpp:1043
@@ -7348,8 +7224,7 @@ msgstr "Doğru"
 #: ../src/common/fs_mem.cpp:227
 #, c-format
 msgid "Trying to remove file '%s' from memory VFS, but it is not loaded!"
-msgstr ""
-"'%s' dosyası yüklü olmadığı halde VFS belleğinden silinmeye çalışılıyor!"
+msgstr "'%s' dosyası yüklü olmadığı halde VFS belleğinden silinmeye çalışılıyor!"
 
 #: ../src/common/fmapbase.cpp:156
 msgid "Turkish (ISO-8859-9)"
@@ -7381,12 +7256,8 @@ msgstr "Tip enum - long çevrimini desteklemelidir"
 
 #: ../src/propgrid/propgridiface.cpp:391
 #, c-format
-msgid ""
-"Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT "
-"\"%s\"."
-msgstr ""
-"\"%s\" tip işlemi yapılamadı: Etiketlenen özellik \"%s\" \"%s\" tipinde, \"%s"
-"\" tipinde DEĞİL."
+msgid "Type operation \"%s\" failed: Property labeled \"%s\" is of type \"%s\", NOT \"%s\"."
+msgstr "\"%s\" tip işlemi yapılamadı: Etiketlenen özellik \"%s\" \"%s\" tipinde, \"%s\" tipinde DEĞİL."
 
 #: ../src/common/paper.cpp:134
 msgid "US Std Fanfold, 14 7/8 x 11 in"
@@ -7731,7 +7602,6 @@ msgstr "Üst konumun birimleri."
 #: ../src/richtext/richtextbackgroundpage.cpp:296
 #: ../src/richtext/richtextbackgroundpage.cpp:321
 #: ../src/richtext/richtextbackgroundpage.cpp:323
-#, fuzzy
 msgid "Units for this value."
 msgstr "Sol kenar boşluğunun birimleri."
 
@@ -7985,7 +7855,6 @@ msgid "WindowText"
 msgstr "PencereMetni"
 
 #: ../src/msw/utils.cpp:1233
-#, fuzzy
 msgid "Windows 10"
 msgstr "Windows 8.1"
 
@@ -8085,7 +7954,6 @@ msgid "Windows NT %lu.%lu"
 msgstr "Windows NT %lu.%lu"
 
 #: ../src/msw/utils.cpp:1232
-#, fuzzy
 msgid "Windows Server 10"
 msgstr "Windows Server 2003"
 
@@ -8216,8 +8084,7 @@ msgstr "Bu bölüme yeni bir klasör ekleyemezsiniz."
 
 #: ../src/propgrid/propgrid.cpp:3295
 msgid "You have entered invalid value. Press ESC to cancel editing."
-msgstr ""
-"Geçersiz bir değer yazdınız, düzenlemeyi iptal etmek için ESC tuşuna basın."
+msgstr "Geçersiz bir değer yazdınız, düzenlemeyi iptal etmek için ESC tuşuna basın."
 
 #: ../src/common/stockitem.cpp:209
 msgid "Zoom &In"
@@ -8248,13 +8115,10 @@ msgid "a DDEML application has created a prolonged race condition."
 msgstr "bir DDEML uygulaması uzun koşu durumu oluşturdu."
 
 #: ../src/msw/dde.cpp:1132
-msgid ""
-"a DDEML function was called without first calling the DdeInitialize "
-"function,\n"
+msgid "a DDEML function was called without first calling the DdeInitialize function,\n"
 "or an invalid instance identifier\n"
 "was passed to a DDEML function."
-msgstr ""
-"DDEML işlevi önceden DdeInitialize işlevi çağrılmadan çağrıldı,\n"
+msgstr "DDEML işlevi önceden DdeInitialize işlevi çağrılmadan çağrıldı,\n"
 "ya da DDEML işlevine geçersiz bir \n"
 "örnek tanımlayıcısı gönderildi."
 
@@ -8291,12 +8155,10 @@ msgid "a request to end an advise transaction has timed out."
 msgstr "danışma hareketi bitirme isteği zaman aşımına uğradı."
 
 #: ../src/msw/dde.cpp:1165
-msgid ""
-"a server-side transaction was attempted on a conversation\n"
+msgid "a server-side transaction was attempted on a conversation\n"
 "that was terminated by the client, or the server\n"
 "terminated before completing a transaction."
-msgstr ""
-"istemci tarafından sonlandırılmış bir görüşme üstünde\n"
+msgstr "istemci tarafından sonlandırılmış bir görüşme üstünde\n"
 "sunucu tarafında bir hareket denendi, ya da sunucu\n"
 "hareket tamamlanmadan sonlandırıldı."
 
@@ -8309,13 +8171,11 @@ msgid "alt"
 msgstr "alt"
 
 #: ../src/msw/dde.cpp:1135
-msgid ""
-"an application initialized as APPCLASS_MONITOR has\n"
+msgid "an application initialized as APPCLASS_MONITOR has\n"
 "attempted to perform a DDE transaction,\n"
 "or an application initialized as APPCMD_CLIENTONLY has \n"
 "attempted to perform server transactions."
-msgstr ""
-"APPCLASS_MONITOR olarak başlatılmış bir uygulama\n"
+msgstr "APPCLASS_MONITOR olarak başlatılmış bir uygulama\n"
 "DDE hareketi gerçekleştirmeyi denedi,\n"
 "ya da APPCMD_CLIENTONLY olarak başlatılmış bir uygulama\n"
 "sunucu hareketi gerçekleştirmeyi denedi."
@@ -8329,12 +8189,10 @@ msgid "an internal error has occurred in the DDEML."
 msgstr "DDEML içsel hatası."
 
 #: ../src/msw/dde.cpp:1174
-msgid ""
-"an invalid transaction identifier was passed to a DDEML function.\n"
+msgid "an invalid transaction identifier was passed to a DDEML function.\n"
 "Once the application has returned from an XTYP_XACT_COMPLETE callback,\n"
 "the transaction identifier for that callback is no longer valid."
-msgstr ""
-"DDEML işlevine geçersiz hareket kimliği gönderilmiş.\n"
+msgstr "DDEML işlevine geçersiz hareket kimliği gönderilmiş.\n"
 "Uygulama XTYP_XACT_COMPLETE çağrısından döndüğünde\n"
 "bu çağrının hareket kimliği geçersiz olacak."
 
@@ -8400,9 +8258,7 @@ msgstr "kullanıcı yapılandırma dosyası '%s' silinemiyor"
 #: ../src/common/file.cpp:517
 #, c-format
 msgid "can't determine if the end of file is reached on descriptor %d"
-msgstr ""
-"%d tanımlayıcısı üstündeki dosyanın sonuna ulaşılıp ulaşılamadığı "
-"belirlenemiyor"
+msgstr "%d tanımlayıcısı üstündeki dosyanın sonuna ulaşılıp ulaşılamadığı belirlenemiyor"
 
 #: ../src/msdos/utilsdos.cpp:308 ../src/msdos/utilsdos.cpp:473
 #, c-format
@@ -9127,3 +8983,4 @@ msgstr "zlib hatası %d"
 #: ../src/richtext/richtextliststylepage.cpp:496
 msgid "~"
 msgstr "~"
+
